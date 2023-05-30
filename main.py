@@ -8,12 +8,12 @@ from selenium.webdriver.common.by import By
 driver = webdriver.Chrome('chromedriver.exe')
 driver.get('https://www.booking.com/searchresults.pl.html?ss=Polska&ssne=Polska&ssne_untouched=Polska&efdco=1&label=gog235jc-1DCAEoggI46AdIHlgDaLYBiAEBmAEeuAEXyAEM2AED6AEB-AECiAIBqAIDuALX8dOjBsACAdICJDg5YTRiMDRhLTE4MzItNGI5MS1hZjIwLTE0MDA3MmM3ZDI5YdgCBOACAQ&sid=35537ceeb07a63ac4659b5f44dbddc84&aid=397594&lang=pl&sb=1&src_elem=sb&src=searchresults&dest_id=170&dest_type=country&checkin=2023-07-01&checkout=2023-07-10&group_adults=2&no_rooms=2&group_children=2&age=10&age=10')
 sleep(3)
-print(driver.title)
+#print(driver.title)
 
 city_table = []
 cost_table = []
 
-for i in range(1, 11):
+for i in range(1, 5):
 
     sleep(3)
 
@@ -36,14 +36,16 @@ for i in range(1, 11):
 
 
 #print(city_table)
-print(len(city_table))
+#print(len(city_table))
 #print(cost_table)
-print(len(cost_table))
+#print(len(cost_table))
 
+city_cost = list(zip(city_table, cost_table))
 
-dictionary = {}
-dictionary = dict(map(lambda i, j: (i, j), city_table, cost_table))
+#print(str(city_cost))
+#print(len(city_cost))
 
-print(str(dictionary))
-print(len(dictionary))
+df = pd.DataFrame(city_cost, columns=['City', 'Cost'])
+print(df)
+
 sleep(180)
