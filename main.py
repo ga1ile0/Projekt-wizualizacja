@@ -52,6 +52,4 @@ print(df)
 
 df.to_csv('2plus2.csv')
 
-#print(df['Cost'])
-
 sleep(580)
