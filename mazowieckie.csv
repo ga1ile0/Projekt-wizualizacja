@@ -1,817 +1,802 @@
 ,City,Cost,Rating,Comfort
-0,"Wola, Warszawa",3994,8.6,8.8
-1,"Włochy, Warszawa",5860,8.8,9.0
-2,Łochów,7270,8.5,8.8
-3,Magdalenka,4270,8.8,8.9
-4,"Śródmieście, Warszawa",3059,8.2,8.2
-5,Nowy Dwór Mazowiecki,2380,7.9,8.2
-6,Nowy Dwór Mazowiecki,5166,8.1,9.1
-7,Ciechanów,2772,8.1,9.5
-8,Serock,11632,8.7,8.8
-9,Mińsk Mazowiecki,2653,9.3,9.5
-10,Gaj,2800,8.8,8.5
-11,Siedlce,4333,9.3,9.2
-12,Nowy Dwór Mazowiecki,6106,8.2,8.7
-13,Żyrardów,3640,8.3,8.3
-14,Mińsk Mazowiecki,3360,7.4,8.8
-15,Siedlce,2940,8.6,8.3
-16,Płońsk,3150,8.2,8.3
-17,Sierpc,2800,8.8,8.8
-18,Płońsk,3010,7.7,8.8
-19,Nowy Dwór Mazowiecki,3080,7.7,8.2
-20,Radom,2176,7.9,8.8
-21,Przasnysz,2520,8.3,9.1
-22,Warszawa,1716,8.4,8.7
-23,Cekanowo,6560,8.7,9.0
-24,"Śródmieście, Warszawa",5303,8.7,8.6
-25,Mszczonów,6290,8.1,9.2
-26,Wyszków,4620,8.7,9.2
-27,Konstancin-Jeziorna,7526,9.1,9.0
-28,Pruszków,2450,8.7,8.8
-29,Warszawa,1716,8.9,8.1
-30,Góra Kalwaria,2940,8.2,8.4
-31,Nowy Dwór Mazowiecki,3290,7.8,8.7
-32,Jachranka,9161,9.1,8.2
-33,Jadwisin,2800,9.2,8.0
-34,Mszczonów,7700,9.2,9.6
-35,Altanka,3315,8.7,8.3
-36,Mława,2240,8.0,9.5
-37,Korczew,3157,8.8,8.9
-38,Mory,5356,7.6,8.9
-39,Zielonka,4620,8.6,8.4
-40,Radom,2380,7.9,8.6
-41,Góra Kalwaria,3515,8.0,8.1
-42,"Śródmieście, Warszawa",7266,8.0,8.2
-43,Błonie,2660,8.0,9.2
-44,"Ochota, Warszawa",2618,9.5,9.5
-45,Radom,2240,8.2,8.1
-46,Brochów,3600,9.3,9.1
-47,Węgrów,3640,8.8,8.2
-48,"Śródmieście, Warszawa",7663,8.8,9.5
-49,Ostrów Mazowiecka,4480,8.7,8.5
-50,Ostrów Mazowiecka,4480,8.5,9.6
-51,Wyszków,3500,8.0,8.3
-52,Pionki,3276,7.9,9.2
-53,Ostrołęka,2100,8.7,9.4
-54,"Śródmieście, Warszawa",7266,9.2,8.3
-55,Otwock,5740,8.4,9.7
-56,"Wola, Warszawa",7812,8.9,10.0
-57,Siedlce,3290,8.6,8.7
-58,"Śródmieście, Warszawa",8328,9.3,8.0
-59,Mlądz,2145,8.4,8.1
-60,"Śródmieście, Warszawa",7663,9.4,9.6
-61,Płock,5986,8.4,9.2
-62,Klaudyn,2170,8.2,8.1
-63,Ostrołęka,2240,9.1,9.7
-64,Sobienie Szlacheckie,4671,9.3,8.0
-65,Płock,7406,8.4,9.5
-66,"Wola, Warszawa",8409,9.9,8.6
-67,Mszczonów,6370,9.7,8.0
-68,Przasnysz,2660,8.7,9.5
-69,"Żoliborz, Warszawa",6626,7.6,8.6
-70,Pomiechówek,3500,8.1,8.1
-71,Błonie,3080,8.1,8.9
-72,"Śródmieście, Warszawa",3090,9.7,9.6
-73,Płońsk,3380,9.3,10.0
-74,Ciechanów,2100,8.1,9.1
-75,Dobrzyków,1327,9.7,9.2
-76,Płońsk,3380,8.1,8.6
-77,Żyrardów,3552,9.3,8.7
-78,Nadarzyn,3640,8.5,9.1
-79,"Śródmieście, Warszawa",8767,7.7,9.2
-80,"Wola, Warszawa",3753,9.5,9.1
-81,Kozienice,4060,7.7,8.2
-82,Nur,2340,8.6,9.9
-83,Wielogóra,2380,8.0,9.1
-84,Zegrze,5066,8.8,8.5
-85,Ostrołęka,2240,9.6,8.9
-86,Iłża,2600,9.9,8.5
-87,Żyrardów,3130,9.0,8.2
-88,Siedlce,1960,9.1,9.2
-89,"Wola, Warszawa",3492,7.9,9.2
-90,Marki,3460,8.4,9.4
-91,Pruszków,3080,8.6,9.6
-92,"Ochota, Warszawa",3113,9.1,9.0
-93,Leszno,3976,9.2,8.1
-94,Płock,3920,9.1,9.0
-95,Kozienice,2100,8.4,8.1
-96,Siedlce,1953,7.1,8.9
-97,Raszyn,3360,9.6,8.8
-98,"Wola, Warszawa",4392,8.9,8.5
-99,Żyrardów,2890,8.3,8.2
-100,"Śródmieście, Warszawa",4869,9.0,8.7
-101,Siedlce,3360,8.4,8.6
-102,Lesznowola,4110,8.6,9.3
-103,Zwoleń,3430,9.3,8.4
-104,Mlądz,2145,9.2,8.5
-105,Przasnysz,4221,7.2,8.7
-106,Maków Mazowiecki,2520,9.4,8.5
-107,Józefów,2534,9.4,8.7
-108,Goławin,4200,8.9,9.2
-109,"Wola, Warszawa",1562,8.1,9.0
-110,Klaudyn,2170,8.7,9.6
-111,Pułtusk,1751,8.1,8.6
-112,"Włochy, Warszawa",3398,8.9,8.4
-113,"Śródmieście, Warszawa",6633,8.8,8.5
-114,Ciechanów,3290,8.5,9.6
-115,"Śródmieście, Warszawa",3471,7.8,9.4
-116,Mszczonów,4606,8.7,8.3
-117,Krzyżówka,3769,8.6,9.4
-118,Krubki,8419,9.2,8.0
-119,Radziejowice,6826,8.4,8.3
-120,Siedlce,3276,8.4,8.4
-121,Radom,1575,8.5,9.0
-122,Leszno,3500,8.4,9.3
-123,Blizne Łaszczyńskiego,2900,8.5,8.6
-124,Raszyn,3374,8.9,9.0
-125,Blizne Łaszczyńskiego,2900,8.8,9.2
-126,Raszyn,3374,9.4,9.5
-127,"Śródmieście, Warszawa",12716,7.0,9.4
-128,Radom,5512,8.5,8.1
-129,Klaudyn,2170,8.4,8.5
-130,Nagoszewo,1820,8.0,9.6
-131,Kozerki,5110,8.3,9.1
-132,Rozalin,2520,9.6,10.0
-133,Mława,4200,9.5,8.9
-134,"Śródmieście, Warszawa",7773,8.3,9.0
-135,Legionowo,2709,7.9,9.4
-136,Żyrardów,2753,9.1,8.6
-137,Konstancin-Jeziorna,5180,8.0,8.1
-138,Pułtusk,2100,8.4,8.9
-139,"Śródmieście, Warszawa",7020,8.3,8.4
-140,"Włochy, Warszawa",2100,8.9,8.4
-141,Solec,3486,7.1,9.0
-142,Ciechanów,2800,9.4,9.4
-143,"Wola, Warszawa",5693,8.5,8.2
-144,Ostrów Mazowiecka,3290,9.2,8.9
-145,Żyrardów,2275,9.2,8.5
-146,Ołtarzew,4886,9.3,9.5
-147,Mińsk Mazowiecki,3358,9.1,8.0
-148,Przesmyki,2800,8.1,8.7
-149,Płock,3686,8.5,9.3
-150,"Wola, Warszawa",6666,9.6,8.3
-151,"Śródmieście, Warszawa",9288,9.0,9.7
-152,Żabia Wola,3220,9.9,8.4
-153,"Wola, Warszawa",3157,7.5,9.3
-154,Legionowo,2709,8.9,9.3
-155,"Śródmieście, Warszawa",4380,8.6,9.6
-156,Warka,2335,9.3,8.9
-157,"Praga Północ, Warszawa",3551,8.6,9.2
-158,Piaseczno,3160,7.9,8.8
-159,"Włochy, Warszawa",6358,8.7,8.3
-160,"Wola, Warszawa",8409,8.5,8.1
-161,Klembów Kościelny,3430,8.5,8.6
-162,"Wola, Warszawa",5526,8.6,8.0
-163,Wiązowna,4886,9.6,8.8
-164,Teresin,5320,8.2,8.8
-165,Mława,3080,7.3,8.2
-166,Józefów,6732,8.5,9.4
-167,Grodzisk Mazowiecki,1780,8.3,8.3
-168,Legionowo,3220,9.2,9.1
-169,Mława,3850,8.0,9.1
-170,Nowy Dwór Mazowiecki,5936,7.7,9.6
-171,Radom,4200,8.5,8.7
-172,"Śródmieście, Warszawa",7876,9.0,8.5
-173,Żyrardów,3760,7.2,9.2
-174,Czosnów,3080,8.3,9.3
-175,"Śródmieście, Warszawa",5340,9.7,9.2
-176,Sochocin,12880,7.8,9.7
-177,"Wawer, Warszawa",2540,8.1,9.2
-178,Radom,3220,9.2,8.6
-179,Żyrardów,3552,9.1,9.3
-180,Pułtusk,2800,7.1,9.2
-181,Ostrołęka,4186,9.6,9.5
-182,Łomianki,3003,8.6,9.4
-183,"Wola, Warszawa",4943,9.7,8.4
-184,Iganie,1820,8.2,9.6
-185,Żyrardów,3130,8.5,8.7
-186,Radom,3906,8.3,9.3
-187,Witaszyn,4193,8.4,8.9
-188,Legarda,1526,7.8,9.0
-189,"Ochota, Warszawa",6920,8.4,8.7
-190,"Ochota, Warszawa",2800,7.9,8.2
-191,Otwock,2954,8.6,9.3
-192,Marki,5460,8.6,10.0
-193,"Włochy, Warszawa",5190,8.2,9.1
-194,Legionowo,2106,9.4,8.8
-195,Zegrze,7980,7.9,8.3
-196,Sochaczew,6692,7.7,9.3
-197,"Śródmieście, Warszawa",4210,8.5,9.7
-198,Żyrardów,2380,9.0,9.9
-199,"Praga Południe, Warszawa",2843,8.7,9.2
-200,"Wola, Warszawa",4366,9.7,8.6
-201,Gostynin,1466,8.5,9.6
-202,"Śródmieście, Warszawa",4889,8.4,8.9
-203,Słubice,7847,9.3,9.6
-204,Ciechanów,2100,9.1,9.0
-205,Ożarów Mazowiecki,6488,9.4,9.1
-206,Raszyn,3220,9.7,8.8
-207,Wilga,3179,10.0,9.8
-208,"Śródmieście, Warszawa",6720,8.5,8.8
-209,Płońsk,3010,9.1,8.4
-210,Żyrardów,3552,7.9,8.1
-211,Mława,2156,9.3,9.5
-212,"Wola, Warszawa",4793,9.6,8.8
-213,"Włochy, Warszawa",5886,9.2,8.4
-214,Radom,3080,8.3,9.0
-215,Radom,1684,9.3,9.2
-216,Gostynin,2300,8.6,9.3
-217,Radom,1575,9.1,9.4
-218,"Wilanów, Warszawa",3273,8.6,8.4
-219,"Mokotów, Warszawa",5666,9.0,9.2
-220,Radom,2410,8.7,9.1
-221,"Wola, Warszawa",3593,8.4,9.3
-222,"Wola, Warszawa",6130,8.9,8.3
-223,"Śródmieście, Warszawa",7698,10.0,9.2
-224,"Wola, Warszawa",3019,9.1,9.4
-225,Wólka Kosowska,4060,8.5,10.0
-226,Lipsko,2400,8.6,9.4
-227,"Wawer, Warszawa",6580,9.6,8.5
-228,Mińsk Mazowiecki,2862,8.1,9.2
-229,Siedlce,1953,9.8,8.8
-230,Gostynin,2429,9.6,8.9
-231,Jedlnia-Letnisko,2870,8.9,8.8
-232,"Śródmieście, Warszawa",2822,8.5,9.3
-233,"Praga Północ, Warszawa",2044,9.7,9.7
-234,Radom,1659,9.2,9.2
-235,Żyrardów,2890,9.6,8.8
-236,"Śródmieście, Warszawa",6970,6.7,9.8
-237,Baniocha,2786,7.1,8.9
-238,Winnica,2083,9.4,9.1
-239,Skrzeszew,5677,9.1,8.8
-240,Radom,2056,8.8,9.3
-241,Warka,2614,9.4,9.7
-242,Grodzisk Mazowiecki,3766,8.5,9.2
-243,Łąck,3915,8.4,8.5
-244,"Ursus, Warszawa",5292,7.7,8.8
-245,"Praga Północ, Warszawa",2743,9.6,9.3
-246,Siedlce,1513,8.7,9.2
-247,"Śródmieście, Warszawa",7466,8.5,8.3
-248,"Mokotów, Warszawa",2850,8.8,9.7
-249,"Włochy, Warszawa",2192,9.2,9.6
-250,Żyrardów,4900,9.0,9.2
-251,"Włochy, Warszawa",5431,7.3,8.4
-252,"Śródmieście, Warszawa",3115,8.8,9.5
-253,Babice Nowe,5130,8.3,9.8
-254,Kozienice,2100,8.8,9.4
-255,"Mokotów, Warszawa",5634,9.1,9.9
-256,Wyszków,4620,9.0,10.0
-257,Łąck,2800,8.5,8.3
-258,"Włochy, Warszawa",3706,9.3,9.6
-259,"Wawer, Warszawa",4839,7.7,9.3
-260,Siedlce,1953,9.2,9.2
-261,"Mokotów, Warszawa",5570,9.0,8.1
-262,Gorzewo,3283,9.3,9.0
-263,"Białołęka, Warszawa",2051,8.4,9.8
-264,"Mokotów, Warszawa",3277,9.2,9.0
-265,Łomianki Dolne,2830,8.8,8.4
-266,Piastów,1636,9.2,9.7
-267,Mrozy,2590,8.6,8.8
-268,"Śródmieście, Warszawa",4340,8.9,9.3
-269,"Włochy, Warszawa",5152,9.8,8.0
-270,"Śródmieście, Warszawa",3740,9.2,9.7
-271,Borzychy,2600,8.8,10.0
-272,"Włochy, Warszawa",4155,9.4,9.3
-273,"Wola, Warszawa",5680,9.2,9.9
-274,Siedlce,1610,8.7,9.4
-275,"Włochy, Warszawa",5222,8.6,8.7
-276,"Śródmieście, Warszawa",3910,8.9,9.7
-277,Pruszków,2310,9.8,9.2
-278,Borzychy,2600,8.7,8.9
-279,Grójec,2380,8.5,9.0
-280,"Włochy, Warszawa",4050,8.7,9.8
-281,"Wola, Warszawa",5680,9.3,9.4
-282,Siedlce,1610,9.3,8.5
-283,Otwock,7200,8.3,8.9
-284,"Wola, Warszawa",5093,9.7,8.2
-285,"Mokotów, Warszawa",3151,9.3,9.5
-286,Nowy Dwór Mazowiecki,2926,8.4,9.1
-287,Radom,2200,8.9,8.5
-288,Radziejowice,3780,8.0,8.9
-289,Nieporęt,3080,7.4,9.0
-290,"Śródmieście, Warszawa",9046,9.7,8.4
-291,Aleksandrów,2568,7.5,8.5
-292,"Wola, Warszawa",6734,9.7,9.0
-293,"Praga Południe, Warszawa",3493,6.0,8.4
-294,"Praga Południe, Warszawa",2870,9.2,8.5
-295,Pomiechówek,5053,9.8,9.0
-296,Wołomin,3570,10.0,9.2
-297,Radom,2580,7.2,8.2
-298,Żyrardów,1629,8.1,8.6
-299,"Śródmieście, Warszawa",4401,9.5,9.3
-300,Lucień,3488,9.2,8.1
-301,Radom,3000,8.9,8.3
-302,Ożarów Mazowiecki,2800,8.3,9.4
-303,"Włochy, Warszawa",2660,8.2,9.6
-304,"Wola, Warszawa",1562,8.9,10.0
-305,"Wola, Warszawa",5834,7.1,9.5
-306,Raszyn,5635,9.7,8.0
-307,"Ochota, Warszawa",5127,8.9,8.6
-308,"Wola, Warszawa",1715,8.6,8.7
-309,"Żoliborz, Warszawa",2504,9.4,9.0
-310,Pułtusk,1751,8.4,8.7
-311,Wilga,6440,7.9,8.5
-312,Radom,2142,9.2,9.4
-313,"Bielany, Warszawa",3237,7.7,9.4
-314,Żyrardów,2660,8.0,9.5
-315,"Wola, Warszawa",8453,9.7,9.2
-316,"Żoliborz, Warszawa",2901,10.0,8.2
-317,Grebiszew,3500,9.1,9.1
-318,Mszczonów,6900,10.0,9.4
-319,"Wilanów, Warszawa",4690,8.9,9.4
-320,"Ochota, Warszawa",3206,8.7,9.5
-321,Siedlce,1680,6.8,8.6
-322,Tomczyn,4941,9.7,8.9
-323,"Ochota, Warszawa",2736,8.9,9.0
-324,Korytów,5086,8.3,8.7
-325,Ząbki,1840,8.8,9.0
-326,Nadarzyn,2660,7.4,9.1
-327,"Śródmieście, Warszawa",5450,8.9,8.1
-328,Czosnów,3578,9.6,8.8
-329,"Śródmieście, Warszawa",12523,9.5,9.6
-330,"Śródmieście, Warszawa",2793,6.4,9.4
-331,Żelechów,9660,8.6,8.8
-332,Raszyn,3386,8.8,8.1
-333,"Wola, Warszawa",3701,8.2,8.3
-334,Piaseczno,2797,9.5,8.4
-335,Żyrardów,2753,9.0,9.8
-336,"Śródmieście, Warszawa",9779,8.3,8.2
-337,"Wola, Warszawa",2969,7.7,9.2
-338,"Wola, Warszawa",2865,8.8,9.2
-339,Warszawa,2952,8.1,8.4
-340,"Ursynów, Warszawa",4606,8.9,9.2
-341,"Praga Południe, Warszawa",2710,8.6,8.8
-342,Serock,2076,8.2,9.2
-343,"Praga Południe, Warszawa",3186,8.9,8.2
-344,Płock,7693,8.6,8.3
-345,"Śródmieście, Warszawa",4275,8.2,8.1
-346,"Bielany, Warszawa",2800,8.9,8.4
-347,"Śródmieście, Warszawa",6049,8.9,8.6
-348,Konstancin-Jeziorna,2576,8.3,8.7
-349,"Wola, Warszawa",6230,8.6,8.5
-350,"Śródmieście, Warszawa",6911,9.0,8.3
-351,Konstancin-Jeziorna,2576,8.2,9.0
-352,"Wola, Warszawa",6230,8.2,9.3
-353,"Wola, Warszawa",5086,9.5,9.5
-354,"Śródmieście, Warszawa",12523,9.4,10.0
-355,"Wola, Warszawa",3593,9.7,8.9
-356,Trojanów,3220,9.6,9.3
-357,"Śródmieście, Warszawa",8232,7.9,8.7
-358,Żyrardów,1715,8.3,8.9
-359,"Wola, Warszawa",2978,8.8,8.2
-360,Żyrardów,2753,8.7,8.4
-361,"Bielany, Warszawa",5300,7.8,9.2
-362,Łochów,2100,8.9,9.2
-363,"Wola, Warszawa",3969,8.2,9.4
-364,Nadarzyn,3360,9.0,9.3
-365,Radom,7700,7.7,9.1
-366,Warszawa,1651,9.0,9.0
-367,"Wola, Warszawa",6223,9.6,8.6
-368,"Mokotów, Warszawa",3024,9.3,8.9
-369,Łomianki,2583,8.2,8.9
-370,Pruszków,5474,8.9,9.0
-371,"Włochy, Warszawa",5932,9.1,8.5
-372,Marki,1890,9.5,9.3
-373,"Wola, Warszawa",4076,9.1,9.7
-374,Serock,2775,8.5,8.8
-375,Sarnaki,2600,9.0,9.5
-376,"Ochota, Warszawa",2562,8.9,8.8
-377,"Mokotów, Warszawa",4125,8.5,9.0
-378,"Wola, Warszawa",5908,8.9,8.8
-379,Żyrardów,2753,8.9,8.5
-380,"Śródmieście, Warszawa",8246,8.3,8.1
-381,"Mokotów, Warszawa",3593,8.7,8.9
-382,Raszyn,3073,9.5,8.5
-383,"Wola, Warszawa",6669,9.1,8.8
-384,"Śródmieście, Warszawa",4740,7.2,9.7
-385,"Wola, Warszawa",5353,8.7,9.0
-386,"Żoliborz, Warszawa",3560,8.4,9.1
-387,Osieck,3395,7.7,8.4
-388,"Praga Południe, Warszawa",1836,8.2,8.8
-389,Nowa Wieś,1912,8.6,9.4
-390,"Praga Północ, Warszawa",4606,9.9,9.8
-391,Zielonka,2660,8.1,9.4
-392,"Śródmieście, Warszawa",9862,9.2,9.3
-393,"Śródmieście, Warszawa",3061,9.2,8.9
-394,Otwock,4200,8.4,8.3
-395,"Wola, Warszawa",6806,8.9,9.7
-396,"Śródmieście, Warszawa",2930,9.2,8.2
-397,Korczew,8719,9.2,8.9
-398,"Śródmieście, Warszawa",2980,8.2,8.9
-399,"Praga Południe, Warszawa",4375,8.3,9.3
-400,"Praga Południe, Warszawa",4375,8.0,9.9
-401,"Śródmieście, Warszawa",4956,8.3,9.9
-402,"Mokotów, Warszawa",5670,6.4,10.0
-403,Stanisławów,1560,8.6,9.7
-404,Płock,2816,8.7,10.0
-405,"Śródmieście, Warszawa",4050,8.1,9.6
-406,"Wawer, Warszawa",3640,8.5,9.3
-407,"Mokotów, Warszawa",2875,8.4,9.2
-408,Piaseczno,7000,9.0,9.4
-409,"Wola, Warszawa",2790,9.5,9.2
-410,"Wilanów, Warszawa",3027,9.7,8.8
-411,Mszczonów,2646,9.8,8.2
-412,"Wola, Warszawa",2100,7.9,8.7
-413,"Ursus, Warszawa",4620,8.9,8.2
-414,"Wola, Warszawa",3709,8.9,8.7
-415,"Praga Południe, Warszawa",2142,7.8,9.2
-416,Iły,3212,8.6,9.5
-417,Płock,2450,8.5,9.0
-418,Siedlce,1960,8.8,9.0
-419,Garwolin,3010,8.6,8.8
-420,"Śródmieście, Warszawa",3830,9.3,9.8
-421,"Wola, Warszawa",5320,9.2,8.0
-422,"Wola, Warszawa",3988,9.1,8.4
-423,"Śródmieście, Warszawa",3487,8.0,9.3
-424,"Ursynów, Warszawa",5093,9.3,9.0
-425,"Wola, Warszawa",3752,9.0,9.4
-426,"Białołęka, Warszawa",2300,9.2,9.0
-427,Sadowne,3080,8.6,8.5
-428,Warka,1428,9.1,8.0
-429,Płock,2816,7.8,10.0
-430,"Mokotów, Warszawa",5500,8.5,8.3
-431,"Śródmieście, Warszawa",4025,9.0,8.9
-432,"Włochy, Warszawa",6642,8.2,8.9
-433,Radom,1428,9.2,9.5
-434,"Śródmieście, Warszawa",2485,9.5,9.3
-435,"Wilanów, Warszawa",3027,7.8,8.7
-436,Ludwinów,5518,9.0,9.4
-437,"Bielany, Warszawa",1868,9.3,9.6
-438,"Wola, Warszawa",3606,8.8,9.1
-439,Warka,2338,9.5,8.7
-440,"Śródmieście, Warszawa",3438,9.1,8.7
-441,"Bielany, Warszawa",3800,8.5,9.3
-442,"Śródmieście, Warszawa",6260,7.6,9.6
-443,Piaseczno,2592,9.1,8.5
-444,Sienno,2335,9.2,9.0
-445,Antonie,2340,8.8,9.7
-446,"Bielany, Warszawa",3080,9.8,8.0
-447,"Praga Północ, Warszawa",4590,9.1,9.0
-448,"Wola, Warszawa",2397,7.1,8.8
-449,"Śródmieście, Warszawa",3799,9.1,8.8
-450,Sierpc,2975,8.0,8.3
-451,Różan,2673,8.3,9.2
-452,Rzewnie,2464,9.4,8.8
-453,"Wola, Warszawa",3354,9.8,9.3
-454,Radom,2410,9.3,10.0
-455,"Wola, Warszawa",3315,7.6,9.4
-456,"Targówek, Warszawa",4320,9.5,9.4
-457,Wyszel,2660,7.2,8.5
-458,"Wola, Warszawa",6965,8.0,9.4
-459,"Śródmieście, Warszawa",6631,9.1,8.5
-460,Żyrardów,2380,8.3,8.3
-461,Płock,3600,9.7,9.5
-462,"Włochy, Warszawa",2660,8.7,9.4
-463,"Praga Północ, Warszawa",6343,8.8,8.9
-464,"Śródmieście, Warszawa",3565,8.4,8.7
-465,"Praga Południe, Warszawa",2975,7.1,9.4
-466,"Bielany, Warszawa",3176,9.3,9.4
-467,Radom,2178,9.8,8.6
-468,"Śródmieście, Warszawa",3341,9.9,8.0
-469,Siedlce,2200,7.1,9.9
-470,"Praga Północ, Warszawa",2881,9.2,9.3
-471,"Wola, Warszawa",7007,9.8,9.2
-472,"Wola, Warszawa",10382,9.5,9.6
-473,"Wola, Warszawa",1915,9.7,10.0
-474,Warka,1680,8.7,8.6
-475,Żyrardów,2660,9.0,9.2
-476,Pułtusk,3465,8.4,8.0
-477,Żyrardów,2167,9.4,9.1
-478,"Śródmieście, Warszawa",5681,7.5,8.3
-479,Radom,2410,9.1,9.6
-480,Garbatka-Letnisko,5222,8.3,9.9
-481,Gaśno,5462,8.1,9.3
-482,"Praga Północ, Warszawa",3615,8.5,9.2
-483,"Włochy, Warszawa",3196,6.3,9.2
-484,"Wola, Warszawa",3513,8.1,10.0
-485,Żyrardów,2380,8.0,8.6
-486,"Ursynów, Warszawa",2755,8.6,9.2
-487,"Białołęka, Warszawa",3593,9.7,8.0
-488,Radom,2083,9.4,9.1
-489,"Mokotów, Warszawa",3774,9.3,9.5
-490,Warka,5334,8.7,8.3
-491,"Targówek, Warszawa",2740,8.5,9.6
-492,"Śródmieście, Warszawa",3272,9.7,9.3
-493,"Ursynów, Warszawa",2366,8.0,9.6
-494,Radzymin,3658,7.7,8.7
-495,"Praga Północ, Warszawa",3738,9.1,9.3
-496,Mszczonów,2150,8.8,8.0
-497,"Włochy, Warszawa",2520,9.5,8.9
-498,"Praga Południe, Warszawa",3872,8.9,9.0
-499,"Wola, Warszawa",5416,8.4,10.0
-500,Górki,3518,8.1,9.6
-501,Brwinów,2800,10.0,9.7
-502,"Śródmieście, Warszawa",3036,8.5,9.0
-503,"Śródmieście, Warszawa",6350,9.3,8.9
-504,"Śródmieście, Warszawa",5567,8.7,8.6
-505,"Bielany, Warszawa",3202,9.4,8.1
-506,"Śródmieście, Warszawa",4000,6.8,8.9
-507,"Ursynów, Warszawa",2871,9.2,8.1
-508,"Włochy, Warszawa",3280,8.5,8.7
-509,"Śródmieście, Warszawa",3850,9.3,9.3
-510,Gostynin,1466,9.4,9.4
-511,Gostynin,2610,8.8,8.7
-512,"Ursynów, Warszawa",7152,7.0,8.3
-513,"Śródmieście, Warszawa",3150,9.0,9.1
-514,Wólka Kosowska,2940,8.6,9.5
-515,"Bemowo, Warszawa",2301,9.0,8.8
-516,"Śródmieście, Warszawa",2990,9.6,9.7
-517,"Śródmieście, Warszawa",4720,8.1,9.2
-518,"Wola, Warszawa",4224,9.2,9.6
-519,"Praga Południe, Warszawa",5670,9.4,9.9
-520,"Wola, Warszawa",2479,8.0,8.2
-521,Żyrardów,3185,8.8,9.1
-522,"Ursynów, Warszawa",3593,8.0,8.5
-523,"Śródmieście, Warszawa",3603,9.0,8.7
-524,"Mokotów, Warszawa",2720,8.7,8.3
-525,"Śródmieście, Warszawa",3701,7.5,9.1
-526,"Wola, Warszawa",4750,8.4,8.7
-527,"Śródmieście, Warszawa",3580,9.3,9.5
-528,"Wilanów, Warszawa",3024,9.1,8.8
-529,"Śródmieście, Warszawa",5567,9.3,9.7
-530,"Śródmieście, Warszawa",3969,7.7,9.2
-531,"Bemowo, Warszawa",2270,7.4,9.9
-532,"Praga Północ, Warszawa",4760,8.5,9.3
-533,"Ochota, Warszawa",3237,6.4,8.2
-534,"Śródmieście, Warszawa",4733,7.5,9.1
-535,Wilga,3346,10.0,10.0
-536,"Żoliborz, Warszawa",2940,9.3,9.4
-537,"Ochota, Warszawa",3138,7.2,9.4
-538,Blizne Łaszczyńskiego,1897,7.3,9.1
-539,"Śródmieście, Warszawa",2675,9.1,9.0
-540,"Wola, Warszawa",2560,8.1,8.6
-541,"Śródmieście, Warszawa",3594,8.0,9.4
-542,"Ochota, Warszawa",4780,9.1,9.6
-543,Ząbki,2646,8.1,8.4
-544,"Wola, Warszawa",4830,8.0,8.8
-545,"Wola, Warszawa",2200,7.7,9.3
-546,Chustki,2618,9.6,8.6
-547,"Śródmieście, Warszawa",10055,8.0,9.1
-548,"Mokotów, Warszawa",3276,9.7,9.0
-549,Nieporęt,2590,8.9,9.0
-550,"Śródmieście, Warszawa",10055,8.4,9.3
-551,"Mokotów, Warszawa",3276,9.5,9.3
-552,Nieporęt,2590,9.2,9.0
-553,"Targówek, Warszawa",5172,8.5,8.0
-554,Gostynin,2300,6.6,9.1
-555,"Śródmieście, Warszawa",2930,6.8,8.0
-556,Wierzbice Górne,8550,9.8,10.0
-557,"Praga Południe, Warszawa",3193,9.6,8.7
-558,"Wola, Warszawa",3104,9.2,8.2
-559,"Wola, Warszawa",3504,9.3,9.4
-560,Radom,1575,10.0,9.8
-561,"Ursynów, Warszawa",3593,8.3,8.9
-562,"Wola, Warszawa",4151,8.2,8.1
-563,"Wola, Warszawa",3085,8.0,8.5
-564,Zegrze Południowe,3564,8.8,8.4
-565,Wilga,5493,8.6,8.6
-566,Wyszogród,4130,10.0,8.6
-567,"Praga Północ, Warszawa",3080,6.8,9.1
-568,Myszyniec,2310,9.8,8.3
-569,"Wola, Warszawa",3567,9.6,8.7
-570,"Śródmieście, Warszawa",3382,9.2,9.0
-571,Rogóżnia,918,9.3,9.0
-572,"Wola, Warszawa",3764,10.0,9.3
-573,Alojzów,2600,8.3,9.0
-574,Radzymin,2660,8.2,9.3
-575,"Wola, Warszawa",3085,8.0,9.1
-576,Zegrze Południowe,3564,8.8,10.0
-577,Wilga,5493,9.6,8.7
-578,Wyszogród,4130,8.6,9.7
-579,Radom,1684,10.0,8.2
-580,Myszyniec,2310,7.3,9.4
-581,"Wola, Warszawa",3740,9.2,9.8
-582,"Śródmieście, Warszawa",3595,7.6,8.9
-583,Rogóżnia,1836,9.3,8.1
-584,"Wola, Warszawa",3764,7.5,8.5
-585,Gostynin,2300,8.5,8.4
-586,Alojzów,2600,9.3,9.3
-587,Radzymin,2660,8.3,9.8
-588,"Praga Północ, Warszawa",1869,8.0,8.1
-589,"Bielany, Warszawa",4900,5.5,9.3
-590,"Śródmieście, Warszawa",2410,8.7,9.2
-591,"Włochy, Warszawa",5408,7.0,9.6
-592,Janki,3080,8.8,8.8
-593,Legionowo,2730,9.7,9.5
-594,"Wola, Warszawa",3087,9.3,9.8
-595,"Wola, Warszawa",3674,9.7,8.9
-596,"Wola, Warszawa",3950,9.0,8.4
-597,Radzymin,2100,9.2,9.0
-598,"Śródmieście, Warszawa",3290,8.5,8.9
-599,"Wola, Warszawa",3110,8.1,8.8
-600,"Wola, Warszawa",5393,8.6,8.4
-601,Siedlce,1543,8.1,9.9
-602,"Śródmieście, Warszawa",2844,8.7,8.4
-603,"Praga Południe, Warszawa",2490,8.9,8.8
-604,"Wola, Warszawa",3019,9.4,9.3
-605,"Śródmieście, Warszawa",3892,8.7,8.1
-606,"Śródmieście, Warszawa",3867,7.7,8.3
-607,"Ochota, Warszawa",1810,8.2,8.3
-608,"Włochy, Warszawa",3529,9.0,10.0
-609,"Wola, Warszawa",2213,8.7,9.4
-610,Wólka Kosowska,4060,9.6,9.8
-611,"Włochy, Warszawa",3840,9.2,8.1
-612,"Mokotów, Warszawa",5257,9.5,9.0
-613,Warszawa,3300,9.5,8.8
-614,"Praga Północ, Warszawa",1910,7.9,8.1
-615,"Praga Południe, Warszawa",3794,9.0,8.9
-616,"Wola, Warszawa",5435,9.2,8.5
-617,"Wola, Warszawa",3457,8.7,9.1
-618,"Praga Południe, Warszawa",3593,7.7,8.4
-619,Sobienie Jeziory,2085,8.2,8.2
-620,Żyrardów,3255,8.6,8.6
-621,"Śródmieście, Warszawa",7437,9.0,9.8
-622,"Wola, Warszawa",2261,8.7,9.8
-623,Ostrołęka,2100,9.6,9.2
-624,"Praga Północ, Warszawa",3250,9.2,8.8
-625,"Śródmieście, Warszawa",2569,9.5,9.8
-626,"Praga Północ, Warszawa",1910,9.1,8.6
-627,"Praga Południe, Warszawa",3439,7.9,8.5
-628,"Wola, Warszawa",5435,9.0,9.4
-629,"Wola, Warszawa",3593,9.9,8.4
-630,"Wola, Warszawa",3457,8.1,10.0
-631,"Praga Południe, Warszawa",3593,9.4,9.5
-632,Sobienie Jeziory,2203,9.4,9.4
-633,Żyrardów,3255,9.2,8.9
-634,"Wola, Warszawa",2261,8.4,8.2
-635,"Wola, Warszawa",6130,9.2,8.5
-636,Ostrołęka,2100,9.2,10.0
-637,"Praga Północ, Warszawa",2660,9.4,8.5
-638,"Śródmieście, Warszawa",3329,8.5,10.0
-639,Nadarzyn,3232,9.2,8.3
-640,"Wola, Warszawa",3354,9.1,8.1
-641,"Żoliborz, Warszawa",2911,8.2,8.9
-642,Piaseczno,3500,8.9,10.0
-643,"Praga Południe, Warszawa",3048,8.9,8.9
-644,Brudnów,2800,9.0,8.4
-645,Brochów,3840,9.6,9.6
-646,"Mokotów, Warszawa",4280,9.2,9.8
-647,"Praga Północ, Warszawa",2640,8.6,8.3
-648,Radom,1594,7.2,9.2
-649,"Śródmieście, Warszawa",13300,8.4,8.4
-650,"Wola, Warszawa",3108,9.0,8.6
-651,"Włochy, Warszawa",4466,8.1,8.9
-652,"Śródmieście, Warszawa",8749,6.6,9.3
-653,"Bemowo, Warszawa",3244,8.4,8.9
-654,"Śródmieście, Warszawa",2822,9.0,8.4
-655,"Praga Północ, Warszawa",3250,8.8,10.0
-656,"Śródmieście, Warszawa",4338,7.8,9.4
-657,"Praga Południe, Warszawa",3150,8.5,8.8
-658,"Śródmieście, Warszawa",6029,9.7,8.8
-659,"Śródmieście, Warszawa",2641,7.7,8.1
-660,"Praga Północ, Warszawa",2044,9.8,9.1
-661,Radzymin,2660,7.1,8.6
-662,Płock,1960,8.9,9.1
-663,Warka,2384,7.9,9.9
-664,"Śródmieście, Warszawa",3202,8.4,8.4
-665,Kobyłka,2156,8.4,9.1
-666,"Wola, Warszawa",3110,8.9,9.8
-667,"Praga Północ, Warszawa",3710,8.2,8.6
-668,Ożarów Mazowiecki,3319,8.9,9.6
-669,"Targówek, Warszawa",3600,8.2,9.0
-670,"Mokotów, Warszawa",3531,8.6,8.9
-671,Nowy Dwór Mazowiecki,2992,9.0,9.6
-672,"Bielany, Warszawa",5593,9.3,8.7
-673,Warszawa,5110,9.2,9.8
-674,Brwinów,1820,8.6,9.8
-675,"Mokotów, Warszawa",2811,7.2,9.3
-676,"Wola, Warszawa",3108,9.1,9.1
-677,"Włochy, Warszawa",4466,9.0,8.7
-678,"Śródmieście, Warszawa",3216,6.6,9.3
-679,"Wola, Warszawa",3593,9.0,8.6
-680,"Bemowo, Warszawa",3244,8.8,9.7
-681,"Śródmieście, Warszawa",4175,9.4,8.9
-682,"Praga Północ, Warszawa",3250,7.8,8.6
-683,"Śródmieście, Warszawa",4338,8.5,9.1
-684,"Praga Południe, Warszawa",3150,9.7,8.5
-685,"Wola, Warszawa",6130,7.7,10.0
-686,"Śródmieście, Warszawa",2641,9.8,9.1
-687,Radzymin,2660,7.1,8.8
-688,Warka,2384,8.9,8.8
-689,"Śródmieście, Warszawa",3202,7.9,9.0
-690,"Wola, Warszawa",2848,8.4,8.5
-691,Kobyłka,2156,8.4,9.1
-692,"Wola, Warszawa",3110,9.3,9.8
-693,"Praga Północ, Warszawa",3660,9.6,8.8
-694,Ożarów Mazowiecki,3319,7.9,9.1
-695,"Targówek, Warszawa",2800,9.6,9.9
-696,"Mokotów, Warszawa",3531,7.5,8.4
-697,Nowy Dwór Mazowiecki,2992,9.1,9.1
-698,"Bielany, Warszawa",5593,9.1,8.6
-699,Warszawa,5110,8.4,9.6
-700,Brwinów,1820,9.6,8.0
-701,Żyrardów,3220,8.1,9.0
-702,"Śródmieście, Warszawa",21780,7.7,9.6
-703,"Wola, Warszawa",4193,9.7,10.0
-704,"Śródmieście, Warszawa",2822,7.7,9.4
-705,"Śródmieście, Warszawa",5385,8.4,9.7
-706,Jabłonna,3349,7.2,9.0
-707,"Mokotów, Warszawa",3145,8.3,9.5
-708,"Śródmieście, Warszawa",6883,7.0,10.0
-709,"Śródmieście, Warszawa",3220,8.8,9.5
-710,"Praga Północ, Warszawa",2207,8.9,9.0
-711,"Śródmieście, Warszawa",2800,8.9,9.4
-712,Piaseczno,3640,8.3,8.1
-713,"Śródmieście, Warszawa",3125,9.9,9.4
-714,"Wola, Warszawa",3649,8.3,8.6
-715,"Praga Południe, Warszawa",2489,8.8,8.8
-716,"Ursynów, Warszawa",5093,9.0,8.6
-717,"Śródmieście, Warszawa",4533,8.1,8.4
-718,"Wawer, Warszawa",6072,8.4,9.6
-719,"Wola, Warszawa",5093,8.3,9.7
-720,Skrzeszew,2810,10.0,8.9
-721,Serock,2754,9.4,8.0
-722,"Śródmieście, Warszawa",12600,9.3,8.2
-723,"Ursynów, Warszawa",5093,8.1,8.6
-724,"Wola, Warszawa",6189,8.9,8.8
-725,"Śródmieście, Warszawa",8970,5.5,8.6
-726,"Wola, Warszawa",6636,8.5,9.4
-727,"Żoliborz, Warszawa",5082,7.8,8.6
-728,"Ochota, Warszawa",2711,8.7,9.4
-729,Mińsk Mazowiecki,2862,8.0,9.5
-730,"Mokotów, Warszawa",2883,8.7,8.3
-731,"Bielany, Warszawa",2800,9.3,9.3
-732,"Śródmieście, Warszawa",2670,8.6,9.4
-733,"Mokotów, Warszawa",2443,8.2,8.3
-734,"Włochy, Warszawa",1680,8.4,9.0
-735,Gostynin,2429,9.8,10.0
-736,"Wola, Warszawa",4616,9.6,9.4
-737,"Mokotów, Warszawa",4020,9.3,9.7
-738,"Mokotów, Warszawa",2733,8.3,9.0
-739,"Śródmieście, Warszawa",4704,9.3,10.0
-740,Mszczonów,2850,8.0,9.5
-741,"Śródmieście, Warszawa",3771,8.3,9.0
-742,"Wola, Warszawa",3631,7.8,8.1
-743,"Targówek, Warszawa",2520,9.8,9.4
-744,Nowy Dwór Mazowiecki,3500,9.0,8.6
-745,"Śródmieście, Warszawa",5474,8.6,8.6
-746,"Bemowo, Warszawa",2957,10.0,8.4
-747,Radom,2250,9.3,8.4
-748,"Wola, Warszawa",5074,6.6,9.2
-749,"Śródmieście, Warszawa",5040,9.2,8.9
-750,"Śródmieście, Warszawa",3929,9.2,9.3
-751,"Śródmieście, Warszawa",1873,7.7,9.1
-752,"Mokotów, Warszawa",2514,8.4,10.0
-753,"Praga Północ, Warszawa",2860,8.5,9.7
-754,Nowe Miasto,5639,7.5,9.5
-755,"Śródmieście, Warszawa",4200,7.8,9.6
-756,Marki,3570,9.8,9.3
-757,Wiązowna,2829,5.7,8.8
-758,"Śródmieście, Warszawa",2315,9.2,9.6
-759,"Śródmieście, Warszawa",4257,9.5,9.3
-760,Skrzeszew,5677,8.1,10.0
-761,"Mokotów, Warszawa",2380,8.0,8.8
-762,"Wola, Warszawa",3025,8.7,9.2
-763,"Praga Północ, Warszawa",5017,10.0,9.4
-764,"Ochota, Warszawa",2767,8.9,9.2
-765,Pionki,5290,8.4,9.7
-766,"Śródmieście, Warszawa",2831,9.4,8.0
-767,"Śródmieście, Warszawa",4557,6.9,8.3
-768,"Śródmieście, Warszawa",3060,9.4,9.5
-769,"Wilanów, Warszawa",4188,8.3,9.1
-770,"Wola, Warszawa",3609,6.4,9.8
-771,Pniewy,4900,8.9,8.7
-772,"Śródmieście, Warszawa",3368,8.4,9.4
-773,"Wola, Warszawa",2800,8.4,9.8
-774,"Praga Północ, Warszawa",2471,9.5,8.4
-775,"Praga Południe, Warszawa",2380,9.5,8.6
-776,Bronisze,5320,7.4,10.0
-777,"Włochy, Warszawa",3659,8.9,9.5
-778,"Wola, Warszawa",3220,8.7,9.4
-779,Siedlce,1513,9.9,9.0
-780,"Wola, Warszawa",5093,9.1,9.7
-781,"Śródmieście, Warszawa",2399,7.7,9.7
-782,"Wola, Warszawa",3872,7.7,9.2
-783,"Ursynów, Warszawa",2170,8.8,8.7
-784,Wołomin,2992,7.9,9.2
-785,Wola Polska,3338,8.1,8.1
-786,"Wola, Warszawa",3290,9.1,8.8
-787,"Mokotów, Warszawa",2540,8.3,9.1
-788,"Śródmieście, Warszawa",3500,7.8,8.6
-789,"Ursynów, Warszawa",2858,9.4,9.4
-790,"Żoliborz, Warszawa",5126,9.7,9.2
-791,Radom,6440,8.6,8.8
-792,Piaseczno,2380,9.0,8.4
-793,"Mokotów, Warszawa",3020,9.4,9.3
-794,"Wola, Warszawa",9660,7.1,9.4
-795,"Wola, Warszawa",8189,8.5,10.0
-796,"Mokotów, Warszawa",4600,9.7,9.2
-797,"Śródmieście, Warszawa",3559,7.3,8.2
-798,"Praga Północ, Warszawa",2641,9.1,8.8
-799,"Śródmieście, Warszawa",3720,9.5,8.9
-800,"Wola, Warszawa",5600,9.9,9.2
-801,"Wola, Warszawa",2541,8.7,8.2
-802,"Ochota, Warszawa",2178,9.9,8.6
-803,"Wola, Warszawa",4380,9.7,9.5
-804,Siedlce,1513,9.3,9.4
-805,"Śródmieście, Warszawa",3780,7.5,9.8
-806,"Wola, Warszawa",3269,9.2,9.6
-807,"Ochota, Warszawa",5130,8.7,8.8
-808,"Wola, Warszawa",2520,9.3,8.9
-809,"Praga Północ, Warszawa",3279,7.9,9.0
-810,Wola Polska,3338,9.5,9.5
-811,"Wilanów, Warszawa",4234,9.1,8.0
-812,"Śródmieście, Warszawa",2881,8.5,8.4
-813,Borucza,3874,8.9,9.0
-814,Zegrze Południowe,4514,8.5,8.9
-815,"Wola, Warszawa",3493,9.0,9.0
+0,"Śródmieście, Warszawa",2522,7.1,9.0
+1,"Śródmieście, Warszawa",4836,7.6,8.3
+2,Nowy Dwór Mazowiecki,3290,8.9,9.5
+3,Sobienie Szlacheckie,5345,8.2,8.5
+4,"Wola, Warszawa",6972,9.2,8.7
+5,Gostynin,2800,8.0,8.5
+6,Radom,2240,8.0,8.6
+7,Płock,5786,8.4,8.1
+8,Leszno,3976,8.6,9.0
+9,Krzyżówka,3056,8.5,8.4
+10,Radom,2800,8.5,8.6
+11,"Wola, Warszawa",4392,7.1,8.3
+12,Ciechanów,3290,8.1,8.6
+13,"Śródmieście, Warszawa",6168,8.7,9.4
+14,Leszno,3500,8.4,9.4
+15,Klembów Kościelny,3430,8.6,9.1
+16,Konstancin-Jeziorna,5180,8.4,9.3
+17,Siedlce,3014,8.6,8.6
+18,"Śródmieście, Warszawa",9288,9.1,8.8
+19,"Śródmieście, Warszawa",5720,9.1,8.2
+20,Ostrów Mazowiecka,3290,7.1,8.6
+21,"Śródmieście, Warszawa",5230,9.0,8.7
+22,Wilga,2434,9.3,8.2
+23,Ołtarzew,4495,8.5,8.6
+24,"Ochota, Warszawa",6680,8.5,9.2
+25,Dalnia,3080,8.4,9.0
+26,Serock,6860,8.3,8.8
+27,Ostrów Mazowiecka,3290,7.1,9.3
+28,Ożarów Mazowiecki,5969,8.5,9.3
+29,"Śródmieście, Warszawa",4440,8.2,8.4
+30,"Włochy, Warszawa",4775,8.4,8.4
+31,Płock,6673,9.2,9.3
+32,"Włochy, Warszawa",6328,8.6,8.8
+33,"Śródmieście, Warszawa",6840,8.7,9.1
+34,Żyrardów,3760,8.0,8.9
+35,Ząbki,6685,9.1,9.3
+36,"Włochy, Warszawa",6146,9.1,9.3
+37,"Włochy, Warszawa",3410,8.3,8.8
+38,Nowy Dwór Mazowiecki,2380,7.9,8.7
+39,"Śródmieście, Warszawa",4590,8.3,9.2
+40,Radom,2061,9.3,8.7
+41,"Wola, Warszawa",4366,7.7,9.8
+42,Łochów,7270,8.5,9.6
+43,Wyszków,2576,9.0,9.2
+44,"Śródmieście, Warszawa",7612,8.6,9.1
+45,"Mokotów, Warszawa",5424,9.0,9.5
+46,"Mokotów, Warszawa",5634,9.0,9.2
+47,Sochaczew,6157,8.6,9.6
+48,"Włochy, Warszawa",5280,8.6,9.6
+49,"Śródmieście, Warszawa",9100,8.8,8.4
+50,"Śródmieście, Warszawa",6280,8.5,9.6
+51,Radom,2374,9.7,8.7
+52,"Wola, Warszawa",6034,9.5,9.7
+53,"Ochota, Warszawa",5339,8.9,8.6
+54,Serock,11632,8.7,9.2
+55,"Włochy, Warszawa",4878,9.1,9.3
+56,"Wawer, Warszawa",4754,8.8,8.1
+57,Nowa Wieś,1759,9.5,8.3
+58,"Mokotów, Warszawa",4711,9.1,10.0
+59,Ciechanów,2930,8.1,8.8
+60,"Śródmieście, Warszawa",4956,8.4,8.2
+61,"Mokotów, Warszawa",5696,9.3,9.5
+62,Mszczonów,2318,8.7,8.9
+63,"Wola, Warszawa",8406,9.4,8.8
+64,"Wola, Warszawa",6230,8.2,9.0
+65,"Wola, Warszawa",6734,8.9,9.2
+66,"Wola, Warszawa",5226,8.9,9.2
+67,Piaseczno,2800,8.3,9.5
+68,Gorzewo,3283,8.5,8.5
+69,Płock,2378,10.0,8.7
+70,Gaj,2800,8.8,8.7
+71,"Mokotów, Warszawa",3880,8.0,9.6
+72,Siedlce,4466,9.3,9.4
+73,Raszyn,2827,9.0,8.4
+74,"Ursynów, Warszawa",3800,8.6,8.0
+75,Siedlce,3360,8.8,8.7
+76,"Wola, Warszawa",6734,8.9,9.1
+77,"Mokotów, Warszawa",5670,8.9,8.2
+78,Mińsk Mazowiecki,2653,9.3,9.0
+79,Nowy Dwór Mazowiecki,6426,8.2,8.9
+80,Sierpc,2800,8.7,9.4
+81,Łomianki,2376,8.9,9.3
+82,"Śródmieście, Warszawa",8746,9.3,8.2
+83,"Śródmieście, Warszawa",8246,9.1,8.4
+84,Mińsk Mazowiecki,3360,7.4,9.5
+85,Piaseczno,6440,8.3,8.0
+86,Załuski,2524,8.1,9.6
+87,Siedlce,2940,8.6,8.9
+88,"Mokotów, Warszawa",3698,8.9,9.4
+89,"Mokotów, Warszawa",3880,8.0,8.0
+90,Ciechanów,3570,9.0,8.3
+91,"Wola, Warszawa",3357,8.5,9.1
+92,"Praga Północ, Warszawa",4606,9.1,9.4
+93,"Wilanów, Warszawa",4690,7.7,8.6
+94,"Śródmieście, Warszawa",7924,9.0,8.9
+95,Wyszków,4620,8.1,9.3
+96,Przasnysz,2450,8.3,9.2
+97,Antonie,2340,9.3,8.9
+98,"Śródmieście, Warszawa",3930,8.0,9.7
+99,"Włochy, Warszawa",3280,8.1,8.8
+100,Gaśno,5025,9.7,10.0
+101,Warka,16293,8.7,8.8
+102,"Wola, Warszawa",5832,9.1,8.8
+103,"Włochy, Warszawa",3280,8.1,8.3
+104,"Śródmieście, Warszawa",3487,7.8,8.7
+105,Cekanowo,6560,8.4,8.5
+106,Płońsk,3010,7.7,9.1
+107,"Praga Południe, Warszawa",5870,8.8,8.5
+108,Nowy Dwór Mazowiecki,3080,7.7,8.9
+109,"Mokotów, Warszawa",5189,9.1,9.0
+110,"Ochota, Warszawa",3820,8.6,9.1
+111,Konstancin-Jeziorna,7526,8.7,8.6
+112,Raszyn,3220,9.2,8.5
+113,Mszczonów,7700,9.1,8.1
+114,"Wola, Warszawa",9974,8.4,8.8
+115,Popielżyn Dolny,2760,9.6,8.0
+116,"Śródmieście, Warszawa",6101,8.3,8.8
+117,"Mokotów, Warszawa",3280,7.2,8.8
+118,Płock,1995,10.0,9.0
+119,"Śródmieście, Warszawa",4777,8.7,8.7
+120,"Wola, Warszawa",4887,8.5,8.7
+121,Płońsk,3150,8.2,8.9
+122,Góra Kalwaria,3515,8.6,8.8
+123,Przysucha,4550,8.7,9.1
+124,Pruszków,2450,9.1,9.3
+125,Przysucha,4550,8.7,8.1
+126,"Ursynów, Warszawa",6845,8.7,8.9
+127,"Wola, Warszawa",5255,8.8,8.6
+128,"Ursynów, Warszawa",4885,8.9,9.0
+129,Nadarzyn,2973,8.1,9.3
+130,Płock,4550,7.7,9.1
+131,Jachranka,9221,8.2,8.0
+132,Zielonka,4620,8.8,8.1
+133,Mory,4712,8.0,8.4
+134,Radom,3220,7.8,8.0
+135,Korczew,3157,8.7,9.1
+136,"Ochota, Warszawa",3490,8.0,9.6
+137,"Mokotów, Warszawa",4020,8.6,8.2
+138,Jadwisin,2800,7.8,8.3
+139,"Praga Północ, Warszawa",4379,8.7,9.5
+140,Mława,2240,9.2,8.1
+141,Radom,2380,7.6,9.1
+142,Góra Kalwaria,2940,8.7,9.0
+143,Warka,4907,8.4,8.0
+144,"Włochy, Warszawa",4706,8.6,9.2
+145,Mszczonów,6290,8.7,8.1
+146,"Włochy, Warszawa",4856,8.8,8.8
+147,"Włochy, Warszawa",5120,8.9,9.3
+148,"Wola, Warszawa",3979,7.9,8.5
+149,"Śródmieście, Warszawa",6172,7.6,8.6
+150,Chustki,2288,7.3,8.8
+151,Ostrów Mazowiecka,4480,8.8,9.3
+152,Pionki,3276,8.5,9.5
+153,Błonie,2660,8.0,8.6
+154,Mława,2240,9.2,9.5
+155,Janówek,3800,9.5,9.8
+156,"Włochy, Warszawa",4109,8.9,9.1
+157,"Śródmieście, Warszawa",3600,8.1,8.0
+158,Płońsk,3380,8.1,9.0
+159,Kajetany,4053,8.3,8.4
+160,"Śródmieście, Warszawa",3887,8.1,8.7
+161,"Wola, Warszawa",3882,9.0,9.2
+162,Brochów,3520,9.5,9.6
+163,Ostrołęka,2590,8.0,9.2
+164,Węgrów,3640,8.1,9.0
+165,Ostrołęka,2240,8.4,8.9
+166,Klaudyn,2170,9.4,9.0
+167,"Bielany, Warszawa",5593,7.9,8.0
+168,"Bielany, Warszawa",4633,9.1,8.4
+169,"Włochy, Warszawa",4039,8.9,8.0
+170,"Śródmieście, Warszawa",5180,8.0,9.6
+171,Otwock,5740,8.7,9.3
+172,Siedlce,3290,8.4,9.2
+173,Radom,1675,8.9,10.0
+174,"Śródmieście, Warszawa",5842,9.1,9.8
+175,"Śródmieście, Warszawa",4704,8.7,8.2
+176,"Śródmieście, Warszawa",3710,7.1,9.2
+177,Sulejówek,2784,7.9,9.4
+178,"Wola, Warszawa",3990,8.5,8.1
+179,Radom,1675,8.9,8.2
+180,"Śródmieście, Warszawa",8436,9.0,9.2
+181,"Śródmieście, Warszawa",9397,9.0,9.9
+182,Dobrzyków,3036,8.6,8.7
+183,Nur,3373,9.5,9.1
+184,Przasnysz,2660,9.9,9.7
+185,"Włochy, Warszawa",5078,8.9,8.8
+186,Nadarzyn,3640,8.1,8.9
+187,"Włochy, Warszawa",4039,8.9,8.5
+188,Bronisze,5320,8.4,8.5
+189,Pomiechówek,3500,8.7,8.8
+190,Płock,7406,9.1,9.0
+191,Wielogóra,2380,7.6,10.0
+192,Szydłowiec,3850,7.5,8.5
+193,Legionowo,3024,9.6,9.1
+194,Marki,3460,9.1,8.4
+195,Wierzbica,4775,9.1,8.9
+196,"Śródmieście, Warszawa",3193,8.9,8.6
+197,"Wola, Warszawa",5886,8.9,8.0
+198,Kozienice,4060,7.7,9.5
+199,"Włochy, Warszawa",3855,8.2,9.0
+200,Rogóżnia,1689,8.0,8.8
+201,Żyrardów,3130,9.6,8.3
+202,Janówek,3800,9.5,8.7
+203,Kozienice,2100,9.2,8.9
+204,Siedlce,1960,9.9,8.6
+205,"Wola, Warszawa",4698,8.0,8.2
+206,Borucza,3568,9.9,9.8
+207,"Ochota, Warszawa",4178,7.5,8.7
+208,"Mokotów, Warszawa",5390,7.4,8.3
+209,Raszyn,3360,8.4,9.2
+210,Przasnysz,4298,9.3,8.3
+211,Błonie,3080,7.4,8.5
+212,"Śródmieście, Warszawa",2940,7.7,8.0
+213,Bledzewo,3396,7.6,8.6
+214,Różanów,13972,9.7,8.0
+215,"Wawer, Warszawa",5180,8.0,8.4
+216,Pomocnia,3836,8.3,8.4
+217,Pokrzywnica,4725,9.1,9.1
+218,Zegrze,3848,9.6,9.0
+219,"Mokotów, Warszawa",4634,8.5,9.2
+220,Siedlce,1953,9.1,9.5
+221,Żyrardów,3552,9.7,8.2
+222,"Mokotów, Warszawa",2899,8.7,8.7
+223,"Praga Północ, Warszawa",7818,8.8,9.8
+224,Siedlce,3360,8.3,8.0
+225,"Wola, Warszawa",3157,8.5,9.0
+226,"Mokotów, Warszawa",2899,8.7,8.5
+227,"Śródmieście, Warszawa",2940,7.7,9.5
+228,"Śródmieście, Warszawa",6740,8.8,8.6
+229,Ławeczko Stare,3373,9.6,8.8
+230,Zwoleń,2555,8.4,8.0
+231,"Śródmieście, Warszawa",4565,8.9,9.5
+232,Mszczonów,6370,8.4,8.4
+233,Lesznowola,4110,9.0,9.5
+234,"Ochota, Warszawa",3910,8.4,8.6
+235,Jabłonna,3570,8.2,8.4
+236,"Śródmieście, Warszawa",16373,9.1,10.0
+237,Deskurów,2925,8.9,8.1
+238,Pułtusk,1751,8.5,8.8
+239,"Białołęka, Warszawa",7966,8.4,9.5
+240,Sokołów Podlaski,2590,8.5,8.3
+241,Raszyn,3374,8.8,9.7
+242,Tłuszcz,2874,8.5,8.7
+243,Kozerki,5110,6.9,9.1
+244,"Wola, Warszawa",5386,8.2,8.9
+245,"Śródmieście, Warszawa",3825,9.7,8.9
+246,Biały Ług,2318,8.5,9.7
+247,"Włochy, Warszawa",4526,8.3,8.5
+248,"Włochy, Warszawa",9274,9.1,8.7
+249,Siedlce,3780,8.4,8.2
+250,Solec,3486,8.3,8.4
+251,"Śródmieście, Warszawa",7151,7.9,9.0
+252,"Wola, Warszawa",4973,8.4,9.3
+253,"Śródmieście, Warszawa",4040,7.7,9.2
+254,Czosnów,3080,8.1,8.3
+255,Ostrołęka,4186,8.3,9.2
+256,"Wola, Warszawa",3419,8.9,8.5
+257,"Włochy, Warszawa",4940,8.8,9.4
+258,Radom,5512,9.1,9.4
+259,"Śródmieście, Warszawa",6650,9.1,9.3
+260,"Śródmieście, Warszawa",12470,8.1,9.2
+261,Mława,4200,7.8,9.4
+262,Krubki,8862,8.5,9.3
+263,Raszyn,3374,9.8,9.2
+264,Policzna,2463,8.0,8.8
+265,"Śródmieście, Warszawa",2962,8.8,9.1
+266,"Wola, Warszawa",4685,8.5,8.6
+267,"Wola, Warszawa",3157,9.3,9.5
+268,"Śródmieście, Warszawa",6337,8.5,9.4
+269,"Śródmieście, Warszawa",4791,8.6,8.2
+270,Zegrze,7980,7.7,8.6
+271,"Wola, Warszawa",5570,9.6,8.9
+272,Serock,2775,8.4,8.9
+273,Many,4469,9.3,9.4
+274,Piaseczno,2898,8.6,8.7
+275,Zalesie Górne,3552,8.4,8.3
+276,Płock,3500,10.0,9.0
+277,Rozalin,2520,8.1,8.0
+278,"Ursynów, Warszawa",1842,7.5,9.4
+279,Żabia Wola,3220,8.8,9.7
+280,"Praga Północ, Warszawa",3300,9.0,8.8
+281,Mszczonów,4606,8.4,9.3
+282,"Śródmieście, Warszawa",13380,9.7,8.6
+283,Solec,3486,8.7,8.7
+284,"Ochota, Warszawa",4169,9.2,8.8
+285,Radziejowice,6826,8.9,8.2
+286,Przesmyki,2800,8.6,9.4
+287,Piaseczno,3160,9.3,9.1
+288,Radom,3906,8.5,8.3
+289,"Śródmieście, Warszawa",12320,8.8,9.5
+290,"Śródmieście, Warszawa",6789,8.0,8.3
+291,"Wawer, Warszawa",2220,7.8,8.3
+292,"Wola, Warszawa",1960,8.0,9.4
+293,Pułtusk,2800,8.8,8.7
+294,"Mokotów, Warszawa",2080,8.6,8.8
+295,"Śródmieście, Warszawa",4890,9.1,9.0
+296,"Wola, Warszawa",4133,9.1,9.0
+297,"Wola, Warszawa",6590,7.7,8.6
+298,Maków Mazowiecki,2520,7.0,9.5
+299,Marki,5460,8.2,8.9
+300,Nagoszewo,1820,9.3,9.1
+301,"Ochota, Warszawa",3420,8.3,9.2
+302,Radom,1684,9.2,9.3
+303,Radom,4200,9.1,8.2
+304,"Wola, Warszawa",4216,9.1,8.6
+305,"Wola, Warszawa",4876,7.9,9.1
+306,"Wola, Warszawa",6590,9.1,8.8
+307,"Praga Południe, Warszawa",3698,9.3,10.0
+308,Maków Mazowiecki,2520,8.9,9.3
+309,"Wola, Warszawa",4600,9.4,10.0
+310,"Śródmieście, Warszawa",8803,8.6,9.4
+311,Płońsk,3570,8.7,8.4
+312,Sulejówek,2450,8.2,9.0
+313,Słubice,7847,9.2,8.9
+314,"Wola, Warszawa",2790,8.8,9.4
+315,"Śródmieście, Warszawa",6720,8.1,8.2
+316,Żyrardów,3500,8.6,9.4
+317,"Białołęka, Warszawa",2318,8.7,8.2
+318,"Wilanów, Warszawa",2785,8.9,9.2
+319,"Śródmieście, Warszawa",3216,9.2,10.0
+320,Żyrardów,2940,8.5,8.7
+321,Łomianki Dolne,2830,7.3,8.3
+322,"Śródmieście, Warszawa",8020,8.5,9.3
+323,Mława,3850,9.0,9.8
+324,Gostynin,1466,7.9,9.2
+325,"Praga Północ, Warszawa",2576,9.6,8.5
+326,"Śródmieście, Warszawa",3080,9.6,9.2
+327,Grodzisk Mazowiecki,1780,8.6,9.5
+328,"Śródmieście, Warszawa",5015,7.5,9.7
+329,Sulejówek,2450,9.2,8.9
+330,"Wola, Warszawa",2425,8.6,8.3
+331,Radom,1575,8.4,9.6
+332,"Śródmieście, Warszawa",3416,8.7,8.0
+333,Ciechanów,3780,8.2,9.0
+334,"Śródmieście, Warszawa",4471,9.4,8.6
+335,"Bielany, Warszawa",3780,9.0,9.7
+336,Żyrardów,2753,8.3,9.3
+337,"Ochota, Warszawa",4683,9.4,8.9
+338,"Ochota, Warszawa",3080,8.6,8.3
+339,Popielżyn Górny,5418,8.3,10.0
+340,Jedlnia-Letnisko,2870,8.8,8.1
+341,"Wola, Warszawa",4178,8.6,8.0
+342,Żyrardów,3500,8.7,9.0
+343,"Śródmieście, Warszawa",5425,9.2,8.7
+344,"Śródmieście, Warszawa",3254,7.7,8.2
+345,Milanówek,2649,9.2,8.5
+346,"Śródmieście, Warszawa",4844,8.3,9.3
+347,Krzyżówka,5770,7.9,8.1
+348,Mława,3080,9.6,8.8
+349,"Śródmieście, Warszawa",6120,8.7,9.4
+350,Gostynin,2300,9.0,8.4
+351,Wiązowna,4886,7.5,9.7
+352,"Ochota, Warszawa",4683,8.3,8.8
+353,"Wola, Warszawa",2318,8.9,10.0
+354,"Śródmieście, Warszawa",4913,8.4,8.0
+355,"Wawer, Warszawa",6054,8.5,9.5
+356,Lipsko,2390,9.6,9.7
+357,Baniocha,2786,8.6,9.3
+358,Sikory,2660,7.1,8.1
+359,Zegrze,7980,6.7,9.0
+360,Iganie,1820,9.0,9.6
+361,Warka,2614,6.7,8.7
+362,Piastów,2083,9.1,9.1
+363,Marki,3766,7.2,9.3
+364,"Wola, Warszawa",6130,9.9,8.0
+365,"Wawer, Warszawa",2540,9.1,8.7
+366,Warka,2335,8.0,8.5
+367,"Śródmieście, Warszawa",10598,9.0,9.4
+368,"Wola, Warszawa",5285,7.8,8.4
+369,"Wola, Warszawa",3019,8.5,9.8
+370,Radom,3080,7.9,8.1
+371,Nowy Dwór Mazowiecki,5936,8.8,9.3
+372,"Wola, Warszawa",4130,7.6,9.6
+373,Łąck,2800,8.8,8.5
+374,"Śródmieście, Warszawa",3252,7.6,8.4
+375,Łąck,2800,10.0,8.1
+376,"Śródmieście, Warszawa",3252,9.0,8.7
+377,Mława,2156,8.6,8.0
+378,"Białołęka, Warszawa",4947,7.3,9.4
+379,"Wola, Warszawa",3306,8.4,9.8
+380,"Ursus, Warszawa",3825,9.2,9.3
+381,"Ursynów, Warszawa",4857,9.7,9.4
+382,Raszyn,3220,7.7,10.0
+383,Piaseczno,3349,9.3,8.8
+384,"Wola, Warszawa",4494,8.3,8.2
+385,"Białołęka, Warszawa",1887,9.0,8.7
+386,"Praga Południe, Warszawa",3186,7.8,8.3
+387,"Śródmieście, Warszawa",6630,9.7,9.4
+388,"Śródmieście, Warszawa",5340,7.8,9.4
+389,Siedlce,1960,7.9,9.6
+390,"Śródmieście, Warszawa",8800,9.6,9.4
+391,"Wola, Warszawa",4130,8.5,8.6
+392,Radom,2410,8.1,9.0
+393,Nowy Dwór Mazowiecki,5936,9.4,9.1
+394,"Włochy, Warszawa",2447,7.9,9.8
+395,"Wola, Warszawa",5115,8.8,9.5
+396,Legionowo,2210,7.1,8.8
+397,Babice Nowe,5130,7.5,9.1
+398,Grodzisk Mazowiecki,2723,8.5,8.0
+399,"Wola, Warszawa",2844,9.6,9.7
+400,Baniocha,2786,9.2,8.5
+401,Radom,2410,7.7,8.4
+402,Łomianki,3003,8.5,9.5
+403,"Wola, Warszawa",4494,8.1,9.2
+404,Nowy Dwór Mazowiecki,5936,7.8,10.0
+405,"Włochy, Warszawa",2447,9.2,9.0
+406,"Śródmieście, Warszawa",9083,7.6,9.0
+407,"Śródmieście, Warszawa",5227,8.1,8.8
+408,Garbatka-Letnisko,3465,7.9,9.0
+409,"Śródmieście, Warszawa",9083,8.8,9.0
+410,Legionowo,2210,7.1,8.4
+411,Babice Nowe,5130,7.5,8.0
+412,Grodzisk Mazowiecki,2723,8.7,8.3
+413,"Wola, Warszawa",2764,8.0,9.0
+414,"Ochota, Warszawa",3331,8.2,8.4
+415,"Wola, Warszawa",3735,9.2,9.3
+416,"Śródmieście, Warszawa",3267,7.1,8.3
+417,Raszyn,5635,7.4,8.8
+418,Iganie,1820,8.7,8.7
+419,"Praga Południe, Warszawa",4068,7.4,8.1
+420,"Włochy, Warszawa",3400,9.2,8.9
+421,Raszyn,3386,8.4,8.7
+422,Łomianki Dolne,2830,9.5,9.2
+423,"Mokotów, Warszawa",2502,8.6,9.4
+424,"Wola, Warszawa",4447,10.0,8.5
+425,"Wola, Warszawa",5130,7.9,9.1
+426,Mińsk Mazowiecki,3082,9.7,8.8
+427,"Wola, Warszawa",8749,7.7,8.8
+428,Pomiechówek,5053,9.8,8.5
+429,"Mokotów, Warszawa",3073,8.9,8.8
+430,Nieporęt,3080,7.4,8.7
+431,"Wola, Warszawa",4177,7.8,8.1
+432,Raszyn,3386,7.6,9.2
+433,"Praga Północ, Warszawa",3733,9.4,9.4
+434,"Śródmieście, Warszawa",5031,9.1,8.5
+435,Łąck,3960,8.6,9.1
+436,"Wola, Warszawa",3778,9.1,8.7
+437,Kikoły,3451,9.0,8.9
+438,"Wola, Warszawa",3968,7.2,9.0
+439,"Ursus, Warszawa",5292,7.6,8.4
+440,"Praga Północ, Warszawa",3999,8.3,9.2
+441,Zielonka,2660,8.5,8.9
+442,Otwock,4200,9.4,9.0
+443,Radom,7700,8.9,9.0
+444,"Wola, Warszawa",5008,9.4,9.8
+445,"Targówek, Warszawa",2581,7.6,9.6
+446,Siedlce,2135,8.1,8.4
+447,Siedlce,1513,9.0,8.9
+448,"Włochy, Warszawa",2191,7.2,10.0
+449,"Praga Północ, Warszawa",2151,9.6,9.7
+450,"Praga Północ, Warszawa",4191,7.6,9.7
+451,Zielonka,2660,8.5,8.4
+452,"Bielany, Warszawa",2750,8.0,8.5
+453,"Wola, Warszawa",2761,7.3,8.4
+454,"Wola, Warszawa",3306,7.6,9.3
+455,"Wola, Warszawa",2023,8.1,8.6
+456,Wyszków,4620,8.3,8.2
+457,"Włochy, Warszawa",2017,7.7,8.1
+458,"Praga Północ, Warszawa",2015,8.1,8.7
+459,"Wola, Warszawa",4740,9.2,8.9
+460,"Śródmieście, Warszawa",2570,9.4,9.1
+461,"Wola, Warszawa",2570,9.2,8.1
+462,"Śródmieście, Warszawa",4139,9.7,8.0
+463,Siedlce,1539,9.6,8.2
+464,Mszczonów,3800,8.7,9.5
+465,Zwoleń,3200,8.5,8.0
+466,"Wola, Warszawa",3093,7.4,9.3
+467,"Wola, Warszawa",5725,8.6,9.5
+468,"Śródmieście, Warszawa",2319,8.3,8.3
+469,"Wola, Warszawa",2980,8.0,8.8
+470,"Wola, Warszawa",4153,9.2,9.7
+471,"Śródmieście, Warszawa",4227,9.3,9.6
+472,"Wola, Warszawa",3966,9.6,8.1
+473,Brochów,3840,9.2,8.8
+474,Nowy Dwór Mazowiecki,2926,8.5,9.4
+475,"Bielany, Warszawa",2750,8.9,9.1
+476,Brochów,3840,9.1,8.6
+477,"Wola, Warszawa",4194,7.9,8.5
+478,"Bielany, Warszawa",3237,9.9,8.3
+479,"Praga Północ, Warszawa",2202,8.0,8.3
+480,"Ursus, Warszawa",5292,7.3,8.9
+481,Grebiszew,3500,9.7,9.7
+482,Kamieńczyk,4736,8.3,10.0
+483,Żyrardów,2422,8.7,8.7
+484,Nieporęt,2590,8.0,8.5
+485,"Śródmieście, Warszawa",5498,9.5,9.6
+486,Kruczy Borek,5948,8.6,8.8
+487,"Wola, Warszawa",4994,8.6,9.5
+488,"Wola, Warszawa",4824,9.6,9.3
+489,"Śródmieście, Warszawa",3124,9.2,8.2
+490,"Śródmieście, Warszawa",4020,9.8,8.4
+491,Pruszków,2310,6.8,8.5
+492,"Śródmieście, Warszawa",4503,8.6,8.5
+493,Żyrardów,2800,8.6,9.1
+494,Żyrardów,4900,8.7,8.3
+495,"Mokotów, Warszawa",3505,8.8,8.8
+496,"Śródmieście, Warszawa",5479,8.9,8.1
+497,"Śródmieście, Warszawa",1751,8.5,8.3
+498,"Śródmieście, Warszawa",8517,8.0,9.0
+499,"Praga Południe, Warszawa",3153,8.2,9.6
+500,"Praga Południe, Warszawa",3153,8.9,9.2
+501,"Włochy, Warszawa",5431,8.6,8.4
+502,"Wola, Warszawa",5996,9.5,8.9
+503,"Wola, Warszawa",4078,8.2,9.6
+504,"Wola, Warszawa",3367,6.0,9.2
+505,"Ochota, Warszawa",4050,8.8,9.2
+506,"Białołęka, Warszawa",2769,8.4,9.2
+507,"Wola, Warszawa",5086,8.1,8.0
+508,Konstancin-Jeziorna,2576,8.2,8.8
+509,Serock,4011,8.6,9.5
+510,"Śródmieście, Warszawa",6634,9.2,9.3
+511,Żyrardów,1559,9.5,8.2
+512,"Śródmieście, Warszawa",3910,7.0,8.5
+513,Brochów,2450,8.4,8.9
+514,"Praga Południe, Warszawa",3654,8.9,8.4
+515,"Wola, Warszawa",3577,8.7,8.7
+516,"Ursus, Warszawa",2692,8.8,9.1
+517,"Mokotów, Warszawa",3505,8.7,8.1
+518,Radom,2100,8.8,8.3
+519,"Wola, Warszawa",5936,8.4,8.8
+520,Serock,2076,8.1,8.1
+521,"Wola, Warszawa",3813,9.2,8.5
+522,"Wola, Warszawa",5725,9.5,9.6
+523,"Wola, Warszawa",6562,7.0,9.0
+524,Ostrów Mazowiecka,2780,8.4,8.7
+525,"Śródmieście, Warszawa",3910,8.9,9.9
+526,Brochów,2450,8.5,9.3
+527,"Praga Południe, Warszawa",3654,8.2,9.7
+528,"Mokotów, Warszawa",3505,7.4,8.9
+529,Radom,2100,8.9,8.7
+530,"Wola, Warszawa",5936,8.6,9.5
+531,Serock,2076,8.0,8.9
+532,"Wola, Warszawa",3813,9.1,10.0
+533,"Bemowo, Warszawa",3217,8.8,8.8
+534,"Wola, Warszawa",3577,8.2,9.2
+535,"Żoliborz, Warszawa",3765,8.9,8.7
+536,"Wola, Warszawa",3478,8.8,8.1
+537,Żyrardów,2660,6.8,8.3
+538,"Śródmieście, Warszawa",3501,7.5,8.6
+539,"Praga Południe, Warszawa",5152,7.9,8.0
+540,Warszawa,2952,8.0,8.8
+541,"Bemowo, Warszawa",2719,9.9,8.9
+542,"Śródmieście, Warszawa",6049,9.6,8.3
+543,"Wola, Warszawa",6510,8.7,9.2
+544,"Śródmieście, Warszawa",5014,7.7,8.7
+545,"Wola, Warszawa",4474,8.8,10.0
+546,"Wawer, Warszawa",4060,9.5,8.8
+547,Skoki Duże,3981,9.6,9.2
+548,Korczew,8719,9.5,8.7
+549,Myszyniec,2520,7.1,8.3
+550,"Praga Północ, Warszawa",2879,8.6,8.6
+551,Radom,2380,8.2,8.0
+552,"Śródmieście, Warszawa",4897,7.9,9.2
+553,"Śródmieście, Warszawa",4269,8.6,8.9
+554,Mińsk Mazowiecki,2749,8.1,9.2
+555,"Wola, Warszawa",7664,8.6,8.7
+556,"Praga Północ, Warszawa",3113,8.4,8.6
+557,Wilga,6440,9.0,8.5
+558,Konstancin-Jeziorna,2576,8.8,8.3
+559,Pruszków,5354,8.8,8.1
+560,"Ochota, Warszawa",6304,9.1,9.9
+561,"Śródmieście, Warszawa",4995,8.2,9.5
+562,"Żoliborz, Warszawa",2237,8.5,8.6
+563,"Wola, Warszawa",5150,7.9,10.0
+564,Warszawa,3854,9.4,8.3
+565,"Śródmieście, Warszawa",3706,6.4,9.6
+566,Nadarzyn,2660,8.0,9.2
+567,"Ochota, Warszawa",4763,9.2,8.5
+568,Wyszel,2660,9.5,10.0
+569,Żyrardów,1715,8.3,8.2
+570,Białobrzeg Dalszy,2447,8.7,10.0
+571,"Wola, Warszawa",4317,7.9,9.7
+572,"Praga Północ, Warszawa",5185,9.6,8.5
+573,"Wola, Warszawa",2567,9.4,8.8
+574,"Śródmieście, Warszawa",4113,8.0,8.2
+575,"Śródmieście, Warszawa",3220,8.7,8.8
+576,"Praga Południe, Warszawa",2810,8.9,9.9
+577,Radziejowice,4060,9.0,9.2
+578,"Śródmieście, Warszawa",9073,9.2,8.7
+579,"Wawer, Warszawa",4060,8.6,9.2
+580,Warszawa,2119,7.6,8.5
+581,Piaseczno,2797,8.2,9.4
+582,"Bielany, Warszawa",4241,8.4,8.5
+583,"Praga Południe, Warszawa",3271,8.9,9.6
+584,Kikoły,3451,9.7,9.0
+585,"Żoliborz, Warszawa",3259,10.0,9.4
+586,Ząbki,2262,8.5,8.0
+587,"Włochy, Warszawa",3535,6.0,8.3
+588,Stanisławów,1560,7.9,8.8
+589,"Śródmieście, Warszawa",3542,8.1,8.4
+590,"Śródmieście, Warszawa",3040,9.6,9.3
+591,"Wola, Warszawa",2740,7.2,8.8
+592,"Śródmieście, Warszawa",4233,8.5,8.8
+593,"Wola, Warszawa",5320,9.0,8.8
+594,Czosnów,3578,8.6,9.5
+595,Radom,3000,8.2,8.9
+596,"Bemowo, Warszawa",3217,8.5,8.6
+597,Żyrardów,1559,8.5,9.3
+598,"Śródmieście, Warszawa",3749,8.5,9.6
+599,"Praga Południe, Warszawa",3214,6.8,8.9
+600,Siedlce,4240,8.9,9.0
+601,"Śródmieście, Warszawa",3755,9.2,8.6
+602,Gostynin,3059,8.8,9.6
+603,"Wola, Warszawa",4073,8.3,8.9
+604,"Ursynów, Warszawa",4400,8.4,8.6
+605,"Śródmieście, Warszawa",4050,8.8,9.0
+606,Sadowne,3080,9.5,8.2
+607,"Mokotów, Warszawa",4280,7.9,8.8
+608,Konstancin-Jeziorna,4620,8.7,9.4
+609,"Śródmieście, Warszawa",5014,9.0,9.2
+610,"Wola, Warszawa",3813,7.9,9.1
+611,"Wola, Warszawa",5001,8.0,8.2
+612,"Wola, Warszawa",4598,9.3,8.5
+613,"Śródmieście, Warszawa",4642,6.8,8.8
+614,"Śródmieście, Warszawa",4677,9.5,10.0
+615,"Wola, Warszawa",6608,8.9,8.6
+616,"Wola, Warszawa",3651,8.0,10.0
+617,"Śródmieście, Warszawa",3749,9.0,8.6
+618,"Praga Północ, Warszawa",3076,8.0,8.7
+619,Leoncin,2233,8.7,10.0
+620,"Ochota, Warszawa",6329,8.1,8.3
+621,"Bielany, Warszawa",3176,8.5,9.0
+622,Gostynin,2610,9.0,8.8
+623,"Śródmieście, Warszawa",4847,8.6,8.9
+624,Radom,1506,8.2,8.6
+625,"Bielany, Warszawa",5410,9.2,9.4
+626,"Mokotów, Warszawa",3287,8.9,9.4
+627,"Mokotów, Warszawa",3685,8.5,8.1
+628,"Wola, Warszawa",3862,8.8,8.4
+629,"Śródmieście, Warszawa",6456,6.8,8.0
+630,"Żoliborz, Warszawa",2290,8.9,8.4
+631,Gostynin,2429,8.6,8.0
+632,"Wola, Warszawa",4049,7.2,8.0
+633,"Ursynów, Warszawa",4400,9.2,9.2
+634,"Śródmieście, Warszawa",4050,8.8,8.4
+635,Rzewnie,2464,8.3,9.3
+636,"Wola, Warszawa",5320,8.5,9.7
+637,Sadowne,3080,9.5,9.4
+638,Nadarzyn,2660,8.8,8.8
+639,"Śródmieście, Warszawa",5014,7.9,9.3
+640,"Wola, Warszawa",3813,8.6,8.2
+641,"Śródmieście, Warszawa",3931,9.8,8.0
+642,"Śródmieście, Warszawa",2856,9.0,8.9
+643,"Wola, Warszawa",5001,6.5,9.4
+644,"Wola, Warszawa",4598,9.0,9.7
+645,"Śródmieście, Warszawa",4642,9.2,8.1
+646,Konstancin-Jeziorna,4620,8.1,9.5
+647,"Wola, Warszawa",3651,8.6,9.3
+648,"Wola, Warszawa",6156,9.7,10.0
+649,"Śródmieście, Warszawa",3749,8.8,9.1
+650,"Wola, Warszawa",3777,9.6,8.8
+651,Żyrardów,2660,7.2,8.0
+652,"Mokotów, Warszawa",7279,8.8,8.0
+653,"Wola, Warszawa",5024,9.4,8.4
+654,"Ochota, Warszawa",5330,8.6,9.3
+655,Borzychy,2600,8.0,9.4
+656,"Praga Południe, Warszawa",3905,8.2,8.6
+657,"Ursynów, Warszawa",5093,8.5,8.1
+658,"Wola, Warszawa",4938,7.6,9.4
+659,"Praga Północ, Warszawa",3278,8.4,9.3
+660,"Wola, Warszawa",4767,8.7,8.8
+661,"Praga Południe, Warszawa",2737,9.2,8.8
+662,"Wola, Warszawa",5030,8.3,8.1
+663,Warka,1428,9.3,9.5
+664,"Ursynów, Warszawa",4686,8.6,8.4
+665,"Mokotów, Warszawa",2875,9.6,9.5
+666,"Wola, Warszawa",2740,7.2,8.6
+667,"Śródmieście, Warszawa",3130,8.8,9.4
+668,"Wola, Warszawa",4244,9.4,9.4
+669,"Wola, Warszawa",5015,8.6,8.8
+670,"Praga Południe, Warszawa",1836,8.2,9.4
+671,"Śródmieście, Warszawa",4435,8.5,8.1
+672,"Ochota, Warszawa",5060,7.6,8.5
+673,"Żoliborz, Warszawa",2573,8.6,8.1
+674,"Praga Południe, Warszawa",4466,8.4,9.4
+675,"Wola, Warszawa",4623,7.7,9.4
+676,"Praga Południe, Warszawa",2737,9.2,9.5
+677,"Wola, Warszawa",4598,9.3,9.6
+678,Warka,1428,7.2,9.3
+679,"Ursynów, Warszawa",3306,8.6,9.4
+680,"Wola, Warszawa",2740,8.7,8.4
+681,"Śródmieście, Warszawa",3130,8.1,9.8
+682,"Wola, Warszawa",3658,8.3,8.1
+683,Otwock,7200,8.2,9.1
+684,"Wola, Warszawa",4598,9.8,8.8
+685,"Śródmieście, Warszawa",7735,9.3,9.5
+686,"Śródmieście, Warszawa",4149,8.3,9.1
+687,"Żoliborz, Warszawa",2563,10.0,10.0
+688,"Ochota, Warszawa",2533,8.0,8.8
+689,"Praga Południe, Warszawa",4466,8.4,8.8
+690,"Śródmieście, Warszawa",4167,9.3,8.4
+691,"Śródmieście, Warszawa",3741,9.0,9.5
+692,"Ochota, Warszawa",5180,9.2,9.1
+693,"Białołęka, Warszawa",3669,9.6,8.9
+694,Żyrardów,2660,8.2,8.4
+695,"Śródmieście, Warszawa",3598,7.6,10.0
+696,"Praga Północ, Warszawa",3700,8.0,8.8
+697,Siedlce,1608,9.8,9.9
+698,"Śródmieście, Warszawa",2930,8.9,9.4
+699,"Wola, Warszawa",3906,8.4,8.2
+700,"Śródmieście, Warszawa",2616,8.9,9.3
+701,"Włochy, Warszawa",3156,7.9,9.0
+702,Rzewnie,2464,9.0,10.0
+703,Garbatka-Letnisko,3311,9.8,8.8
+704,"Wola, Warszawa",3567,9.1,9.9
+705,"Wilanów, Warszawa",2441,8.6,9.1
+706,"Ursynów, Warszawa",2177,8.7,9.6
+707,Garwolin,3010,6.3,8.6
+708,"Wola, Warszawa",5257,8.7,9.3
+709,"Ursynów, Warszawa",2871,8.7,9.8
+710,"Wola, Warszawa",3570,8.0,9.5
+711,"Praga Północ, Warszawa",3000,7.8,9.2
+712,Sienno,2335,7.4,9.1
+713,Zegrze Południowe,3564,7.8,9.0
+714,"Śródmieście, Warszawa",3988,7.2,9.6
+715,"Ursynów, Warszawa",3593,9.6,9.5
+716,"Śródmieście, Warszawa",4677,7.7,8.9
+717,"Wola, Warszawa",2732,8.9,9.4
+718,"Wola, Warszawa",4872,9.2,8.9
+719,"Śródmieście, Warszawa",4167,8.0,9.5
+720,"Włochy, Warszawa",2098,7.2,8.4
+721,"Wola, Warszawa",4778,8.4,9.6
+722,"Śródmieście, Warszawa",5065,8.3,9.2
+723,"Śródmieście, Warszawa",5008,9.2,9.1
+724,"Mokotów, Warszawa",4443,9.0,9.6
+725,"Mokotów, Warszawa",2502,9.0,9.2
+726,Radom,2162,8.5,8.9
+727,"Wola, Warszawa",5152,7.7,9.3
+728,Altanka,3315,7.3,9.6
+729,"Mokotów, Warszawa",4962,9.3,9.1
+730,"Wola, Warszawa",5070,8.0,9.9
+731,"Wola, Warszawa",2622,8.1,9.2
+732,"Śródmieście, Warszawa",3658,7.8,9.4
+733,"Bemowo, Warszawa",2117,8.7,8.5
+734,Sienno,2335,8.6,9.1
+735,Ludwinów,5518,9.1,8.8
+736,"Bielany, Warszawa",3343,9.7,8.4
+737,"Praga Północ, Warszawa",3628,8.2,8.6
+738,"Praga Południe, Warszawa",5424,8.8,9.0
+739,Warka,1523,7.6,8.8
+740,"Śródmieście, Warszawa",3931,7.8,8.3
+741,"Mokotów, Warszawa",2573,7.8,9.3
+742,"Śródmieście, Warszawa",3167,8.6,9.8
+743,"Śródmieście, Warszawa",3452,9.7,9.8
+744,"Praga Południe, Warszawa",3994,8.2,8.3
+745,"Białołęka, Warszawa",3306,8.8,8.0
+746,Radom,1680,8.8,9.7
+747,"Śródmieście, Warszawa",3995,7.6,8.0
+748,"Praga Południe, Warszawa",4044,7.5,8.6
+749,"Wola, Warszawa",5040,8.4,8.5
+750,"Śródmieście, Warszawa",3167,7.9,8.4
+751,"Śródmieście, Warszawa",2032,8.7,9.4
+752,"Praga Południe, Warszawa",4126,9.1,8.6
+753,Radom,1680,9.5,8.4
+754,"Śródmieście, Warszawa",3995,7.5,8.5
+755,"Wola, Warszawa",6039,8.5,9.4
+756,"Praga Południe, Warszawa",4044,8.1,8.4
+757,"Wola, Warszawa",5040,8.8,8.6
+758,Janki,3080,9.8,8.8
+759,"Włochy, Warszawa",3130,8.6,9.1
+760,"Wola, Warszawa",8478,10.0,8.7
+761,"Śródmieście, Warszawa",4016,6.3,8.5
+762,"Śródmieście, Warszawa",3876,8.8,8.4
+763,"Praga Północ, Warszawa",3947,7.3,9.4
+764,"Żoliborz, Warszawa",3990,8.2,8.6
+765,"Ursus, Warszawa",4620,10.0,8.5
+766,"Mokotów, Warszawa",2139,8.4,9.1
+767,"Bielany, Warszawa",3080,7.7,8.4
+768,Garwolin,3010,7.3,9.4
+769,"Włochy, Warszawa",3615,8.9,8.4
+770,Płock,2450,8.7,8.6
+771,"Wola, Warszawa",2732,8.5,8.8
+772,Płock,4855,8.5,8.7
+773,"Wola, Warszawa",4157,9.5,9.7
+774,Okuniew,5600,9.3,10.0
+775,Płock,2450,8.1,9.6
+776,"Wawer, Warszawa",3640,8.1,8.4
+777,"Praga Północ, Warszawa",5836,8.0,8.5
+778,"Wola, Warszawa",4157,8.5,9.3
+779,"Wola, Warszawa",5152,8.6,9.0
+780,"Śródmieście, Warszawa",4173,8.0,9.0
+781,"Wola, Warszawa",3836,7.5,8.2
+782,Piaseczno,3298,8.7,8.8
+783,"Wola, Warszawa",3223,8.4,8.6
+784,"Włochy, Warszawa",2660,9.3,10.0
+785,"Mokotów, Warszawa",3717,9.7,9.4
+786,"Wola, Warszawa",6811,9.0,8.3
+787,Brwinów,2800,7.9,10.0
+788,"Śródmieście, Warszawa",3349,9.7,9.4
+789,"Śródmieście, Warszawa",6361,7.4,10.0
+790,"Wilanów, Warszawa",2916,7.9,8.2
+791,"Śródmieście, Warszawa",3935,6.8,8.8
+792,"Śródmieście, Warszawa",4605,8.2,8.0
+793,"Ochota, Warszawa",3917,9.1,9.1
+794,"Mokotów, Warszawa",3284,9.4,8.5
+795,"Śródmieście, Warszawa",2693,9.5,9.4
+796,"Śródmieście, Warszawa",2944,8.0,8.4
+797,"Wola, Warszawa",4453,9.7,10.0
+798,"Wola, Warszawa",8478,9.3,8.8
+799,"Śródmieście, Warszawa",4353,9.7,9.5
+800,"Śródmieście, Warszawa",2461,8.7,8.2

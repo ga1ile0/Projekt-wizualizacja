@@ -1,646 +1,674 @@
 ,City,Cost,Rating,Comfort
-0,"Stare Miasto, Lublin",4542,9.6,9.7
-1,"Stare Miasto, Lublin",5011,8.6,8.6
-2,Nałęczów,3233,8.3,8.3
-3,Lublin,2058,9.6,9.5
-4,Lublin,2836,9.2,9.2
-5,Hrubieszów,2450,10.0,10.0
-6,Wojciechów,4206,9.7,9.5
-7,Nałęczów,2454,9.3,9.5
-8,Nielisz,3150,9.8,10.0
-9,Lublin,6300,9.6,9.6
-10,Łęczna,1456,9.2,9.3
-11,Zamość,3220,9.7,9.7
-12,Adamów,9010,9.6,9.5
-13,Krasnystaw,1374,9.6,9.8
-14,Lublin,2695,9.1,9.1
-15,Zamość,4550,9.5,9.6
-16,Łuków,2800,9.2,9.3
-17,Aleksandrów,2294,9.5,8.7
-18,Cyców,4971,9.8,9.5
-19,Lublin,3080,8.4,8.5
-20,Guciów,2520,9.5,9.2
-21,Blizów,2450,8.1,9.7
-22,Lublin,2443,8.0,9.4
-23,Grabowiec,3039,10.0,9.9
-24,Biała Podlaska,1680,9.5,8.8
-25,Biłgoraj,1603,9.8,9.1
-26,Krasnobród,2905,9.0,9.7
-27,Ludwin,2447,9.5,9.2
-28,Świdnik,2205,9.7,9.0
-29,Biała Podlaska,1490,9.1,9.6
-30,Lublin,2900,9.0,9.7
-31,Janów Lubelski,2800,9.7,9.4
-32,Wola Gardzienicka,3029,9.6,8.4
-33,"Stare Miasto, Lublin",2879,9.5,9.8
-34,Lublin,3080,8.5,9.5
-35,Blizów,3150,9.7,9.8
-36,Zwierzyniec,2635,9.4,8.4
-37,Zwierzyniec,6300,9.9,9.8
-38,Zaróbka,3150,8.7,8.9
-39,Zamość,3500,9.7,9.7
-40,Kazimierz Dolny,5187,9.1,10.0
-41,Biała Podlaska,1785,9.7,8.4
-42,Zwierzyniec,4200,10.0,9.6
-43,Lublin,3493,8.2,9.6
-44,Lublin,3486,9.5,8.4
-45,Lublin,3103,9.6,9.7
-46,"Stare Miasto, Lublin",3003,8.5,9.6
-47,Kazimierz Dolny,2762,9.8,9.9
-48,Biała Podlaska,1601,9.6,9.3
-49,Biała Podlaska,2100,9.9,10.0
-50,Lublin,4950,9.6,9.7
-51,Janów Podlaski,2800,9.9,9.2
-52,Tomaszów Lubelski,2450,9.3,9.6
-53,"Stare Miasto, Lublin",3046,9.4,9.8
-54,Kazimierz Dolny,13500,9.7,8.9
-55,Chełm,2646,7.9,10.0
-56,Lublin,2793,9.7,9.2
-57,Lublin,1701,9.2,9.5
-58,Kazimierz Dolny,2380,10.0,9.6
-59,Zamość,1890,7.8,9.7
-60,Okuninka,2485,9.1,9.1
-61,"Stare Miasto, Lublin",2100,9.5,8.6
-62,Okszów,2590,9.5,9.3
-63,Kazimierz Dolny,3500,9.6,9.1
-64,Krasnobród,4620,9.1,10.0
-65,Lublin,3480,8.5,8.8
-66,Lublin,2993,9.3,9.1
-67,Lublin,1890,9.2,10.0
-68,Kazimierz Dolny,2860,9.9,10.0
-69,Lublin,1980,9.0,9.7
-70,Żary,4004,9.5,8.6
-71,Lublin,1904,9.8,9.7
-72,Hutki,3514,10.0,8.7
-73,Zamość,2830,9.7,9.4
-74,Lublin,3902,8.9,9.8
-75,Kazimierz Dolny,3850,9.7,9.4
-76,Zamość,2240,7.5,9.4
-77,Kodeń,5792,9.2,9.6
-78,Lublin,2253,9.4,10.0
-79,Susiec,2156,9.8,9.5
-80,Lublin,4940,9.2,10.0
-81,Kazimierz Dolny,6030,9.3,9.0
-82,Aleksandrów,2180,9.5,9.4
-83,Nielisz,4830,10.0,8.1
-84,Chełm,2688,9.7,9.8
-85,Lublin,2923,9.8,9.3
-86,Kock,1339,8.9,9.2
-87,Zamość,2875,9.8,8.5
-88,Chełm,2053,8.1,9.2
-89,Biała Podlaska,1540,10.0,8.6
-90,Biała Podlaska,3082,9.3,8.2
-91,Lublin,2273,9.2,9.5
-92,"Stare Miasto, Lublin",3136,8.5,9.2
-93,Kazimierz Dolny,4646,9.3,8.5
-94,Zamość,2100,8.4,9.2
-95,Lublin,3255,8.4,8.7
-96,Zwierzyniec,3735,9.5,8.6
-97,Lublin,2293,9.2,8.2
-98,Lublin,1943,8.5,10.0
-99,Lublin,1910,9.3,9.6
-100,Zamość,2100,8.9,9.0
-101,Lublin,3255,8.4,8.9
-102,Zwierzyniec,3465,8.4,8.8
-103,Kazimierz Dolny,4130,10.0,9.0
-104,Lublin,2293,9.4,9.5
-105,Lublin,1943,8.8,10.0
-106,Nielisz,4830,8.8,9.6
-107,"Stare Miasto, Lublin",3830,8.7,9.5
-108,Lublin,2760,9.1,9.9
-109,Lublin,2590,9.2,9.9
-110,Lublin,3361,10.0,10.0
-111,Lublin,3325,9.6,9.0
-112,Nałęczów,2764,9.2,8.8
-113,Janów Podlaski,3136,9.6,10.0
-114,Janowiec,3290,9.5,9.8
-115,Orchówek,2045,9.8,9.9
-116,Lublin,1720,9.8,9.5
-117,Zwierzyniec,5349,9.0,9.9
-118,Chełm,2329,8.7,10.0
-119,Lublin,4700,9.9,9.0
-120,Lublin,2293,8.1,8.8
-121,Lublin,4312,9.7,8.0
-122,Koszele,5621,9.5,9.8
-123,Susiec,1400,9.6,9.1
-124,Zamość,3573,9.8,9.7
-125,Zwierzyniec,5349,9.8,9.1
-126,Stoczek Łukowski,3365,9.0,8.7
-127,Chełm,2329,8.7,9.2
-128,Lublin,5100,8.1,9.4
-129,Lublin,2333,7.6,8.4
-130,Lublin,4312,9.7,9.6
-131,Susiec,1400,9.4,9.4
-132,Krasne,3100,9.6,9.1
-133,Zamość,3573,10.0,9.7
-134,Lublin,2660,9.1,9.1
-135,"Stare Miasto, Lublin",3847,8.7,8.5
-136,Tomaszów Lubelski,1820,9.6,9.7
-137,Skierbieszów,6300,9.5,9.8
-138,Konstantynów,1755,8.5,9.9
-139,Janowiec,2660,9.6,8.9
-140,Lublin,2040,9.2,9.4
-141,Lublin,2033,9.0,9.4
-142,Lublin,2590,9.7,8.2
-143,Dęblin,2079,9.1,10.0
-144,Lublin,2410,8.9,9.6
-145,Zamość,2328,9.4,10.0
-146,Chełm,2485,9.9,8.8
-147,Lublin,2713,9.9,8.5
-148,Zwierzyniec,2380,8.9,9.8
-149,Janowiec,3213,9.5,9.3
-150,Józefów,2520,9.2,9.4
-151,Zamość,2802,8.9,9.6
-152,Zamość,4725,9.6,8.9
-153,Kazimierz Dolny,5589,7.7,8.1
-154,Krasnobród,4228,7.8,9.0
-155,Lublin,2410,9.7,9.6
-156,Lublin,1940,9.9,8.9
-157,Lublin,1601,9.0,9.3
-158,Lublin,2233,8.1,9.7
-159,Lublin,4466,9.8,8.5
-160,Lublin,4191,9.7,9.8
-161,Świdnik,2800,9.4,9.3
-162,Międzyleś,1912,9.5,9.4
-163,Puławy,2800,9.1,9.6
-164,Biała Podlaska,1785,7.8,8.9
-165,Lublin,3095,9.0,8.1
-166,Kazimierz Dolny,3595,9.6,9.0
-167,Lublin,3060,8.7,9.6
-168,Lublin,10710,9.4,8.9
-169,Lublin,2423,9.2,9.7
-170,Krasnobród,4288,8.1,9.3
-171,Nowy Gaj,3850,9.8,9.7
-172,Tomaszów Lubelski,2800,9.7,9.6
-173,Chełm,2536,9.4,10.0
-174,Józefów,2975,9.5,9.6
-175,Puławy,2800,9.1,9.9
-176,Biała Podlaska,1785,7.8,9.7
-177,Lublin,3095,9.0,10.0
-178,Kazimierz Dolny,3595,9.6,8.7
-179,Lublin,3060,8.7,9.4
-180,Lublin,10710,9.4,9.8
-181,Lublin,2423,9.4,9.3
-182,Krasnobród,4288,9.2,8.9
-183,Nowy Gaj,3850,9.3,10.0
-184,Tomaszów Lubelski,2800,10.0,9.8
-185,Orchówek,8304,9.6,9.3
-186,Chełm,2536,5.0,9.4
-187,Józefów,2975,9.6,10.0
-188,Lublin,2637,8.0,9.5
-189,Lublin,2457,9.8,9.9
-190,Adamów,4199,10.0,10.0
-191,"Stare Miasto, Lublin",2960,8.9,10.0
-192,Skubicha,4463,9.2,10.0
-193,Tomaszów Lubelski,2450,9.8,8.6
-194,Lublin,2233,9.3,9.1
-195,Lublin,2590,7.5,8.8
-196,Zamość,3832,9.3,10.0
-197,Lublin,2142,9.7,9.7
-198,"Stare Miasto, Lublin",3229,9.7,9.3
-199,Kazimierz Dolny,3850,9.3,10.0
-200,Nowodwór,2394,9.7,9.8
-201,Bondyrz,1430,10.0,8.8
-202,Kazimierz Dolny,3430,9.4,8.7
-203,Janów Podlaski,2678,9.8,9.2
-204,Bór,6501,10.0,9.3
-205,Lublin,3528,10.0,9.4
-206,Lublin,3185,10.0,9.3
-207,Zynie,3250,8.2,9.5
-208,"Stare Miasto, Lublin",2461,9.1,9.7
-209,Lublin,2453,9.3,9.3
-210,Lublin,3359,9.8,9.0
-211,Majdan Kasztelański,3824,9.8,8.8
-212,Nałęczów,2898,9.0,9.3
-213,Lublin,2280,8.7,9.5
-214,Lublin,2760,10.0,9.7
-215,Lublin,2083,9.8,9.0
-216,Gilów,8757,8.7,8.3
-217,Okuninka,3507,8.7,8.8
-218,Urszulin,4050,8.9,9.7
-219,Jedlanka Nowa,3719,9.3,10.0
-220,Neple,2340,9.5,9.2
-221,Chełm,2380,9.3,9.6
-222,Lublin,2590,9.6,9.1
-223,Lublin,3080,9.6,8.4
-224,Lublin,3260,9.2,8.7
-225,Zamość,3500,9.1,9.2
-226,Janów Lubelski,2450,8.0,9.1
-227,Zamość,2357,9.0,10.0
-228,Lublin,3500,9.4,9.9
-229,Zamość,3273,9.6,9.7
-230,Lublin,3493,9.1,9.5
-231,Krasnobród,4620,6.0,8.1
-232,Nielisz,2800,8.6,9.5
-233,Lublin,2410,9.1,9.3
-234,Zamość,2660,9.8,10.0
-235,Biała Podlaska,2550,9.5,8.3
-236,Lublin,2760,9.0,10.0
-237,Kraśnik,1363,9.8,9.5
-238,Dęblin,2100,9.6,9.8
-239,Kazimierz Dolny,2506,8.4,9.7
-240,Lublin,3080,9.0,9.9
-241,Wiski,1765,9.1,8.8
-242,Zamość,2331,9.2,10.0
-243,Krasnobród,4641,9.9,10.0
-244,Lublin,1872,9.6,9.5
-245,Lublin,2293,9.8,10.0
-246,Zamość,1488,9.4,9.6
-247,Lublin,2723,1.0,10.0
-248,Kazimierz Dolny,2506,8.5,8.2
-249,Lublin,3080,9.6,9.9
-250,Okuninka,8981,9.2,8.3
-251,Lublin,3785,9.5,10.0
-252,"Stare Miasto, Lublin",2829,8.3,9.3
-253,Nałęczów,1848,9.8,10.0
-254,Lublin,1973,9.5,9.4
-255,Kazimierz Dolny,4900,9.7,9.2
-256,Zamość,3580,9.9,9.0
-257,"Stare Miasto, Lublin",3443,9.9,8.6
-258,Włodawa,2253,8.8,8.8
-259,Krasnobród,2905,10.0,9.2
-260,Lublin,2227,9.9,9.7
-261,Lublin,2590,9.6,9.8
-262,Lublin,3570,8.0,9.4
-263,Lublin,3192,9.7,10.0
-264,Lublin,4730,9.5,9.9
-265,Zamość,1890,7.5,9.5
-266,Lublin,1729,8.8,9.2
-267,Sułów,3598,8.1,9.0
-268,Husinka,3150,9.8,8.6
-269,Majdan Sopocki,4900,8.4,8.8
-270,Kazimierz Dolny,3272,9.6,9.2
-271,Susiec,3416,9.1,9.7
-272,Lublin,2835,10.0,9.8
-273,Lublin,3002,9.5,9.4
-274,Wierzchoniów,3376,9.3,10.0
-275,"Stare Miasto, Lublin",3348,9.0,9.9
-276,"Stare Miasto, Lublin",3640,7.7,9.5
-277,Lublin,1950,8.7,9.5
-278,Zamość,3940,8.8,8.3
-279,Kazimierz Dolny,3500,9.7,10.0
-280,Hucisko,2340,9.3,9.7
-281,Zamość,1785,9.8,9.9
-282,Zamość,2142,7.3,10.0
-283,Lublin,3080,8.6,9.4
-284,Kazimierz Dolny,9400,6.9,8.3
-285,Nałęczów,7343,9.7,10.0
-286,Wólka Łosiniecka,4467,9.5,9.9
-287,Lublin,1890,9.5,8.5
-288,Świdnik,2274,9.3,9.9
-289,"Stare Miasto, Lublin",2189,9.0,8.8
-290,Tomaszów Lubelski,2625,7.7,9.6
-291,Zamość,3633,8.7,9.7
-292,Zwierzyniec,5250,8.8,8.9
-293,Okuninka,4794,9.7,10.0
-294,Okuninka,3416,9.3,9.4
-295,Ostrów Lubelski,2800,9.8,10.0
-296,Zamość,3850,7.3,10.0
-297,Kazimierz Dolny,9605,8.6,8.9
-298,Lublin,2583,6.9,8.3
-299,Lublin,2835,9.7,8.8
-300,Lublin,3080,9.5,9.3
-301,Kazimierz Dolny,9400,9.5,9.3
-302,Nałęczów,7343,9.6,8.5
-303,Wólka Łosiniecka,4467,9.7,9.5
-304,Lublin,1890,9.7,9.9
-305,Świdnik,2274,9.7,9.2
-306,"Stare Miasto, Lublin",2189,9.8,10.0
-307,Tomaszów Lubelski,2625,9.6,9.8
-308,Zamość,3633,9.3,9.0
-309,Zwierzyniec,5250,8.3,9.8
-310,Okuninka,4794,10.0,9.3
-311,Okuninka,3416,9.7,9.3
-312,Ostrów Lubelski,2800,8.3,9.2
-313,Zamość,3850,9.9,9.6
-314,Kazimierz Dolny,9605,8.6,9.1
-315,Lublin,2583,9.3,9.5
-316,Lublin,2835,9.5,10.0
-317,Kazimierz Dolny,3650,9.0,9.5
-318,Bondyrz,2660,10.0,10.0
-319,Zamość,3458,9.9,9.2
-320,Weremowice,1813,9.5,10.0
-321,Zamość,6843,10.0,9.9
-322,Adamów,3212,9.0,9.8
-323,Lublin,2320,8.9,9.0
-324,Kazimierz Dolny,4256,8.0,10.0
-325,Adamów,4681,9.0,9.8
-326,Nałęczów,3388,9.1,9.3
-327,Susiec,2800,9.4,9.3
-328,Zamość,3010,9.1,9.2
-329,Lublin,2660,9.5,9.6
-330,Uścimów,4956,9.8,9.1
-331,Lublin,2797,8.0,9.5
-332,Zamość,2100,10.0,9.0
-333,Lublin,2989,9.8,9.5
-334,Zamość,2910,8.9,10.0
-335,Kawęczynek,2633,9.6,9.2
-336,Zamość,2130,9.3,10.0
-337,Zwierzyniec,5670,9.3,9.9
-338,Chełm,2450,9.3,9.8
-339,Lublin,2127,10.0,9.0
-340,Okuninka,2305,9.4,8.9
-341,Biała Podlaska,2450,7.0,10.0
-342,Zwierzyniec,5040,8.0,9.9
-343,Nałęczów,2093,9.6,8.3
-344,Kazimierz Dolny,4380,10.0,10.0
-345,Kazimierz Dolny,7100,9.5,9.3
-346,Zamość,2856,10.0,9.4
-347,Okuninka,3804,9.1,10.0
-348,Lipowiec,3500,10.0,9.4
-349,Uścimów,4445,9.7,9.2
-350,Lublin,4707,9.7,9.3
-351,Biała Podlaska,2800,8.0,9.2
-352,Biała Podlaska,1764,9.1,8.1
-353,Biała Podlaska,2380,9.8,8.4
-354,Lublin,2800,9.6,8.5
-355,Lublin,5250,9.3,10.0
-356,Chodel,6581,9.3,8.1
-357,Zamość,3220,9.3,8.4
-358,Krasnobród,3640,10.0,9.4
-359,Biała Podlaska,1750,9.4,9.9
-360,Okuninka,2409,7.0,9.0
-361,Adamów,1591,8.0,9.9
-362,Bondyrz,10325,9.6,9.3
-363,Koszele,4206,9.5,10.0
-364,Okuninka,2590,9.5,9.0
-365,Lublin,3150,10.0,9.8
-366,Zamość,2083,9.1,8.4
-367,Matiaszówka,4350,10.0,9.4
-368,Sosnowica,6119,9.7,9.9
-369,Rachanie,3255,9.7,9.0
-370,Nałęczów,4393,8.0,9.9
-371,Zamość,2646,9.1,9.3
-372,Lublin,2143,9.3,10.0
-373,Lublin,5093,9.8,9.0
-374,Zamość,2436,9.7,9.8
-375,Biała Podlaska,1764,9.2,9.6
-376,Biała Podlaska,2380,9.7,9.3
-377,Lublin,2800,9.2,8.0
-378,Lublin,5250,9.1,10.0
-379,Chodel,6581,9.2,10.0
-380,Zamość,3220,9.5,9.4
-381,Krasnobród,3640,9.3,9.8
-382,Biała Podlaska,1750,8.9,10.0
-383,Okuninka,2409,9.5,10.0
-384,Adamów,1591,7.9,10.0
-385,Bondyrz,10325,8.8,8.9
-386,Nałęczów,1820,8.3,8.8
-387,Okuninka,2590,9.1,9.6
-388,Lublin,3270,10.0,9.3
-389,Zamość,2083,8.3,8.5
-390,Matiaszówka,4350,8.6,8.8
-391,Sosnowica,6119,9.2,8.2
-392,Rachanie,3255,9.8,9.6
-393,Nałęczów,4393,9.3,9.4
-394,Zamość,2646,9.7,8.8
-395,Lublin,2143,9.5,9.4
-396,Lublin,5093,10.0,9.1
-397,Kazimierz Dolny,2880,8.0,8.4
-398,Zamość,2436,9.2,10.0
-399,Nałęczów,2918,9.7,9.7
-400,Włodawa,2083,8.6,8.8
-401,Krasnobród,4270,9.2,9.2
-402,Zamość,3920,9.8,8.7
-403,Kazimierz Dolny,9118,9.3,8.6
-404,Tomaszów Lubelski,2522,9.7,8.9
-405,Lublin,11472,9.5,8.7
-406,Przyśiołek,4550,10.0,8.6
-407,Lublin,5600,8.0,9.8
-408,Zamość,3273,9.2,9.2
-409,Lublin,3440,9.7,9.8
-410,Zamość,2450,9.3,8.6
-411,Kazimierz Dolny,4041,9.1,9.0
-412,Skierbieszów,3150,6.5,10.0
-413,Szczebrzeszyn,3500,8.0,9.2
-414,Zamość,3342,10.0,8.6
-415,Zamość,4944,9.0,8.5
-416,Zamość,3465,9.5,8.3
-417,Zamość,6300,9.4,8.9
-418,Krasnobród,3220,9.5,9.2
-419,Nałęczów,4641,9.7,8.5
-420,Kazimierz Dolny,11700,10.0,8.5
-421,Lubycza Królewska,14000,10.0,10.0
-422,Okuninka,2961,9.1,9.2
-423,Wojsławice,5786,7.9,8.9
-424,Okuninka,3150,7.4,10.0
-425,Zamość,4944,8.6,9.3
-426,Zamość,3465,9.5,9.9
-427,Zamość,6300,9.0,9.1
-428,Krasnobród,3220,8.6,8.5
-429,Nałęczów,4641,9.0,9.5
-430,Kazimierz Dolny,11700,8.6,9.4
-431,Lubycza Królewska,14000,9.5,9.0
-432,Okuninka,2961,9.3,8.7
-433,Wojsławice,5786,8.7,8.6
-434,Okuninka,3150,9.5,8.8
-435,Majdan Wielki,2675,9.1,9.0
-436,Kazimierz Dolny,11700,8.3,9.6
-437,Biszcza,3442,9.4,8.1
-438,Siedliska,5086,7.8,9.2
-439,Okuninka,4074,9.5,9.9
-440,Okuninka,2366,8.7,9.3
-441,Krasnobród,3713,8.3,8.2
-442,Krasnobród,3612,9.2,8.8
-443,Nałęczów,2898,8.9,9.0
-444,Zamość,7700,8.8,8.9
-445,Włodawa,5480,9.0,9.0
-446,Nielisz,3213,8.9,8.9
-447,Zamość,30593,8.8,9.4
-448,Krasnobród,4620,9.7,9.5
-449,Zynie,4947,9.6,8.9
-450,Chełm,1953,9.8,9.8
-451,Puławy,3640,9.1,8.4
-452,Kazimierz Dolny,3726,9.3,9.6
-453,Lublin,4586,9.8,9.0
-454,Zamość,3150,9.3,8.5
-455,Zamość,5950,9.1,8.9
-456,Lublin,2940,7.5,9.7
-457,Okuninka,1918,8.5,8.7
-458,Biłgoraj,1890,8.2,8.8
-459,"Stare Miasto, Lublin",2079,8.9,8.9
-460,Weremowice,1963,8.7,8.1
-461,Zamość,2786,8.7,9.2
-462,Kazimierz Dolny,10586,6.8,8.9
-463,"Stare Miasto, Lublin",2880,8.5,8.0
-464,Włodawa,2730,10.0,9.2
-465,Susiec,5100,9.2,9.0
-466,Biała Podlaska,2240,1.0,8.4
-467,Wronowice,3365,9.1,8.1
-468,Zamość,2240,9.7,8.5
-469,Zamość,2065,9.6,8.4
-470,Kazimierz Dolny,4050,9.8,9.2
-471,Firlej,2226,9.4,9.2
-472,Kazimierz Dolny,2793,7.9,8.7
-473,Zamość,3526,8.7,9.2
-474,Zwierzyniec,2450,6.8,9.9
-475,Kazimierz Dolny,2793,9.3,8.8
-476,Zamość,3526,9.4,10.0
-477,Kazimierz Dolny,7215,8.8,9.4
-478,Majdan Wielki,2294,9.1,8.5
-479,Janowiec,3150,8.6,8.2
-480,Wojciechów,2100,8.8,9.3
-481,Parczew,2100,8.7,8.5
-482,Wąwolnica,2415,9.3,8.4
-483,Udrycze,2961,7.3,9.2
-484,Hucisko,3059,9.6,9.2
-485,Zamość,2095,8.3,8.7
-486,Skierbieszów,2800,9.1,9.2
-487,Okuninka,1925,9.8,9.9
-488,Kazimierz Dolny,8920,9.3,8.8
-489,Nałęczów,4298,8.3,10.0
-490,Szczebrzeszyn,3990,9.1,9.4
-491,Nielisz,1912,7.9,8.5
-492,Kazimierz Dolny,5121,9.0,8.2
-493,Żłobek,4550,9.0,9.3
-494,Lubycza Królewska,4900,7.9,9.6
-495,Nowodwór,2240,7.9,9.0
-496,Tarasiuki,3855,9.0,8.2
-497,Kaczórki,4232,9.0,9.1
-498,Wojsławice,6424,7.9,9.1
-499,Ostrów Lubelski,3150,9.5,10.0
-500,Krasnystaw,4200,9.6,9.7
-501,Kazimierz Dolny,4074,9.1,8.7
-502,Kazimierz Dolny,4180,9.9,8.5
-503,Kazimierz Dolny,3715,8.7,8.2
-504,Okuninka,3038,9.4,9.3
-505,Kazimierz Dolny,4916,9.2,9.6
-506,Cieleśnica,3780,9.0,9.0
-507,Zwierzyniec,1890,9.2,8.2
-508,Kazimierz Dolny,3564,7.7,9.1
-509,Kazimierz Dolny,5045,9.5,9.1
-510,Szuminka,2501,7.2,10.0
-511,Kazimierz Dolny,4116,7.6,9.7
-512,Potok Senderski,3248,8.8,8.7
-513,Wisznice,2660,9.0,9.1
-514,Sobibór,4508,7.4,8.1
-515,Bobliwo,2800,9.2,9.2
-516,Kazimierz Dolny,3075,8.2,8.7
-517,Tereszpol,5354,9.3,8.9
-518,Lublin,3080,8.0,9.6
-519,Chełm,2030,7.9,8.1
-520,Guciów,1960,8.8,9.1
-521,Chełm,2940,7.3,8.1
-522,Małaszewicze Duże,3500,8.0,9.2
-523,Wąwolnica,3640,8.0,8.7
-524,Lublin,3396,9.0,8.9
-525,Chełm,2940,9.0,9.6
-526,Małaszewicze Duże,3500,8.1,9.7
-527,Wąwolnica,3640,8.1,8.1
-528,Lublin,3825,8.6,10.0
-529,Janów Lubelski,4760,8.7,8.0
-530,Krasnobród,3318,9.2,8.0
-531,Bondyrz,1989,9.2,9.5
-532,Nowy Gaj,8645,9.0,9.3
-533,Paskudy,1946,9.6,9.1
-534,Krasnobród,1931,9.9,9.8
-535,Firlej,2716,9.1,8.7
-536,Susiec,1750,9.7,8.6
-537,Adamów,2535,9.2,9.6
-538,Lipowiec,5600,6.9,9.3
-539,Krężnica Jara,1606,8.8,8.4
-540,Zwierzyniec,1943,7.3,9.2
-541,Ludwin,2447,8.3,8.5
-542,Puławy,3885,9.1,8.7
-543,Łęczna,3500,8.6,9.5
-544,Krasnobród,2184,8.7,8.8
-545,Zwierzyniec,1995,9.2,8.4
-546,Susiec,1540,9.2,9.3
-547,Biała Podlaska,2520,9.0,8.1
-548,Zamość,1428,9.6,8.6
-549,Susiec,4060,9.9,8.8
-550,Lublin,1730,9.1,9.3
-551,Kosin,2100,9.7,9.0
-552,Lublin,2100,9.2,9.6
-553,Nałęczów,3078,6.9,8.3
-554,Poniatowa,2391,8.8,9.1
-555,Lublin,1680,7.3,8.5
-556,Kraśniczyn,1652,8.3,8.6
-557,Nałęczów,3458,9.1,8.1
-558,Lublin,1764,9.7,8.9
-559,Puławy,1680,9.0,8.1
-560,Miączyn,1917,8.7,9.2
-561,Nałęczów,2420,9.3,9.4
-562,Wola Uhruska,1652,8.8,8.0
-563,Kazimierz Dolny,2590,9.9,9.3
-564,Biała Podlaska,1960,7.9,8.8
-565,Tomaszów Lubelski,4423,9.5,8.7
-566,Łęczna,3360,8.6,9.2
-567,Rablów,5048,8.8,9.4
-568,Pisklaki,5491,7.3,8.4
-569,Lublin,1820,8.3,9.3
-570,Nałęczów,1778,9.1,8.2
-571,Górniki,2210,9.7,9.4
-572,Krasnobród,2590,9.0,8.1
-573,Kazimierz Dolny,3500,8.7,8.4
-574,Szczebrzeszyn,2067,9.3,8.9
-575,Puławy,2240,8.8,8.7
-576,Miączyn,1917,9.9,8.6
-577,Nałęczów,2420,7.9,9.2
-578,Wola Uhruska,1652,9.5,8.3
-579,Kazimierz Dolny,2590,8.6,8.4
-580,Biała Podlaska,1960,9.4,8.4
-581,Tomaszów Lubelski,4423,8.2,8.9
-582,Łęczna,2800,9.1,9.5
-583,Rablów,5048,8.6,8.6
-584,Pisklaki,5491,9.1,8.2
-585,Lublin,1820,9.3,8.4
-586,Nałęczów,1778,7.9,9.3
-587,Górniki,2210,8.1,8.2
-588,Krasnobród,2590,7.4,9.4
-589,Kazimierz Dolny,3500,9.4,8.4
-590,Szczebrzeszyn,2067,8.2,8.9
-591,Kazimierz Dolny,3850,9.1,8.6
-592,Okuninka,5586,8.6,9.2
-593,Okuninka,5404,9.1,8.3
-594,Kodeń,2340,9.3,8.4
-595,Niemce,2879,9.8,8.4
-596,Kazimierz Dolny,4998,7.9,8.9
-597,Wojciechów,3360,8.1,9.5
-598,Nałęczów,3178,7.4,8.2
-599,Zamość,4130,8.0,8.9
-600,Nałęczów,1778,8.9,9.1
-601,Górniki,2210,7.8,8.3
-602,Krasnobród,2590,9.6,8.6
-603,Kazimierz Dolny,3500,9.3,9.0
-604,Szczebrzeszyn,2067,9.4,9.3
-605,Kazimierz Dolny,3850,9.7,9.3
-606,Okuninka,5586,9.0,8.6
-607,Okuninka,5404,7.8,9.2
-608,Kodeń,2340,8.7,8.8
-609,Niemce,2879,9.7,9.3
-610,Kazimierz Dolny,4998,9.1,8.3
-611,Wojciechów,3360,8.6,8.6
-612,Nałęczów,3178,8.8,9.5
-613,Zamość,4130,8.5,8.2
-614,Krasnobród,3360,8.7,8.3
-615,Zamość,2380,9.5,8.9
-616,Kazimierz Dolny,2244,8.6,8.6
-617,Pisklaki,1530,8.3,9.2
-618,Osowa,2493,6.2,9.4
-619,Krasnobród,2450,9.3,8.1
-620,Włodawa,3990,7.8,9.0
-621,Kazimierz Dolny,4036,8.3,9.2
-622,Okuninka,3626,8.4,8.0
-623,Lubycza Królewska,3080,8.8,9.3
-624,Kazimierz Dolny,4200,7.6,8.8
-625,Krasnobród,3360,9.1,8.7
-626,Zamość,2380,8.7,9.2
-627,Kazimierz Dolny,2380,9.4,8.7
-628,Pisklaki,1530,8.3,9.4
-629,Osowa,2245,9.1,9.4
-630,Krasnobród,2450,8.6,8.4
-631,Włodawa,3990,8.7,8.0
-632,Kazimierz Dolny,4036,7.9,8.5
-633,Wojszyn,5507,8.7,8.4
-634,Okuninka,3892,8.2,8.4
-635,Lubycza Królewska,3080,9.2,9.6
-636,Kazimierz Dolny,4200,9.1,8.7
-637,Okuninka,6124,7.8,10.0
-638,Nałęczów,5051,9.1,8.0
-639,Jacnia,2485,8.8,8.5
-640,Włodawa,3990,8.7,8.4
-641,Bobliwo,2499,9.0,8.4
-642,Kraśnik,4680,9.2,9.6
-643,Uhnin,2800,8.5,8.7
-644,Zwierzyniec,2800,9.2,10.0
+0,Lublin,2564,8.7,8.8
+1,Lublin,5592,9.0,9.3
+2,Lublin,5000,8.5,8.3
+3,"Stare Miasto, Lublin",3628,9.6,9.7
+4,Lublin,3630,8.1,8.3
+5,Chełm,2030,8.3,8.2
+6,"Stare Miasto, Lublin",4631,8.6,8.6
+7,Kraśnik,3080,8.6,8.6
+8,Chełm,2240,8.3,8.2
+9,Chełm,2940,7.9,9.0
+10,Biłgoraj,3640,9.0,9.2
+11,Zwierzyniec,1995,7.8,8.6
+12,Tomaszów Lubelski,3780,9.2,8.8
+13,Okuninka,5005,8.4,8.9
+14,Horbów,2730,8.8,8.8
+15,Hrubieszów,2100,8.9,9.2
+16,Hrubieszów,3920,8.7,9.4
+17,Biłgoraj,1648,9.2,9.1
+18,Lublin,3056,9.1,9.4
+19,Janów Podlaski,8700,8.9,8.2
+20,Leśna Podlaska,5040,9.2,9.6
+21,Tomaszów Lubelski,4978,8.4,9.6
+22,Jedlanka Stara,2667,9.6,8.1
+23,Krasnobród,3311,9.4,8.7
+24,Susiec,7048,7.8,8.2
+25,Hrubieszów,3430,8.7,9.3
+26,Kock,2800,8.3,9.5
+27,Biała Podlaska,2306,9.2,10.0
+28,Tomaszów Lubelski,4746,9.6,9.6
+29,Lublin,5300,9.8,10.0
+30,Nielisz,3150,9.6,8.1
+31,Krasnobród,3311,9.7,9.0
+32,Biłgoraj,1369,8.2,8.5
+33,Biłgoraj,3570,9.1,8.2
+34,Puławy,3290,8.6,9.4
+35,Zamość,4452,8.2,8.6
+36,Krasnystaw,3080,8.5,8.3
+37,Puławy,2100,8.6,9.1
+38,Międzyrzec Podlaski,3920,8.4,9.6
+39,Parczew,3290,9.0,8.6
+40,Łęczna,1456,9.5,8.9
+41,Firlej,2716,9.0,8.0
+42,Firlej,2436,8.6,9.6
+43,Biała Podlaska,3360,8.7,8.9
+44,Radzyń Podlaski,2226,8.0,8.0
+45,Biłgoraj,2450,9.5,9.5
+46,Zamość,4830,7.7,8.0
+47,Krężnica Jara,1606,8.9,9.8
+48,Biała Podlaska,4060,8.0,8.0
+49,Świdnik,2800,7.7,8.4
+50,Krężnica Jara,1606,9.4,8.4
+51,Lublin,2420,8.1,9.8
+52,Nielisz,2023,8.0,8.3
+53,Lachówka Duża,2218,9.6,8.4
+54,Biłgoraj,2250,8.0,8.9
+55,Krasnystaw,1374,8.7,9.0
+56,Świdnik,2800,8.6,8.6
+57,Kraśnik,2527,9.8,8.9
+58,Poniatowa,2933,8.3,9.7
+59,Zwierzyniec,3332,8.7,8.8
+60,Woskrzenice Duże,3220,9.0,9.8
+61,Paskudy,1946,9.2,9.7
+62,Międzyrzec Podlaski,3080,8.6,8.8
+63,Susiec,1750,9.0,8.4
+64,Radzyń Podlaski,2380,6.1,8.6
+65,Zwierzyniec,2520,9.9,8.1
+66,Biała Podlaska,2218,7.5,9.8
+67,Biłgoraj,1496,9.5,8.6
+68,Kazimierz Dolny,1928,9.7,8.8
+69,Bogucin,1750,8.7,8.8
+70,Kazimierz Dolny,3680,9.0,9.1
+71,Świdnik,3780,8.7,10.0
+72,Zwierzyniec,2100,8.2,8.1
+73,Janowiec,5530,9.7,9.5
+74,Biała Podlaska,2520,8.5,8.5
+75,Kazimierz Dolny,7962,8.6,10.0
+76,Biała Podlaska,4379,8.9,9.3
+77,Lublin,3077,9.1,8.2
+78,Nałęczów,4018,9.5,8.1
+79,Lublin,3259,8.5,8.6
+80,Kazimierz Dolny,7560,9.3,8.3
+81,Biłgoraj,2100,9.1,9.1
+82,Kazimierz Dolny,5762,10.0,9.4
+83,Krasnobród,3360,9.2,8.9
+84,Hrubieszów,2450,8.2,9.6
+85,Łuków,2800,8.3,9.3
+86,Puławy,3391,7.7,8.7
+87,Biała Podlaska,2660,9.0,8.9
+88,Puławy,3885,8.1,9.6
+89,Krasnobród,2722,8.4,9.3
+90,Blizów,2450,9.1,9.5
+91,Zwierzyniec,3290,9.5,9.1
+92,Niedrzwica Kościelna,2800,8.8,9.2
+93,Biała Podlaska,1680,9.6,8.7
+94,Lublin,3162,9.2,8.9
+95,Udrycze,2487,8.9,9.2
+96,Zamość,3766,7.3,8.3
+97,Łęczna,3500,8.8,8.7
+98,Wisznice,2660,8.8,8.5
+99,Zwierzyniec,1890,9.6,10.0
+100,Lublin,3162,9.2,9.7
+101,Udrycze,2487,9.3,9.6
+102,Zamość,3766,9.0,8.9
+103,Kazimierz Dolny,4466,9.3,9.1
+104,Zamość,3570,9.0,8.8
+105,Zamość,1428,7.2,9.1
+106,Krasnobród,1764,8.8,9.2
+107,Chełm,3780,9.3,9.6
+108,Radzyń Podlaski,2380,8.3,9.0
+109,Zwierzyniec,3094,8.5,9.7
+110,Nałęczów,3233,9.1,9.8
+111,Okuninka,5496,10.0,9.1
+112,Krasnobród,3360,9.7,9.2
+113,Kock,1339,9.7,9.7
+114,Janowiec,3535,8.9,8.8
+115,Janów Lubelski,2800,9.4,8.1
+116,Kazimierzówka,4480,8.8,8.6
+117,Zwierzyniec,2800,8.9,9.7
+118,Józefów na Wisłą,2970,9.1,8.0
+119,Zwierzyniec,2730,9.6,9.6
+120,Biała Podlaska,1490,9.3,8.9
+121,Biała Podlaska,1595,9.7,8.3
+122,Potok Senderski,3248,9.7,9.7
+123,Biała Podlaska,1785,9.5,9.6
+124,Susiec,4200,9.1,9.5
+125,Ludwin,2447,7.2,9.2
+126,Lublin,4814,9.8,9.8
+127,Chełm,3780,8.7,9.3
+128,Biała Podlaska,1601,7.6,9.3
+129,Kazimierz Dolny,5506,8.1,10.0
+130,Nałęczów,5950,8.7,8.5
+131,Radzyń Podlaski,2160,9.7,9.3
+132,Międzyrzec Podlaski,2660,7.8,9.4
+133,Biała Podlaska,1785,9.5,10.0
+134,Horodło,2543,9.0,9.8
+135,Kazimierz Dolny,3351,7.3,8.5
+136,Wąwolnica,3640,8.5,8.5
+137,Lublin,2389,9.7,9.1
+138,Tomaszów Lubelski,3620,9.5,8.8
+139,Świdnik,2205,9.2,9.9
+140,Lublin,3486,8.0,9.3
+141,Dęblin,2940,9.6,8.8
+142,"Stare Miasto, Lublin",1986,9.9,8.5
+143,Majdan Wielki,2294,9.1,8.8
+144,Zwierzyniec,6300,9.3,10.0
+145,Lublin,5110,10.0,9.9
+146,Uhnin,2800,8.6,9.5
+147,Kock,1339,7.6,9.7
+148,Zamość,3665,9.3,9.8
+149,Okuninka,4046,9.3,9.5
+150,Puławy,2910,9.8,8.8
+151,Kazimierz Dolny,6961,9.7,9.1
+152,Wąwolnica,2415,8.6,8.3
+153,Zamość,3500,9.0,9.6
+154,Zamość,4200,9.2,9.9
+155,Adamów,2535,8.8,8.3
+156,Kazimierz Dolny,3434,9.9,9.6
+157,Lublin,3150,9.4,8.8
+158,Bondyrz,3970,8.0,8.5
+159,Kazimierz Dolny,2883,8.6,9.6
+160,Kodeń,2240,9.0,9.6
+161,Zemborzyce Tereszyńskie,3360,10.0,8.5
+162,Okuninka,1918,9.9,9.6
+163,Zwierzyniec,5600,9.8,8.9
+164,Krasnystaw,4200,9.6,8.8
+165,Cyców,4971,9.8,8.8
+166,Lublin,2700,9.6,8.3
+167,Janowiec,2310,9.1,9.5
+168,Kraśnik,4680,9.1,9.1
+169,Guciów,1960,7.9,9.3
+170,Skierbieszów,6300,8.0,8.1
+171,Puławy,3640,9.6,10.0
+172,Lublin,2870,7.9,9.9
+173,Susiec,2450,9.8,8.6
+174,Szczebrzeszyn,3290,8.2,9.8
+175,Biłgoraj,1603,9.5,8.1
+176,Biała Podlaska,2296,9.0,9.7
+177,"Stare Miasto, Lublin",2079,8.2,9.0
+178,Krasnobród,2919,9.6,8.7
+179,Zamość,4351,9.5,9.6
+180,Biała Podlaska,2100,8.0,8.7
+181,Kazimierz Dolny,3500,6.6,9.3
+182,Susiec,4060,8.6,8.1
+183,Kaczórki,2830,9.6,9.0
+184,Zemborzyce Tereszyńskie,2660,8.7,9.3
+185,Łuków,2410,8.0,8.6
+186,Lublin,6446,8.7,9.5
+187,Kodeń,2240,8.5,9.2
+188,Nałęczów,4578,9.3,9.2
+189,Zamość,1960,9.2,9.2
+190,"Stare Miasto, Lublin",3046,7.7,8.3
+191,Lublin,2520,9.6,9.4
+192,Dęblin,3920,7.9,9.6
+193,Janów Podlaski,2800,9.9,9.2
+194,Mircze,3864,7.3,8.9
+195,Tomaszów Lubelski,2450,9.9,8.8
+196,Okuninka,2597,8.7,9.2
+197,Lublin,1840,9.8,9.0
+198,Bondyrz,3970,7.4,8.3
+199,Lublin,1890,6.8,8.2
+200,Janowiec,2310,8.3,9.4
+201,Kazimierz Dolny,3726,9.7,9.3
+202,Okuninka,3038,9.0,8.5
+203,Bobliwo,2800,8.6,9.3
+204,Kazimierz Dolny,3850,9.6,9.1
+205,Małaszewicze Duże,3500,8.6,9.4
+206,Kazimierz Dolny,5153,9.3,10.0
+207,Janowiec,3220,8.2,8.4
+208,Kazimierz Dolny,5805,8.1,8.7
+209,Lublin,1890,7.5,9.6
+210,Lublin,3290,8.7,8.2
+211,Susiec,1400,9.1,8.7
+212,Zamość,2230,9.1,8.7
+213,Lublin,7300,9.7,8.8
+214,Lublin,4340,7.9,9.1
+215,Wojciechów,2100,8.8,8.8
+216,Biała Podlaska,3082,9.2,8.8
+217,Lublin,3942,9.0,9.6
+218,Nałęczów,1474,9.1,9.8
+219,Kazimierz Dolny,4050,9.0,9.7
+220,Lublin,6500,9.7,8.8
+221,Krasnobród,3293,9.3,8.5
+222,Lublin,4699,9.1,8.5
+223,Chełm,2646,9.1,9.7
+224,Udrycze,2961,9.1,8.7
+225,Bondyrz,2291,9.2,8.9
+226,Zwierzyniec,2327,8.5,9.4
+227,"Stare Miasto, Lublin",2100,8.3,9.0
+228,Kazimierz Dolny,4564,9.0,10.0
+229,"Stare Miasto, Lublin",3003,8.9,9.8
+230,Zamość,2328,8.0,10.0
+231,Zemborzyce Tereszyńskie,2940,8.5,9.8
+232,Lublin,4506,9.2,8.9
+233,Janowiec,3500,9.2,8.1
+234,Lublin,2800,7.2,9.6
+235,Lublin,3255,9.4,9.4
+236,"Stare Miasto, Lublin",4566,10.0,8.9
+237,Kazimierz Dolny,2610,8.5,9.7
+238,Puławy,3042,8.5,8.2
+239,Lublin,4980,9.7,9.8
+240,Zamość,1890,9.3,10.0
+241,Wojcieszków,2520,8.9,9.8
+242,Zamość,3920,9.3,8.9
+243,Zamość,2875,8.6,9.0
+244,Orchówek,2045,9.1,8.9
+245,Kazimierz Dolny,4130,9.2,9.4
+246,Susiec,1428,8.7,8.2
+247,Lublin,4686,8.1,9.5
+248,Lublin,3480,9.4,8.5
+249,Nielisz,2835,9.7,9.5
+250,Lublin,3290,9.5,10.0
+251,Susiec,1400,8.0,8.4
+252,"Stare Miasto, Lublin",3830,8.3,8.2
+253,Chełm,2329,8.5,8.5
+254,Nałęczów,2198,9.8,9.7
+255,Nielisz,2800,9.2,8.6
+256,Zamość,7011,8.7,9.7
+257,Lublin,3906,9.3,9.6
+258,Lubycza Królewska,2677,8.8,8.7
+259,Susiec,2156,10.0,9.0
+260,Zamość,3038,9.8,8.0
+261,Chełm,2688,10.0,8.1
+262,Lublin,3110,9.7,9.7
+263,Józefów,2520,8.8,9.1
+264,Zamość,5086,8.1,9.1
+265,Nielisz,4830,9.5,9.7
+266,Zamość,3573,9.5,8.9
+267,Kazimierz Dolny,4200,9.2,9.5
+268,Lublin,2273,9.7,9.1
+269,Lublin,2923,8.4,9.9
+270,Lublin,2898,8.2,9.3
+271,Kazimierz Dolny,2380,9.8,8.2
+272,Zamość,3150,10.0,8.0
+273,Lublin,1943,9.7,9.4
+274,Okuninka,2856,8.8,8.4
+275,Zamość,5086,9.1,9.5
+276,Nielisz,4830,8.8,8.8
+277,Zamość,3573,9.5,9.9
+278,Kazimierz Dolny,4060,8.4,8.6
+279,Lublin,3675,8.2,9.0
+280,Lublin,2590,7.9,9.9
+281,Lublin,3052,9.2,8.4
+282,Lublin,1943,8.4,8.8
+283,Okuninka,2506,9.3,8.3
+284,Kazimierz Dolny,4180,9.9,8.6
+285,Nałęczów,2764,8.9,9.0
+286,Lublin,1855,8.4,9.7
+287,Nałęczów,3024,8.7,9.4
+288,Kulików,4818,9.7,9.1
+289,Janów Podlaski,3640,7.8,9.3
+290,Nałęczów,2478,8.6,9.2
+291,Szczebrzeszyn,3990,9.0,8.8
+292,Zamość,1820,9.6,9.9
+293,Lublin,2293,9.5,9.7
+294,Lublin,1960,9.2,9.1
+295,Zwierzyniec,2975,8.9,9.8
+296,Krasnobród,4620,8.0,9.8
+297,Adamów,3822,8.1,8.7
+298,Susiec,2156,9.7,8.5
+299,Biała Podlaska,1540,9.1,9.4
+300,Nałęczów,3078,9.4,9.8
+301,Lublin,1680,9.7,10.0
+302,Biała Podlaska,2443,8.8,9.8
+303,"Stare Miasto, Lublin",2880,9.5,9.6
+304,Kazimierz Dolny,4603,8.2,8.5
+305,Kodeń,5792,9.0,8.8
+306,Tomaszów Lubelski,2800,9.9,8.8
+307,Lublin,2060,7.5,9.7
+308,Okuninka,2856,9.3,9.2
+309,Lublin,2410,8.7,8.8
+310,Tereszpol,5354,8.1,10.0
+311,Dąbrowica,1540,9.2,9.4
+312,Kazimierz Dolny,3500,8.0,9.5
+313,Okuninka,5404,8.5,8.6
+314,Lublin,2126,9.4,9.7
+315,Kazimierz Dolny,3150,8.5,9.6
+316,Kazimierz Dolny,2762,9.9,9.7
+317,Lublin,2193,8.8,8.4
+318,"Stare Miasto, Lublin",2625,9.0,9.5
+319,Poniatowa,2450,9.9,10.0
+320,Włodawa,5208,8.5,9.8
+321,Lublin,4730,8.5,9.6
+322,Zamość,3526,8.2,9.1
+323,Krasnobród,4288,8.8,9.0
+324,Tomaszów Lubelski,4423,9.0,10.0
+325,Lublin,2193,9.7,9.2
+326,Poniatowa,2450,9.5,8.8
+327,Włodawa,5208,9.1,9.4
+328,Okuninka,2695,9.1,9.8
+329,Zamość,3526,7.2,9.5
+330,Krasnobród,4288,9.5,9.8
+331,Nielisz,1974,8.5,8.6
+332,Kazimierz Dolny,2650,9.9,9.7
+333,Lublin,2713,9.7,9.2
+334,Lublin,3675,9.4,9.7
+335,Krasnobród,1771,9.8,8.4
+336,Tereszpol Zaorenda,2925,9.8,10.0
+337,Krasnobród,2604,8.7,9.8
+338,Puławy,2520,8.7,8.2
+339,Lublin,4730,9.5,10.0
+340,Chełm,2425,9.8,9.6
+341,Lublin,2660,8.7,9.1
+342,Biała Podlaska,1785,10.0,9.0
+343,Zamość,4725,10.0,10.0
+344,Lublin,5544,9.7,10.0
+345,Szczebrzeszyn,3990,8.5,9.2
+346,Nałęczów,2374,8.7,9.4
+347,Chełm,2380,8.6,8.9
+348,Jedlanka Nowa,3719,9.4,9.6
+349,Zamość,3832,9.2,9.0
+350,"Stare Miasto, Lublin",3136,8.8,10.0
+351,Lublin,4169,10.0,8.5
+352,Skierbieszów,2800,9.4,8.5
+353,Lublin,3361,9.4,8.8
+354,Lublin,6150,8.9,9.6
+355,Janowiec,3213,9.6,9.4
+356,Nałęczów,2420,9.9,9.9
+357,Lublin,1946,9.8,9.9
+358,Zwierzyniec,4200,8.3,8.4
+359,Kazimierz Dolny,3595,9.6,9.3
+360,"Stare Miasto, Lublin",2461,9.5,9.5
+361,Lublin,2142,7.8,8.8
+362,Biała Podlaska,2576,9.6,9.7
+363,Zalesie,5310,9.4,9.0
+364,Okuninka,3507,9.1,9.3
+365,Włodawa,2730,8.8,9.8
+366,Lublin,2058,10.0,8.6
+367,Chełm,2053,9.0,9.4
+368,Lublin,4466,8.7,9.8
+369,Adamów,3977,9.4,9.6
+370,Zamość,3206,9.8,9.8
+371,Lublin,2485,9.4,9.9
+372,Kosin,2100,9.7,9.6
+373,Rachanie,3255,8.9,9.7
+374,Lublin,2030,9.6,8.9
+375,Lublin,3361,9.2,8.1
+376,Kazimierz Dolny,3595,9.8,9.6
+377,Józefów,3283,8.3,9.5
+378,"Stare Miasto, Lublin",2461,9.5,9.2
+379,Kazimierz Dolny,6880,7.8,8.4
+380,Lublin,2142,9.6,9.8
+381,Biała Podlaska,2627,8.7,9.6
+382,Nałęczów,2420,9.9,8.6
+383,Okuninka,3507,9.4,8.4
+384,Włodawa,2730,9.1,9.5
+385,Chełm,2053,8.8,8.5
+386,Lublin,4466,10.0,9.4
+387,Adamów,3977,9.5,9.6
+388,Okuninka,4604,9.0,8.8
+389,Sułów,3598,7.0,8.6
+390,Zamość,3266,9.2,9.3
+391,Lublin,2485,9.1,9.9
+392,Kosin,2100,8.1,9.2
+393,Krasnobród,2257,9.6,8.0
+394,Rachanie,3255,9.0,9.3
+395,Wiski,1765,9.5,8.5
+396,Lublin,2030,8.8,8.5
+397,Biała Podlaska,2380,8.6,9.8
+398,Lublin,2760,8.9,8.4
+399,Lublin,10710,9.3,9.7
+400,Poniatowa,2391,9.5,9.5
+401,"Stare Miasto, Lublin",2960,9.8,9.8
+402,Lublin,2333,7.6,9.4
+403,Wiski,1765,9.6,9.4
+404,Kazimierz Dolny,3625,8.6,8.0
+405,Puławy,1680,7.2,8.2
+406,Lublin,1946,9.0,8.9
+407,Lublin,2637,9.5,9.5
+408,Janów Lubelski,2450,9.0,9.3
+409,Lublin,2979,10.0,10.0
+410,Lublin,2273,9.3,8.3
+411,Tomaszów Lubelski,2450,9.7,8.8
+412,"Stare Miasto, Lublin",3894,9.7,8.3
+413,Ludwin,2216,8.7,9.3
+414,Lublin,2760,9.2,9.7
+415,Kazimierz Dolny,2660,9.7,9.1
+416,Lublin,2083,9.6,9.7
+417,Grabowiec,3039,9.7,9.2
+418,Kodeń,2130,9.8,9.3
+419,Lublin,2770,9.6,8.9
+420,Biała Podlaska,1764,9.2,9.7
+421,Świdnik,2274,9.1,8.5
+422,"Stare Miasto, Lublin",3229,8.1,8.5
+423,Blizów,3150,6.2,8.0
+424,Nowy Gaj,3850,9.5,9.8
+425,Blizów,3150,9.2,8.2
+426,Zamość,3213,8.9,8.4
+427,Nowy Gaj,3850,8.1,9.1
+428,Józefów,2975,7.5,9.8
+429,Krasnobród,2450,7.7,9.4
+430,Lublin,1764,9.7,9.9
+431,Lublin,1820,9.5,9.9
+432,Lublin,3060,8.6,9.5
+433,Nałęczów,4298,8.4,9.3
+434,Lublin,3260,9.4,10.0
+435,Puławy,2800,8.9,9.4
+436,Bondyrz,1430,9.3,8.3
+437,Lublin,2233,10.0,9.8
+438,Bór,4589,8.6,8.9
+439,Lublin,4300,8.7,8.9
+440,"Stare Miasto, Lublin",2644,9.3,9.9
+441,Lublin,2820,9.9,9.9
+442,Zamość,2620,8.9,9.6
+443,Chodel,1750,7.8,10.0
+444,Weremowice,2010,9.3,10.0
+445,Chodel,6581,8.6,9.0
+446,Kazimierz Dolny,8624,8.5,9.1
+447,Świdnik,2274,9.7,9.5
+448,Nowodwór,2394,8.4,9.5
+449,Lublin,4730,9.4,9.4
+450,Urszulin,4050,9.6,9.8
+451,Bobliwo,2499,9.8,8.3
+452,Lublin,2770,9.4,9.4
+453,Lublin,2940,9.7,9.3
+454,Kazimierz Dolny,5121,8.0,9.9
+455,Kazimierz Dolny,5438,8.1,9.2
+456,Zamość,1955,9.3,8.6
+457,Lublin,2293,9.6,9.3
+458,Orchówek,8304,9.3,9.4
+459,Lublin,3500,9.7,10.0
+460,Kazimierz Dolny,4410,8.0,8.8
+461,Lublin,2016,9.0,8.5
+462,Zamość,3035,8.1,9.0
+463,Kazimierz Dolny,3500,7.2,9.4
+464,Lublin,2443,9.3,9.0
+465,"Stare Miasto, Lublin",2600,9.5,8.1
+466,Kazimierz Dolny,3430,9.1,8.3
+467,Janów Podlaski,3850,9.8,8.8
+468,Nałęczów,5016,8.9,10.0
+469,Józefów,2450,9.3,9.9
+470,Krasnobród,4270,8.9,8.9
+471,Okuninka,2305,9.3,9.9
+472,Zamość,1488,8.6,10.0
+473,Zamość,3360,8.5,8.8
+474,Ludwin,2294,8.0,8.2
+475,Księżpol,2141,9.7,9.7
+476,Lublin,2240,8.1,10.0
+477,Kazimierz Dolny,8000,8.4,9.1
+478,Lublin,2770,9.0,9.3
+479,Urszulin,4050,9.8,8.9
+480,Lublin,2770,9.4,9.3
+481,Kazimierz Dolny,3615,9.5,8.3
+482,Zamość,2030,9.8,9.0
+483,Lublin,2940,9.6,8.4
+484,Kazimierz Dolny,8118,9.3,8.9
+485,Lublin,3703,9.7,9.6
+486,Kazimierz Dolny,5438,9.4,9.4
+487,Zamość,1955,8.0,9.2
+488,"Stare Miasto, Lublin",3060,9.8,9.1
+489,Lublin,2293,7.2,9.2
+490,Okuninka,5586,8.9,10.0
+491,Kazimierz Dolny,4410,8.2,8.4
+492,Lublin,2016,9.3,9.7
+493,Zwierzyniec,5349,9.9,9.1
+494,Lublin,2227,9.7,8.7
+495,Janów Podlaski,3850,9.9,9.2
+496,Józefów,2450,9.9,8.4
+497,Krasnobród,4270,9.5,8.5
+498,Nałęczów,2314,9.1,10.0
+499,Okuninka,2305,9.2,9.3
+500,Kazimierz Dolny,3850,7.9,8.5
+501,Ludwin,2216,9.0,8.3
+502,"Stare Miasto, Lublin",2920,9.6,9.7
+503,Urszulin,1996,9.4,9.0
+504,Kazimierz Dolny,3430,9.8,8.4
+505,Zamość,3010,8.3,8.5
+506,Nałęczów,3388,9.2,9.6
+507,Zalesie,5310,9.2,8.9
+508,Świdnik,2800,9.7,8.8
+509,Włodawa,2253,9.3,9.2
+510,Lublin,2900,7.4,9.4
+511,Wola Uhruska,1652,7.4,9.1
+512,Okuninka,3626,7.2,9.2
+513,Lublin,2760,9.1,10.0
+514,Zamość,2841,9.4,8.4
+515,Nałęczów,4550,9.3,9.7
+516,Lublin,2770,9.6,8.4
+517,Krasnobród,2905,8.8,9.7
+518,Lublin,3110,9.1,9.1
+519,Lublin,5306,9.0,8.7
+520,Lublin,3570,9.2,9.2
+521,Lublin,2770,9.1,8.4
+522,Zamość,3220,8.1,9.4
+523,Firlej,2141,8.6,9.4
+524,Kazimierz Dolny,7336,9.1,10.0
+525,Hucisko,2677,10.0,10.0
+526,Chełm,2536,9.7,8.9
+527,Lublin,2320,9.3,8.8
+528,Rablów,5048,9.8,8.1
+529,Lublin,2127,10.0,9.9
+530,Skierbieszów,3150,8.8,9.9
+531,Husinka,3150,8.2,9.2
+532,Kraśniczyn,1652,9.5,9.1
+533,Pisklaki,5491,10.0,9.6
+534,Lublin,3110,9.2,9.4
+535,Zamość,4788,9.0,8.1
+536,Miączyn,2131,9.1,9.4
+537,Łęczna,2800,7.6,8.1
+538,Józefów,5376,9.1,8.7
+539,Lublin,3420,8.4,8.5
+540,Chełm,2056,9.7,9.9
+541,Lublin,2276,8.7,10.0
+542,Żłobek,4550,7.1,9.3
+543,"Stare Miasto, Lublin",2169,8.9,8.2
+544,Lublin,3280,9.7,8.4
+545,Zamość,2100,9.5,10.0
+546,Majdan Kasztelański,3021,9.6,10.0
+547,Kazimierz Dolny,2506,8.9,9.9
+548,Zamość,1934,9.1,9.2
+549,Kazimierz Dolny,5187,7.7,9.2
+550,Lublin,1995,9.3,10.0
+551,Zwierzyniec,5040,8.1,8.1
+552,Lublin,1950,7.4,10.0
+553,Majdan Stuleński,1960,9.8,9.2
+554,Zaróbka,3150,7.5,10.0
+555,Lublin,3002,6.9,9.7
+556,Zamość,1890,9.0,10.0
+557,Kazimierz Dolny,3850,8.8,10.0
+558,Zamość,2394,9.2,9.2
+559,Biała Podlaska,1960,8.5,10.0
+560,Lublin,2760,7.6,9.7
+561,Zamość,2357,7.6,10.0
+562,Lublin,1890,8.0,8.9
+563,Tomaszów Lubelski,2522,9.1,9.2
+564,Nałęczów,7343,9.1,9.5
+565,Nałęczów,3458,8.4,9.6
+566,Kazimierz Dolny,4200,9.5,9.2
+567,"Stare Miasto, Lublin",2829,9.7,9.9
+568,Zamość,2380,8.7,9.6
+569,Zamość,3850,8.8,9.1
+570,Zamość,2331,7.1,9.6
+571,Szuminka,2501,9.7,8.9
+572,Zwierzyniec,4788,8.9,9.7
+573,Nowodwór,2240,8.8,9.3
+574,Lublin,2770,9.6,9.8
+575,Lublin,1995,9.5,9.3
+576,Biłgoraj,2261,8.9,9.9
+577,Kazimierz Dolny,3272,9.1,8.8
+578,Zwierzyniec,5040,7.7,9.9
+579,Kazimierz Dolny,4380,9.3,8.8
+580,Lublin,1950,8.1,9.0
+581,Lublin,2240,9.8,9.9
+582,Majdan Stuleński,1540,7.5,9.5
+583,Zaróbka,3150,8.1,9.2
+584,Nałęczów,1778,9.8,9.1
+585,Lublin,3002,7.5,9.8
+586,Kazimierz Dolny,3850,6.9,10.0
+587,Zamość,1890,9.0,9.6
+588,"Stare Miasto, Lublin",2169,8.8,10.0
+589,Hucisko,2340,9.2,9.0
+590,Biała Podlaska,1960,8.5,10.0
+591,Zamość,2394,9.3,9.3
+592,Lublin,2760,9.6,8.9
+593,Zamość,2357,10.0,9.2
+594,Lublin,1890,9.2,9.9
+595,Tomaszów Lubelski,2522,8.9,10.0
+596,Nałęczów,7343,10.0,9.3
+597,Nałęczów,3458,8.2,9.5
+598,"Stare Miasto, Lublin",2829,9.8,10.0
+599,Zamość,2380,9.9,9.0
+600,Nałęczów,3458,9.7,9.2
+601,"Stare Miasto, Lublin",2829,7.7,9.0
+602,Zamość,2380,8.9,10.0
+603,Zamość,3850,5.3,9.9
+604,Zamość,2331,9.8,9.3
+605,Szuminka,2500,7.8,9.2
+606,Zwierzyniec,4788,8.6,9.9
+607,Nowodwór,2240,7.9,10.0
+608,Lublin,2770,9.2,9.5
+609,Kazimierz Dolny,4646,8.3,9.8
+610,Kazimierz Dolny,4900,8.7,8.5
+611,Adamów,4681,8.3,9.2
+612,Susiec,5100,9.8,9.3
+613,Kazimierz Dolny,9020,9.5,10.0
+614,Guciów,20125,9.0,9.4
+615,Lublin,2170,9.1,9.2
+616,"Stare Miasto, Lublin",3640,8.6,9.4
+617,Lublin,4950,8.6,8.8
+618,Tomaszów Lubelski,2625,9.6,9.3
+619,Lublin,3570,9.6,9.3
+620,Lublin,2310,9.7,9.5
+621,Kraśnik,1337,9.4,8.1
+622,Krasnobród,4641,9.4,8.3
+623,Biała Podlaska,2240,10.0,10.0
+624,Ostrów Lubelski,2800,8.3,10.0
+625,Lublin,1680,9.9,9.4
+626,Nielisz,4830,8.8,10.0
+627,Zamość,3705,9.6,9.1
+628,Ulan,3080,9.5,9.0
+629,Susiec,3500,7.6,8.0
+630,Zwierzyniec,5250,10.0,9.0
+631,Lublin,2835,9.9,9.0
+632,Chełm,2450,8.8,9.9
+633,Lublin,2940,9.6,9.9
+634,Nałęczów,2408,9.5,10.0
+635,Zamość,4944,7.6,8.8
+636,Okuninka,4606,10.0,9.7
+637,Adamów,2600,8.9,9.6
+638,Nałęczów,4641,9.3,9.6
+639,Wojszyn,3442,9.5,10.0
+640,Długowola,3824,9.6,9.7
+641,Lipowiec,3500,9.4,9.0
+642,Zamość,2380,9.5,9.0
+643,Włodawa,3990,9.4,9.9
+644,Zamość,2794,8.8,9.9
+645,Lublin,3363,7.0,10.0
+646,Adamów,3059,9.5,8.8
+647,Wronowice,3365,9.0,9.7
+648,Krasne Kosów,4206,9.7,9.6
+649,Zamość,2910,9.2,9.6
+650,Włodawa,3990,7.7,9.7
+651,Zamość,2892,9.6,10.0
+652,Lublin,3363,9.3,8.9
+653,Adamów,3059,9.7,9.3
+654,Wronowice,3365,8.6,9.0
+655,Krasne Kosów,4206,9.7,8.0
+656,Zamość,2910,8.6,10.0
+657,Lublin,4900,8.8,10.0
+658,Lublin,5250,10.0,9.8
+659,Lublin,2835,9.6,10.0
+660,Sobibór,4508,9.1,8.0
+661,Kazimierz Dolny,13500,7.9,10.0
+662,Lublin,2583,9.4,9.3
+663,Lublin,3780,8.0,10.0
+664,Niemce,2879,9.9,9.8
+665,Zwierzyniec,2678,10.0,10.0
+666,"Stare Miasto, Lublin",4550,9.3,10.0
+667,Kazimierz Dolny,9400,10.0,9.9
+668,Weremowice,1813,8.9,10.0
+669,Zamość,3920,9.8,10.0
+670,Zamość,2730,9.3,9.3
+671,Zamość,2800,9.0,8.8
+672,Biała Podlaska,2380,8.0,8.1
