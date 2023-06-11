@@ -1,0 +1,442 @@
+,City,Cost,Rating,Comfort
+0,Sandomierz,5430,9.5,9.6
+1,Wojtyniów,3850,10.0,10.0
+2,Krajno-Zagórze,2380,9.8,9.9
+3,Sandomierz,5100,9.4,9.5
+4,Busko-Zdrój,3570,9.9,10.0
+5,Dwikozy,1470,9.4,9.3
+6,Starachowice,2303,9.0,9.3
+7,Łagów,2856,9.5,9.5
+8,Suchedniów,2450,9.4,9.2
+9,Bodzentyn,4095,9.9,9.9
+10,Krajno-Zagórze,2660,9.8,9.5
+11,Dwikozy,2968,9.3,9.6
+12,Chańcza,6009,9.2,9.4
+13,Jędrzejów,2646,9.7,9.9
+14,Zagnańsk,2083,9.7,10.0
+15,Nowa Huta,4393,9.8,9.8
+16,Sandomierz,1953,9.4,9.4
+17,Włoszczowa,2524,9.4,9.5
+18,Kielce,2893,9.3,9.3
+19,Bałtów,7700,9.7,9.6
+20,Ujny,2522,9.0,8.9
+21,Jeziorko,2600,9.2,9.2
+22,Solec-Zdrój,2560,9.6,9.4
+23,Rembów,3920,9.3,9.2
+24,Nowa Słupia,2800,9.5,9.1
+25,Sandomierz,1827,9.5,9.5
+26,Busko-Zdrój,3350,8.7,8.8
+27,Kielce,2432,10.0,10.0
+28,Sandomierz,2691,9.7,9.8
+29,Kielce,2678,9.4,9.5
+30,Tokarnia,2992,9.9,10.0
+31,Rytwiany,2940,9.6,9.9
+32,Sandomierz,2940,9.7,9.8
+33,Kielce,1960,9.2,9.2
+34,Sandomierz,2106,8.0,9.2
+35,Kielce,2380,9.2,8.7
+36,Kielce,1510,8.8,9.0
+37,Kielce,1862,8.9,9.6
+38,Sandomierz,2793,9.6,9.3
+39,Sandomierz,3010,9.3,10.0
+40,Sandomierz,4233,10.0,8.6
+41,Promnik,2906,8.5,9.4
+42,Kielce,2163,9.4,8.9
+43,Wola,3050,9.2,9.7
+44,Sandomierz,2800,9.6,8.7
+45,Bodzentyn,2800,9.3,9.7
+46,Kielce,2266,9.6,9.8
+47,Kielce,2410,9.7,8.8
+48,Chęciny,2450,9.0,9.1
+49,Sandomierz,2440,9.2,9.5
+50,Kielce,2693,9.4,9.0
+51,Kielce,2413,9.1,9.9
+52,Kielce,2835,9.9,9.0
+53,Kielce,2100,9.1,9.5
+54,Kielce,1940,9.5,9.7
+55,Sandomierz,2363,9.6,9.6
+56,Kielce,2100,9.5,10.0
+57,Kielce,3978,10.0,8.9
+58,Kielce,2373,8.9,8.5
+59,Kielce,3332,8.2,9.1
+60,Krajno Pierwsze,1574,9.2,9.9
+61,Kielce,2168,9.9,9.5
+62,Kielce,1478,8.2,9.9
+63,Kielce,1888,9.8,9.5
+64,Kielce,4632,9.9,9.8
+65,Kielce,2100,9.4,9.5
+66,Chęciny,3150,9.9,9.8
+67,Busko-Zdrój,3780,9.4,9.4
+68,Kolonia Pętkowice,4420,9.7,9.5
+69,Kielce,3995,9.3,8.3
+70,Kielce,3738,9.5,9.6
+71,Bodzentyn,2520,8.2,9.7
+72,Sandomierz,2450,9.5,9.7
+73,Sandomierz,3015,9.8,9.7
+74,Sandomierz,3044,9.6,8.9
+75,Bodzentyn,3010,9.5,9.5
+76,Sandomierz,3010,8.8,9.2
+77,Kielce,1547,9.5,9.8
+78,Sandomierz,2800,9.6,9.5
+79,Krajno Pierwsze,2484,9.7,8.1
+80,Kielce,5893,9.9,9.2
+81,Wiśniowa,7700,8.0,9.2
+82,Kielce,1750,9.1,9.8
+83,Sandomierz,3050,9.4,10.0
+84,Kielce,3780,9.8,9.0
+85,Kielce,2008,10.0,9.6
+86,Sobków,1991,9.1,8.2
+87,Ćmielów,3442,9.2,9.3
+88,Bodzentyn,2170,7.7,8.9
+89,Kielce,1995,8.6,9.9
+90,Święta Katarzyna,2450,9.2,10.0
+91,Kielce,2678,8.9,10.0
+92,Kielce,5199,9.7,10.0
+93,Kielce,2100,9.9,9.4
+94,Kielce,2430,10.0,10.0
+95,Krajno-Zagórze,2450,9.5,10.0
+96,Kielce,1607,9.4,9.3
+97,Sandomierz,2450,10.0,9.3
+98,Sandomierz,3109,9.7,8.2
+99,Kielce,3274,9.2,9.5
+100,Sandomierz,2100,8.8,9.2
+101,Suchowola,2600,8.0,9.2
+102,Ostrowiec Świętokrzyski,2800,9.6,10.0
+103,Krajno Zagórze Drugie,3500,9.3,9.3
+104,Kielce,2590,8.9,9.1
+105,Sandomierz,4100,9.7,10.0
+106,Kielce,1701,9.4,9.3
+107,Kielce,2678,9.4,9.7
+108,Suchedniów,2396,9.3,9.6
+109,Sandomierz,2450,9.2,9.3
+110,Sandomierz,3369,9.7,10.0
+111,Kielce,2310,9.6,9.3
+112,Kielce,2083,9.3,9.6
+113,Kielce,1893,10.0,9.2
+114,Busko-Zdrój,2261,9.7,9.0
+115,Kielce,2560,9.6,9.3
+116,Sandomierz,2934,9.1,9.8
+117,Kielce,2833,8.8,9.8
+118,Sandomierz,2945,9.2,10.0
+119,Kielce,2940,9.9,9.5
+120,Sandomierz,3500,9.7,9.4
+121,Sandomierz,3570,10.0,10.0
+122,Ożarów,3558,9.6,9.0
+123,Pińczów,2261,9.0,9.2
+124,Kielce,2513,10.0,9.7
+125,Kielce,2079,9.3,9.8
+126,Kielce,2746,9.3,9.8
+127,Sandomierz,3867,9.3,9.7
+128,Sandomierz,2093,9.8,9.5
+129,Kielce,2402,9.7,9.4
+130,Kielce,3030,9.7,9.6
+131,Kielce,3150,9.4,9.8
+132,Kielce,3863,9.5,9.5
+133,Kielce,2716,9.4,9.3
+134,Kielce,3500,9.7,9.2
+135,Kielce,3564,9.4,9.4
+136,Kielce,2202,9.3,9.5
+137,Kielce,4483,9.3,8.0
+138,Chęciny,3150,9.1,9.3
+139,Kielce,4023,9.4,10.0
+140,Kielce,2093,7.7,9.4
+141,Sandomierz,2030,9.4,9.5
+142,Chęciny,2142,9.5,9.9
+143,Kielce,3913,9.7,9.5
+144,Kielce,2170,9.5,9.8
+145,Sandomierz,2450,9.8,9.3
+146,Kielce,2093,9.6,10.0
+147,Kielce,4900,9.7,9.4
+148,Kielce,3483,9.4,10.0
+149,Kielce,3950,9.5,9.5
+150,Kielce,3913,9.7,9.9
+151,Kielce,2170,9.9,9.5
+152,Sandomierz,2450,9.5,9.8
+153,Sandomierz,2765,9.8,9.2
+154,Kielce,2093,9.6,9.8
+155,Kielce,4900,9.7,9.4
+156,Kielce,3483,9.0,9.8
+157,Kielce,3950,9.9,8.5
+158,Kielce,2820,9.1,9.3
+159,Kielce,7593,9.9,9.5
+160,Kielce,2520,8.5,10.0
+161,Kielce,5893,9.2,9.6
+162,Sandomierz,2463,9.2,9.9
+163,Sandomierz,3000,10.0,9.1
+164,Kielce,2926,9.6,10.0
+165,Masłów,4589,9.8,9.6
+166,Kielce,2520,9.4,9.1
+167,Kielce,3980,9.9,9.4
+168,Bieliny,3850,9.4,9.7
+169,Raków,4137,8.8,10.0
+170,Kielce,3760,9.4,9.4
+171,Kielce,2520,9.6,9.6
+172,Kielce,3723,9.8,9.5
+173,Daleszyce,3808,9.5,9.9
+174,Kielce,5603,9.4,10.0
+175,Kielce,3636,9.3,9.5
+176,Kielce,3863,9.8,9.8
+177,Kielce,5383,9.8,9.8
+178,Kielce,4463,9.4,9.3
+179,Kielce,2557,9.8,9.5
+180,Kielce,3896,9.8,9.7
+181,Kielce,4043,8.9,8.7
+182,Kielce,2416,9.3,9.4
+183,Wilków,4200,9.6,9.3
+184,Sandomierz,3594,8.9,9.7
+185,Kielce,2779,9.3,10.0
+186,Kielce,3913,9.5,9.6
+187,Lechów,6790,9.8,9.6
+188,Kielce,4893,9.8,10.0
+189,Kielce,5013,9.4,9.7
+190,Kielce,5013,9.4,9.5
+191,Cedzyna,2499,10.0,9.2
+192,Kielce,3522,9.7,10.0
+193,Kielce,5013,9.3,9.7
+194,Julianów,4698,9.1,10.0
+195,Sandomierz,3143,9.9,9.6
+196,Kielce,5093,9.6,9.6
+197,Kielce,2958,9.8,10.0
+198,Kielce,2826,9.4,9.7
+199,Kielce,3640,9.4,9.5
+200,Cedzyna,2499,10.0,9.2
+201,Kielce,3522,9.7,10.0
+202,Kielce,5013,9.3,9.7
+203,Julianów,4698,9.1,9.8
+204,Sandomierz,3143,9.9,9.4
+205,Kielce,5093,9.6,9.4
+206,Kielce,2958,9.5,9.6
+207,Kielce,2826,9.3,9.6
+208,Kielce,3640,9.8,10.0
+209,Kielce,5013,9.6,9.3
+210,Kielce,4753,9.5,9.2
+211,Bodzentyn,5809,10.0,10.0
+212,Sandomierz,3150,9.3,10.0
+213,Kielce,4963,9.1,9.6
+214,Masłów,5851,10.0,9.9
+215,Chmielnik,2048,9.8,9.7
+216,Kielce,5093,9.6,8.1
+217,Kielce,1890,9.8,9.8
+218,Kielce,4173,9.7,9.6
+219,Kielce,4199,8.6,9.9
+220,Kielce,3000,9.8,9.4
+221,Kielce,6213,9.4,10.0
+222,Kielce,3843,9.6,9.5
+223,Czarnocin,3824,9.3,9.9
+224,Sandomierz,2678,9.8,9.2
+225,Kielce,7613,9.4,9.4
+226,Kielce,6143,9.6,9.2
+227,Kielce,6143,9.3,9.4
+228,Bodzentyn,9300,9.5,8.8
+229,Kielce,6143,9.1,10.0
+230,Kielce,2196,9.1,9.1
+231,Kielce,3030,8.7,9.7
+232,Sandomierz,2083,10.0,9.1
+233,Raków,5600,9.3,10.0
+234,Kielce,2380,9.5,9.7
+235,Kielce,2958,8.9,9.9
+236,Kielce,2820,10.0,9.9
+237,Lechów,6410,9.9,9.3
+238,Kielce,6143,9.6,10.0
+239,Miedziana Góra,5107,9.7,10.0
+240,Wołów,4723,9.3,9.6
+241,Busko-Zdrój,3273,9.8,10.0
+242,Sandomierz,3850,9.8,10.0
+243,Kielce,4550,9.8,10.0
+244,Sandomierz,3220,9.5,8.8
+245,Bałtów,4135,10.0,9.0
+246,Wilków,3500,10.0,9.6
+247,Sandomierz,2995,8.8,9.1
+248,Busko-Zdrój,2887,7.3,9.3
+249,Busko-Zdrój,3629,9.5,8.4
+250,Raków,13391,9.0,9.1
+251,Sandomierz,7938,9.3,9.0
+252,Celiny,2293,7.7,9.5
+253,Obrazów,3407,8.4,9.6
+254,Wilków,2405,9.3,9.1
+255,Busko-Zdrój,2399,9.1,9.3
+256,Chańcza,5277,9.5,8.4
+257,Sandomierz,1785,9.5,9.1
+258,Oboźna Droga Masłów,4969,9.0,9.0
+259,Kielce,2746,9.3,9.5
+260,Szerzawy,20402,7.7,9.1
+261,Sandomierz,1757,8.4,8.9
+262,Kielce,3213,9.3,9.5
+263,Bodzentyn,4200,9.1,9.9
+264,Kielce,2136,9.5,8.8
+265,Ostrowiec Świętokrzyski,1960,9.3,10.0
+266,Bałtów,2730,9.2,9.5
+267,Solec-Zdrój,2562,9.4,9.0
+268,Kielce,3990,9.8,8.8
+269,Busko-Zdrój,4060,8.9,9.3
+270,Starachowice,3255,10.0,8.9
+271,Kielce,2093,9.4,9.4
+272,Sandomierz,2100,9.1,9.4
+273,Marzysz,3500,9.2,8.8
+274,Sandomierz,2100,9.4,8.8
+275,Solec-Zdrój,2562,9.0,9.1
+276,Kielce,3990,9.6,9.2
+277,Busko-Zdrój,4060,9.2,9.2
+278,Starachowice,3255,9.0,9.4
+279,Kielce,2093,9.5,9.7
+280,Sandomierz,2100,9.2,9.0
+281,Marzysz,3500,9.3,8.5
+282,Sandomierz,2100,7.2,8.9
+283,Sandomierz,3360,9.1,8.7
+284,Gartatowice,2240,9.3,9.3
+285,Solec-Zdrój,3612,9.4,9.0
+286,Święta Katarzyna,4550,8.9,8.4
+287,Solec-Zdrój,2058,8.3,9.3
+288,Obrazów,3442,8.8,9.5
+289,Sandomierz,5565,8.8,8.6
+290,Bieliny,2310,9.2,9.3
+291,Podłazie,2940,9.1,8.3
+292,Busko-Zdrój,3353,8.7,8.8
+293,Święta Katarzyna,5320,9.4,8.4
+294,Bieliny,3990,9.5,9.0
+295,Kielce,6860,8.8,9.6
+296,Sandomierz,3824,9.3,9.3
+297,Chęciny,5929,8.5,8.6
+298,Marzysz,3604,9.4,8.7
+299,Krajno Pierwsze,1820,8.4,8.3
+300,Krzelów,4851,9.0,8.8
+301,Nowa Słupia,4200,9.5,8.0
+302,Sandomierz,3080,9.5,8.4
+303,Kielce,1960,8.9,9.0
+304,Kielce,2450,6.4,9.6
+305,Sandomierz,4840,9.4,9.3
+306,Sandomierz,4145,8.5,10.0
+307,Sandomierz,4800,9.4,8.6
+308,Opatów,2520,8.6,9.3
+309,Busko-Zdrój,4900,8.4,9.2
+310,Dwikozy,2800,9.0,8.7
+311,Starachowice,2380,9.5,8.0
+312,Święta Katarzyna,1400,9.5,8.9
+313,Krajno Pierwsze,2064,10.0,9.1
+314,Busko-Zdrój,2170,8.9,8.8
+315,Bodzentyn,1785,6.4,8.5
+316,Busko-Zdrój,1960,9.4,8.9
+317,Krajno Pierwsze,1602,9.3,8.8
+318,Starachowice,2520,9.4,8.9
+319,Sandomierz,3220,8.3,9.7
+320,Sandomierz,3920,9.0,9.0
+321,Bałtów,2187,7.3,8.8
+322,Chęciny,2280,9.4,8.9
+323,Kielce,2166,9.1,9.7
+324,Pielaszów,2856,8.9,9.0
+325,Busko-Zdrój,2030,8.8,9.4
+326,Krajno Pierwsze,1602,8.8,8.3
+327,Bałtów,1820,8.9,8.4
+328,Starachowice,2520,10.0,9.3
+329,Sandomierz,3220,9.1,9.8
+330,Sandomierz,3920,8.3,8.6
+331,Bałtów,2187,8.8,8.4
+332,Głuchów,2294,8.9,9.7
+333,Chęciny,2280,10.0,8.7
+334,Kielce,2166,9.1,9.7
+335,Krajno Pierwsze,1714,8.3,9.6
+336,Krajno Pierwsze,1680,9.4,9.3
+337,Pielaszów,2856,8.5,9.8
+338,Przybysławice,3700,8.9,9.8
+339,Ostrowiec Świętokrzyski,2520,9.5,9.4
+340,Bałtów,2400,9.7,8.9
+341,Grzegorzewice,3500,8.7,8.0
+342,Sandomierz,2730,8.8,8.4
+343,Bałtów,2436,9.9,8.1
+344,Obrazów,1927,9.0,9.0
+345,Ostrowiec Świętokrzyski,1820,9.7,9.0
+346,Ostrowiec Świętokrzyski,2590,9.5,9.1
+347,Bałtów,2240,9.1,9.7
+348,Wiśniówka Mała,2699,9.8,8.3
+349,Cisów,2660,9.6,9.5
+350,Ostrowiec Świętokrzyski,1680,9.5,9.3
+351,Ostrowiec Świętokrzyski,2380,9.0,9.4
+352,Bałtów,2240,8.8,8.9
+353,Wiśniówka Mała,2753,8.6,8.3
+354,Cisów,2660,8.3,9.2
+355,Górno,2240,9.0,9.1
+356,Chęciny,1540,8.9,8.4
+357,Imielno,2708,9.2,9.5
+358,Krajno-Zagórze,2310,9.6,9.0
+359,Busko-Zdrój,3360,9.0,9.6
+360,Święta Katarzyna,2660,9.6,8.8
+361,Zagnańsk Zachełmie,1346,9.4,8.3
+362,Sandomierz,3080,9.3,8.9
+363,Krajno-Zagórze,2590,8.8,9.4
+364,Miedziana Góra,2310,8.1,8.9
+365,Bieganów,3792,9.7,9.1
+366,Sobków,2800,9.1,8.0
+367,Święta Katarzyna,5460,8.4,9.5
+368,Sandomierz,4000,9.5,9.2
+369,Krajno-Zagórze,2210,9.0,8.3
+370,Busko-Zdrój,2800,7.7,9.7
+371,Bieliny,1368,7.7,9.7
+372,Bieliny,4900,7.6,8.8
+373,Szydłów,2698,9.6,8.8
+374,Sandomierz,2499,8.9,10.0
+375,Ostrowiec Świętokrzyski,2590,8.5,9.4
+376,Solec-Zdrój,2338,9.1,10.0
+377,Sandomierz,2800,9.4,8.2
+378,Celiny,2800,9.0,8.7
+379,Waśniów,2753,9.3,8.3
+380,Sandomierz,3044,8.0,8.5
+381,Sandomierz,3920,7.1,8.9
+382,Krajno Pierwsze,1680,7.5,9.7
+383,Skorzeszyce,2262,6.2,9.5
+384,Włoszczowa,3442,9.6,9.1
+385,Wola Kopcowa,2625,9.4,8.2
+386,Imielno,2520,8.4,8.4
+387,Górno,2863,9.6,9.1
+388,Sandomierz,3220,9.5,8.1
+389,Stąporków,3843,8.8,8.2
+390,Zagnańsk,1890,7.8,8.2
+391,Kielce,2800,9.1,8.5
+392,Święta Katarzyna,5600,10.0,8.8
+393,Kielce,2310,8.1,8.5
+394,Wola Kopcowa,2520,9.3,8.6
+395,Górno-Parcele,1733,4.7,8.2
+396,Solec-Zdrój,2601,10.0,8.4
+397,Krajno Pierwsze,1960,8.3,8.9
+398,Sandomierz,2268,8.8,8.2
+399,Nowa Słupia,4340,9.0,9.1
+400,Huta Szklana,4760,8.5,8.1
+401,Busko-Zdrój,2345,9.1,9.0
+402,Sandomierz,2600,9.5,9.5
+403,Chocimów,2870,9.4,8.4
+404,Kielce,3102,8.7,8.8
+405,Busko-Zdrój,4326,8.3,9.1
+406,Szydłów,3500,8.4,9.1
+407,Zagnańsk,3360,9.0,8.4
+408,Czarny Las,1680,8.3,8.8
+409,Busko-Zdrój,3954,8.1,9.1
+410,Działoszyce,2240,8.3,9.1
+411,Sandomierz,5040,8.1,8.9
+412,Sandomierz,1960,8.5,8.4
+413,Tokarnia,3500,8.5,9.4
+414,Stąporków,1680,8.5,9.0
+415,Kunów,1925,8.0,8.2
+416,Morawica,5660,8.5,8.9
+417,Wiślica,5851,8.8,8.9
+418,Bałtów,5656,8.3,8.8
+419,Sandomierz,5100,9.0,9.1
+420,Chęciny,2240,7.9,8.1
+421,Ostrowiec Świętokrzyski,3850,9.0,9.4
+422,Sandomierz,4200,7.9,9.5
+423,Sandomierz,5040,9.5,8.3
+424,Święta Katarzyna,2450,8.5,8.1
+425,Busko-Zdrój,7710,8.6,9.6
+426,Ostrowiec Świętokrzyski,3220,7.9,8.5
+427,Raków,3430,8.9,8.0
+428,Kielce,5740,9.0,8.0
+429,Stopnica,1960,7.9,8.2
+430,Kielce,3526,8.5,8.9
+431,Kielce,3570,8.6,8.2
+432,Kielce,3720,7.9,8.8
+433,Kielce,3640,8.9,8.9
+434,Ostrowiec Świętokrzyski,3906,9.0,8.5
+435,Kielce,4550,7.3,8.2
+436,Rytwiany,5390,8.8,8.9
+437,Chańcza,3442,8.3,8.2
+438,Opatów,3472,9.0,8.7
+439,Bałtów,2786,8.7,9.6
+440,Busko-Zdrój,5440,8.3,9.8
