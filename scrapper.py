@@ -12,20 +12,45 @@ from selenium.webdriver.common.by import By
 # argument nr4 -> czy chcesz czekać na koniec skrapowania (domyślnie False)
 
 
-def web_scrapper(number_of_pages, file_to_save: str, link: str, wait_at_end=False):
+def web_scrapper(link: str, wait_at_end=False):
     assert isinstance(link, str), 'Link must be string!'
-    assert isinstance(file_to_save, str), 'file_to_save must be string!'
 
     driver = webdriver.Chrome('chromedriver.exe')
     driver.get(link)
-    sleep(3)
+    sleep(5)
 
     city_table = []
     cost_table = []
     rating_tab = []
     comfort_tab = []
 
-    for i in range(1, number_of_pages + 1):
+    f_to_save = driver.find_element(By.CSS_SELECTOR, '.efdb2b543b')
+    text_split = f_to_save.text.split()
+    print(text_split[0])
+
+    file_to_save = text_split[0].replace(":", "") + '.csv'
+
+    try:
+        page_nums = int(text_split[2])
+
+        if page_nums / 10 < 1:
+            page_nums = 40
+
+    except ValueError:
+        page_nums = int(text_split[3])
+
+        if page_nums / 10 < 1:
+            page_nums = 40
+
+    if page_nums != 40:
+        num_of_pages = int(page_nums / 25)
+        num_of_pages = num_of_pages + 1
+    else:
+        num_of_pages = page_nums
+
+    print(num_of_pages)
+
+    for i in range(1, num_of_pages + 1):
 
         if driver.find_element(By.ID, 'onetrust-accept-btn-handler').is_displayed():
             driver.find_element(By.ID, 'onetrust-accept-btn-handler').click()
