@@ -1,0 +1,329 @@
+,City,Cost,Rating,Comfort
+0,Niesulice,2274,8.8,9.1
+1,Skwierzyna,2625,8.8,8.8
+2,Radzyń,1417,7.8,9.2
+3,Nowa Sól,1953,9.1,8.3
+4,Słubice,2044,7.8,8.0
+5,Łagów,2199,8.3,8.7
+6,Gorzów Wielkopolski,2501,7.9,8.6
+7,Żary,1400,8.7,8.7
+8,Babimost,1644,8.6,9.1
+9,Jesionka,2163,8.6,9.5
+10,"Centrum, Zielona Góra",2012,9.0,8.6
+11,Kostrzyn nad Odrą,2290,7.5,9.3
+12,Gorzów Wielkopolski,1958,9.4,8.5
+13,Radzyń,2850,8.8,8.3
+14,Słońsk,2027,9.1,8.4
+15,Gorzów Wielkopolski,2940,8.3,9.5
+16,Łagów,4328,7.6,9.3
+17,Słubice,1940,8.1,8.3
+18,Olszyna,1680,8.5,8.5
+19,Gorzów Wielkopolski,1890,9.4,8.6
+20,"Centrum, Zielona Góra",1632,9.2,8.5
+21,Łęknica,2719,8.4,9.2
+22,Witnica,1190,7.5,8.1
+23,Słońsk,1625,8.2,8.6
+24,Lubniewice,4270,8.4,9.4
+25,Słońsk,1625,8.2,9.4
+26,Gorzów Wielkopolski,1927,7.8,8.0
+27,Strzelce Krajeńskie,2100,9.1,8.4
+28,Żary,2720,7.9,8.7
+29,Kosarzyn,1152,8.0,9.6
+30,Słubice,2073,8.6,8.7
+31,Lubiatów,1703,9.3,8.8
+32,"Centrum, Zielona Góra",2817,7.2,9.4
+33,Gorzów Wielkopolski,1870,9.4,8.9
+34,Kostrzyn nad Odrą,980,7.8,8.6
+35,Gorzów Wielkopolski,1890,8.4,8.8
+36,Gorzów Wielkopolski,1447,7.0,8.8
+37,Świebodzin,2195,8.8,9.1
+38,Łęknica,1644,9.5,8.8
+39,Szprotawa,2870,8.7,8.6
+40,Zielona Góra,2293,8.8,9.2
+41,Torzym,1260,9.3,8.4
+42,Lubniewice,4228,7.6,9.3
+43,Nowa Sól,1883,8.8,9.4
+44,Torzym,1680,8.7,8.1
+45,Międzyrzecz,1925,8.0,9.1
+46,Żary,1183,8.9,9.5
+47,Brody,2450,8.7,9.4
+48,Nowa Sól,1533,9.1,8.8
+49,"Centrum, Zielona Góra",1746,8.7,8.9
+50,Zielona Góra,1954,8.5,9.3
+51,"Centrum, Zielona Góra",1746,6.6,8.0
+52,Szprotawa,1190,8.9,8.6
+53,Gorzów Wielkopolski,1260,7.1,8.5
+54,"Centrum, Zielona Góra",3626,6.7,9.7
+55,Żary,1820,8.4,9.2
+56,Słubice,1190,9.3,9.3
+57,Ośno Lubuskie,2030,9.1,9.2
+58,"Centrum, Zielona Góra",3731,7.8,8.1
+59,Zielona Góra,2793,9.0,9.3
+60,Gorzów Wielkopolski,2030,7.7,8.9
+61,Lubrza,2200,9.2,8.9
+62,Kostrzyn nad Odrą,1890,9.3,9.7
+63,Torzym,1610,8.5,9.6
+64,Gorzów Wielkopolski,1785,7.8,8.1
+65,Gorzów Wielkopolski,1540,8.7,9.0
+66,Żary,2394,9.2,9.8
+67,Międzyrzecz,1680,7.9,8.2
+68,"Centrum, Zielona Góra",1680,8.6,8.0
+69,Torzym,1400,8.7,8.4
+70,Żary,1750,9.6,8.0
+71,Danków,1564,9.2,9.7
+72,Zielona Góra,2801,9.1,8.6
+73,Zielona Góra,2800,9.2,8.6
+74,Gubin,2240,7.6,9.2
+75,Zielona Góra,2800,9.1,9.5
+76,Gorzów Wielkopolski,1190,8.7,9.8
+77,Gubin,2240,8.2,8.1
+78,Nowa Sól,1260,9.4,9.8
+79,Niesulice,4415,9.5,9.5
+80,Niesulice,3500,7.9,9.8
+81,Zabór,3273,8.8,8.6
+82,Gorzów Wielkopolski,1700,9.5,8.6
+83,Rzepin,1883,8.1,8.0
+84,Zielona Góra,1400,7.8,8.1
+85,Nowa Wieś,3952,7.9,9.0
+86,Gubin,2380,8.3,9.0
+87,"Centrum, Zielona Góra",1590,8.7,9.4
+88,Słubice,1820,7.9,9.5
+89,Nowa Sól,1190,9.7,9.2
+90,Międzyrzecz,2100,8.5,8.1
+91,Żagań,2800,8.5,9.5
+92,Lubniewice,2240,8.9,8.7
+93,Dąbie,1071,9.3,9.2
+94,Gorzów Wielkopolski,2576,9.6,9.5
+95,Kostrzyn nad Odrą,2940,8.2,9.0
+96,Nowa Sól,1330,7.9,9.2
+97,Wilcze,2940,9.6,9.8
+98,Mostki,1750,9.3,9.3
+99,Słubice,1680,8.9,9.1
+100,Wilcze,2940,8.4,8.0
+101,Brzeźnica,2100,8.5,9.7
+102,Zielona Góra,2077,7.5,8.3
+103,Sulęcin,3603,8.3,9.3
+104,Świebodzin,2450,8.3,8.6
+105,Łagów,1323,8.2,8.8
+106,Przewóz,1960,7.8,9.5
+107,Mirostowice Górne,2020,7.8,9.0
+108,Słubice,2093,9.1,8.4
+109,Słubice,2020,8.9,9.4
+110,Międzyrzecz,1400,9.4,9.4
+111,Gorzów Wielkopolski,1600,9.5,8.9
+112,Zielona Góra,3683,9.0,9.7
+113,Gorzów Wielkopolski,1820,8.1,9.8
+114,Pszczew,1986,6.9,9.4
+115,Santoczno,1220,9.3,8.3
+116,"Centrum, Zielona Góra",1620,9.0,8.4
+117,Olszyna,980,9.2,9.5
+118,Zielona Góra,1890,9.6,9.1
+119,Żary,1400,7.0,9.1
+120,Lubniewice,2394,9.1,9.8
+121,Zielona Góra,1513,9.1,8.5
+122,Gorzów Wielkopolski,2100,9.6,9.4
+123,Zielona Góra,2240,7.7,9.5
+124,Jasień,1610,8.8,8.7
+125,Zielona Góra,3114,8.9,9.4
+126,Witnica,1225,8.6,9.2
+127,Zielona Góra,1958,9.4,9.5
+128,Gorzów Wielkopolski,1287,8.2,8.6
+129,Międzyrzecz,2520,9.3,9.4
+130,Gorzów Wielkopolski,1541,8.8,9.6
+131,Zielona Góra,2310,8.0,8.2
+132,Iłowa,3150,8.6,8.9
+133,"Centrum, Zielona Góra",1757,9.6,8.2
+134,Przytoczna,1666,9.1,8.8
+135,Zielona Góra,1050,8.0,8.9
+136,Łagów,4228,8.5,9.1
+137,Trzemeszno Lubuskie,2333,9.1,8.9
+138,Gorzów Wielkopolski,1610,9.1,9.0
+139,"Centrum, Zielona Góra",1487,9.0,9.8
+140,Lubięcin,1260,9.9,9.1
+141,Gorzów Wielkopolski,1680,9.6,8.8
+142,Skwierzyna,1400,7.9,8.7
+143,Gorzów Wielkopolski,1890,7.8,8.1
+144,Nowa Sól,2083,9.4,9.6
+145,Nowa Sól,1825,8.2,9.5
+146,Przełazy,964,8.4,8.9
+147,Żary,2793,9.6,8.7
+148,Gorzów Wielkopolski,1418,9.2,8.3
+149,Zielona Góra,1858,7.8,9.6
+150,Zielona Góra,1400,8.9,9.6
+151,Nowa Sól,1921,9.7,9.6
+152,Brody,1288,7.5,8.3
+153,Lubniewice,1428,7.2,9.2
+154,Sulechów,1547,8.6,9.4
+155,Gorzów Wielkopolski,1662,9.2,8.7
+156,Żagań,2601,9.6,8.6
+157,Długie,2450,8.9,8.5
+158,Międzyrzecz,1400,9.4,8.9
+159,Głębokie,3339,9.3,8.2
+160,Zielona Góra,2422,9.4,8.8
+161,Nowa Sól,2038,8.5,9.5
+162,Skwierzyna,1330,9.7,10.0
+163,Gorzów Wielkopolski,1418,8.1,9.9
+164,Zielona Góra,1701,9.4,9.4
+165,"Centrum, Zielona Góra",1482,8.6,9.2
+166,Nowa Niedrzwica,1450,8.9,8.7
+167,Gorzów Wielkopolski,1750,7.7,9.1
+168,Brody,2450,7.8,9.9
+169,Gorzów Wielkopolski,1770,8.1,9.4
+170,Trzciel,2149,8.6,8.0
+171,Międzyrzecz,1610,8.9,10.0
+172,"Centrum, Zielona Góra",1981,8.9,8.3
+173,Łagów,2576,7.7,9.4
+174,Torzym,1050,7.8,10.0
+175,Trzciel,2149,9.1,8.6
+176,Dąbie,3150,8.1,9.0
+177,Międzyrzecz,1610,8.8,9.4
+178,"Centrum, Zielona Góra",1981,9.1,10.0
+179,Łagów,1372,9.8,9.1
+180,Zielona Góra,1393,1.5,9.2
+181,Torzym,1232,7.0,10.0
+182,Zielona Góra,3430,9.0,9.8
+183,Trzebiechów,1970,9.1,9.0
+184,Brzeźnica,2240,8.8,10.0
+185,Zielona Góra,723,8.4,8.3
+186,Gorzów Wielkopolski,1305,9.5,9.7
+187,"Centrum, Zielona Góra",1350,9.5,9.2
+188,Lubin,1540,8.8,9.7
+189,"Centrum, Zielona Góra",1883,9.0,9.4
+190,Międzyrzecz,1495,8.5,8.3
+191,Radzyń,3150,9.5,9.4
+192,Zielona Góra,1363,9.5,8.2
+193,Lgiń,1817,9.7,9.4
+194,Łagów,2534,8.6,9.4
+195,Zielona Góra,1820,9.2,8.5
+196,Dąbie,4310,9.3,9.3
+197,Ołobok,1960,8.5,8.7
+198,Zielona Góra,1591,8.9,8.2
+199,Długie,3430,8.7,9.0
+200,Zielona Góra,1680,8.8,8.8
+201,"Centrum, Zielona Góra",1547,8.5,9.8
+202,Wschowa,2653,9.0,8.1
+203,Żary,1400,6.5,8.5
+204,Kalinowo,2520,9.4,9.8
+205,Gorzów Wielkopolski,1339,9.0,9.8
+206,Jędrzychowice,1190,9.7,8.9
+207,Zielona Góra,1883,8.6,9.6
+208,Międzyrzecz,1972,9.2,8.7
+209,Gorzów Wielkopolski,1750,8.8,9.3
+210,Zielona Góra,2163,9.0,8.0
+211,Gorzów Wielkopolski,1673,9.9,9.8
+212,Sława,4575,9.2,8.2
+213,"Centrum, Zielona Góra",1638,7.9,8.6
+214,"Centrum, Zielona Góra",1883,10.0,8.2
+215,Zielona Góra,2538,8.5,9.8
+216,"Centrum, Zielona Góra",4483,9.3,9.4
+217,Gorzów Wielkopolski,1610,9.6,9.2
+218,Łagów,2548,8.7,9.5
+219,"Centrum, Zielona Góra",3434,9.1,8.1
+220,Drzonków,1181,9.2,8.6
+221,Zielona Góra,1750,10.0,8.2
+222,Przewóz,1517,9.0,9.8
+223,"Centrum, Zielona Góra",1345,7.6,9.4
+224,Łagów,2247,8.9,9.2
+225,Gorzów Wielkopolski,1610,8.3,9.2
+226,"Centrum, Zielona Góra",3434,9.6,8.1
+227,Zielona Góra,1862,9.9,8.8
+228,"Centrum, Zielona Góra",1169,9.1,9.4
+229,"Centrum, Zielona Góra",1950,10.0,8.7
+230,Zielona Góra,1680,8.5,8.9
+231,Przewóz,1517,9.6,8.7
+232,Zielona Góra,1691,9.2,8.9
+233,Łagów,2247,9.5,9.8
+234,Zabór,1666,9.3,9.7
+235,Drzonków,1130,7.9,9.2
+236,Zielona Góra,1520,9.6,10.0
+237,"Centrum, Zielona Góra",1638,8.2,8.4
+238,"Centrum, Zielona Góra",1418,9.4,8.6
+239,Zielona Góra,1750,9.4,9.4
+240,Żary,3150,8.6,8.9
+241,Gorzów Wielkopolski,1663,9.1,10.0
+242,Zielona Góra,1496,8.8,10.0
+243,Zielona Góra,2100,7.7,9.0
+244,Gorzów Wielkopolski,1430,9.1,10.0
+245,Torzym,1190,7.9,9.5
+246,Świebodzin,4060,8.6,8.9
+247,Zielona Góra,2007,9.9,10.0
+248,Lubniewice,2856,8.0,9.6
+249,Zielona Góra,2315,6.5,9.0
+250,Przewóz,1540,7.3,9.1
+251,Łagów,2695,9.5,10.0
+252,Brzeźnica,2450,9.2,9.1
+253,Zielona Góra,2450,8.7,10.0
+254,Witnica,1428,9.6,9.8
+255,Ługi,1606,8.5,9.4
+256,Zielona Góra,1512,9.3,9.5
+257,Radzyń,3850,8.1,8.8
+258,Zielona Góra,1796,9.9,8.0
+259,Gorzów Wielkopolski,1820,8.7,9.5
+260,Zielona Góra,2023,8.7,9.6
+261,Drzeńsko,1411,8.2,9.0
+262,"Centrum, Zielona Góra",2093,9.4,10.0
+263,Bronków,4200,9.3,10.0
+264,Łagów,3437,6.8,9.1
+265,Niesulice,6038,9.3,10.0
+266,Łagów,1513,9.4,9.8
+267,"Centrum, Zielona Góra",2091,8.2,10.0
+268,Gorzów Wielkopolski,1818,7.3,9.4
+269,Zielona Góra,1900,8.7,9.5
+270,Międzyrzecz,2800,8.2,8.8
+271,Zielona Góra,2023,9.4,8.0
+272,Gorzów Wielkopolski,1770,9.3,9.5
+273,Sulechów,1540,6.8,9.3
+274,Zielona Góra,1325,9.3,9.4
+275,Łagów,1513,9.3,10.0
+276,"Centrum, Zielona Góra",2123,8.2,8.7
+277,Gorzów Wielkopolski,1818,7.3,9.4
+278,Zielona Góra,1900,7.7,9.5
+279,Międzyrzecz,2800,9.5,8.5
+280,Zielona Góra,2023,7.5,10.0
+281,"Centrum, Zielona Góra",2293,9.4,8.0
+282,Sulechów,1540,8.5,9.4
+283,Świebodzin,476,7.5,8.8
+284,Zielona Góra,1325,8.7,10.0
+285,Kożuchów,2065,8.5,9.9
+286,Krosno Odrzańskie,2478,8.7,10.0
+287,Skwierzyna,1050,9.6,9.1
+288,Zielona Góra,1553,9.7,9.7
+289,Zielona Góra,2093,9.0,8.6
+290,Gorzów Wielkopolski,803,6.0,8.8
+291,Zielona Góra,2468,10.0,10.0
+292,Zielona Góra,2023,8.3,9.4
+293,Zielona Góra,1191,8.5,9.7
+294,Zielona Góra,3130,9.2,8.9
+295,Strzelce Krajeńskie,2826,8.9,10.0
+296,Zabór,1130,10.0,9.8
+297,Bytom Odrzański,918,7.1,9.4
+298,Zielona Góra,2023,9.8,9.0
+299,Gorzów Wielkopolski,1740,9.2,9.9
+300,Kolesin,1470,10.0,9.0
+301,Gorzów Wielkopolski,1820,9.2,10.0
+302,Zielona Góra,1947,9.3,9.1
+303,Zielona Góra,1603,7.8,9.0
+304,Łagów,1099,10.0,10.0
+305,Gorzów Wielkopolski,1575,9.4,8.6
+306,Trzciel,1400,8.6,9.7
+307,Zielona Góra,1743,9.3,9.2
+308,Wschowa,1666,9.9,9.6
+309,Serbów,15296,8.9,10.0
+310,"Centrum, Zielona Góra",1345,10.0,8.1
+311,Gorzów Wielkopolski,655,9.8,9.0
+312,"Centrum, Zielona Góra",1438,9.4,10.0
+313,Zielona Góra,2233,9.2,9.8
+314,Zielona Góra,1984,8.9,9.4
+315,Żagań,3500,8.0,9.8
+316,Gorzów Wielkopolski,1610,6.2,9.4
+317,Nowa Sól,1848,9.5,9.5
+318,Gorzów Wielkopolski,1680,9.4,9.4
+319,Bogaczów,2792,8.6,9.7
+320,Sulęcin,3150,9.9,10.0
+321,Zielona Góra,1680,9.8,9.5
+322,"Centrum, Zielona Góra",1225,8.9,10.0
+323,Gorzów Wielkopolski,749,10.0,9.4
+324,"Centrum, Zielona Góra",2239,9.8,9.8
+325,"Centrum, Zielona Góra",1438,10.0,8.5
+326,Zielona Góra,2233,9.4,10.0
+327,Żagań,3500,9.2,9.0

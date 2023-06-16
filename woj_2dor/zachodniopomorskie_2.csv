@@ -1,0 +1,845 @@
+,City,Cost,Rating,Comfort
+0,Kołobrzeg,3476,8.9,9.3
+1,Międzyzdroje,2220,6.5,8.0
+2,Mielno,2439,8.7,8.7
+3,Bobolin,2149,7.6,8.6
+4,Międzyzdroje,1884,8.6,8.7
+5,Kołobrzeg,1666,8.7,8.7
+6,Szczecin,1146,7.3,8.1
+7,Międzywodzie,2644,7.6,9.4
+8,Darłowo,1332,9.0,8.9
+9,Dźwirzyno,1960,8.0,9.2
+10,Grzybowo,1237,9.1,9.4
+11,Mielno,1055,8.5,9.6
+12,Mielno,2100,9.6,9.0
+13,Kołobrzeg,2526,7.5,8.4
+14,Jarosławiec,9591,8.7,9.5
+15,"Dzielnica Uzdrowiskowa, Kołobrzeg",7353,9.0,8.8
+16,"Śródmieście, Kołobrzeg",4361,9.2,8.7
+17,Stargard,2733,9.2,9.0
+18,Trzęsacz,3328,8.1,8.9
+19,Świnoujście,4086,8.4,8.8
+20,"Dzielnica Uzdrowiskowa, Kołobrzeg",5676,8.3,9.5
+21,Darłówko,1882,9.6,8.7
+22,Pogorzelica,5428,8.1,9.4
+23,"Śródmieście, Szczecin",3103,8.3,8.6
+24,"Dzielnica Uzdrowiskowa, Kołobrzeg",5686,8.4,9.9
+25,Świnoujście,4086,8.4,9.2
+26,Sianożęty,4930,8.6,8.9
+27,"Śródmieście, Szczecin",3103,8.3,9.6
+28,Pogorzelica,4540,8.1,8.7
+29,Darłówko,1882,9.6,8.4
+30,"Dzielnica Uzdrowiskowa, Kołobrzeg",5379,8.4,8.7
+31,"Śródmieście, Szczecin",1785,9.1,8.5
+32,Jarosławiec,4838,8.6,8.2
+33,"Śródmieście, Szczecin",1506,7.0,8.2
+34,Kopań,4950,9.7,9.3
+35,"Dzielnica Uzdrowiskowa, Kołobrzeg",4949,8.8,8.2
+36,Grzybowo,2915,9.1,8.2
+37,Niechorze,6235,9.6,9.3
+38,Rewal,2980,8.8,8.2
+39,Świnoujście,4197,8.2,8.3
+40,Kołobrzeg,3818,8.5,9.3
+41,Kołobrzeg,3916,8.2,8.5
+42,Świnoujście,3929,8.1,9.2
+43,"Śródmieście, Kołobrzeg",3926,8.2,8.8
+44,Drawsko Pomorskie,1820,9.3,8.6
+45,"Śródmieście, Szczecin",2016,8.2,8.6
+46,Ustronie Morskie,4900,7.4,9.7
+47,Świnoujście,3646,8.4,8.5
+48,Gąski,1960,9.3,9.4
+49,Darłowo,2374,8.2,8.0
+50,Myślibórz,1400,7.0,8.9
+51,Grzybowo,6267,8.2,9.5
+52,Drawsko Pomorskie,2100,9.3,8.0
+53,Świnoujście,2952,8.4,8.3
+54,"Śródmieście, Szczecin",2273,9.0,8.9
+55,Niechorze,2403,9.0,9.0
+56,Międzywodzie,4543,7.3,9.5
+57,Sianożęty,2128,8.9,10.0
+58,Pobierowo,1968,8.5,9.4
+59,Darłówko,3702,9.6,9.3
+60,Zieleniewo,1400,8.3,9.1
+61,"Śródmieście, Szczecin",2683,9.0,10.0
+62,Rewal,3052,8.0,9.2
+63,Sarbinowo,6083,8.9,8.0
+64,Morzyczyn,6816,9.2,9.5
+65,Bobolin,1937,8.5,8.7
+66,Niechorze,6570,8.1,8.9
+67,Mielenko,1358,7.9,8.7
+68,Świnoujście,3481,8.0,8.8
+69,Połczyn-Zdrój,2181,8.8,9.5
+70,Grzybowo,4043,9.0,9.0
+71,"Śródmieście, Szczecin",2320,9.1,8.7
+72,Gościno,3710,10.0,8.4
+73,Pogorzelica,3348,9.4,8.9
+74,"Śródmieście, Szczecin",1516,7.7,9.5
+75,"Śródmieście, Szczecin",1444,9.1,8.8
+76,"Śródmieście, Szczecin",2660,8.8,8.7
+77,Gościno,3710,10.0,8.3
+78,Barlinek,1747,9.2,8.3
+79,Świnoujście,4776,8.0,9.2
+80,"Dzielnica Uzdrowiskowa, Kołobrzeg",8775,9.4,8.9
+81,Międzyzdroje,3199,8.8,9.4
+82,Karnice,2142,9.0,8.1
+83,Połczyn-Zdrój,2090,8.6,9.3
+84,Ustronie Morskie,5673,8.7,9.4
+85,Międzyzdroje,3378,9.4,8.4
+86,Łazy,2380,8.9,8.4
+87,Międzyzdroje,5597,8.4,8.6
+88,Międzyzdroje,4104,8.3,10.0
+89,Niechorze,6635,8.7,10.0
+90,Gąski,5924,9.7,8.6
+91,"Śródmieście, Szczecin",1759,8.6,9.1
+92,"Dzielnica Uzdrowiskowa, Kołobrzeg",4610,8.5,9.2
+93,Łazy,4407,8.1,9.2
+94,Świnoujście,3474,8.3,9.5
+95,Mielno,2543,8.4,8.3
+96,"Dzielnica Uzdrowiskowa, Kołobrzeg",4607,7.7,8.9
+97,Międzywodzie,10798,8.9,8.8
+98,Dźwirzyno,3822,9.1,9.1
+99,Czechyń,3024,9.4,8.9
+100,Kołobrzeg,5393,8.1,8.9
+101,Międzyzdroje,4040,9.3,9.3
+102,"Dzielnica Uzdrowiskowa, Kołobrzeg",3710,9.5,9.1
+103,Szczecinek,2205,7.9,8.6
+104,Międzywodzie,2670,8.3,9.5
+105,Mrzeżyno,6317,8.1,9.1
+106,Pobierowo,5429,8.8,8.9
+107,Wicie,6329,10.0,8.8
+108,Drawno,4988,9.6,9.4
+109,"Dzielnica Uzdrowiskowa, Kołobrzeg",5522,8.3,8.4
+110,Świnoujście,4684,8.9,8.4
+111,Rewal,3673,7.8,8.3
+112,Rewal,1603,9.3,8.1
+113,Brzeżno,1659,9.2,8.1
+114,Stargard,1400,9.4,8.3
+115,Jarosławiec,3719,8.1,8.4
+116,Świnoujście,8266,8.4,8.7
+117,Dąbki,2084,9.1,9.7
+118,Rewal,2593,9.0,9.4
+119,Sianów,2753,7.6,8.1
+120,Darłowo,1570,9.0,9.4
+121,Rewal,3185,9.0,9.3
+122,Międzyzdroje,8617,8.6,9.3
+123,"Dzielnica Uzdrowiskowa, Kołobrzeg",5071,7.1,8.6
+124,Niechorze,2678,9.2,9.1
+125,"Dzielnica Uzdrowiskowa, Kołobrzeg",5071,7.1,9.4
+126,Dźwirzyno,5056,8.4,8.1
+127,Dziwnów,4347,9.3,9.3
+128,Niechorze,2678,9.2,8.6
+129,Pobierowo,2618,8.9,8.4
+130,Kołobrzeg,6030,8.7,8.4
+131,"Dzielnica Uzdrowiskowa, Kołobrzeg",3710,9.5,9.4
+132,Jarosławiec,5923,8.4,8.6
+133,"Śródmieście, Szczecin",2012,8.0,9.3
+134,Niechorze,4613,8.3,8.0
+135,Świnoujście,6387,8.4,8.7
+136,Darłówko,1491,7.6,8.7
+137,Świnoujście,10356,8.2,8.2
+138,Unieście,1219,8.0,8.1
+139,Pobierowo,4655,8.6,8.7
+140,Rewal,2646,8.9,9.6
+141,Ustronie Morskie,2898,9.7,9.3
+142,Gościno,2723,9.4,8.6
+143,"Śródmieście, Szczecin",1840,7.4,9.1
+144,"Śródmieście, Szczecin",1914,7.9,9.2
+145,Grzybowo,3906,9.3,9.1
+146,Sarbinowo,2659,9.0,8.5
+147,Koszalin,2695,9.1,9.4
+148,Dziwnówek,2250,8.3,9.1
+149,Dąbki,3899,9.3,8.9
+150,Gościno,2583,9.4,9.6
+151,"Śródmieście, Szczecin",1660,7.4,9.0
+152,"Śródmieście, Szczecin",1828,7.9,8.9
+153,Sarbinowo,2419,9.0,9.5
+154,Stepnica,1280,7.6,9.3
+155,Dziwnówek,2250,8.3,8.5
+156,Jarosławiec,1003,8.4,9.1
+157,Pobierowo,3860,8.9,8.9
+158,Grzybowo,3906,9.3,8.4
+159,"Dzielnica Uzdrowiskowa, Kołobrzeg",3943,8.3,8.7
+160,Koszalin,3150,9.1,9.3
+161,Jarosławiec,3189,8.8,9.0
+162,Świnoujście,5912,8.3,9.6
+163,Sianożęty,3395,8.4,8.7
+164,Świnoujście,3913,8.0,9.6
+165,Koszalin,3287,8.3,9.3
+166,Pobierowo,5309,8.2,8.8
+167,"Śródmieście, Szczecin",2195,8.7,9.0
+168,Koszalin,2763,9.4,9.3
+169,Grzybowo,1673,9.4,9.2
+170,Kopań,1617,9.0,9.6
+171,Cedynia,2030,7.7,8.4
+172,Rusinowo,2577,9.2,8.4
+173,Sarbinowo,4898,9.2,8.3
+174,Mielno,1859,7.8,9.1
+175,"Dzielnica Uzdrowiskowa, Kołobrzeg",6129,8.5,8.2
+176,Międzyzdroje,2766,8.7,8.4
+177,Pobierowo,4571,9.4,9.5
+178,Darłówko,2480,9.2,9.4
+179,Szczecinek,3080,9.1,8.6
+180,"Śródmieście, Szczecin",2200,9.5,9.4
+181,"Śródmieście, Szczecin",2572,8.7,9.4
+182,Police,2240,7.8,8.1
+183,Stargard,2485,8.7,8.8
+184,Rewal,3003,9.4,9.3
+185,"Dzielnica Uzdrowiskowa, Kołobrzeg",6870,9.0,9.0
+186,Szczecin,2717,8.4,9.0
+187,Mielno,3678,8.1,8.1
+188,Międzyzdroje,5224,8.9,9.2
+189,Cedynia,1880,7.6,8.9
+190,Świnoujście,10671,8.4,9.0
+191,Jarosławiec,4191,8.7,9.2
+192,Ustronie Morskie,4312,8.5,8.0
+193,Świnoujście,6026,7.1,9.1
+194,Rewal,8435,9.1,9.1
+195,Świnoujście,4369,7.8,8.9
+196,Mielno,3564,9.1,9.2
+197,Świnoujście,5591,7.6,8.3
+198,Sianożęty,3278,9.5,8.9
+199,Dąbki,4569,8.5,8.8
+200,Ustronie Morskie,4312,9.3,8.9
+201,Stargard,2373,9.1,9.0
+202,Rewal,8435,7.8,8.6
+203,Świnoujście,4369,9.1,8.1
+204,Dąbki,3245,9.1,9.3
+205,Mielno,3114,9.2,8.8
+206,Międzywodzie,3111,7.1,8.7
+207,Świnoujście,6026,7.6,8.7
+208,Świnoujście,5591,9.3,9.6
+209,"Dzielnica Uzdrowiskowa, Kołobrzeg",8957,9.5,9.6
+210,Sianożęty,2863,8.4,8.5
+211,Dąbki,4329,7.5,8.5
+212,Mielno,3781,8.3,9.6
+213,"Śródmieście, Szczecin",1666,8.1,9.2
+214,Świnoujście,3982,9.0,8.5
+215,Sarbinowo,3959,8.1,9.2
+216,Ustronie Morskie,2968,8.4,8.9
+217,Nowogródek Pomorski,1050,9.3,9.7
+218,Stepnica,2240,7.7,9.1
+219,Rewal,5485,8.0,9.2
+220,Stargard,1778,8.9,8.6
+221,Barlinek,2730,8.6,8.7
+222,"Dzielnica Uzdrowiskowa, Kołobrzeg",4585,9.3,8.6
+223,Barlinek,2394,7.1,9.1
+224,Trzęsacz,4935,8.9,8.8
+225,Dziwnów,3495,8.0,9.2
+226,"Dzielnica Uzdrowiskowa, Kołobrzeg",5701,7.8,8.9
+227,Szczecin-Płonia,1530,9.0,8.7
+228,Łazy,2693,9.3,8.2
+229,Międzywodzie,2135,9.2,9.7
+230,"Dzielnica Uzdrowiskowa, Kołobrzeg",4559,8.8,9.0
+231,Pogorzelica,3213,8.6,9.1
+232,"Śródmieście, Szczecin",1872,9.1,9.6
+233,Mielno,1547,8.6,8.6
+234,Jezierzany,5195,9.0,9.3
+235,Dziwnówek,5474,8.7,10.0
+236,Ińsko,1807,8.2,9.6
+237,Świnoujście,6003,9.1,9.1
+238,Rewal,3035,9.0,8.6
+239,Darłówko,1540,8.7,8.6
+240,Mielno,7921,9.0,9.8
+241,Sianożęty,5319,8.3,8.9
+242,"Dzielnica Uzdrowiskowa, Kołobrzeg",3708,8.9,9.4
+243,Ustronie Morskie,3745,8.6,8.6
+244,Wicie,3487,7.5,9.1
+245,Darłowo,3053,8.5,8.7
+246,Mrzeżyno,1753,7.0,8.5
+247,"Dzielnica Uzdrowiskowa, Kołobrzeg",5259,8.8,8.5
+248,Świnoujście,2943,8.8,9.6
+249,"Dzielnica Uzdrowiskowa, Kołobrzeg",3784,8.1,9.5
+250,Czaplinek,1750,9.3,9.6
+251,Mielno,4232,8.5,9.3
+252,Trzęsacz,2828,8.7,9.6
+253,Międzyzdroje,4550,8.3,9.2
+254,"Dzielnica Uzdrowiskowa, Kołobrzeg",5145,9.5,8.5
+255,Grzybowo,6829,9.5,9.2
+256,Koszalin,2863,8.5,8.9
+257,Ustronie Morskie,4000,8.4,9.7
+258,Ustronie Morskie,3892,7.5,9.4
+259,Kołobrzeg,3897,7.3,9.1
+260,Sarbinowo,4110,9.4,9.9
+261,Rusinowo,2928,9.3,9.2
+262,Świnoujście,4906,8.3,8.6
+263,"Dzielnica Uzdrowiskowa, Kołobrzeg",3354,8.2,8.7
+264,Koszalin,2863,9.1,9.0
+265,Gąski,4579,9.6,8.5
+266,"Dzielnica Uzdrowiskowa, Kołobrzeg",5768,8.9,9.2
+267,Międzywodzie,4439,9.2,9.6
+268,Dźwirzyno,2397,7.6,9.1
+269,Białogard,1400,8.0,8.7
+270,"Śródmieście, Szczecin",3570,8.6,9.4
+271,Dziwnówek,2544,8.5,10.0
+272,Mielno,6372,9.2,9.2
+273,Jarosławiec,5232,8.8,9.7
+274,"Dzielnica Uzdrowiskowa, Kołobrzeg",6668,9.3,8.6
+275,"Dzielnica Uzdrowiskowa, Kołobrzeg",5559,9.1,8.2
+276,Ustronie Morskie,4553,8.2,9.3
+277,Dziwnów,6324,8.6,8.7
+278,Ustronie Morskie,7525,9.6,8.7
+279,Ustronie Morskie,1590,8.8,8.6
+280,Międzyzdroje,4532,8.0,8.0
+281,Czaplinek,1890,9.0,8.8
+282,Grzybowo,3936,9.5,8.5
+283,"Śródmieście, Szczecin",6400,8.7,9.3
+284,Międzyzdroje,4519,9.3,8.1
+285,Kołobrzeg,3215,9.2,9.2
+286,Gąski,2485,9.4,9.6
+287,Dziwnów,2100,8.4,9.7
+288,Trzęsacz,4550,9.0,10.0
+289,Mrzeżyno,5580,8.4,9.5
+290,"Śródmieście, Szczecin",2228,9.6,8.5
+291,Międzywodzie,3425,8.8,8.8
+292,Dziwnówek,5310,9.3,9.7
+293,Chłopy,3817,8.8,9.8
+294,Trzebieradz,4176,9.0,8.5
+295,Barlinek,1820,8.3,8.0
+296,Pustkowo,5810,8.5,8.3
+297,Czaplinek,1750,8.4,8.6
+298,Mielno,4666,9.5,9.0
+299,Rusinowo,2928,9.5,9.3
+300,Grzybowo,6143,9.5,9.1
+301,Ustronie Morskie,3792,7.5,9.0
+302,Kołobrzeg,4243,9.0,8.1
+303,Sarbinowo,3261,9.4,8.4
+304,Rusinowo,2928,7.9,9.1
+305,Ustronie Morskie,3850,9.3,8.6
+306,Gąski,3220,8.3,8.9
+307,Kamień Pomorski,1890,8.2,9.3
+308,Świnoujście,3706,7.3,8.8
+309,Rewal,5130,9.1,8.2
+310,Koszalin,2863,9.6,8.6
+311,Łazy,3150,9.2,8.3
+312,Gąski,4579,8.9,8.3
+313,"Dzielnica Uzdrowiskowa, Kołobrzeg",4589,9.7,9.3
+314,Międzywodzie,3336,9.2,9.0
+315,"Dzielnica Uzdrowiskowa, Kołobrzeg",2541,7.6,8.6
+316,Dźwirzyno,1904,8.0,9.3
+317,Białogard,1260,8.6,8.3
+318,Czaplinek,3178,9.0,8.4
+319,"Śródmieście, Szczecin",3570,8.3,8.2
+320,Mrzeżyno,2051,8.2,8.9
+321,Dziwnówek,2394,9.4,9.5
+322,Mielno,6168,8.9,8.9
+323,Jarosławiec,4221,8.5,8.6
+324,"Dzielnica Uzdrowiskowa, Kołobrzeg",6668,8.8,9.2
+325,Międzyzdroje,4016,10.0,9.2
+326,"Dzielnica Uzdrowiskowa, Kołobrzeg",3869,9.2,9.2
+327,Międzywodzie,3600,9.6,9.7
+328,"Śródmieście, Szczecin",2228,8.0,9.1
+329,"Śródmieście, Szczecin",3570,8.0,8.3
+330,Szczecin,2190,9.2,8.9
+331,Świnoujście,6276,8.6,8.9
+332,Rogowo,3559,8.2,9.5
+333,Dziwnówek,2334,8.7,8.3
+334,Rusinowo,4020,8.3,8.9
+335,Jarosławiec,4186,8.6,9.2
+336,Szczecin,1414,7.9,9.2
+337,Międzyzdroje,3434,8.3,9.2
+338,"Dzielnica Uzdrowiskowa, Kołobrzeg",6379,9.2,9.7
+339,Międzyzdroje,4532,8.7,9.1
+340,Sarbinowo,3115,8.7,8.3
+341,Pustkowo,1660,9.5,8.9
+342,Gryfino,1904,9.6,9.4
+343,Wisełka,1799,10.0,8.5
+344,"Śródmieście, Szczecin",3330,7.7,10.0
+345,Wałcz,2590,7.9,9.6
+346,Wicie,2885,9.3,9.2
+347,Świnoujście,5053,8.0,9.0
+348,Drawsko Pomorskie,2300,8.9,8.9
+349,Świnoujście,7022,9.6,9.2
+350,"Śródmieście, Szczecin",8925,9.7,9.3
+351,Świnoujście,5294,8.3,9.0
+352,Łazy,2140,7.9,8.4
+353,Rewal,4487,8.8,9.4
+354,"Dzielnica Uzdrowiskowa, Kołobrzeg",5116,8.6,9.4
+355,Darłówko,2501,8.9,8.6
+356,Białogard,1400,9.2,8.6
+357,Krzynka,2294,9.1,9.4
+358,Dźwirzyno,4866,9.3,8.8
+359,"Północ, Szczecin",1473,8.2,9.6
+360,Gąski,3185,8.5,9.7
+361,Ustronie Morskie,1878,9.0,8.8
+362,"Śródmieście, Szczecin",1872,8.3,9.6
+363,Wałcz,2170,8.8,9.7
+364,Grzybowo,4033,9.2,8.1
+365,Unieście,1289,8.7,8.4
+366,Dziwnówek,2478,8.1,8.9
+367,Świnoujście,4666,8.7,9.2
+368,Czaplinek,3780,8.2,8.4
+369,"Śródmieście, Szczecin",2367,8.6,8.2
+370,Sianożęty,4133,8.7,9.2
+371,Międzyzdroje,3434,8.9,8.9
+372,Myślibórz,2450,8.7,8.5
+373,"Dzielnica Uzdrowiskowa, Kołobrzeg",3828,9.3,9.1
+374,Chojna,2093,8.3,9.0
+375,"Śródmieście, Szczecin",2091,8.9,8.8
+376,Grzybowo,1540,7.9,8.9
+377,Dziwnów,6319,8.9,8.1
+378,Świnoujście,5886,7.1,9.1
+379,Chojna,2093,6.5,8.9
+380,Jarosławiec,6575,9.3,9.9
+381,Pobierowo,4445,8.0,9.2
+382,Dziwnów,4683,8.9,9.6
+383,Świnoujście,5396,8.5,8.7
+384,Niechorze,5974,9.2,9.8
+385,Kołobrzeg,4929,9.3,8.8
+386,Chłopy,1384,9.4,8.4
+387,Darłowo,4157,9.2,8.9
+388,Unieście,1999,8.7,8.7
+389,Kamień Pomorski,4525,8.2,8.3
+390,Międzyzdroje,2896,8.9,9.8
+391,Mielno,7912,7.7,8.4
+392,Ustronie Morskie,3728,8.9,8.7
+393,Rewal,3451,7.1,9.3
+394,Szczecinek,1890,6.5,8.8
+395,Łazy,3978,9.3,8.1
+396,Świnoujście,4708,8.3,8.9
+397,"Dzielnica Uzdrowiskowa, Kołobrzeg",3239,8.0,8.9
+398,Grzybowo,3698,8.9,9.3
+399,Łazy,2158,9.2,9.8
+400,Niechorze,5974,9.3,8.6
+401,Kołobrzeg,4929,9.4,9.1
+402,Chłopy,1384,9.2,10.0
+403,Darłowo,4157,8.7,8.8
+404,Unieście,1999,8.2,9.2
+405,Pobierowo,4445,8.9,9.3
+406,Kamień Pomorski,4525,9.2,8.8
+407,Międzyzdroje,2896,8.3,8.5
+408,Ustronie Morskie,3728,9.9,8.7
+409,Rewal,3451,9.6,9.2
+410,Szczecinek,1870,9.0,9.5
+411,Łazy,3978,8.9,8.7
+412,Świnoujście,4708,9.0,9.0
+413,"Dzielnica Uzdrowiskowa, Kołobrzeg",3239,8.0,9.4
+414,Grzybowo,3698,8.7,9.7
+415,Czaplinek,3178,9.2,9.1
+416,Dziwnówek,2562,9.1,8.8
+417,Gąski,4968,8.4,9.1
+418,Mielenko,4379,9.5,8.8
+419,Łukęcin,4785,9.2,9.6
+420,Darłówko,1491,8.7,8.4
+421,Gąski,2804,8.5,9.8
+422,Dziwnówek,3801,9.2,8.6
+423,Barlinek,1890,8.9,9.9
+424,Gąski,4261,9.6,9.2
+425,Niechorze,2706,9.6,9.3
+426,Międzywodzie,2104,9.1,8.8
+427,Dąbki,2394,9.6,9.5
+428,Mielno,4232,9.6,9.9
+429,Darłówko,1290,8.1,8.5
+430,Mielno,7912,8.8,9.3
+431,Międzywodzie,6748,8.6,9.0
+432,Dziwnówek,2730,8.0,8.7
+433,Sarbinowo,1260,7.9,8.8
+434,Grzybowo,1428,8.9,9.0
+435,Jarosławiec,3959,7.2,9.4
+436,Mielenko,4379,8.7,9.7
+437,Dąbki,4413,8.2,8.2
+438,Dąbki,3409,7.1,9.1
+439,Pustkowo,4193,9.0,9.1
+440,"Dzielnica Uzdrowiskowa, Kołobrzeg",3929,8.9,9.5
+441,Dąbki,4417,9.0,9.0
+442,Świnoujście,3781,9.2,8.8
+443,Sarbinowo,4866,8.1,8.9
+444,Świnoujście,2814,8.9,9.1
+445,Wicie,1883,8.8,8.9
+446,"Dzielnica Uzdrowiskowa, Kołobrzeg",4006,8.1,10.0
+447,Stepnica,3654,8.9,9.2
+448,Pogorzelica,1435,9.0,8.7
+449,Kołczewo,3150,9.5,9.6
+450,Niechorze,1638,8.9,8.5
+451,Ustronie Morskie,5628,9.7,9.8
+452,"Śródmieście, Szczecin",2810,8.8,8.1
+453,Kołobrzeg,3487,9.7,8.8
+454,Dziwnów,1785,9.0,8.4
+455,Borne Sulinowo,1260,8.4,9.3
+456,Świnoujście,4227,7.5,9.4
+457,Jarosławiec,2165,9.0,8.9
+458,Trzęsacz,2335,8.6,8.7
+459,Kołobrzeg,4256,8.1,8.3
+460,Świnoujście,6109,9.9,9.1
+461,Gościno,3360,8.4,9.8
+462,Jarosławiec,2708,7.6,9.0
+463,"Dzielnica Uzdrowiskowa, Kołobrzeg",6036,8.5,9.4
+464,Rewal,4985,9.3,9.3
+465,Rewal,1862,8.7,8.4
+466,Kołobrzeg,1476,8.4,8.8
+467,Mrzeżyno,2520,8.6,9.6
+468,"Dzielnica Uzdrowiskowa, Kołobrzeg",3760,8.9,9.7
+469,"Dzielnica Uzdrowiskowa, Kołobrzeg",3414,9.3,9.2
+470,"Północ, Szczecin",5005,9.8,9.5
+471,"Śródmieście, Szczecin",1414,8.3,9.2
+472,Świnoujście,7332,8.7,8.5
+473,Mielenko,1921,10.0,8.4
+474,"Śródmieście, Kołobrzeg",5970,8.6,8.8
+475,Dąbki,3444,9.1,8.3
+476,Chłopy,2810,9.0,9.7
+477,"Dzielnica Uzdrowiskowa, Kołobrzeg",3929,8.7,8.4
+478,Rewal,3801,8.5,8.7
+479,Rusinowo,2366,8.8,9.2
+480,Wałcz,2100,9.3,8.9
+481,Świnoujście,4171,9.6,8.5
+482,Pobierowo,7770,8.7,8.8
+483,Moryń,2814,8.9,8.8
+484,Międzyzdroje,6689,9.3,9.1
+485,Pobierowo,2754,9.5,8.0
+486,Międzyzdroje,3374,8.1,8.9
+487,Pobierowo,3626,8.9,8.1
+488,Koszalin,1750,8.8,9.1
+489,Sianożęty,1722,9.2,9.8
+490,Nowe Warpno,6801,9.0,9.9
+491,Gąski,7518,9.7,9.2
+492,Pobierowo,3035,8.6,9.0
+493,Grzybowo,2422,9.8,8.9
+494,Gąski,1789,8.3,9.6
+495,Pustkowo,2345,9.5,8.7
+496,Mrzeżyno,3031,9.1,9.4
+497,Ustronie Morskie,4302,9.0,9.4
+498,Świnoujście,4550,8.7,8.7
+499,Łukęcin,1533,9.6,8.3
+500,Mrzeżyno,2548,9.6,9.1
+501,Szczecinek,2100,8.5,9.5
+502,Goleniów,2793,9.6,9.9
+503,Darłowo,2424,8.8,8.4
+504,Sarbinowo,2895,7.7,9.3
+505,Wałcz,2100,8.7,9.1
+506,Świnoujście,4171,8.8,8.7
+507,Sianożęty,2012,8.9,9.9
+508,Pobierowo,2747,9.3,8.0
+509,Międzyzdroje,3374,9.5,8.6
+510,Pobierowo,3626,8.0,8.6
+511,Gąski,7518,8.1,9.4
+512,Kołobrzeg,4700,8.9,8.8
+513,Koszalin,1750,7.0,9.0
+514,Dąbki,2652,9.2,8.4
+515,Międzyzdroje,2550,7.6,8.3
+516,Borne Sulinowo,1820,9.6,8.8
+517,Pobierowo,3035,8.1,9.7
+518,Świnoujście,4550,8.9,9.3
+519,Grzybowo,2422,8.8,9.7
+520,Gąski,1789,8.9,9.4
+521,Pustkowo,2345,9.0,9.5
+522,Świnoujście,3383,9.6,9.0
+523,Mrzeżyno,3031,8.9,8.6
+524,Ustronie Morskie,4302,8.8,9.1
+525,Międzywodzie,1184,9.7,9.1
+526,Ustronie Morskie,4858,8.6,9.5
+527,Międzyzdroje,4989,9.7,8.7
+528,Trzęsacz,1800,8.0,8.1
+529,Kołobrzeg,2386,9.0,8.0
+530,Dziwnów,1785,8.4,8.4
+531,Borne Sulinowo,1260,9.1,8.1
+532,Jarosławiec,3110,9.3,9.2
+533,Trzęsacz,2195,9.0,9.6
+534,Gąski,3885,8.6,8.6
+535,Świnoujście,6109,8.1,9.0
+536,Jarosławiec,3180,9.2,8.7
+537,Gościno,3360,9.9,8.5
+538,Świnoujście,5276,8.1,9.8
+539,"Dzielnica Uzdrowiskowa, Kołobrzeg",4601,9.0,9.3
+540,Grzybowo,5838,9.6,9.1
+541,Rewal,4435,9.2,9.4
+542,Rewal,1862,8.8,9.9
+543,Chłopy,4262,8.8,8.0
+544,Niechorze,3426,8.9,8.6
+545,Mrzeżyno,1680,7.4,8.6
+546,"Dzielnica Uzdrowiskowa, Kołobrzeg",3760,9.7,9.4
+547,"Dzielnica Uzdrowiskowa, Kołobrzeg",3028,8.9,8.6
+548,Międzywodzie,4025,9.3,8.6
+549,"Północ, Szczecin",4928,9.4,9.2
+550,Łazy,3640,8.0,8.1
+551,Grzybowo,2268,7.2,9.9
+552,Sianów,1386,8.8,8.8
+553,Międzyzdroje,3629,8.4,8.4
+554,Wolin,2170,8.7,10.0
+555,Dziwnów,2660,8.1,9.5
+556,Rogowo,3322,9.8,9.7
+557,"Śródmieście, Szczecin",2018,8.4,9.8
+558,Borne Sulinowo,4200,7.3,9.8
+559,Mielno,1835,7.5,9.5
+560,"Śródmieście, Kołobrzeg",3296,7.5,8.4
+561,Dąbki,3132,7.9,9.0
+562,Świnoujście,3086,8.6,8.8
+563,"Dzielnica Uzdrowiskowa, Kołobrzeg",5926,9.2,9.2
+564,Sarbinowo,2365,7.5,10.0
+565,"Śródmieście, Szczecin",1414,8.9,8.0
+566,Świnoujście,5176,9.0,8.7
+567,"Śródmieście, Szczecin",1872,9.0,9.6
+568,Niechorze,5887,8.7,9.0
+569,"Dzielnica Uzdrowiskowa, Kołobrzeg",7013,9.2,9.3
+570,Świnoujście,3976,8.3,9.3
+571,Mierzyn,1540,8.8,9.1
+572,Mielno,2342,8.1,9.1
+573,Chłopy,2794,8.9,8.7
+574,Międzyzdroje,2069,9.7,9.4
+575,Gąski,1309,9.5,9.9
+576,Mielno,2342,8.9,8.6
+577,Niechorze,1638,8.1,8.6
+578,Ustronie Morskie,4738,8.9,9.2
+579,Rewal,3735,9.7,9.4
+580,Świnoujście,5176,8.8,9.9
+581,"Śródmieście, Szczecin",2810,9.1,8.4
+582,Gąski,1310,9.3,10.0
+583,Borne Sulinowo,1260,8.6,8.5
+584,Świnoujście,3817,8.1,9.7
+585,Jarosławiec,2165,9.2,8.8
+586,"Dzielnica Uzdrowiskowa, Kołobrzeg",4489,9.6,9.8
+587,Kołobrzeg,3438,9.8,9.3
+588,Świnoujście,5696,7.4,9.7
+589,Kołobrzeg,2223,8.6,9.8
+590,Rewal,3801,9.3,8.7
+591,Gościno,3360,9.2,9.7
+592,Jarosławiec,2060,8.7,8.3
+593,Trzęsacz,7035,9.8,8.8
+594,Mrzeżyno,4731,8.1,8.5
+595,"Dzielnica Uzdrowiskowa, Kołobrzeg",3760,8.7,9.5
+596,"Dzielnica Uzdrowiskowa, Kołobrzeg",3498,7.6,8.7
+597,Międzywodzie,2695,7.6,9.8
+598,Niechorze,3115,9.2,9.0
+599,Osieki,2814,8.9,9.1
+600,Pogorzelica,5523,9.0,9.5
+601,"Dzielnica Uzdrowiskowa, Kołobrzeg",2884,9.0,9.7
+602,"Śródmieście, Kołobrzeg",5970,7.7,8.9
+603,Wałcz,1463,8.4,9.6
+604,Ustronie Morskie,2275,8.8,8.8
+605,Osieki,3024,9.6,9.3
+606,Dąbki,2982,7.0,9.2
+607,Mrzeżyno,1750,9.1,8.1
+608,Kołczewo,4665,9.7,8.8
+609,Mielno,1372,9.4,9.0
+610,Wielin,4550,9.3,8.3
+611,Szczecinek,1190,7.0,9.0
+612,Dziwnów,2004,9.1,9.5
+613,Lubin,5236,8.8,9.3
+614,Sarbinowo,4393,9.1,8.2
+615,Mielno,7335,9.0,9.2
+616,Grzybowo,8148,9.1,9.2
+617,Międzyzdroje,5629,8.6,8.9
+618,Dziwnów,3495,8.2,9.3
+619,Mrzeżyno,3178,7.0,9.0
+620,Mielenko,2134,8.3,9.8
+621,Sarbinowo,2800,8.7,9.8
+622,"Śródmieście, Szczecin",2097,8.2,8.7
+623,"Śródmieście, Szczecin",1855,9.1,10.0
+624,Międzyzdroje,3249,9.7,8.8
+625,Rewal,2135,8.3,9.1
+626,Rewal,2692,8.7,8.3
+627,Międzyzdroje,4369,8.6,8.5
+628,Kołobrzeg,3150,8.3,9.6
+629,Międzyzdroje,2069,9.4,8.8
+630,Rewal,2765,7.4,8.0
+631,Dziwnów,3495,9.3,8.5
+632,Gąski,1310,9.2,8.8
+633,Pobierowo,5159,9.6,9.8
+634,"Śródmieście, Kołobrzeg",2736,9.8,8.9
+635,Pobierowo,4050,8.1,9.5
+636,Szczecinek,2100,8.7,8.8
+637,Świnoujście,6576,7.6,8.7
+638,Ustronie Morskie,5774,9.6,8.1
+639,Dziwnów,5013,8.7,9.7
+640,Drawsko Pomorskie,1260,7.6,8.8
+641,"Dzielnica Uzdrowiskowa, Kołobrzeg",4191,7.6,9.8
+642,Pogorzelica,5251,9.4,8.0
+643,"Śródmieście, Kołobrzeg",6150,8.2,8.2
+644,Rogowo,3998,9.5,9.3
+645,Kołczewo,2640,8.9,9.4
+646,Osieki,2814,9.0,9.2
+647,Dąbki,2681,10.0,8.6
+648,Mrzeżyno,1750,7.7,9.2
+649,Kołczewo,4455,9.2,9.7
+650,Kołczewo,2640,9.6,9.9
+651,Mrzeżyno,1750,9.8,8.2
+652,Kołczewo,4455,9.8,8.3
+653,Mielno,1372,9.3,9.4
+654,Wrzosowo,2170,8.2,9.5
+655,"Śródmieście, Kołobrzeg",2736,9.1,8.7
+656,Kołobrzeg,3438,9.2,8.9
+657,Szczecinek,1190,9.2,8.7
+658,Lubin,5236,10.0,8.5
+659,Mrzeżyno,2289,8.1,8.3
+660,Sarbinowo,3343,8.8,9.0
+661,Rusinowo,3180,9.7,10.0
+662,Międzyzdroje,5509,7.4,8.0
+663,Ustronie Morskie,2989,9.0,8.2
+664,"Śródmieście, Kołobrzeg",5306,9.3,8.3
+665,"Śródmieście, Szczecin",2097,9.3,8.2
+666,"Dzielnica Uzdrowiskowa, Kołobrzeg",2884,9.2,8.5
+667,Międzyzdroje,3299,9.2,9.3
+668,Kołobrzeg,3298,8.7,9.7
+669,Grzybowo,1680,9.6,8.3
+670,Ustronie Morskie,1988,9.8,9.2
+671,Mielno,3178,8.7,8.6
+672,Dąbki,2681,7.6,8.7
+673,Dziwnówek,1425,7.6,8.9
+674,Ustronie Morskie,4228,9.4,8.7
+675,Pogorzelica,5251,9.2,9.2
+676,Dziwnów,2004,9.5,8.6
+677,Kołobrzeg,5900,9.0,8.7
+678,"Śródmieście, Kołobrzeg",6150,10.0,8.7
+679,Wałcz,1463,8.8,9.2
+680,Rogowo,3998,7.7,8.7
+681,Ustronie Morskie,2275,9.6,8.9
+682,Kołczewo,2640,8.9,8.6
+683,Osieki,2814,9.8,9.2
+684,Mrzeżyno,1750,9.1,9.0
+685,Kołczewo,4455,9.7,8.8
+686,Mielno,1372,9.8,10.0
+687,Wrzosowo,2170,8.9,8.0
+688,Wielin,3850,9.8,8.7
+689,Kołobrzeg,3438,8.2,8.3
+690,Lubin,5236,9.3,9.3
+691,Mrzeżyno,2289,8.1,9.0
+692,Pustkowo,3080,9.3,9.1
+693,Sarbinowo,3343,8.6,9.0
+694,Międzyzdroje,5509,9.7,9.2
+695,Szczecinek,1190,9.2,10.0
+696,Ustronie Morskie,2989,9.2,9.1
+697,Mrzeżyno,2268,9.6,8.2
+698,Mielenko,1434,9.8,8.8
+699,"Śródmieście, Kołobrzeg",5306,9.1,9.6
+700,Wisełka,2240,9.6,9.4
+701,Kołobrzeg,1806,8.8,9.1
+702,Darłówko,6820,9.0,8.5
+703,Kołobrzeg,2135,9.4,9.5
+704,Dźwirzyno,6642,8.2,8.7
+705,"Śródmieście, Szczecin",2412,9.0,9.3
+706,Międzyzdroje,4135,9.0,9.2
+707,Wicie,4222,8.7,8.1
+708,Świnoujście,3796,9.6,9.0
+709,Ustronie Morskie,3388,9.5,9.0
+710,Kamień Pomorski,2660,9.2,9.2
+711,Kołobrzeg,4592,8.1,8.9
+712,Łazy,2978,9.1,9.0
+713,"Dzielnica Uzdrowiskowa, Kołobrzeg",5946,9.0,8.0
+714,Pustkowo,2310,8.7,9.8
+715,Mielenko,2968,9.1,9.2
+716,Darłówko,1563,9.3,9.6
+717,Świnoujście,3913,7.1,9.0
+718,Dźwirzyno,2338,9.8,8.8
+719,"Śródmieście, Szczecin",1693,9.6,9.6
+720,Wisełka,2275,7.9,8.5
+721,Darłowo,3536,8.3,8.8
+722,Rewal,4138,10.0,8.5
+723,Dziwnówek,3500,9.1,9.0
+724,Dąbki,6167,9.2,8.4
+725,Świnoujście,8340,8.5,9.5
+726,Rogowo,4607,8.6,8.9
+727,Kołobrzeg,7136,9.5,9.9
+728,Kołobrzeg,3281,7.8,9.2
+729,Łukęcin,4165,8.9,9.6
+730,Szczecinek,1540,7.2,9.1
+731,Pobierowo,5278,7.8,8.4
+732,Grzybowo,1845,8.6,8.7
+733,Mielno,1845,8.4,9.3
+734,"Dzielnica Uzdrowiskowa, Kołobrzeg",5976,8.7,9.2
+735,Dziwnów Górny,5555,9.6,9.7
+736,Darłówko,1400,8.7,8.1
+737,Rusinowo,3433,9.4,9.5
+738,Grzybowo,2128,9.0,9.0
+739,Kołobrzeg,3007,8.7,9.0
+740,Dźwirzyno,2492,8.3,8.8
+741,Mielno,867,7.6,9.2
+742,Jarosławiec,1645,9.8,8.9
+743,Międzyzdroje,4246,9.2,9.0
+744,Mielno,1250,7.8,9.5
+745,Tuczno,2100,9.6,9.6
+746,Świnoujście,3269,8.1,8.1
+747,Darłówko,3740,8.2,9.0
+748,Szczecin,1885,9.4,8.8
+749,"Śródmieście, Szczecin",4165,9.2,9.1
+750,Rewal,5302,9.4,9.2
+751,Międzywodzie,1718,7.0,8.9
+752,Chłopy,3230,8.2,9.0
+753,Myślibórz,1680,7.8,8.0
+754,Grzybowo,5142,8.1,9.8
+755,Darłówko,960,9.1,9.2
+756,Niechorze,5887,9.8,9.6
+757,Grzybowo,1680,9.7,9.0
+758,Międzyzdroje,3321,8.1,8.8
+759,Kołobrzeg,4781,8.2,9.6
+760,Grzybowo,973,9.4,9.3
+761,Niechorze,4515,9.2,8.7
+762,Grzybowo,1568,8.8,9.3
+763,Międzywodzie,2974,7.7,9.6
+764,Wrzosowo,2170,9.4,9.4
+765,Dziwnów,3495,8.0,8.7
+766,Ustronie Morskie,3078,8.7,9.6
+767,Wrzosowo,1800,8.8,8.3
+768,Darłówko,1090,8.6,9.3
+769,Ustronie Morskie,1428,8.9,9.0
+770,Kołobrzeg,2506,10.0,8.1
+771,Kołobrzeg,6587,7.9,8.5
+772,"Dzielnica Uzdrowiskowa, Kołobrzeg",2619,8.1,8.8
+773,Dziwnówek,3760,8.3,9.2
+774,Sarbinowo,4828,8.1,8.2
+775,Rusinowo,2570,8.1,9.6
+776,Sarbinowo,8704,9.1,9.3
+777,Rewal,3755,9.2,9.3
+778,Chłopy,3539,9.5,9.4
+779,"Dzielnica Uzdrowiskowa, Kołobrzeg",3282,8.4,8.5
+780,Rewal,5285,9.0,8.8
+781,Rusinowo,1229,8.8,9.6
+782,Rewal,1967,8.7,10.0
+783,Mielno,4580,8.9,8.3
+784,Chojna,2218,8.5,8.8
+785,Międzyzdroje,4578,9.2,8.8
+786,"Dzielnica Uzdrowiskowa, Kołobrzeg",2943,8.8,9.8
+787,Mrzeżyno,1643,8.7,10.0
+788,Mielno,3570,8.5,8.7
+789,"Śródmieście, Szczecin",1935,9.0,9.0
+790,Międzywodzie,3175,8.6,9.4
+791,Mielno,1635,8.9,9.7
+792,Dziwnów,7964,10.0,8.9
+793,Międzyzdroje,1568,8.6,9.5
+794,Dziwnówek,3104,9.7,8.3
+795,Dziwnówek,7000,8.9,9.8
+796,Ustronie Morskie,4760,8.8,9.3
+797,Unieście,2799,10.0,8.5
+798,Dziwnów,6682,7.9,8.3
+799,"Śródmieście, Szczecin",5040,8.7,9.2
+800,Dziwnówek,7000,8.0,8.9
+801,Ustronie Morskie,4760,5.8,9.2
+802,Dziwnów,6682,9.1,8.4
+803,Dziwnówek,3104,9.1,8.8
+804,Ustronie Morskie,3385,9.0,8.9
+805,Unieście,2799,8.9,8.9
+806,Mielenko,3226,9.3,9.2
+807,"Dzielnica Uzdrowiskowa, Kołobrzeg",4124,10.0,8.6
+808,Łazy,5399,8.9,9.3
+809,Darłowo,1990,7.9,9.2
+810,Kołobrzeg,4743,9.0,8.3
+811,Wapnica,1750,9.7,9.5
+812,Rewal,4225,9.3,8.9
+813,Rosnowo,1770,9.5,9.4
+814,Koszalin,3143,8.6,8.9
+815,"Śródmieście, Szczecin",2275,9.3,8.7
+816,Dziwnówek,2870,8.8,9.9
+817,Rewal,8078,9.3,9.2
+818,Łobez,2450,9.2,10.0
+819,Dziwnówek,4074,8.0,8.9
+820,Wałcz,1588,8.2,9.1
+821,Darłowo,2025,8.1,8.7
+822,Ińsko,4062,9.5,9.0
+823,Pobierowo,4158,9.0,8.8
+824,Trzęsacz,3290,8.7,9.8
+825,Pobierowo,3178,8.9,8.6
+826,Darłówko,5370,9.1,9.3
+827,Sarbinowo,3339,8.2,8.0
+828,"Śródmieście, Szczecin",2163,9.6,9.5
+829,Kołobrzeg,4265,9.2,8.7
+830,Sarbinowo,1949,9.5,9.7
+831,Ustronie Morskie,1645,9.6,9.7
+832,"Północ, Szczecin",2730,9.0,9.2
+833,"Dzielnica Uzdrowiskowa, Kołobrzeg",3282,9.5,9.6
+834,Goleniów,3128,8.4,9.7
+835,Pobierowo,3320,7.9,8.3
+836,Pobierowo,3528,9.0,8.1
+837,Międzyzdroje,3816,8.6,9.0
+838,Świnoujście,3226,9.4,8.6
+839,Mielno,3693,8.5,8.9
+840,Świnoujście,1893,9.4,9.2
+841,Wisełka,1960,9.0,8.8
+842,"Dzielnica Uzdrowiskowa, Kołobrzeg",3206,9.7,8.7
+843,"Śródmieście, Szczecin",5040,9.1,8.7
