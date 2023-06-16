@@ -1,0 +1,404 @@
+,City,Cost,Rating,Comfort
+0,"Prawobrzeże, Szczecin",1164,7.1,9.2
+1,"Śródmieście, Szczecin",1458,7.0,10.0
+2,"Śródmieście, Szczecin",1356,9.1,8.1
+3,"Śródmieście, Szczecin",1084,10.0,8.0
+4,"Śródmieście, Szczecin",1523,7.9,9.6
+5,"Śródmieście, Szczecin",1688,8.0,10.0
+6,"Śródmieście, Szczecin",2807,9.5,9.2
+7,"Śródmieście, Szczecin",2527,7.3,9.1
+8,"Śródmieście, Szczecin",1774,10.0,9.4
+9,"Śródmieście, Szczecin",2100,9.0,8.2
+10,"Prawobrzeże, Szczecin",1120,9.2,8.9
+11,"Śródmieście, Szczecin",2100,7.5,8.9
+12,"Śródmieście, Szczecin",1852,9.1,10.0
+13,"Śródmieście, Szczecin",925,8.0,9.0
+14,"Śródmieście, Szczecin",1666,8.6,8.8
+15,"Śródmieście, Szczecin",1478,8.9,8.4
+16,"Śródmieście, Szczecin",1785,9.6,10.0
+17,Szczecin,700,6.0,10.0
+18,"Śródmieście, Szczecin",1990,8.8,8.4
+19,"Prawobrzeże, Szczecin",770,8.8,8.8
+20,"Śródmieście, Szczecin",2100,8.2,8.2
+21,Szczecin,1130,9.7,9.7
+22,Szczecin,1499,7.5,8.1
+23,"Śródmieście, Szczecin",1020,7.6,8.3
+24,"Śródmieście, Szczecin",973,10.0,9.2
+25,"Śródmieście, Szczecin",1295,7.3,9.0
+26,"Śródmieście, Szczecin",1860,8.0,9.0
+27,"Śródmieście, Szczecin",770,9.5,8.2
+28,"Śródmieście, Szczecin",1047,8.2,8.4
+29,"Śródmieście, Szczecin",1523,9.5,9.0
+30,"Śródmieście, Szczecin",1120,7.9,10.0
+31,"Śródmieście, Szczecin",1976,8.1,9.0
+32,"Śródmieście, Szczecin",1821,9.0,8.3
+33,"Śródmieście, Szczecin",1786,8.8,8.6
+34,"Śródmieście, Szczecin",2041,9.0,9.3
+35,"Śródmieście, Szczecin",1688,7.7,8.8
+36,"Śródmieście, Szczecin",1288,8.0,10.0
+37,"Śródmieście, Szczecin",2590,8.4,10.0
+38,"Śródmieście, Szczecin",1507,7.5,8.8
+39,"Śródmieście, Szczecin",6400,8.8,9.1
+40,"Śródmieście, Szczecin",1483,7.4,10.0
+41,"Śródmieście, Szczecin",1516,7.3,8.9
+42,Szczecin,1562,10.0,8.6
+43,"Śródmieście, Szczecin",1414,8.7,9.5
+44,"Śródmieście, Szczecin",1181,8.2,9.6
+45,"Śródmieście, Szczecin",1020,8.5,9.5
+46,"Śródmieście, Szczecin",1548,7.4,8.4
+47,"Śródmieście, Szczecin",1765,9.3,8.0
+48,"Śródmieście, Szczecin",1859,8.3,8.5
+49,"Śródmieście, Szczecin",2247,9.5,8.0
+50,"Śródmieście, Szczecin",1666,10.0,10.0
+51,"Śródmieście, Szczecin",1924,8.7,8.8
+52,"Śródmieście, Szczecin",1477,8.6,8.0
+53,"Śródmieście, Szczecin",2018,10.0,9.8
+54,"Śródmieście, Szczecin",2807,8.6,8.7
+55,"Śródmieście, Szczecin",1300,7.5,9.1
+56,"Śródmieście, Szczecin",2627,8.7,8.6
+57,"Śródmieście, Szczecin",2100,9.3,8.7
+58,"Śródmieście, Szczecin",2100,8.1,9.6
+59,"Śródmieście, Szczecin",1779,9.5,8.5
+60,"Śródmieście, Szczecin",2527,9.3,9.1
+61,"Śródmieście, Szczecin",2380,8.3,10.0
+62,"Śródmieście, Szczecin",1736,7.9,8.8
+63,"Śródmieście, Szczecin",1890,7.7,9.6
+64,"Śródmieście, Szczecin",2160,8.0,9.8
+65,Szczecin,1157,9.0,8.7
+66,"Śródmieście, Szczecin",1365,8.0,8.2
+67,"Północ, Szczecin",1113,10.0,9.1
+68,"Śródmieście, Szczecin",2024,8.9,8.2
+69,"Śródmieście, Szczecin",2520,6.2,9.7
+70,"Śródmieście, Szczecin",1477,8.0,9.4
+71,"Północ, Szczecin",1473,9.6,8.9
+72,"Śródmieście, Szczecin",806,8.6,8.6
+73,"Śródmieście, Szczecin",1767,8.8,9.3
+74,"Śródmieście, Szczecin",2768,8.4,10.0
+75,"Śródmieście, Szczecin",1298,8.7,10.0
+76,Szczecin,910,9.5,8.5
+77,"Śródmieście, Szczecin",1400,8.6,9.5
+78,"Śródmieście, Szczecin",1260,8.8,10.0
+79,"Śródmieście, Szczecin",1774,10.0,9.8
+80,Szczecin,1734,8.9,9.1
+81,"Śródmieście, Szczecin",1020,9.6,8.7
+82,"Śródmieście, Szczecin",2350,8.9,10.0
+83,"Śródmieście, Szczecin",1782,8.5,9.6
+84,"Śródmieście, Szczecin",1745,8.1,9.7
+85,"Śródmieście, Szczecin",2100,6.8,8.5
+86,"Śródmieście, Szczecin",1743,1.7,9.2
+87,"Śródmieście, Szczecin",2447,8.9,8.1
+88,"Śródmieście, Szczecin",8223,8.0,8.9
+89,"Śródmieście, Szczecin",1020,9.5,8.5
+90,Szczecin,1426,9.1,8.9
+91,"Śródmieście, Szczecin",1888,9.0,9.8
+92,"Śródmieście, Szczecin",1697,8.5,8.9
+93,"Śródmieście, Szczecin",2083,9.2,8.8
+94,"Śródmieście, Szczecin",1676,10.0,8.1
+95,Szczecin,643,8.5,10.0
+96,"Śródmieście, Szczecin",1220,8.6,9.5
+97,"Śródmieście, Szczecin",1324,9.4,10.0
+98,"Śródmieście, Szczecin",1680,10.0,9.4
+99,"Śródmieście, Szczecin",1841,9.7,9.2
+100,"Śródmieście, Szczecin",2852,9.2,9.2
+101,"Śródmieście, Szczecin",1507,8.6,10.0
+102,"Śródmieście, Szczecin",1633,9.7,9.0
+103,"Śródmieście, Szczecin",1980,9.3,9.5
+104,"Śródmieście, Szczecin",2100,9.6,9.5
+105,"Śródmieście, Szczecin",1470,8.4,9.0
+106,"Śródmieście, Szczecin",1020,8.8,9.6
+107,"Prawobrzeże, Szczecin",1330,5.8,9.8
+108,"Śródmieście, Szczecin",4404,6.7,9.7
+109,"Śródmieście, Szczecin",2046,7.9,9.1
+110,"Śródmieście, Szczecin",925,8.7,9.9
+111,"Śródmieście, Szczecin",1551,8.4,9.7
+112,"Śródmieście, Szczecin",2240,8.8,8.0
+113,"Śródmieście, Szczecin",1764,9.7,9.1
+114,"Śródmieście, Szczecin",2093,9.0,8.8
+115,Szczecin,2274,10.0,9.5
+116,"Śródmieście, Szczecin",3045,9.3,8.6
+117,"Śródmieście, Szczecin",2275,9.1,9.1
+118,"Śródmieście, Szczecin",1367,9.8,8.8
+119,"Północ, Szczecin",2433,9.4,8.8
+120,"Śródmieście, Szczecin",1552,9.9,9.0
+121,"Śródmieście, Szczecin",2321,9.3,8.7
+122,"Prawobrzeże, Szczecin",1260,9.4,8.3
+123,"Śródmieście, Szczecin",2730,9.2,9.6
+124,"Śródmieście, Szczecin",3210,9.6,10.0
+125,"Śródmieście, Szczecin",2700,9.3,8.7
+126,"Śródmieście, Szczecin",2110,9.4,10.0
+127,"Śródmieście, Szczecin",6370,9.6,8.8
+128,"Śródmieście, Szczecin",2465,8.7,8.8
+129,"Śródmieście, Szczecin",1666,9.3,8.9
+130,"Śródmieście, Szczecin",1861,9.9,9.1
+131,"Śródmieście, Szczecin",2278,9.5,8.8
+132,"Śródmieście, Szczecin",6510,9.2,9.5
+133,"Północ, Szczecin",2240,9.8,9.6
+134,"Śródmieście, Szczecin",3941,9.5,8.2
+135,"Śródmieście, Szczecin",2100,8.0,8.8
+136,"Śródmieście, Szczecin",3139,8.8,9.7
+137,"Północ, Szczecin",2550,8.7,9.0
+138,"Śródmieście, Szczecin",7625,9.3,8.5
+139,"Śródmieście, Szczecin",2490,8.3,9.4
+140,"Śródmieście, Szczecin",4650,7.1,9.3
+141,"Północ, Szczecin",4928,9.0,9.1
+142,"Śródmieście, Szczecin",2401,8.6,8.4
+143,"Śródmieście, Szczecin",2600,6.0,9.3
+144,"Śródmieście, Szczecin",3322,8.8,9.5
+145,"Śródmieście, Szczecin",2616,9.0,8.9
+146,"Śródmieście, Szczecin",2523,8.5,9.7
+147,"Śródmieście, Szczecin",2560,8.1,10.0
+148,"Śródmieście, Szczecin",4536,6.8,9.2
+149,"Śródmieście, Szczecin",2219,9.3,9.6
+150,"Śródmieście, Szczecin",1850,10.0,8.6
+151,Szczecin,2100,9.1,8.7
+152,"Śródmieście, Szczecin",1400,10.0,8.9
+153,"Śródmieście, Szczecin",1618,8.5,9.4
+154,Szczecin,1130,8.9,8.6
+155,"Śródmieście, Szczecin",1279,7.3,8.8
+156,"Śródmieście, Szczecin",1610,8.7,9.5
+157,Szczecin,1996,7.7,9.7
+158,"Śródmieście, Szczecin",2310,9.1,9.7
+159,Szczecin,945,8.7,10.0
+160,Szczecin,1499,9.4,10.0
+161,"Śródmieście, Szczecin",2100,9.5,9.6
+162,"Śródmieście, Szczecin",3280,8.1,9.3
+163,"Śródmieście, Szczecin",1823,8.7,8.6
+164,"Śródmieście, Szczecin",1858,9.5,8.8
+165,"Śródmieście, Szczecin",2835,7.7,9.0
+166,"Śródmieście, Szczecin",1686,8.8,8.7
+167,"Śródmieście, Szczecin",2135,7.0,9.6
+168,"Śródmieście, Szczecin",3360,8.6,9.4
+169,"Prawobrzeże, Szczecin",1260,9.0,9.5
+170,"Śródmieście, Szczecin",1683,9.1,8.5
+171,"Śródmieście, Szczecin",1724,8.9,9.9
+172,"Śródmieście, Szczecin",1390,8.2,9.3
+173,"Śródmieście, Szczecin",2130,9.2,9.3
+174,"Śródmieście, Szczecin",1900,9.4,9.5
+175,Szczecin,1285,9.0,9.4
+176,Szczecin,1400,9.8,9.0
+177,"Śródmieście, Szczecin",2490,9.3,8.6
+178,Szczecin,1436,9.2,9.4
+179,"Śródmieście, Szczecin",1020,9.3,8.5
+180,"Śródmieście, Szczecin",1785,8.9,9.6
+181,"Śródmieście, Szczecin",1540,8.8,9.0
+182,"Śródmieście, Szczecin",2453,8.7,8.4
+183,"Śródmieście, Szczecin",2728,9.5,9.0
+184,"Śródmieście, Szczecin",1471,8.3,9.4
+185,"Śródmieście, Szczecin",1295,7.7,9.5
+186,"Śródmieście, Szczecin",1943,8.6,9.1
+187,"Śródmieście, Szczecin",2100,9.5,9.7
+188,"Śródmieście, Szczecin",1473,9.7,9.3
+189,"Śródmieście, Szczecin",2142,9.7,9.2
+190,"Śródmieście, Szczecin",3376,10.0,9.2
+191,"Śródmieście, Szczecin",2016,9.7,8.8
+192,"Śródmieście, Szczecin",3259,7.0,8.7
+193,"Śródmieście, Szczecin",1697,9.2,9.8
+194,"Śródmieście, Szczecin",1757,7.7,8.9
+195,"Śródmieście, Szczecin",1482,9.3,9.2
+196,"Śródmieście, Szczecin",1883,8.4,9.6
+197,"Śródmieście, Szczecin",2178,9.5,8.4
+198,"Śródmieście, Szczecin",2261,9.2,8.6
+199,"Śródmieście, Szczecin",1943,8.8,9.3
+200,"Śródmieście, Szczecin",2492,9.3,9.0
+201,"Śródmieście, Szczecin",2196,9.0,9.0
+202,"Śródmieście, Szczecin",3332,9.4,8.0
+203,"Śródmieście, Szczecin",2240,8.8,9.0
+204,"Śródmieście, Szczecin",1860,9.8,8.3
+205,Szczecin,793,9.2,8.5
+206,"Śródmieście, Szczecin",1802,9.4,8.2
+207,"Prawobrzeże, Szczecin",1190,9.3,9.6
+208,"Śródmieście, Szczecin",1320,9.2,8.5
+209,"Północ, Szczecin",1131,8.9,8.5
+210,"Śródmieście, Szczecin",1821,8.6,9.2
+211,"Śródmieście, Szczecin",2450,9.3,9.7
+212,"Śródmieście, Szczecin",1398,8.3,8.0
+213,"Śródmieście, Szczecin",2023,9.4,9.7
+214,"Śródmieście, Szczecin",2590,8.0,9.2
+215,"Śródmieście, Szczecin",1864,8.3,8.9
+216,"Śródmieście, Szczecin",3290,7.4,8.0
+217,"Śródmieście, Szczecin",1890,8.6,8.7
+218,"Śródmieście, Szczecin",2100,9.5,9.2
+219,"Prawobrzeże, Szczecin",1820,9.5,9.4
+220,"Śródmieście, Szczecin",1929,9.4,8.8
+221,"Śródmieście, Szczecin",1666,6.5,8.9
+222,"Śródmieście, Szczecin",1400,9.5,9.2
+223,"Śródmieście, Szczecin",3080,9.1,9.4
+224,"Śródmieście, Szczecin",1757,9.2,9.6
+225,"Północ, Szczecin",1404,9.2,9.6
+226,"Północ, Szczecin",1575,6.8,8.1
+227,Szczecin,1125,8.9,9.2
+228,"Śródmieście, Szczecin",1398,8.7,9.4
+229,"Śródmieście, Szczecin",1548,9.6,9.7
+230,"Śródmieście, Szczecin",2240,8.3,8.2
+231,"Śródmieście, Szczecin",2651,9.0,9.6
+232,"Śródmieście, Szczecin",2565,9.4,9.9
+233,"Śródmieście, Szczecin",2052,8.2,9.0
+234,"Śródmieście, Szczecin",1815,8.6,9.5
+235,"Śródmieście, Szczecin",2041,9.2,9.8
+236,Szczecin,1980,8.8,8.6
+237,"Śródmieście, Szczecin",2310,8.1,10.0
+238,"Śródmieście, Szczecin",1533,7.6,8.7
+239,"Śródmieście, Szczecin",1856,8.9,9.5
+240,"Śródmieście, Szczecin",1860,8.1,9.5
+241,"Śródmieście, Szczecin",2907,8.1,9.8
+242,"Śródmieście, Szczecin",3034,8.3,10.0
+243,"Śródmieście, Szczecin",2753,9.4,9.3
+244,Szczecin,2723,8.4,9.2
+245,"Śródmieście, Szczecin",2854,8.3,9.3
+246,Szczecin,2552,9.2,9.3
+247,"Śródmieście, Szczecin",2810,9.6,9.8
+248,"Śródmieście, Szczecin",2810,8.0,8.9
+249,"Śródmieście, Szczecin",1832,9.4,8.6
+250,"Śródmieście, Szczecin",1872,9.3,9.0
+251,"Śródmieście, Szczecin",4180,8.9,9.5
+252,"Śródmieście, Szczecin",5468,7.8,10.0
+253,"Śródmieście, Szczecin",1872,7.0,10.0
+254,"Śródmieście, Szczecin",1288,8.7,9.5
+255,"Śródmieście, Szczecin",4180,9.3,9.8
+256,"Śródmieście, Szczecin",1799,9.6,8.2
+257,"Śródmieście, Szczecin",2049,8.5,9.5
+258,"Śródmieście, Szczecin",2859,9.0,9.6
+259,"Śródmieście, Szczecin",3267,9.2,9.3
+260,"Śródmieście, Szczecin",2590,8.9,9.4
+261,"Północ, Szczecin",2555,9.5,8.8
+262,Szczecin,2642,9.5,9.2
+263,Szczecin,2022,8.3,9.8
+264,"Śródmieście, Szczecin",2338,9.0,9.2
+265,"Śródmieście, Szczecin",1782,9.3,8.6
+266,"Śródmieście, Szczecin",2310,9.7,9.7
+267,"Śródmieście, Szczecin",1980,8.4,8.9
+268,Szczecin,1750,9.3,10.0
+269,"Śródmieście, Szczecin",1660,9.7,8.4
+270,"Śródmieście, Szczecin",1683,8.8,10.0
+271,"Śródmieście, Szczecin",2100,9.3,10.0
+272,"Śródmieście, Szczecin",1764,9.8,9.4
+273,"Śródmieście, Szczecin",2520,8.7,9.0
+274,"Śródmieście, Szczecin",3106,10.0,10.0
+275,"Śródmieście, Szczecin",1750,8.6,9.6
+276,Szczecin,2113,9.4,9.2
+277,"Śródmieście, Szczecin",1666,9.2,10.0
+278,Szczecin,1458,9.5,9.0
+279,"Śródmieście, Szczecin",1507,8.0,10.0
+280,"Śródmieście, Szczecin",2552,9.4,8.6
+281,"Śródmieście, Szczecin",2100,9.2,8.8
+282,Szczecin,1226,9.4,8.8
+283,"Śródmieście, Szczecin",1982,9.1,9.7
+284,"Śródmieście, Szczecin",2023,9.4,9.8
+285,"Śródmieście, Szczecin",6400,8.3,9.0
+286,"Śródmieście, Szczecin",1703,8.6,9.4
+287,"Śródmieście, Szczecin",2049,9.0,10.0
+288,"Śródmieście, Szczecin",1499,9.1,10.0
+289,"Śródmieście, Szczecin",4724,10.0,9.7
+290,"Śródmieście, Szczecin",1629,9.5,9.5
+291,"Śródmieście, Szczecin",3185,9.5,10.0
+292,"Śródmieście, Szczecin",2333,9.6,8.8
+293,"Północ, Szczecin",2780,8.0,9.7
+294,"Śródmieście, Szczecin",1860,9.6,9.4
+295,"Śródmieście, Szczecin",2590,9.3,10.0
+296,"Śródmieście, Szczecin",1877,9.5,9.3
+297,Szczecin,1827,9.7,9.8
+298,"Śródmieście, Szczecin",2437,6.2,9.2
+299,"Śródmieście, Szczecin",3160,8.4,9.2
+300,"Śródmieście, Szczecin",1558,9.6,9.5
+301,"Śródmieście, Szczecin",2100,9.1,9.4
+302,"Śródmieście, Szczecin",2095,8.3,10.0
+303,"Śródmieście, Szczecin",1533,7.4,9.7
+304,"Śródmieście, Szczecin",1483,9.6,9.6
+305,"Śródmieście, Szczecin",1984,8.9,9.4
+306,"Śródmieście, Szczecin",7980,10.0,9.9
+307,"Śródmieście, Szczecin",4740,8.4,9.1
+308,"Śródmieście, Szczecin",5880,10.0,9.8
+309,"Śródmieście, Szczecin",6300,10.0,8.9
+310,Szczecin,1562,10.0,8.2
+311,"Śródmieście, Szczecin",4480,9.5,9.2
+312,"Śródmieście, Szczecin",4900,8.8,10.0
+313,"Śródmieście, Szczecin",1722,10.0,9.7
+314,"Śródmieście, Szczecin",1389,10.0,9.1
+315,"Śródmieście, Szczecin",3948,9.0,8.0
+316,Szczecin,1446,8.6,9.2
+317,"Śródmieście, Szczecin",4788,10.0,8.9
+318,Szczecin,1523,9.4,9.8
+319,"Śródmieście, Szczecin",2100,9.7,9.2
+320,"Śródmieście, Szczecin",2800,8.7,9.3
+321,"Północ, Szczecin",1811,8.0,9.4
+322,Szczecin,840,8.0,8.7
+323,"Śródmieście, Szczecin",2168,9.1,8.5
+324,"Śródmieście, Szczecin",2678,9.8,8.1
+325,"Śródmieście, Szczecin",2015,9.4,9.5
+326,"Śródmieście, Szczecin",3050,9.4,8.2
+327,"Śródmieście, Szczecin",3451,9.9,8.9
+328,"Śródmieście, Szczecin",2975,9.7,9.8
+329,"Śródmieście, Szczecin",1414,7.3,9.1
+330,"Śródmieście, Szczecin",6300,10.0,9.6
+331,"Śródmieście, Szczecin",3510,1.0,9.6
+332,"Śródmieście, Szczecin",4543,8.9,8.3
+333,"Śródmieście, Szczecin",2975,9.5,9.7
+334,Szczecin,3008,10.0,9.2
+335,"Śródmieście, Szczecin",1020,9.0,8.5
+336,Szczecin,1714,9.7,9.0
+337,"Śródmieście, Szczecin",6070,9.2,8.4
+338,"Śródmieście, Szczecin",2166,9.8,8.6
+339,"Śródmieście, Szczecin",3010,9.2,8.2
+340,"Śródmieście, Szczecin",2083,9.3,8.0
+341,"Śródmieście, Szczecin",2100,9.2,8.6
+342,"Śródmieście, Szczecin",4480,9.4,8.0
+343,"Śródmieście, Szczecin",3188,9.5,9.6
+344,"Śródmieście, Szczecin",2038,9.2,8.8
+345,"Śródmieście, Szczecin",2901,9.5,9.6
+346,Szczecin,857,9.7,9.5
+347,"Śródmieście, Szczecin",2142,9.5,9.7
+348,"Śródmieście, Szczecin",3510,9.3,8.2
+349,"Śródmieście, Szczecin",2330,9.9,10.0
+350,"Śródmieście, Szczecin",2975,9.3,8.8
+351,"Śródmieście, Szczecin",3950,9.4,8.6
+352,"Śródmieście, Szczecin",2520,8.9,10.0
+353,Szczecin,1553,7.4,8.6
+354,"Śródmieście, Szczecin",1765,8.0,9.5
+355,"Śródmieście, Szczecin",2450,9.1,9.5
+356,Szczecin,5670,9.2,8.9
+357,Szczecin,5687,9.6,9.5
+358,"Śródmieście, Szczecin",2100,9.1,9.3
+359,Szczecin,1457,7.9,9.0
+360,"Śródmieście, Szczecin",1859,9.2,8.9
+361,Szczecin,1900,9.0,9.6
+362,"Śródmieście, Szczecin",4200,9.5,9.7
+363,"Śródmieście, Szczecin",2520,9.1,8.8
+364,"Śródmieście, Szczecin",2860,9.2,10.0
+365,"Śródmieście, Szczecin",3465,9.4,9.7
+366,"Śródmieście, Szczecin",2520,8.9,9.0
+367,"Śródmieście, Szczecin",2590,8.4,9.8
+368,"Śródmieście, Szczecin",1686,8.0,10.0
+369,"Śródmieście, Szczecin",4550,7.2,9.7
+370,"Śródmieście, Szczecin",3230,9.1,10.0
+371,"Śródmieście, Szczecin",2450,8.1,9.7
+372,"Śródmieście, Szczecin",2510,8.9,9.1
+373,"Śródmieście, Szczecin",1860,9.7,10.0
+374,"Śródmieście, Szczecin",2719,8.5,9.3
+375,"Północ, Szczecin",2886,9.5,10.0
+376,Szczecin,1558,9.6,8.8
+377,"Śródmieście, Szczecin",2142,8.2,9.5
+378,"Śródmieście, Szczecin",2520,9.7,10.0
+379,Szczecin,1025,9.2,9.6
+380,"Śródmieście, Szczecin",1802,8.8,9.5
+381,"Śródmieście, Szczecin",2520,9.2,9.5
+382,"Śródmieście, Szczecin",2023,8.2,8.2
+383,"Śródmieście, Szczecin",2520,8.5,9.7
+384,"Śródmieście, Szczecin",4270,7.9,8.6
+385,"Śródmieście, Szczecin",1666,8.0,8.3
+386,Szczecin,2550,8.2,9.5
+387,"Śródmieście, Szczecin",4320,8.5,9.2
+388,"Śródmieście, Szczecin",3150,8.2,9.5
+389,"Śródmieście, Szczecin",2135,9.4,9.4
+390,"Prawobrzeże, Szczecin",1960,8.5,8.9
+391,"Śródmieście, Szczecin",2259,9.4,9.6
+392,"Śródmieście, Szczecin",2220,9.4,8.8
+393,"Śródmieście, Szczecin",2450,7.0,8.8
+394,"Śródmieście, Szczecin",3143,9.5,8.3
+395,"Śródmieście, Szczecin",4340,5.7,9.4
+396,"Śródmieście, Szczecin",2200,8.0,9.4
+397,"Śródmieście, Szczecin",3583,10.0,9.4
+398,"Śródmieście, Szczecin",2779,8.8,9.1
+399,"Śródmieście, Szczecin",3710,8.1,9.4
+400,"Śródmieście, Szczecin",1575,10.0,9.0
+401,"Śródmieście, Szczecin",2310,7.4,9.2
+402,Szczecin,2653,8.6,8.9
