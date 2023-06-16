@@ -1,0 +1,936 @@
+,City,Cost,Rating,Comfort
+0,Piwniczna,1225,9.0,9.1
+1,Zakopane,1977,9.4,9.4
+2,Szaflary,2054,9.3,9.2
+3,Krynica-Zdrój,435,8.2,9.1
+4,Zakopane,917,8.9,8.8
+5,Poronin,628,9.1,8.6
+6,Krynica-Zdrój,2474,8.6,9.4
+7,Zakopane,854,7.9,9.3
+8,"Stare Miasto, Kraków",1829,9.2,8.8
+9,"Stare Miasto, Kraków",2677,7.4,9.6
+10,Wieliczka,1260,7.4,9.5
+11,Zakopane,1274,9.4,9.2
+12,Poronin,1120,8.4,9.3
+13,Balice,2252,9.3,9.4
+14,Kościelisko,3007,9.5,9.7
+15,Tylicz,1470,9.1,9.5
+16,Klimkówka,4620,9.4,8.7
+17,Przyszowa,2196,9.3,9.9
+18,Konina,1084,9.6,9.3
+19,Poronin,2554,9.5,9.7
+20,Nowy Targ,1120,8.7,9.3
+21,Szaflary,1750,9.9,8.8
+22,Zakopane,2712,9.2,8.9
+23,Szaflary,2087,9.6,9.6
+24,Wola Kalinowska,4643,9.6,9.5
+25,Nowy Targ,1264,8.7,9.6
+26,Wieliczka,1540,8.9,8.4
+27,Krynica-Zdrój,2543,9.4,8.9
+28,Białka Tatrzańska,4627,9.3,8.8
+29,Krynica-Zdrój,3757,9.1,9.1
+30,Zgłobice,920,8.5,8.5
+31,Zabierzów,3808,8.9,8.1
+32,Tarnów,1897,8.7,8.3
+33,Krynica-Zdrój,4108,9.0,9.4
+34,Szczawnica,2220,8.5,9.3
+35,Tarnów,1435,8.0,9.6
+36,Nowy Targ,693,8.4,8.1
+37,Szczawnica,3556,9.4,9.2
+38,Białka Tatrzańska,2224,9.2,8.9
+39,"Stare Miasto, Kraków",3068,9.3,8.0
+40,Lanckorona,2253,8.1,8.8
+41,Muszyna,2118,9.0,9.4
+42,Bańska,1749,9.1,8.0
+43,Ojców,1874,8.3,9.0
+44,Tarnów,2478,8.6,9.3
+45,Szczawnica,2390,9.3,8.9
+46,Biały Dunajec,1211,7.9,8.9
+47,"Stare Miasto, Kraków",3227,8.7,9.1
+48,"Krupówki, Zakopane",3252,9.1,9.3
+49,Nowy Targ,1256,8.8,9.6
+50,Nowy Targ,1256,8.8,9.2
+51,Bukowina Tatrzańska,1690,9.1,9.3
+52,"Stare Miasto, Kraków",3435,9.0,8.7
+53,Białka Tatrzańska,2142,9.5,9.1
+54,Kościelisko,3733,9.1,9.2
+55,Szczawnica,2842,9.1,9.5
+56,Sułkowice,1120,8.6,9.2
+57,Zakopane,4060,8.8,8.9
+58,Nowy Sącz,960,9.3,8.5
+59,"Grzegórzki, Kraków",2330,9.1,8.8
+60,Zawoja,1810,9.1,9.6
+61,Tarnów,1330,8.9,8.8
+62,Zakopane,4037,8.5,8.2
+63,Szczawnica,1098,9.0,9.5
+64,Gdów,1732,9.6,9.0
+65,Krynica-Zdrój,1318,8.3,9.3
+66,Gdów,1410,9.1,9.5
+67,"Stare Miasto, Kraków",2211,8.1,9.3
+68,"Krowodrza, Kraków",2111,9.2,9.4
+69,Zawoja,2321,9.0,8.9
+70,Białka Tatrzańska,2926,9.1,9.3
+71,"Krupówki, Zakopane",3535,9.4,8.8
+72,"Podgórze, Kraków",3288,9.1,9.6
+73,"Stare Miasto, Kraków",6706,9.2,9.4
+74,Sąspów,4125,9.1,8.6
+75,Kraków,3575,9.0,9.0
+76,Szczawnica,2243,8.6,9.9
+77,Białka Tatrzańska,2800,9.5,9.3
+78,"Stare Miasto, Kraków",2990,9.0,9.1
+79,Kościelisko,2448,8.7,8.7
+80,Zawoja,869,9.0,9.4
+81,Czerwienne,3566,10.0,8.7
+82,"Łagiewniki, Kraków",1928,9.2,9.3
+83,Wieliczka,2395,8.8,9.3
+84,Białka Tatrzańska,2520,8.9,8.9
+85,Murzasichle,2101,8.0,8.9
+86,Gródek nad Dunajcem,6213,9.2,8.9
+87,Mszana Dolna,2254,8.8,9.8
+88,Zator,4190,9.2,9.3
+89,Wieliczka,2616,9.1,9.3
+90,Białka Tatrzańska,2358,8.7,8.6
+91,Witów,547,9.2,9.3
+92,Michałowice,638,7.2,8.6
+93,"Krupówki, Zakopane",4391,8.9,9.1
+94,Zawoja,3120,9.5,8.9
+95,Kluszkowce,1288,9.5,9.1
+96,"Grzegórzki, Kraków",2228,9.0,9.5
+97,Wola Kalinowska,1874,8.7,9.6
+98,Zakopane,2943,9.3,9.5
+99,Witów,948,8.6,9.4
+100,Bukowina Tatrzańska,2240,9.2,8.7
+101,Kluszkowce,5441,9.0,9.7
+102,Groń,3512,9.4,9.5
+103,Krościenko,1544,9.3,8.8
+104,Kluszkowce,4312,9.5,8.9
+105,"Grzegórzki, Kraków",1795,9.1,8.7
+106,Gorlice,3381,9.3,9.0
+107,Zakopane,2434,8.8,9.4
+108,Chochołów,2800,9.6,8.9
+109,"Dębniki, Kraków",4783,9.2,9.0
+110,Zakopane,2408,8.7,9.7
+111,Kościelisko,1287,9.1,8.7
+112,Ząb,1558,8.9,8.8
+113,Białka Tatrzańska,2660,9.1,8.7
+114,Zakopane,4725,9.3,9.3
+115,"Grzegórzki, Kraków",2162,8.7,8.6
+116,"Podgórze, Kraków",2854,8.8,9.0
+117,Bukowina Tatrzańska,2730,9.6,8.6
+118,Szczawnica,2453,8.6,8.6
+119,Krzeszów Dolny,1558,8.5,9.0
+120,Szczawnica,4207,8.8,9.9
+121,Bukowina Tatrzańska,2729,9.0,8.9
+122,"Dębniki, Kraków",2070,8.5,8.3
+123,Zawoja,1350,9.2,8.8
+124,Bukowina Tatrzańska,2260,8.5,9.0
+125,"Dębniki, Kraków",2050,8.5,9.6
+126,Zawoja,1350,9.2,9.1
+127,Zakopane,1363,7.9,8.8
+128,Pcim,1264,9.9,9.7
+129,"Podgórze, Kraków",1982,8.6,9.2
+130,Racławice,2600,8.0,9.0
+131,Tarnów,1464,8.8,8.7
+132,Poronin,2205,8.8,9.7
+133,"Stare Miasto, Kraków",5967,9.3,8.9
+134,Białka Tatrzańska,1750,9.1,8.0
+135,Krynica-Zdrój,2559,8.7,9.8
+136,"Stare Miasto, Kraków",2982,9.4,9.5
+137,Małe Ciche,2054,9.3,8.9
+138,Zator,3073,9.1,8.9
+139,Zakopane,2296,8.6,9.3
+140,Aleksandrowice,1489,7.2,9.4
+141,Suche,3890,9.7,8.9
+142,"Grzegórzki, Kraków",2387,8.7,8.9
+143,Wieliczka,1624,8.1,9.4
+144,Bukowina Tatrzańska,1133,9.7,9.8
+145,Zakopane,3353,9.2,9.5
+146,Jurgów,3451,9.1,9.4
+147,"Podgórze, Kraków",2327,9.2,9.2
+148,Zakopane,1344,9.1,9.3
+149,Zakopane,3930,9.2,9.3
+150,Wieliczka,2231,8.9,9.8
+151,Krynica-Zdrój,2057,9.0,9.3
+152,Zakopane,1764,9.4,9.3
+153,Bukowina Tatrzańska,1294,9.7,9.2
+154,Brzegi,1500,9.3,8.7
+155,Białka Tatrzańska,1625,9.2,8.8
+156,Szczawnica,2922,9.2,8.9
+157,Białka Tatrzańska,1120,9.3,9.5
+158,Murzasichle,889,9.1,9.1
+159,"Stare Miasto, Kraków",2795,9.7,9.4
+160,Czorsztyn,12067,9.3,8.0
+161,Zator,4502,9.5,8.9
+162,Witów,1109,9.2,8.6
+163,Muszyna,1583,8.5,8.4
+164,"Stare Miasto, Kraków",2226,9.1,8.9
+165,Poronin,1719,8.9,9.2
+166,Zakopane,3164,7.5,9.1
+167,"Grzegórzki, Kraków",1583,9.5,9.5
+168,Kościelisko,4824,8.8,9.4
+169,"Stare Miasto, Kraków",2772,8.9,9.5
+170,Kościelisko,6700,7.8,9.3
+171,"Stare Miasto, Kraków",2962,9.0,9.3
+172,Rabka,1281,8.6,8.8
+173,Szczawnica,3228,8.2,9.6
+174,Krynica-Zdrój,2677,8.6,9.3
+175,Tarnów,1578,8.9,8.7
+176,"Dębniki, Kraków",2755,8.8,9.6
+177,"Stare Miasto, Kraków",2808,9.3,9.6
+178,Białka Tatrzańska,1312,8.0,8.3
+179,"Krupówki, Zakopane",1804,9.1,9.4
+180,"Stare Miasto, Kraków",2804,9.6,9.6
+181,Czarna Góra,859,9.5,9.1
+182,Raba Wyżna,840,9.0,9.4
+183,Murzasichle,2034,8.8,8.8
+184,Małe Ciche,1615,9.4,9.0
+185,Rożnów,1069,9.5,9.1
+186,Krościenko,1295,8.8,8.8
+187,Zakopane,2674,9.5,9.7
+188,Kościelisko,2247,9.6,8.9
+189,Ząb,2376,8.2,9.6
+190,"Stare Miasto, Kraków",2570,9.3,9.3
+191,Michałowice,2183,9.4,9.2
+192,Zakopane,2316,8.8,9.2
+193,"Stare Miasto, Kraków",3037,9.1,8.8
+194,"Stare Miasto, Kraków",3013,8.7,9.3
+195,Brzesko,1225,9.0,9.4
+196,Oświęcim,1960,9.0,8.6
+197,Ponice,724,9.1,9.5
+198,Sromowce Niżne,2049,9.7,9.9
+199,Kościelisko,7000,8.9,8.5
+200,Kościelisko,2304,9.6,8.9
+201,Czarna Góra,543,9.0,9.5
+202,Murzasichle,2034,9.6,8.7
+203,Łopuszna,1473,9.4,8.1
+204,Czarna Góra,1203,8.2,9.7
+205,Sękowa,644,8.8,9.1
+206,Wadowice,1996,9.1,9.2
+207,"Łagiewniki, Kraków",2434,9.2,8.6
+208,Zakopane,3190,8.5,9.4
+209,Bukowina Tatrzańska,1382,9.5,9.8
+210,"Krupówki, Zakopane",10204,9.8,9.3
+211,Szaflary,9639,8.8,8.7
+212,Szczawnica,2192,8.9,9.7
+213,Szaflary,1159,9.4,9.2
+214,Białka Tatrzańska,1753,8.3,8.6
+215,Krynica-Zdrój,3111,8.0,9.1
+216,"Stare Miasto, Kraków",2186,9.2,9.8
+217,Kościelisko,4651,9.1,9.3
+218,Poronin,1921,9.1,8.7
+219,Kościelisko,2929,8.7,9.8
+220,Koniówka,1691,9.2,8.6
+221,Białka Tatrzańska,2007,9.8,9.9
+222,Inwałd,5419,9.1,9.5
+223,"Podgórze, Kraków",2762,8.6,9.5
+224,"Nowa Huta, Kraków",2351,9.2,9.6
+225,Kościelisko,4651,9.1,9.8
+226,Kościelisko,2929,8.7,8.4
+227,Koniówka,1691,9.1,9.2
+228,Poronin,1921,9.8,9.3
+229,Inwałd,5419,9.1,9.0
+230,"Podgórze, Kraków",2935,8.6,9.5
+231,"Nowa Huta, Kraków",2351,7.8,9.5
+232,Poronin,1321,9.8,9.6
+233,Poronin,1813,8.5,9.7
+234,"Stare Miasto, Kraków",1986,9.7,9.0
+235,Zubrzyca Górna,1176,9.3,8.3
+236,Zakopane,3053,9.4,9.7
+237,Szczawnica,1495,7.7,9.2
+238,"Prądnik Biały, Kraków",1750,9.7,8.0
+239,Ciche,1707,9.7,8.7
+240,Zakopane,2534,8.8,8.8
+241,Huba,634,9.1,9.4
+242,Zakopane,3005,9.5,10.0
+243,Bukowina Tatrzańska,2145,8.6,9.4
+244,"Stare Miasto, Kraków",2724,9.6,9.2
+245,Groń,6112,9.2,9.1
+246,Kościelisko,3730,9.5,9.2
+247,Kościelisko,3430,9.6,9.3
+248,Poronin,1916,8.9,9.0
+249,Tarnów,1400,8.5,9.0
+250,Bukowina Tatrzańska,763,9.9,9.9
+251,Zawoja,1715,9.1,8.9
+252,Zakopane,3377,8.3,9.6
+253,Biały Dunajec,921,8.7,8.4
+254,Zakopane,2364,8.8,9.1
+255,Mszana Dolna,1449,9.5,9.3
+256,Dębno,2576,9.9,8.1
+257,Knurów,3266,9.1,8.8
+258,"Stare Miasto, Kraków",2683,9.3,9.6
+259,Białka Tatrzańska,2370,9.2,8.9
+260,Wieliczka,2138,9.3,9.6
+261,Szczawnica,931,9.1,8.8
+262,Białka Tatrzańska,2383,9.1,8.8
+263,Krynica-Zdrój,997,8.6,9.5
+264,"Stare Miasto, Kraków",2769,9.9,8.9
+265,Ponice,4533,8.8,9.2
+266,"Stare Miasto, Kraków",3020,9.3,9.5
+267,Olkusz,951,8.3,9.0
+268,"Stare Miasto, Kraków",2275,9.1,8.2
+269,Zakopane,2394,9.2,8.5
+270,"Grzegórzki, Kraków",3715,8.1,9.2
+271,"Krowodrza, Kraków",455,8.9,9.5
+272,Białka Tatrzańska,972,9.5,9.6
+273,Myślenice,5475,8.9,9.2
+274,Zakopane,1344,9.5,9.6
+275,Zakopane,2443,8.3,8.5
+276,"Grzegórzki, Kraków",3527,8.6,9.4
+277,"Grzegórzki, Kraków",1672,9.4,9.6
+278,Bukowina Tatrzańska,1175,9.2,9.6
+279,Czorsztyn,2170,8.9,10.0
+280,"Dębniki, Kraków",2635,9.5,9.8
+281,Małe Ciche,1030,8.9,8.8
+282,Tarnów,840,8.4,8.7
+283,Bukowina Tatrzańska,787,8.3,9.2
+284,Zakopane,2287,8.9,10.0
+285,"Dębniki, Kraków",1825,9.4,8.8
+286,Krynica-Zdrój,2588,9.5,9.3
+287,Małe Ciche,1771,9.1,9.3
+288,Zakopane,3700,9.4,9.1
+289,Kościelisko,12898,8.8,9.5
+290,Sułoszowa,1996,9.1,8.7
+291,"Krowodrza, Kraków",1795,9.4,8.6
+292,"Stare Miasto, Kraków",2978,9.5,9.5
+293,Limanowa,1559,9.5,9.2
+294,Zachełmna,3416,9.7,8.6
+295,Wielka Wieś,2407,8.7,8.5
+296,Chrzanów,1382,8.8,9.3
+297,Zakopane,3890,9.1,9.1
+298,Zakopane,2307,9.8,8.7
+299,Brzegi,1610,9.1,8.7
+300,Poronin,679,9.2,9.4
+301,Zakopane,2204,9.2,8.5
+302,Olkusz,1417,9.3,8.9
+303,Rabka,979,9.5,8.2
+304,Kościelisko,3614,8.8,8.3
+305,Zakopane,3197,8.8,8.3
+306,Gliczarów,966,9.4,9.0
+307,"Dębniki, Kraków",4130,8.8,9.4
+308,"Stare Miasto, Kraków",2806,8.5,8.5
+309,"Stare Miasto, Kraków",1648,8.6,8.6
+310,Bukowina Tatrzańska,1718,9.1,9.9
+311,"Stare Miasto, Kraków",3928,8.9,9.4
+312,Modlniczka,2739,8.4,8.5
+313,Zakopane,1810,9.3,8.6
+314,Bochnia,1932,9.3,9.5
+315,Piwniczna,1288,8.3,9.0
+316,Zakopane,3897,8.9,9.3
+317,Zakopane,2984,8.1,9.0
+318,"Dębniki, Kraków",1978,8.3,9.2
+319,Zakopane,3406,8.3,9.5
+320,"Stare Miasto, Kraków",1997,8.9,9.2
+321,Piwniczna,5562,9.3,9.1
+322,Krze,1884,8.7,8.8
+323,Zakopane,2240,8.6,9.4
+324,"Stare Miasto, Kraków",2874,9.9,8.6
+325,Waksmund,5114,9.3,9.8
+326,Krze,1884,8.7,9.5
+327,Zakopane,2240,8.6,8.8
+328,"Stare Miasto, Kraków",2874,9.3,8.4
+329,"Łagiewniki, Kraków",2436,8.8,9.4
+330,Oświęcim,1680,8.9,9.1
+331,"Grzegórzki, Kraków",2594,9.0,9.3
+332,"Stare Miasto, Kraków",2370,8.8,8.9
+333,"Stare Miasto, Kraków",3951,9.4,9.5
+334,Wysowa-Zdrój,656,9.1,9.2
+335,"Stare Miasto, Kraków",2790,9.1,8.2
+336,Rzyki,3530,8.6,8.5
+337,"Stare Miasto, Kraków",3188,9.4,8.8
+338,Biały Dunajec,612,9.0,9.1
+339,Niedzica-Zamek,840,9.9,8.9
+340,Zubrzyca Górna,1906,9.4,9.6
+341,Zakopane,2955,8.8,8.5
+342,Rzezawa,1330,8.7,9.1
+343,Cholerzyn,4864,9.4,9.4
+344,Zakopane,2738,8.8,8.7
+345,"Stare Miasto, Kraków",2931,9.2,8.7
+346,Rabka,1858,8.8,9.6
+347,Zakopane,2717,9.2,9.1
+348,"Stare Miasto, Kraków",2428,9.0,9.5
+349,"Stare Miasto, Kraków",3093,8.3,8.7
+350,"Stare Miasto, Kraków",2121,8.3,9.2
+351,"Stare Miasto, Kraków",2184,8.7,9.3
+352,Białka Tatrzańska,2030,9.3,9.2
+353,Muszyna,1095,8.8,9.6
+354,Rząska,1932,9.5,9.7
+355,Zakopane,3227,8.6,9.5
+356,Bukowina Tatrzańska,1718,7.6,8.9
+357,"Stare Miasto, Kraków",3972,9.2,9.6
+358,Niedzica-Zamek,1540,9.1,9.4
+359,"Stare Miasto, Kraków",3016,8.6,8.7
+360,"Stare Miasto, Kraków",2678,8.7,9.4
+361,"Stare Miasto, Kraków",2604,9.5,8.8
+362,Zakopane,3580,9.0,9.2
+363,"Krupówki, Zakopane",2706,7.5,9.4
+364,"Stare Miasto, Kraków",1379,9.5,9.2
+365,Zakopane,4039,8.7,9.3
+366,Zakopane,2849,9.3,9.4
+367,Piwniczna,4524,9.1,9.4
+368,"Stare Miasto, Kraków",2905,8.7,9.2
+369,"Stare Miasto, Kraków",4583,9.7,8.6
+370,Zakopane,6944,9.5,9.2
+371,Zakopane,2777,9.5,8.6
+372,Targoszów,2955,9.0,8.5
+373,Liszki,1741,9.3,9.2
+374,"Stare Miasto, Kraków",2788,9.4,9.5
+375,"Krupówki, Zakopane",3087,8.5,9.7
+376,Zakopane,3466,9.2,9.6
+377,"Stare Miasto, Kraków",2357,9.0,9.1
+378,Zawoja,1410,9.1,9.7
+379,"Grzegórzki, Kraków",5000,9.2,9.3
+380,Zakopane,2534,9.3,8.7
+381,Krynica-Zdrój,4299,9.0,9.2
+382,Zakopane,3731,9.3,8.4
+383,Poręba Wielka,1607,9.1,9.4
+384,"Stare Miasto, Kraków",2483,8.7,8.7
+385,"Stare Miasto, Kraków",4441,8.5,8.8
+386,"Krupówki, Zakopane",1637,9.4,9.4
+387,Spytkowice,2100,8.8,9.3
+388,Kościelisko,1164,8.4,8.7
+389,Zakopane,2332,8.8,9.2
+390,"Dębniki, Kraków",2627,9.5,9.1
+391,Poronin,2791,9.8,9.2
+392,Tylicz,1882,9.6,9.3
+393,Bukowina Tatrzańska,2176,9.2,9.4
+394,Witów,1025,9.8,9.7
+395,Zawoja,6569,8.9,9.2
+396,"Podgórze, Kraków",2030,8.9,8.6
+397,Kluszkowce,1896,9.7,9.1
+398,Wysowa-Zdrój,1190,8.4,8.6
+399,"Krupówki, Zakopane",1904,9.4,8.5
+400,"Krupówki, Zakopane",3087,8.5,9.2
+401,Zakopane,3466,9.0,9.9
+402,Zawoja,1410,9.3,9.7
+403,Poręba Wielka,1607,9.5,9.8
+404,Kościelisko,2170,8.9,8.4
+405,Szczawnica,1622,9.1,8.9
+406,"Grzegórzki, Kraków",4272,9.1,9.5
+407,Zakopane,2534,9.3,9.0
+408,Krynica-Zdrój,4299,9.0,9.5
+409,Zakopane,3155,9.1,8.8
+410,"Stare Miasto, Kraków",2514,9.6,9.8
+411,Bukowina Tatrzańska,1330,8.7,8.6
+412,"Stare Miasto, Kraków",4441,8.5,8.1
+413,"Krupówki, Zakopane",1504,9.2,8.5
+414,Witów,1025,8.8,9.8
+415,Kościelisko,1164,8.4,8.7
+416,Zakopane,1463,8.8,9.5
+417,"Dębniki, Kraków",2627,9.7,8.0
+418,Zawoja,5895,9.8,9.1
+419,Tylicz,1882,9.7,9.6
+420,Poronin,1762,8.4,9.6
+421,"Krupówki, Zakopane",1652,8.6,9.3
+422,"Stare Miasto, Kraków",2982,7.6,8.9
+423,"Stare Miasto, Kraków",1377,9.5,8.8
+424,Zakopane,896,9.2,9.4
+425,Murzasichle,2402,9.3,8.9
+426,"Stare Miasto, Kraków",2774,8.7,9.8
+427,"Grzegórzki, Kraków",2611,9.8,10.0
+428,Kościelisko,4347,7.8,9.5
+429,"Bronowice, Kraków",2127,8.3,9.7
+430,"Krupówki, Zakopane",1834,8.3,8.7
+431,Nowy Sącz,4284,9.8,9.2
+432,Szaflary,1481,8.6,8.7
+433,"Stare Miasto, Kraków",3404,9.2,9.5
+434,"Stare Miasto, Kraków",3480,7.7,8.6
+435,Krzyszkowice,1120,9.0,8.9
+436,Kościelisko,1274,9.5,8.3
+437,"Krupówki, Zakopane",3524,9.4,9.4
+438,Zakopane,3222,9.1,9.7
+439,Ząb,1476,8.9,9.1
+440,Zakopane,2329,8.6,9.7
+441,"Stare Miasto, Kraków",2344,9.5,9.3
+442,Poronin,876,9.0,8.6
+443,Białka Tatrzańska,2705,9.9,9.8
+444,Zubrzyca Górna,1906,10.0,9.5
+445,Bańska Wyżna,2069,9.3,9.7
+446,"Stare Miasto, Kraków",3917,9.5,8.4
+447,"Stare Miasto, Kraków",5781,8.7,9.3
+448,"Stare Miasto, Kraków",3099,9.3,9.3
+449,Zakopane,1540,8.7,9.9
+450,"Stare Miasto, Kraków",3099,8.2,9.4
+451,Zator,6061,9.6,8.2
+452,Bukowina Tatrzańska,1656,8.6,9.9
+453,Zakopane,2760,8.7,8.4
+454,"Stare Miasto, Kraków",3324,8.4,8.3
+455,"Stare Miasto, Kraków",1519,9.5,8.8
+456,"Krowodrza, Kraków",985,9.6,9.1
+457,Zakopane,2919,8.8,9.0
+458,Zator,2463,9.6,9.1
+459,Nowy Sącz,1725,9.2,9.2
+460,Zakopane,3562,8.8,8.9
+461,Kościelisko,2139,9.8,9.5
+462,Zakopane,4214,9.6,8.6
+463,Zakopane,2594,9.7,9.0
+464,Szaflary,5796,8.4,8.7
+465,Witów,3930,9.3,10.0
+466,Zakopane,2493,9.2,9.8
+467,Bukowina Tatrzańska,728,9.7,9.1
+468,Zakopane,3170,9.1,9.9
+469,"Krupówki, Zakopane",3457,8.5,9.8
+470,Dzianisz,5610,9.7,9.2
+471,"Dębniki, Kraków",3553,8.4,8.4
+472,Zakopane,3528,8.1,9.7
+473,Zakopane,4013,8.7,9.1
+474,"Stare Miasto, Kraków",2190,9.3,8.9
+475,"Stare Miasto, Kraków",1805,8.9,8.8
+476,Zakopane,1624,9.1,9.2
+477,Szczawnica,2681,9.1,9.4
+478,"Krupówki, Zakopane",2370,9.0,8.8
+479,Białka Tatrzańska,1288,9.4,9.1
+480,Przybradz,3286,8.7,9.2
+481,Myślenice,1050,8.8,8.9
+482,Muszyna,2526,8.9,9.2
+483,Białka Tatrzańska,1460,9.7,9.5
+484,"Stare Miasto, Kraków",2463,9.7,9.7
+485,Wola Kalinowska,630,9.0,8.6
+486,Jaworki,2100,7.1,9.0
+487,Witów,6291,9.9,9.8
+488,"Stare Miasto, Kraków",2335,9.8,8.8
+489,Dobra,966,8.9,10.0
+490,Targanice,3381,8.7,9.9
+491,Suche,955,9.6,9.2
+492,Ujanowice,1352,8.8,9.1
+493,Czorsztyn,1043,8.6,9.7
+494,Poronin,1289,8.5,9.0
+495,Nowy Sącz,2025,9.3,9.1
+496,"Prądnik Czerwony, Kraków",2239,9.3,8.9
+497,"Prądnik Czerwony, Kraków",2646,8.7,9.8
+498,Poronin,1068,9.3,8.8
+499,Nowy Sącz,1155,9.1,9.2
+500,Zakopane,1624,9.0,9.4
+501,Szczawnica,2681,9.1,9.4
+502,Przybradz,3251,9.4,8.8
+503,Myślenice,1190,9.7,9.6
+504,Kościelisko,1764,8.7,8.9
+505,Muszyna,2486,8.8,9.3
+506,Zakopane,3252,9.7,9.3
+507,Białka Tatrzańska,1460,8.6,9.0
+508,"Stare Miasto, Kraków",2682,10.0,8.4
+509,Witów,5797,9.9,9.1
+510,"Krowodrza, Kraków",1942,8.9,8.3
+511,Białka Tatrzańska,3928,8.9,8.8
+512,Targanice,2608,9.6,9.2
+513,Ujanowice,1352,8.9,10.0
+514,Modlniczka,2739,8.8,8.1
+515,Poronin,1289,8.6,9.7
+516,"Krupówki, Zakopane",4550,9.8,9.3
+517,Nowy Sącz,2350,8.5,8.9
+518,"Prądnik Czerwony, Kraków",2239,9.3,8.7
+519,Suche,920,7.1,9.1
+520,"Prądnik Czerwony, Kraków",2646,9.3,9.1
+521,Poronin,3459,9.2,8.3
+522,Dobra,966,8.8,8.8
+523,Nowy Sącz,1225,8.2,8.9
+524,"Stare Miasto, Kraków",5005,9.6,8.7
+525,Zakopane,1420,8.8,9.1
+526,Niedzica-Zamek,1506,9.0,8.3
+527,Suche,2119,8.3,8.8
+528,Dobczyce,1085,9.0,8.7
+529,Tarnów,3528,9.2,9.6
+530,Niedzica-Zamek,1722,8.5,8.1
+531,Białka Tatrzańska,1872,9.0,8.6
+532,Krościenko,879,8.4,9.4
+533,Zakopane,3070,8.6,10.0
+534,"Stare Miasto, Kraków",2335,9.0,9.4
+535,"Stare Miasto, Kraków",1529,7.9,8.2
+536,"Zwierzyniec, Kraków",3259,7.5,9.3
+537,Zakopane,3338,9.7,8.8
+538,"Stare Miasto, Kraków",1811,7.9,8.6
+539,Kraków,788,9.5,8.3
+540,Biały Dunajec,1644,9.1,8.8
+541,Szczawnica,3325,8.7,9.5
+542,Zakopane,3035,8.6,9.2
+543,"Stare Miasto, Kraków",2609,9.0,8.7
+544,"Zwierzyniec, Kraków",574,8.8,9.2
+545,Zakopane,2079,8.1,9.1
+546,Inwałd,2030,8.7,8.9
+547,"Stare Miasto, Kraków",2911,8.7,8.4
+548,"Stare Miasto, Kraków",2709,8.6,9.9
+549,"Stare Miasto, Kraków",2588,9.0,9.6
+550,"Zwierzyniec, Kraków",574,8.1,9.1
+551,Zakopane,2079,8.7,8.1
+552,Zator,3144,8.5,9.0
+553,Inwałd,2030,9.5,10.0
+554,"Stare Miasto, Kraków",2449,7.9,8.1
+555,"Stare Miasto, Kraków",2588,8.6,9.6
+556,Zakopane,3727,9.4,8.6
+557,Czarna Góra,1173,10.0,9.7
+558,"Prądnik Biały, Kraków",1945,9.2,9.1
+559,Kościelisko,1834,8.2,9.9
+560,Zakopane,1288,9.1,9.3
+561,Krościenko,984,8.7,9.1
+562,"Stare Miasto, Kraków",3734,8.4,9.3
+563,"Stare Miasto, Kraków",2737,8.2,8.6
+564,"Stare Miasto, Kraków",1898,8.7,9.5
+565,Myślenice,951,9.5,9.5
+566,"Stare Miasto, Kraków",3500,9.0,8.2
+567,"Stare Miasto, Kraków",2164,8.5,9.4
+568,Szczawnica,3388,8.9,9.6
+569,Zakopane,1694,9.0,8.0
+570,Chrzanów,1512,8.8,8.7
+571,"Prądnik Biały, Kraków",2390,8.4,9.7
+572,Kościelisko,2927,9.9,8.8
+573,"Prądnik Biały, Kraków",3047,9.8,9.6
+574,"Stare Miasto, Kraków",4750,7.9,8.5
+575,Czajowice,1575,9.0,9.1
+576,Frydman,1267,8.3,9.0
+577,"Grzegórzki, Kraków",342,7.9,9.1
+578,Ochotnica Górna,3524,8.9,9.2
+579,Czorsztyn,3080,9.8,9.2
+580,Zakliczyn,773,7.9,9.3
+581,"Stare Miasto, Kraków",3218,9.2,8.5
+582,Klikuszowa,1138,8.5,8.4
+583,"Prądnik Biały, Kraków",2273,9.5,9.2
+584,"Dębniki, Kraków",3047,8.9,9.4
+585,Modlnica,1393,9.8,8.3
+586,Biały Dunajec,4508,9.2,9.4
+587,"Stare Miasto, Kraków",1956,9.1,8.6
+588,"Stare Miasto, Kraków",3512,9.6,9.2
+589,"Stare Miasto, Kraków",2046,8.8,9.1
+590,Zakopane,4498,9.4,8.9
+591,"Stare Miasto, Kraków",2369,9.3,9.5
+592,Chochołów,4900,8.3,8.4
+593,Zakopane,2428,9.5,9.1
+594,Kościelisko,1884,9.4,9.0
+595,Bukowina Tatrzańska,2132,8.1,9.6
+596,Szczawnica,3441,8.6,9.1
+597,Paczółtowice,1120,9.7,8.8
+598,Szczawnica,1912,8.8,8.2
+599,"Stare Miasto, Kraków",2363,9.8,8.8
+600,Kościelisko,1862,8.5,9.5
+601,Białka Tatrzańska,2744,9.0,9.5
+602,"Krupówki, Zakopane",4737,8.9,9.0
+603,"Stare Miasto, Kraków",451,9.0,8.5
+604,Iwkowa,1960,9.0,9.5
+605,"Stare Miasto, Kraków",2708,9.3,9.5
+606,Czorsztyn,3500,9.2,8.9
+607,Szczawnica,1176,8.0,8.5
+608,Jordanów,1120,8.6,8.3
+609,"Stare Miasto, Kraków",2211,8.2,9.5
+610,"Krupówki, Zakopane",3054,9.0,8.2
+611,"Stare Miasto, Kraków",3413,9.3,8.3
+612,Lubomierz,4425,8.5,8.3
+613,Zakopane,2428,9.2,10.0
+614,Sromowce Wyżne,1024,8.5,9.7
+615,Zakopane,1671,9.2,9.7
+616,"Stare Miasto, Kraków",2427,9.0,9.3
+617,"Stare Miasto, Kraków",3276,9.1,9.0
+618,Sucha Beskidzka,1595,9.3,9.6
+619,"Stare Miasto, Kraków",2170,8.2,10.0
+620,"Dębniki, Kraków",2412,9.1,8.4
+621,"Stare Miasto, Kraków",2390,8.8,8.2
+622,Szczawnica,3589,9.5,8.9
+623,"Stare Miasto, Kraków",4750,8.3,8.8
+624,Krościenko,777,9.1,9.3
+625,"Stare Miasto, Kraków",3863,8.6,9.4
+626,Zakopane,1944,8.2,9.4
+627,Kościelisko,3236,8.8,9.3
+628,"Stare Miasto, Kraków",3386,9.3,9.8
+629,"Stare Miasto, Kraków",3445,9.3,8.7
+630,Klikuszowa,1138,9.0,8.3
+631,Kościelisko,3420,8.6,8.9
+632,"Stare Miasto, Kraków",3179,9.1,8.8
+633,"Stare Miasto, Kraków",399,9.4,8.1
+634,Zakopane,1377,8.7,9.5
+635,Czarny Dunajec,1400,8.3,9.1
+636,Zakopane,3497,8.2,9.8
+637,"Stare Miasto, Kraków",2569,9.5,9.1
+638,Książ Wielki,1260,8.3,9.4
+639,"Stare Miasto, Kraków",3864,8.4,9.6
+640,Zakopane,2407,8.5,8.7
+641,Bochnia,1253,10.0,9.3
+642,"Stare Miasto, Kraków",1742,9.7,8.7
+643,Zakopane,4265,9.7,8.9
+644,Klimkówka,1190,9.2,8.1
+645,Zakopane,2286,8.9,9.1
+646,"Stare Miasto, Kraków",1363,9.5,9.8
+647,Maniowy,1481,9.9,9.5
+648,Białka Tatrzańska,3928,8.2,9.6
+649,Dzianisz,7574,8.2,9.6
+650,Dzianisz,7574,8.9,8.8
+651,"Krupówki, Zakopane",3159,9.2,9.0
+652,"Stare Miasto, Kraków",3563,9.1,8.7
+653,"Stare Miasto, Kraków",4301,9.4,8.5
+654,Bukowina Tatrzańska,2898,9.6,9.5
+655,"Stare Miasto, Kraków",2505,9.2,8.4
+656,"Stare Miasto, Kraków",385,9.7,8.8
+657,"Podgórze, Kraków",1973,8.6,9.1
+658,Czerwienne,1260,8.2,8.8
+659,Zakopane,4496,8.9,9.7
+660,Zakopane,3605,8.7,9.1
+661,Łapsze Niżne,2898,8.0,8.4
+662,Zakopane,1721,9.1,9.1
+663,Murzasichle,16200,9.0,8.8
+664,Radocza,1750,7.5,9.1
+665,Zakopane,1834,9.9,8.9
+666,Białka Tatrzańska,1616,8.9,9.5
+667,Gródek nad Dunajcem,1610,9.4,8.0
+668,"Stare Miasto, Kraków",1800,9.4,9.8
+669,Krościenko,1827,8.5,9.5
+670,"Grzegórzki, Kraków",3683,9.3,8.3
+671,"Stare Miasto, Kraków",2060,9.0,8.8
+672,"Krupówki, Zakopane",1624,8.9,9.3
+673,"Łagiewniki, Kraków",2992,8.2,8.8
+674,Uście Gorlickie,1610,9.1,9.1
+675,Zakopane,4819,8.2,9.2
+676,Olkusz,1120,8.1,8.7
+677,Krynica-Zdrój,1970,9.7,8.8
+678,Czorsztyn,1820,9.6,9.2
+679,Poręba Wielka,693,9.5,9.7
+680,Zakopane,1969,9.7,9.0
+681,"Stare Miasto, Kraków",2153,8.8,8.2
+682,"Stare Miasto, Kraków",1084,9.2,9.7
+683,Chrzanów,1470,8.9,9.4
+684,Jaworki,4057,8.3,8.3
+685,Szlachtowa,1274,9.2,9.2
+686,"Grzegórzki, Kraków",3600,8.3,9.0
+687,Witów,1968,8.4,9.2
+688,Zakopane,2461,9.2,8.9
+689,Kluszkowce,1095,9.0,8.7
+690,Rzyki,4165,9.6,9.5
+691,"Zwierzyniec, Kraków",1894,9.2,8.6
+692,"Stare Miasto, Kraków",4939,8.3,9.2
+693,"Stare Miasto, Kraków",585,9.2,8.4
+694,"Stare Miasto, Kraków",3263,9.0,9.5
+695,Bukowina Tatrzańska,2093,9.2,8.7
+696,Rzepiska,518,8.7,9.2
+697,Ząb,1270,9.6,8.7
+698,Ząb,1411,7.3,8.8
+699,"Krupówki, Zakopane",1302,7.9,8.2
+700,"Stare Miasto, Kraków",585,9.5,9.4
+701,Bukowina Tatrzańska,2093,9.3,9.2
+702,Ząb,1270,8.5,9.5
+703,"Krupówki, Zakopane",1302,8.8,9.4
+704,Muszyna,3874,9.1,9.2
+705,Krościenko,3735,8.4,9.5
+706,"Stare Miasto, Kraków",1701,9.1,9.7
+707,"Dębniki, Kraków",2188,9.2,8.6
+708,"Stare Miasto, Kraków",5514,8.6,9.0
+709,Oświęcim,2296,8.7,9.2
+710,Zakopane,2518,9.2,8.4
+711,Zakopane,1377,9.5,9.5
+712,Balice,1750,9.1,8.7
+713,"Stare Miasto, Kraków",2959,8.4,8.7
+714,"Stare Miasto, Kraków",2153,7.3,8.8
+715,Zakopane,2966,7.5,8.2
+716,Zakopane,3720,8.2,9.4
+717,"Stare Miasto, Kraków",2660,9.8,9.7
+718,Zakopane,3865,9.5,9.5
+719,Białka Tatrzańska,1823,8.4,9.4
+720,Biały Dunajec,708,9.1,9.2
+721,Zakopane,1661,8.9,8.7
+722,"Grzegórzki, Kraków",1687,9.2,9.3
+723,Krynica-Zdrój,2898,8.8,9.6
+724,"Stare Miasto, Kraków",1417,7.5,9.6
+725,Bukowina Tatrzańska,1398,7.1,9.0
+726,Zubrzyca Górna,1050,8.6,9.3
+727,Zakopane,4093,9.5,9.5
+728,"Stare Miasto, Kraków",2421,8.7,8.6
+729,Dobczyce,1323,8.9,8.6
+730,Szczawnica,3819,8.3,9.6
+731,Zakopane,2781,9.5,9.0
+732,"Stare Miasto, Kraków",393,8.8,8.7
+733,Wieliczka,1750,9.0,8.9
+734,"Podgórze, Kraków",1763,9.4,9.6
+735,Męcina Wielka,1836,8.7,8.3
+736,Białka Tatrzańska,1969,8.2,9.6
+737,"Stare Miasto, Kraków",2655,9.6,9.7
+738,"Krupówki, Zakopane",3267,9.0,9.1
+739,Zakopane,3173,9.2,8.8
+740,Limanowa,1868,9.3,9.2
+741,"Stare Miasto, Kraków",2682,9.1,9.5
+742,Ząb,1228,7.1,9.5
+743,"Podgórze, Kraków",3247,9.5,8.5
+744,"Stare Miasto, Kraków",1943,9.7,8.0
+745,Czajowice,1470,8.7,9.5
+746,Paczółtowice,2800,8.9,8.2
+747,"Stare Miasto, Kraków",3578,8.9,9.3
+748,"Stare Miasto, Kraków",3355,8.3,9.9
+749,"Stare Miasto, Kraków",2318,9.5,9.6
+750,Wieliczka,1750,9.4,9.6
+751,Męcina Wielka,1836,8.6,9.8
+752,Bukowina Tatrzańska,1700,8.7,9.0
+753,Białka Tatrzańska,1969,8.2,8.8
+754,Dobczyce,1323,9.6,9.3
+755,"Stare Miasto, Kraków",2655,9.8,8.7
+756,"Krupówki, Zakopane",3267,9.2,9.0
+757,Zakopane,3173,9.5,9.6
+758,Ząb,1228,9.1,8.9
+759,"Podgórze, Kraków",1763,8.8,8.4
+760,"Podgórze, Kraków",3247,8.3,9.6
+761,"Stare Miasto, Kraków",1908,7.9,8.8
+762,Czajowice,1470,9.1,8.4
+763,Bukowina Tatrzańska,1288,9.5,9.2
+764,"Stare Miasto, Kraków",3578,7.9,8.9
+765,Sromowce Niżne,1120,9.5,8.9
+766,"Stare Miasto, Kraków",2318,8.7,8.8
+767,Limanowa,1868,9.1,9.0
+768,Zakopane,2548,7.9,8.0
+769,Krynica-Zdrój,800,9.4,9.4
+770,Kościelisko,2721,8.6,8.8
+771,Zakopane,3614,8.3,8.9
+772,"Stare Miasto, Kraków",1802,9.5,9.0
+773,Zakopane,3654,8.7,9.2
+774,Białka Tatrzańska,3993,8.6,8.9
+775,Kościelisko,2675,8.8,9.4
+776,"Stare Miasto, Kraków",1802,7.0,9.8
+777,Tylmanowa,1610,9.6,8.8
+778,Zakopane,1967,8.3,9.5
+779,"Stare Miasto, Kraków",2008,9.5,9.2
+780,Zakopane,3581,9.6,8.3
+781,Białka Tatrzańska,2962,9.2,9.6
+782,Poronin,2450,8.6,9.4
+783,Białka Tatrzańska,3150,9.0,9.4
+784,Zakopane,845,9.4,9.3
+785,Murzasichle,2111,9.6,9.2
+786,"Stare Miasto, Kraków",2720,8.6,8.9
+787,Zakopane,3654,8.0,9.6
+788,Krościenko,1687,9.1,9.6
+789,Gródek nad Dunajcem,9660,8.1,9.6
+790,Zakopane,2036,9.4,9.3
+791,"Stare Miasto, Kraków",2776,9.8,9.9
+792,Zakopane,2795,9.5,9.9
+793,Czorsztyn,1260,9.6,9.7
+794,"Stare Miasto, Kraków",2186,9.8,9.3
+795,"Podgórze, Kraków",1101,9.1,9.6
+796,"Stare Miasto, Kraków",3000,8.6,8.8
+797,"Dębniki, Kraków",2022,9.5,9.8
+798,Zakopane,2282,8.8,9.3
+799,Brzegi,2800,8.9,9.7
+800,Zakopane,4973,9.7,9.6
+801,Murzasichle,2111,8.0,8.4
+802,Stryszawa,3150,8.6,8.7
+803,Zakopane,2854,8.5,9.4
+804,Zakopane,1167,9.5,9.4
+805,Klikuszowa,3520,8.9,9.5
+806,Krynica-Zdrój,2898,8.5,9.8
+807,Zakopane,2940,9.0,9.6
+808,Uście Gorlickie,2107,8.7,9.8
+809,Czarna Góra,1275,8.7,9.4
+810,Zakopane,4015,9.3,8.1
+811,Zakopane,1907,9.1,8.8
+812,Kościelisko,2819,7.8,9.5
+813,Zakopane,1414,9.5,9.1
+814,"Stare Miasto, Kraków",1756,8.6,9.2
+815,Poronin,814,8.6,9.6
+816,"Stare Miasto, Kraków",2474,9.3,9.5
+817,"Stare Miasto, Kraków",2335,9.3,9.1
+818,Tylicz,4214,9.0,9.0
+819,Ropica Górna,2267,9.4,8.8
+820,Muszyna,1901,9.8,9.3
+821,Chochołów,835,8.8,9.8
+822,Zakopane,2036,9.4,9.3
+823,"Stare Miasto, Kraków",2174,9.0,9.4
+824,Zakopane,5353,8.1,8.4
+825,Kościelisko,10737,9.5,8.8
+826,Myślenice,1260,9.3,9.3
+827,Zakopane,1977,9.2,8.7
+828,Zakopane,2604,9.2,9.4
+829,Zakopane,2264,9.2,9.5
+830,Tylmanowa,1449,7.7,9.7
+831,Murzasichle,1507,8.9,9.6
+832,"Krowodrza, Kraków",2190,9.4,9.8
+833,Rzepiska,4858,9.7,9.4
+834,Kościelisko,3672,9.6,8.8
+835,Lubomierz,1761,9.4,9.5
+836,Szaflary,1459,9.9,9.1
+837,Oświęcim,1505,9.7,9.2
+838,"Stare Miasto, Kraków",2817,9.6,9.1
+839,"Grzegórzki, Kraków",1595,9.5,9.0
+840,Chochołów,910,9.8,9.7
+841,Trzebieńczyce,4142,8.7,8.3
+842,Uście Gorlickie,2107,9.6,9.7
+843,Ochotnica Górna,546,8.9,9.8
+844,Zakopane,2286,9.8,9.5
+845,Zakopane,2489,9.5,8.0
+846,Krościenko,1267,7.9,8.0
+847,Rzyki,3864,8.5,9.4
+848,Klikuszowa,3520,8.8,8.8
+849,Zator,3028,9.3,8.9
+850,"Stare Miasto, Kraków",2856,9.3,8.4
+851,"Stare Miasto, Kraków",3478,9.4,9.1
+852,Jaroszowice,2777,9.7,9.4
+853,Bukowina Tatrzańska,1022,7.3,8.6
+854,Kościelisko,2819,9.6,9.3
+855,Zakopane,2332,9.8,8.1
+856,Zakopane,3352,9.6,9.5
+857,Krynica-Zdrój,2898,8.4,9.0
+858,Zakopane,3069,8.8,9.9
+859,Wysowa-Zdrój,2328,9.5,9.7
+860,"Stare Miasto, Kraków",2666,8.9,8.5
+861,Bochnia,1750,9.2,9.1
+862,"Stare Miasto, Kraków",2041,9.7,8.7
+863,Kościelisko,1231,9.5,10.0
+864,Zakopane,3104,9.1,9.2
+865,Jaworki,2029,8.9,8.1
+866,Zakopane,916,8.8,8.9
+867,"Stare Miasto, Kraków",2708,9.5,9.8
+868,Zakopane,3542,9.6,9.0
+869,Zakopane,3439,8.9,9.6
+870,Węglówka,1540,9.5,9.7
+871,Zakopane,1344,7.9,8.5
+872,Zakopane,1190,8.5,8.7
+873,Osiek,2318,8.7,9.2
+874,Czchów,2337,9.1,8.9
+875,"Stare Miasto, Kraków",2312,8.8,9.9
+876,Szaflary,1190,9.3,9.8
+877,"Stare Miasto, Kraków",3478,9.4,8.5
+878,Jaroszowice,2777,9.5,8.7
+879,Wysowa-Zdrój,882,7.3,9.6
+880,Zakopane,5643,9.6,9.6
+881,Zakopane,3352,9.8,9.1
+882,"Stare Miasto, Kraków",2856,9.6,8.9
+883,"Stare Miasto, Kraków",2827,9.0,9.8
+884,Krynica-Zdrój,2938,9.5,9.4
+885,Zakopane,3069,8.9,9.5
+886,"Stare Miasto, Kraków",2666,9.2,9.5
+887,Zakopane,3549,9.1,9.4
+888,"Stare Miasto, Kraków",2187,8.9,9.5
+889,Kościelisko,1231,9.4,9.4
+890,Zakopane,2170,8.4,9.0
+891,Jaworki,2254,9.4,9.4
+892,Krynica-Zdrój,811,9.8,9.0
+893,Zakopane,3164,9.5,9.5
+894,Zakopane,3439,8.3,8.2
+895,Węglówka,1540,8.1,9.3
+896,Osiek,3478,9.4,8.8
+897,Czchów,2337,8.9,8.8
+898,Zakopane,4829,8.6,9.3
+899,"Stare Miasto, Kraków",2214,8.4,8.3
+900,Zakopane,4829,9.1,9.7
+901,Zakopane,2170,9.7,9.5
+902,Poronin,1502,8.6,9.4
+903,Kościelisko,1940,9.4,8.7
+904,"Krupówki, Zakopane",469,7.8,8.9
+905,Łącko,2590,8.4,8.3
+906,"Stare Miasto, Kraków",2552,9.5,9.8
+907,Zakopane,2066,8.9,9.7
+908,Krynica-Zdrój,2381,9.7,9.7
+909,Zakopane,2356,9.7,9.1
+910,Maków Podhalański,4200,8.7,9.4
+911,"Stare Miasto, Kraków",1957,9.1,8.3
+912,Sromowce Niżne,1260,8.8,8.8
+913,"Stare Miasto, Kraków",2226,10.0,8.7
+914,Czorsztyn,4340,9.2,9.2
+915,Krynica-Zdrój,702,8.4,10.0
+916,Murzasichle,1190,8.5,8.5
+917,Czchów,2337,9.8,8.5
+918,Kacwin,1890,8.9,9.1
+919,Wapienne,958,9.5,8.6
+920,Muszyna,1018,9.7,8.7
+921,Zakopane,1959,8.7,9.0
+922,"Grzegórzki, Kraków",2358,8.8,9.8
+923,Wadowice,3850,9.2,8.4
+924,Zakopane,1764,8.9,8.7
+925,Krynica-Zdrój,718,10.0,9.2
+926,"Krupówki, Zakopane",2693,9.7,9.2
+927,Łabowa,2018,8.3,8.7
+928,Czchów,2337,8.6,9.6
+929,"Stare Miasto, Kraków",3150,9.7,9.7
+930,Wapienne,958,9.4,9.6
+931,Muszyna,1018,8.9,9.1
+932,"Grzegórzki, Kraków",2358,7.8,8.7
+933,Zakopane,1764,9.0,9.7
+934,Chochołów,910,9.7,8.8
