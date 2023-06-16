@@ -1,0 +1,899 @@
+,City,Cost,Rating,Comfort
+0,Władysławowo,2738,9.6,10.0
+1,Sopot,3329,8.3,8.7
+2,"Dolny Sopot, Sopot",16502,9.1,9.5
+3,Władysławowo,2677,8.9,8.5
+4,"Przymorze, Gdańsk",2403,8.1,8.0
+5,Gdańsk,2898,8.6,9.2
+6,Władysławowo,3461,9.3,9.6
+7,Łeba,2805,8.9,8.8
+8,Krynica Morska,3206,8.3,8.2
+9,Białogóra,1553,8.4,8.2
+10,Jastrzębia Góra,2148,8.4,8.9
+11,Władysławowo,2954,8.0,8.6
+12,Władysławowo,1888,8.6,8.5
+13,Karwia,1186,7.4,8.6
+14,Łeba,1990,8.0,8.7
+15,Jastrzębia Góra,2269,8.8,9.8
+16,Łeba,1890,8.7,9.6
+17,Zblewo,2520,7.6,9.0
+18,Władysławowo,4900,8.8,8.5
+19,Chmielno,4550,8.9,8.7
+20,"Centrum, Gdańsk",5239,9.8,9.0
+21,Malbork,5719,9.2,8.9
+22,"Centrum, Gdańsk",8600,8.5,9.4
+23,Wiele,2383,8.9,9.0
+24,"Wzgórze Świętego Maksymiliana, Gdynia",5844,8.7,8.9
+25,"Centrum, Gdańsk",4311,8.8,9.3
+26,Gdynia,6410,8.7,9.4
+27,"Centrum, Gdańsk",4550,9.2,8.9
+28,Jastrzębia Góra,8092,9.1,8.8
+29,Łeba,16638,9.0,9.3
+30,Jastrzębia Góra,2576,9.4,8.2
+31,Podiazy,4622,9.4,9.2
+32,Gdańsk-Rębiechowo,7792,8.7,9.2
+33,Jurata,11501,8.6,8.6
+34,Swarzewo,3291,8.2,9.9
+35,"Dolny Sopot, Sopot",27907,8.9,9.4
+36,Malbork,2450,8.4,8.0
+37,"Centrum, Gdańsk",9679,8.7,8.8
+38,Łeba,5613,9.2,9.3
+39,Rumia,3150,8.6,9.5
+40,Władysławowo,9993,9.9,8.7
+41,Ustka,21620,9.1,8.8
+42,Karwia,7616,8.1,9.0
+43,Gdynia,3655,8.6,9.1
+44,"Śródmieście, Gdynia",8736,9.1,9.1
+45,"Śródmieście, Gdynia",6257,9.3,8.9
+46,Rumia,4606,8.8,8.3
+47,"Jelitkowo, Gdańsk",10438,8.6,8.2
+48,Łeba,2483,9.1,8.1
+49,Krzeszna,3015,9.1,8.4
+50,Władysławowo,17270,8.9,8.0
+51,"Śródmieście, Gdynia",6210,8.8,9.6
+52,Hel,3384,8.4,9.3
+53,Gdańsk-Rębiechowo,1960,8.2,9.3
+54,Ustka,1855,8.4,9.1
+55,Ustka,3688,8.5,8.1
+56,Ostrowo,3284,8.2,9.8
+57,"Wzgórze Świętego Maksymiliana, Gdynia",6453,9.3,9.1
+58,"Centrum, Gdańsk",8976,9.0,9.1
+59,Dobrogoszcz,3780,9.3,8.7
+60,Rowy,3070,9.1,9.5
+61,Rewa,5250,8.2,9.1
+62,Ostrowo,3906,9.8,9.1
+63,Jastarnia,9043,9.0,9.4
+64,"Dolny Sopot, Sopot",12559,8.7,8.8
+65,Jastrzębia Góra,5734,8.8,9.3
+66,"Śródmieście, Gdynia",3365,9.4,8.9
+67,Hel,11708,8.8,9.0
+68,Kościerzyna,2705,9.0,8.5
+69,Sulęczyno,8568,9.2,9.8
+70,Władysławowo,4565,9.1,9.1
+71,"Centrum, Gdańsk",9724,9.0,8.9
+72,Gdańsk,2765,8.9,9.1
+73,Rumia,7308,9.0,8.7
+74,Gdańsk,3000,8.4,9.1
+75,Ostrowo,3906,9.8,9.1
+76,Jastarnia,8521,9.0,9.4
+77,"Dolny Sopot, Sopot",13338,8.8,9.7
+78,"Dolny Sopot, Sopot",11905,8.7,8.8
+79,Jastrzębia Góra,6065,8.8,9.3
+80,Hel,10534,8.8,9.0
+81,Kościerzyna,2705,9.0,9.4
+82,Sulęczyno,8568,9.2,8.9
+83,Dębina-Ustka,3230,9.4,8.6
+84,Władysławowo,4565,9.1,8.5
+85,"Centrum, Gdańsk",10224,9.0,9.3
+86,Rumia,7308,9.0,8.5
+87,Jantar,4025,9.3,8.8
+88,Gdańsk,2765,8.9,9.1
+89,Sominy,1803,9.1,8.6
+90,Gdańsk,3000,8.4,9.2
+91,Jastarnia,14311,8.9,9.3
+92,Łeba,4170,8.9,9.3
+93,Gdańsk,3325,8.8,8.3
+94,"Oliwa, Gdańsk",6749,8.9,9.1
+95,Hel,6426,8.5,8.6
+96,"Centrum, Gdańsk",9742,8.7,8.3
+97,Władysławowo,9176,9.1,8.9
+98,"Centrum, Gdańsk",8472,9.0,8.9
+99,Krynica Morska,3803,8.7,8.7
+100,Stężyca,4244,8.8,8.3
+101,Hel,6426,8.5,9.4
+102,Chmielno,2565,8.2,9.9
+103,Jastrzębia Góra,4698,9.0,8.5
+104,"Centrum, Gdańsk",7166,8.9,8.8
+105,"Dolny Sopot, Sopot",5840,8.7,9.5
+106,Krynica Morska,3803,8.7,8.3
+107,Jurata,4486,9.3,8.7
+108,Władysławowo,8172,9.7,8.6
+109,Kartuzy,2520,7.9,8.5
+110,"Sobieszewo, Gdańsk",8124,7.7,9.0
+111,Krynica Morska,3640,8.5,9.2
+112,Lubiatowo,2125,9.0,9.1
+113,Gdynia,2306,9.4,8.8
+114,"Centrum, Gdańsk",6684,8.3,9.6
+115,"Centrum, Gdańsk",6684,8.5,9.2
+116,"Centrum, Gdańsk",4040,8.6,9.5
+117,Krynica Morska,6224,8.7,8.7
+118,"Górny Sopot, Sopot",7331,8.9,10.0
+119,Tuszkowy,3584,9.5,8.8
+120,Krynica Morska,3709,9.3,8.2
+121,Tczew,3535,8.7,8.9
+122,Lębork,1927,9.6,9.2
+123,"Centrum, Gdańsk",9782,9.0,9.5
+124,Wiślinka,5473,9.5,9.4
+125,Ustka,8629,8.5,8.7
+126,Ustka,5104,9.9,9.1
+127,Malbork,5026,8.9,9.2
+128,Malbork,2538,8.3,8.5
+129,Gdańsk,6904,8.9,9.1
+130,Puck,7742,9.3,9.3
+131,Pierszczewko,5334,9.5,8.8
+132,Władysławowo,4239,9.3,8.9
+133,Rowy,6114,8.6,8.0
+134,"Centrum, Gdańsk",2342,7.4,9.5
+135,Puck,3391,9.2,9.1
+136,"Śródmieście, Gdynia",3932,9.0,9.5
+137,Rowy,2860,8.6,8.0
+138,Jastrzębia Góra,3996,9.1,9.3
+139,Gdańsk,2556,9.1,9.5
+140,"Śródmieście, Gdynia",5719,7.7,9.1
+141,Gołubie,1417,8.7,9.5
+142,Sierakowice,4270,8.9,8.6
+143,Władysławowo,2517,7.5,9.4
+144,"Karlikowo, Sopot",7627,8.2,8.4
+145,Jastarnia,2793,9.5,8.9
+146,Wycinki,5345,8.9,9.0
+147,"Górny Sopot, Sopot",10420,7.5,9.2
+148,Jastarnia,3951,9.4,9.4
+149,Rumia,5145,7.5,8.8
+150,"Karlikowo, Sopot",7627,8.2,8.0
+151,Jastarnia,2793,9.2,8.8
+152,"Karlikowo, Sopot",11292,9.5,9.2
+153,Wycinki,5345,8.9,8.9
+154,"Górny Sopot, Sopot",10420,7.5,9.7
+155,Jastarnia,2633,9.4,9.1
+156,Rumia,5145,8.2,8.2
+157,Kościerzyna,4830,9.6,9.2
+158,Władysławowo,6001,8.3,9.4
+159,Ustka,8260,8.9,8.8
+160,Jastrzębia Góra,4608,9.1,8.0
+161,Sznurki,2259,9.1,8.8
+162,"Centrum, Gdańsk",10711,9.3,8.9
+163,"Dolny Sopot, Sopot",4308,8.6,9.7
+164,Koczała,2068,7.6,9.1
+165,Krynica Morska,11346,8.5,8.2
+166,Przechlewo,7584,9.2,9.1
+167,Gdynia,1756,8.8,8.5
+168,Puck,5168,9.5,8.9
+169,Dębina-Ustka,3193,7.8,9.1
+170,"Śródmieście, Gdynia",6118,9.1,8.9
+171,Władysławowo,1559,8.2,9.4
+172,Tczew,2065,8.1,9.6
+173,Ustka,1715,8.0,8.7
+174,Władysławowo,2954,9.1,10.0
+175,"Centrum, Gdańsk",9800,9.3,9.0
+176,"Dolny Sopot, Sopot",4308,8.6,9.3
+177,Koczała,2068,7.6,9.2
+178,Krynica Morska,10096,8.5,8.7
+179,Przechlewo,7024,8.8,9.5
+180,Puck,4959,9.5,8.9
+181,Dębina-Ustka,2779,7.8,8.7
+182,"Śródmieście, Gdynia",6118,9.1,8.6
+183,Władysławowo,1559,8.2,9.1
+184,Tczew,2065,8.1,8.5
+185,Ustka,2405,9.2,9.1
+186,Sulęczyno,4051,7.4,9.3
+187,"Wzgórze Świętego Maksymiliana, Gdynia",6196,8.3,8.2
+188,Gdańsk,5619,8.7,9.2
+189,"Wrzeszcz, Gdańsk",6918,8.8,8.6
+190,"Centrum, Gdańsk",7859,8.8,8.2
+191,"Centrum, Gdańsk",8345,9.1,9.4
+192,"Centrum, Gdańsk",8560,9.2,8.6
+193,Ostrowo,1266,8.9,9.0
+194,Żarnowska,1764,9.9,8.0
+195,Borsk,5428,9.0,8.2
+196,Ustka,4117,8.9,9.0
+197,Gdańsk-Rębiechowo,4356,9.4,9.1
+198,Sztutowo,3055,8.8,9.4
+199,Ustka,3801,9.3,8.7
+200,Słupsk,2318,8.1,9.4
+201,Karwia,5097,8.6,8.7
+202,Gniewino,6311,8.7,9.0
+203,Tczew,4334,8.6,9.5
+204,Lębork,1512,9.1,9.0
+205,Ustka,8720,8.4,9.2
+206,Gdynia,1205,8.9,9.5
+207,"Centrum, Gdańsk",7612,7.9,9.0
+208,Karwia,2293,9.2,8.9
+209,"Dolny Sopot, Sopot",6803,8.3,8.7
+210,Krynica Morska,4281,9.1,8.6
+211,Rumia,6860,8.5,9.1
+212,"Wzgórze Świętego Maksymiliana, Gdynia",8604,8.4,8.5
+213,"Śródmieście, Gdynia",3272,9.2,9.1
+214,Gdynia,2914,8.5,8.5
+215,Lubiatowo,3312,7.4,8.2
+216,Sasino,2929,8.5,9.2
+217,Sopot,3650,8.6,8.2
+218,Gdańsk,5603,8.1,9.4
+219,Sopot,5622,8.2,8.9
+220,Łeba,3883,8.4,9.2
+221,Bąkowo,4623,8.9,8.8
+222,"Śródmieście, Gdynia",6627,9.1,9.0
+223,"Centrum, Gdańsk",3376,9.4,8.6
+224,"Centrum, Gdańsk",5109,7.5,8.8
+225,Mikoszewo,3430,8.5,8.1
+226,Człuchów,1803,9.4,9.2
+227,"Centrum, Gdańsk",6433,8.6,8.6
+228,Rowy,3476,8.9,9.5
+229,Gdańsk,4963,9.4,9.1
+230,"Centrum, Gdańsk",2621,8.9,9.4
+231,"Śródmieście, Gdynia",3289,9.3,9.0
+232,Jastrzębia Góra,10557,9.3,8.9
+233,Krynica Morska,3698,8.9,8.7
+234,Słupsk,2125,8.1,8.4
+235,Hel,4942,8.6,9.0
+236,Karwia,5097,8.7,9.5
+237,Gniewino,6311,8.6,9.4
+238,Tczew,4334,9.1,9.3
+239,Lębork,1512,8.4,9.4
+240,Ustka,4830,8.9,8.4
+241,Gdynia,1592,8.5,8.9
+242,"Centrum, Gdańsk",7318,8.3,8.8
+243,"Śródmieście, Gdynia",5586,9.1,8.4
+244,Krynica Morska,4101,8.4,9.0
+245,Rumia,6860,9.2,8.5
+246,"Śródmieście, Gdynia",3272,8.5,9.8
+247,Gdynia,2969,8.8,9.7
+248,Lubiatowo,3542,9.0,8.6
+249,Sasino,2929,7.8,8.8
+250,"Oliwa, Gdańsk",7124,8.3,8.2
+251,Ustka,4305,8.9,9.1
+252,"Wrzeszcz, Gdańsk",2996,7.5,9.4
+253,Lubiatowo,2990,8.8,8.1
+254,"Dolny Sopot, Sopot",12107,8.6,9.5
+255,"Centrum, Gdańsk",2607,8.8,8.9
+256,"Centrum, Gdańsk",4118,8.1,9.2
+257,"Centrum, Gdańsk",3093,8.9,9.0
+258,"Dolny Sopot, Sopot",4712,8.4,8.6
+259,Stegna,4497,9.5,8.1
+260,Wejherowo,4466,9.0,9.4
+261,Chojnice,3696,9.4,9.7
+262,"Centrum, Gdańsk",3733,8.8,9.8
+263,"Centrum, Gdańsk",6809,8.8,9.1
+264,Łeba,4116,8.5,8.4
+265,"Wrzeszcz, Gdańsk",2714,8.5,8.8
+266,Władysławowo,2787,9.0,8.7
+267,Gdańsk,5996,9.4,9.5
+268,Rowy,4168,9.6,8.6
+269,Karwia,3780,9.3,8.2
+270,"Karlikowo, Sopot",4714,9.4,9.0
+271,Gdańsk,3553,8.8,9.0
+272,"Centrum, Gdańsk",5655,8.7,9.1
+273,Lubiatowo,3993,8.6,8.8
+274,Poddąbie,5464,8.5,9.5
+275,Łeba,9583,8.8,9.5
+276,"Centrum, Gdańsk",6299,7.8,9.6
+277,Rowy,4168,8.4,9.4
+278,Rozewie,2193,9.7,8.0
+279,Wdzydze Kiszewskie,6860,9.7,8.7
+280,Jastrzębia Góra,9240,8.7,9.4
+281,Kamienica Królewska,3671,8.7,9.6
+282,"Śródmieście, Gdynia",5247,8.2,8.7
+283,Reda,8866,8.8,8.8
+284,Tczew,4543,9.3,9.8
+285,Człuchów,6600,8.2,9.1
+286,Gdańsk,6060,9.7,8.4
+287,"Centrum, Gdańsk",8280,8.8,8.8
+288,Rowy,3282,9.0,8.7
+289,Łeba,1880,7.8,9.5
+290,Stary Targ,1830,8.3,8.6
+291,"Oliwa, Gdańsk",7161,7.5,9.1
+292,Ustka,3955,8.8,8.2
+293,"Wrzeszcz, Gdańsk",3045,8.6,9.0
+294,Lubiatowo,2990,8.1,9.0
+295,"Centrum, Gdańsk",2607,9.0,9.3
+296,"Centrum, Gdańsk",3538,9.6,8.3
+297,"Centrum, Gdańsk",3093,9.4,8.0
+298,Stegna,3546,9.2,8.8
+299,Kościerzyna,1701,8.5,8.6
+300,Osiek,2100,9.0,9.0
+301,Rozewie,3044,8.5,9.5
+302,Sztutowo,4495,9.2,9.6
+303,"Centrum, Gdańsk",6219,8.3,8.7
+304,"Brzeźno, Gdańsk",3850,8.3,9.1
+305,"Centrum, Gdańsk",4068,9.3,9.4
+306,Charzykowy,9607,9.1,9.6
+307,Jantar,3709,9.1,8.7
+308,Kębłowo,3064,8.9,8.2
+309,Gowidlino,1400,9.3,8.2
+310,Ustka,3542,9.4,9.3
+311,Ustka,5739,9.5,8.5
+312,Bak,2310,9.2,9.0
+313,"Dolny Sopot, Sopot",12410,8.0,9.4
+314,Kwidzyn,1400,9.0,9.9
+315,"Karlikowo, Sopot",3850,9.1,9.5
+316,"Wzgórze Świętego Maksymiliana, Gdynia",5383,7.9,8.2
+317,"Centrum, Gdańsk",2955,9.2,9.0
+318,Rowy,7358,8.8,9.1
+319,"Dolny Sopot, Sopot",11305,8.7,8.6
+320,"Dolny Sopot, Sopot",3088,9.4,8.8
+321,Krynica Morska,14876,9.2,9.0
+322,"Oliwa, Gdańsk",6510,8.5,8.5
+323,Gniew,7785,9.0,9.0
+324,Reda,1871,8.5,9.1
+325,Rozewie,3044,9.2,9.7
+326,Sztutowo,4495,8.3,8.9
+327,"Centrum, Gdańsk",6219,9.1,9.2
+328,"Brzeźno, Gdańsk",3850,8.3,8.8
+329,"Centrum, Gdańsk",4068,9.3,8.2
+330,Charzykowy,10407,9.1,8.8
+331,Jantar,3709,9.3,9.0
+332,Łeba,4558,8.6,8.5
+333,Kębłowo,2171,8.0,9.0
+334,Gowidlino,1400,8.7,9.6
+335,Ustka,2877,8.5,9.1
+336,Borsk,3780,8.7,9.7
+337,Jastrzębia Góra,1527,9.4,9.2
+338,"Centrum, Gdańsk",2933,9.5,8.8
+339,Gniew,7785,9.0,9.2
+340,Starogard Gdański,2800,9.1,8.8
+341,"Centrum, Gdańsk",9309,9.1,8.6
+342,Kwidzyn,1400,7.9,8.3
+343,"Karlikowo, Sopot",3500,9.2,8.1
+344,Rowy,4698,8.8,9.2
+345,Ustka,8505,8.2,9.2
+346,"Dolny Sopot, Sopot",10262,8.7,9.4
+347,"Dolny Sopot, Sopot",3088,9.4,8.9
+348,Krynica Morska,14476,8.5,9.2
+349,"Oliwa, Gdańsk",6510,8.0,8.4
+350,"Dolny Sopot, Sopot",13220,8.8,8.4
+351,"Jelitkowo, Gdańsk",5125,9.6,9.3
+352,Malbork,3716,9.9,8.7
+353,"Górny Sopot, Sopot",8960,9.2,8.8
+354,Rewa,3235,8.2,8.5
+355,Wejherowo,1540,7.8,8.6
+356,Gdańsk,3319,9.2,8.5
+357,Chmielno,3192,8.8,9.0
+358,"Wzgórze Świętego Maksymiliana, Gdynia",5001,8.5,8.9
+359,Władysławowo,3108,8.8,9.7
+360,Stegna,7521,8.8,8.7
+361,Dębina-Ustka,4340,8.5,8.1
+362,"Centrum, Gdańsk",8748,8.6,8.5
+363,"Centrum, Gdańsk",3838,9.0,9.0
+364,"Centrum, Gdańsk",4648,9.6,9.5
+365,"Centrum, Gdańsk",7924,8.9,8.4
+366,"Centrum, Gdańsk",6830,9.2,8.1
+367,"Centrum, Gdańsk",6856,8.5,8.3
+368,Hel,8209,7.8,8.0
+369,Mosty,5896,8.2,8.9
+370,Gdańsk,3162,8.8,9.1
+371,"Centrum, Gdańsk",4464,8.8,8.6
+372,"Centrum, Gdańsk",5619,8.5,9.4
+373,"Centrum, Gdańsk",3778,8.6,9.7
+374,Rewa,4364,9.2,9.6
+375,"Dolny Sopot, Sopot",13220,9.0,8.9
+376,"Centrum, Gdańsk",4769,9.6,9.8
+377,"Centrum, Gdańsk",7924,9.2,9.2
+378,"Centrum, Gdańsk",6830,8.5,8.5
+379,"Centrum, Gdańsk",6856,8.9,8.2
+380,Krynica Morska,10493,7.8,9.2
+381,Hel,10495,8.6,9.2
+382,Mosty,5896,8.5,9.6
+383,"Centrum, Gdańsk",5589,8.4,8.3
+384,"Centrum, Gdańsk",3778,8.2,8.1
+385,"Centrum, Gdańsk",5183,9.0,8.8
+386,Rewa,4364,8.9,9.5
+387,"Centrum, Gdańsk",6867,9.7,8.3
+388,Starogard Gdański,2560,8.9,9.1
+389,"Centrum, Gdańsk",3246,7.8,9.3
+390,"Centrum, Gdańsk",6799,9.2,9.9
+391,"Centrum, Gdańsk",3854,8.4,9.6
+392,"Centrum, Gdańsk",5170,8.4,8.8
+393,Kopalino,7676,9.4,8.7
+394,"Centrum, Gdańsk",4464,8.7,9.2
+395,Stegna,7521,8.7,9.4
+396,Łeba,3586,8.3,9.4
+397,Jantar,3117,8.5,8.0
+398,"Brzeźno, Gdańsk",27986,8.7,9.6
+399,"Centrum, Gdańsk",5265,9.1,8.6
+400,Luzino,3766,8.8,8.7
+401,"Kamienny Potok, Sopot",9934,9.4,9.3
+402,"Centrum, Gdańsk",5365,8.7,8.2
+403,Nadole,2800,8.7,9.2
+404,Krynica Morska,8080,8.6,8.0
+405,Dębki,2328,8.9,8.5
+406,"Centrum, Gdańsk",3051,9.2,9.3
+407,Ustka,8365,8.3,8.6
+408,Gdańsk,3875,8.0,8.2
+409,Dębki,3576,9.3,8.7
+410,"Dolny Sopot, Sopot",13453,7.9,8.5
+411,"Dolny Sopot, Sopot",13262,8.0,8.8
+412,Gdańsk,3566,9.0,8.1
+413,"Śródmieście, Gdynia",7829,9.3,8.9
+414,Rowy,4554,8.7,9.1
+415,Jastarnia,3983,9.0,8.7
+416,"Śródmieście, Gdynia",3119,9.2,10.0
+417,Kąty Rybackie,3288,9.5,9.8
+418,Jantar,6581,9.0,9.0
+419,Przywidz,1904,9.6,8.7
+420,Stegna,3816,9.0,9.2
+421,"Karlikowo, Sopot",13546,8.2,9.5
+422,Czarne,4359,8.4,8.4
+423,"Dolny Sopot, Sopot",8300,9.3,9.1
+424,Ustka,5702,9.5,9.4
+425,Mechelinki,4658,9.4,9.0
+426,"Centrum, Gdańsk",4312,8.3,8.2
+427,Władysławowo,12515,8.2,9.2
+428,"Kamienny Potok, Sopot",3559,8.8,9.7
+429,Gdańsk,2640,9.3,9.1
+430,Żarnowska,2539,8.3,8.8
+431,"Orłowo, Gdynia",7706,9.1,8.7
+432,"Jelitkowo, Gdańsk",7812,9.0,9.1
+433,Chojnice,2030,9.9,9.1
+434,Łeba,2898,9.6,9.6
+435,"Wrzeszcz, Gdańsk",2903,8.9,9.2
+436,"Przymorze, Gdańsk",3342,8.7,8.8
+437,"Dolny Sopot, Sopot",5324,9.2,9.4
+438,Jastarnia,7406,9.4,9.6
+439,Choczewo,3295,9.3,9.2
+440,Bartoszylas,2705,8.1,8.9
+441,Władysławowo,1860,9.8,9.8
+442,"Dolny Sopot, Sopot",5619,9.0,8.4
+443,Rewa,3854,9.0,9.4
+444,"Wzgórze Świętego Maksymiliana, Gdynia",3880,8.8,9.1
+445,"Centrum, Gdańsk",6352,9.3,9.8
+446,Wejherowo,1380,8.1,8.4
+447,Ustka,3780,9.3,9.1
+448,"Wrzeszcz, Gdańsk",5900,7.9,9.2
+449,Debina,2818,8.3,9.1
+450,"Dolny Sopot, Sopot",11579,9.2,9.4
+451,Stegna,2520,8.6,9.1
+452,Hel,5317,8.8,9.8
+453,Kwidzyn,1729,8.3,9.3
+454,"Dolny Sopot, Sopot",4066,8.7,8.1
+455,Chojnice,2268,8.7,9.2
+456,"Dolny Sopot, Sopot",6313,8.7,9.3
+457,Ustka,2834,8.1,8.6
+458,Krynica Morska,4354,9.0,8.5
+459,Szteklin,2030,8.9,8.3
+460,Gdynia,1941,8.5,9.5
+461,Łeba,4136,9.7,9.8
+462,Nowy Dwór Gdański,3010,9.8,9.3
+463,"Śródmieście, Gdynia",7102,8.7,8.6
+464,"Centrum, Gdańsk",4207,8.6,8.3
+465,Gdańsk,5027,9.2,8.0
+466,"Dolny Sopot, Sopot",7845,9.5,8.7
+467,Kłaczno,10738,8.3,9.8
+468,Władysławowo,2940,8.9,9.0
+469,Gdańsk,6133,7.9,8.7
+470,"Centrum, Gdańsk",3424,9.5,9.2
+471,Karwieńskie Błoto Drugie,3920,9.2,8.4
+472,"Centrum, Gdańsk",4300,8.3,9.1
+473,"Wrzeszcz, Gdańsk",4978,9.1,9.2
+474,"Centrum, Gdańsk",5894,9.4,8.7
+475,"Wrzeszcz, Gdańsk",5225,9.1,9.1
+476,Władysławowo,2503,9.1,8.9
+477,Władysławowo,3895,8.6,8.6
+478,"Karlikowo, Sopot",6457,9.0,8.2
+479,"Dolny Sopot, Sopot",5717,9.3,8.8
+480,Sasino,2842,9.5,8.9
+481,"Dolny Sopot, Sopot",5324,9.2,9.4
+482,Władysławowo,3537,8.6,9.4
+483,"Centrum, Gdańsk",7043,9.2,8.8
+484,"Dolny Sopot, Sopot",9359,9.5,9.0
+485,"Dolny Sopot, Sopot",5324,8.0,8.5
+486,"Dolny Sopot, Sopot",8530,9.3,9.1
+487,Łeba,6440,9.1,9.6
+488,"Przymorze, Gdańsk",3304,7.8,9.0
+489,Borsk,5170,9.6,8.6
+490,Sulmin,2576,8.5,8.7
+491,"Wrzeszcz, Gdańsk",5925,7.7,8.9
+492,Kąty Rybackie,2036,9.2,8.2
+493,Kopalino,3198,9.0,9.8
+494,"Centrum, Gdańsk",4195,7.8,9.0
+495,Władysławowo,5442,9.6,8.7
+496,Bytów,3990,8.5,9.2
+497,Ustka,4658,7.7,9.5
+498,Dębina-Ustka,2030,9.3,8.4
+499,Miastko,2905,9.0,9.1
+500,"Centrum, Gdańsk",4195,9.0,9.1
+501,Władysławowo,5442,9.2,9.2
+502,Bytów,3290,9.3,9.1
+503,Ustka,4658,9.6,8.9
+504,"Dolny Sopot, Sopot",5324,8.2,8.6
+505,Gdańsk,7059,9.1,8.2
+506,Miastko,2905,8.3,8.8
+507,Dębina-Ustka,2030,9.1,8.9
+508,Władysławowo,1737,9.3,9.4
+509,Nowy Dwór Gdański,2850,9.0,9.4
+510,Hel,5449,8.3,8.8
+511,Łeba,4456,8.2,9.0
+512,"Śródmieście, Gdynia",2830,9.5,8.5
+513,"Brzeźno, Gdańsk",3734,9.2,8.9
+514,Stegna,2520,9.1,8.2
+515,Lubiana,4359,8.7,8.7
+516,Chojnice,2268,8.6,8.3
+517,"Jelitkowo, Gdańsk",8148,8.4,9.0
+518,"Centrum, Gdańsk",4300,8.8,9.5
+519,Puck,7697,9.8,9.3
+520,"Centrum, Gdańsk",4970,7.0,8.8
+521,"Centrum, Gdańsk",6672,8.7,8.0
+522,Łeba,3354,8.6,10.0
+523,Hel,4172,9.2,9.3
+524,"Dolny Sopot, Sopot",10374,8.3,9.8
+525,Władysławowo,2620,8.9,9.1
+526,Krynica Morska,4028,9.2,8.7
+527,Gdańsk,6133,8.9,8.5
+528,"Centrum, Gdańsk",3424,8.1,8.0
+529,Karwieńskie Błoto Drugie,2954,9.3,9.9
+530,"Wrzeszcz, Gdańsk",4978,8.7,8.9
+531,"Centrum, Gdańsk",5717,8.7,9.9
+532,Jantar,3398,8.4,8.2
+533,Łeba,1834,8.8,8.4
+534,"Dolny Sopot, Sopot",4395,8.8,8.9
+535,Ostrzyce,4200,9.4,9.2
+536,"Górny Sopot, Sopot",10354,9.3,9.4
+537,Swarzewo,2240,8.8,9.4
+538,Jastrzębia Góra,5442,8.8,9.7
+539,Władysławowo,6608,8.2,9.4
+540,"Oliwa, Gdańsk",6756,9.2,9.1
+541,Kwidzyn,2989,9.5,9.6
+542,Łeba,2345,9.3,8.7
+543,"Centrum, Gdańsk",3025,8.7,8.8
+544,Jastarnia,4340,8.5,8.9
+545,Barwik,10310,9.2,9.2
+546,Jastrzębia Góra,3619,8.1,8.9
+547,Jastrzębia Góra,3150,9.8,9.0
+548,Gdynia,2154,8.7,9.5
+549,Dębki,1960,8.6,9.6
+550,"Dolny Sopot, Sopot",7845,9.2,9.1
+551,Jastrzębia Góra,2628,9.5,8.9
+552,Hel,7567,8.3,10.0
+553,Władysławowo,2620,8.9,8.7
+554,Gdańsk,5853,9.2,8.3
+555,"Centrum, Gdańsk",3424,9.2,9.0
+556,Karwieńskie Błoto Drugie,2954,8.1,8.6
+557,"Centrum, Gdańsk",4300,9.3,9.5
+558,"Wrzeszcz, Gdańsk",5338,8.7,9.3
+559,"Centrum, Gdańsk",5717,8.7,8.7
+560,Jastrzębia Góra,3619,8.4,8.3
+561,Jantar,3398,8.8,9.0
+562,"Dolny Sopot, Sopot",4395,8.8,9.4
+563,Ostrzyce,4200,9.4,8.6
+564,"Górny Sopot, Sopot",8794,9.3,9.5
+565,Swarzewo,2170,8.8,9.3
+566,Jastrzębia Góra,3622,8.8,8.8
+567,Władysławowo,6564,8.2,9.8
+568,"Oliwa, Gdańsk",6655,7.0,9.6
+569,Kwidzyn,2905,9.0,8.4
+570,Łeba,2345,8.4,8.0
+571,"Centrum, Gdańsk",3025,8.6,8.5
+572,Jastarnia,3349,8.1,9.3
+573,Barwik,10310,9.4,9.8
+574,Krynica Morska,4028,9.3,8.2
+575,Łeba,4654,9.2,9.1
+576,Gdańsk,1772,8.8,8.7
+577,Władysławowo,2034,8.0,8.0
+578,"Centrum, Gdańsk",5135,7.9,9.9
+579,Mieroszyno,2730,8.0,8.9
+580,Łeba,9262,9.7,9.9
+581,"Centrum, Gdańsk",5214,9.2,9.3
+582,"Orłowo, Gdynia",7851,9.3,8.8
+583,Jurata,5968,9.3,9.3
+584,Gdańsk,3723,8.5,8.6
+585,Władysławowo,3783,8.7,9.0
+586,Starogard Gdański,1785,8.6,8.1
+587,"Centrum, Gdańsk",6773,9.9,9.0
+588,"Centrum, Gdańsk",2950,9.0,9.6
+589,"Śródmieście, Gdynia",4789,9.7,8.4
+590,"Centrum, Gdańsk",5269,8.3,8.1
+591,Hel,3696,8.5,8.7
+592,Ostrowo,3178,8.8,8.5
+593,Elganowo,2990,9.2,8.4
+594,Władysławowo,3627,9.4,9.2
+595,Sasino,4668,9.2,9.9
+596,Krynica Morska,3538,9.5,8.3
+597,Ustka,4412,9.4,9.4
+598,"Centrum, Gdańsk",3724,9.2,9.1
+599,Władysławowo,3814,9.5,8.8
+600,Władysławowo,2940,8.5,8.6
+601,Łeba,4603,8.6,9.3
+602,Rewa,4545,8.9,9.7
+603,Gdynia,3008,7.7,8.3
+604,"Dolny Sopot, Sopot",6086,9.0,9.3
+605,Jastrzębia Góra,3150,9.1,8.6
+606,Jastrzębia Góra,6116,9.2,9.4
+607,"Centrum, Gdańsk",4043,9.4,8.5
+608,"Wrzeszcz, Gdańsk",2969,7.7,8.6
+609,"Centrum, Gdańsk",7093,9.5,9.2
+610,Gdynia,4808,9.0,8.8
+611,Słajszewo,3182,9.0,9.3
+612,Władysławowo,3633,10.0,8.0
+613,Gdańsk,5203,8.6,9.2
+614,"Wrzeszcz, Gdańsk",4330,8.1,8.0
+615,"Centrum, Gdańsk",4140,9.4,9.2
+616,Łeba,2121,8.9,8.4
+617,Łeba,3966,9.3,9.8
+618,Sierakowice,3698,9.2,9.0
+619,Władysławowo,2034,8.6,9.7
+620,"Centrum, Gdańsk",5135,8.1,8.4
+621,Mieroszyno,2520,9.4,8.8
+622,Łeba,5942,9.5,9.7
+623,Łeba,17403,8.9,9.2
+624,"Centrum, Gdańsk",5214,9.3,8.8
+625,Władysławowo,2034,9.2,9.6
+626,"Centrum, Gdańsk",5135,8.8,8.0
+627,Mieroszyno,2520,8.0,8.8
+628,Sasino,1292,9.5,9.2
+629,Łeba,5942,9.5,8.0
+630,Łeba,9262,8.5,9.2
+631,"Centrum, Gdańsk",5214,7.9,8.4
+632,"Orłowo, Gdynia",7226,8.0,9.8
+633,Jurata,5968,8.9,9.0
+634,Sopot,4481,9.2,9.5
+635,"Dolny Sopot, Sopot",4253,9.3,9.7
+636,Ustka,3892,8.3,9.3
+637,Gdańsk,3723,9.3,9.1
+638,Władysławowo,3319,8.5,8.8
+639,Stegna,1858,8.6,9.7
+640,"Centrum, Gdańsk",6773,9.9,9.6
+641,"Centrum, Gdańsk",2950,9.0,9.1
+642,Krynica Morska,3538,9.7,8.7
+643,"Śródmieście, Gdynia",4789,9.3,9.5
+644,"Centrum, Gdańsk",5269,9.2,8.2
+645,Ostrowo,3178,9.3,9.1
+646,Elganowo,2990,8.4,8.7
+647,Władysławowo,4136,8.9,8.4
+648,Sasino,4668,8.1,9.4
+649,Odargowo,3150,9.0,9.7
+650,Władysławowo,1457,9.4,8.3
+651,"Centrum, Gdańsk",6469,8.5,9.8
+652,Kościerzyna,4400,7.8,10.0
+653,"Centrum, Gdańsk",4378,8.5,9.8
+654,Gdynia,3720,8.9,8.3
+655,Odargowo,2109,7.8,9.1
+656,"Wrzeszcz, Gdańsk",3499,9.0,8.8
+657,Ustka,6515,9.4,9.1
+658,Chałupy,7143,9.6,8.9
+659,"Centrum, Gdańsk",3254,8.1,8.6
+660,Stegna,1858,9.3,8.5
+661,"Centrum, Gdańsk",3456,9.1,9.2
+662,Rowy,1726,9.0,10.0
+663,Łeba,3780,9.4,8.6
+664,Stare Polaszki,3411,9.0,9.2
+665,Łeba,4635,7.6,9.4
+666,"Centrum, Gdańsk",9706,9.5,8.8
+667,Rowy,5860,8.0,9.3
+668,Ostrzyce,3948,9.1,8.4
+669,Łeba,2621,9.0,8.0
+670,"Centrum, Gdańsk",3180,9.7,8.8
+671,Puck,2853,8.6,9.2
+672,Chmielno,4252,8.8,8.0
+673,"Centrum, Gdańsk",3037,9.2,9.1
+674,"Centrum, Gdańsk",10590,8.2,8.7
+675,"Centrum, Gdańsk",3630,9.1,8.4
+676,"Centrum, Gdańsk",3280,9.2,9.5
+677,Fingrowa Huta,2753,8.1,9.4
+678,Rowy,5437,9.3,8.8
+679,Chałupy,2475,8.3,8.8
+680,Stegna,2676,8.9,8.3
+681,Łeba,4887,8.9,9.6
+682,Rowy,1690,9.8,8.8
+683,Stegna,1928,8.7,9.6
+684,Władysławowo,4473,9.5,9.1
+685,"Centrum, Gdańsk",6964,8.1,9.7
+686,Władysławowo,2484,8.8,8.3
+687,Białogóra,1714,8.2,9.1
+688,"Dolny Sopot, Sopot",23189,9.6,8.6
+689,Dębki,2477,9.2,8.9
+690,Rewa,2936,8.5,10.0
+691,Gdańsk,2965,9.6,8.3
+692,Ustka,4860,8.1,9.9
+693,"Dolny Sopot, Sopot",6511,8.5,9.3
+694,"Centrum, Gdańsk",9811,9.3,8.8
+695,Rowy,5710,8.3,8.5
+696,Mechelinki,5600,8.9,9.6
+697,Ostrowo,3982,8.9,9.0
+698,"Przymorze, Gdańsk",3048,9.8,9.5
+699,Władysławowo,1994,8.7,8.9
+700,"Centrum, Gdańsk",6261,9.6,8.2
+701,"Przymorze, Gdańsk",3048,8.2,9.6
+702,Władysławowo,1995,9.6,9.3
+703,Białogóra,1714,9.2,8.1
+704,"Dolny Sopot, Sopot",23713,9.5,9.1
+705,Dębki,2477,8.7,9.6
+706,Rewa,2936,9.6,9.8
+707,Gdańsk,2965,9.6,9.6
+708,Sasino,17542,9.0,9.6
+709,Rowy,2986,8.9,8.4
+710,Mechelinki,5320,9.4,8.5
+711,Władysławowo,3534,8.2,9.3
+712,Kopalino,3620,9.2,9.0
+713,Milwino,4186,8.2,8.5
+714,Krynica Morska,6047,9.0,9.7
+715,Borkowo,3220,9.1,9.8
+716,Sztutowo,6027,9.7,9.8
+717,Barłomino,2334,7.9,8.8
+718,"Centrum, Gdańsk",3636,9.5,8.2
+719,"Kamienny Potok, Sopot",7818,9.7,9.7
+720,"Centrum, Gdańsk",3429,9.8,8.6
+721,"Centrum, Gdańsk",5110,8.2,9.6
+722,Niesiołowice,1930,9.0,9.9
+723,Mieroszyno,4650,8.9,9.3
+724,Jantar,8438,9.2,9.6
+725,Swarzewo,3360,8.9,9.7
+726,"Centrum, Gdańsk",3763,9.0,9.3
+727,Kąty Rybackie,2374,8.6,9.1
+728,Władysławowo,4482,9.4,9.7
+729,"Centrum, Gdańsk",4433,9.9,8.3
+730,"Dolny Sopot, Sopot",6506,8.8,9.8
+731,Łeba,5607,9.2,8.8
+732,Władysławowo,2256,8.2,9.3
+733,Rowy,2205,9.3,9.0
+734,"Centrum, Gdańsk",3280,9.1,8.8
+735,Rowy,5437,9.2,8.8
+736,Chałupy,2475,8.9,9.2
+737,Brzyno,3542,8.1,8.1
+738,Kopalino,4662,8.5,9.5
+739,Stegna,2529,9.3,10.0
+740,Łeba,4887,8.3,8.8
+741,Rowy,1506,9.2,9.7
+742,"Centrum, Gdańsk",2930,8.2,8.0
+743,Stegna,1928,9.0,9.0
+744,Władysławowo,3534,9.6,8.5
+745,Dębki,3037,9.1,8.8
+746,"Centrum, Gdańsk",6261,8.8,9.0
+747,"Przymorze, Gdańsk",3048,9.1,8.8
+748,Władysławowo,1995,8.8,9.9
+749,Białogóra,2285,9.6,8.6
+750,"Centrum, Gdańsk",3345,9.0,9.6
+751,"Centrum, Gdańsk",5110,9.6,9.7
+752,Niesiołowice,1930,9.0,9.7
+753,Sasino,17542,9.6,8.0
+754,Mieroszyno,4650,8.2,8.2
+755,"Centrum, Gdańsk",9811,8.8,8.6
+756,Stegna,1928,6.4,9.5
+757,Sztutowo,3792,9.1,9.1
+758,Gdańsk,3220,9.2,9.0
+759,Rowy,2636,9.6,8.9
+760,Sasino,7450,8.2,9.1
+761,"Centrum, Gdańsk",5159,9.7,10.0
+762,Hel,6902,9.6,9.1
+763,Kwidzyn,3990,9.0,9.0
+764,"Wzgórze Świętego Maksymiliana, Gdynia",6639,8.6,8.0
+765,Jastarnia,5443,9.5,9.7
+766,Dębki,3674,8.0,8.5
+767,"Śródmieście, Gdynia",3779,9.0,8.8
+768,Osłonino,5040,9.6,8.8
+769,"Centrum, Gdańsk",4140,9.0,9.9
+770,"Centrum, Gdańsk",7042,8.5,8.6
+771,Gdańsk,6300,9.7,9.8
+772,Władysławowo,1424,6.8,9.6
+773,Władysławowo,3357,7.6,9.5
+774,Pruszcz Gdański,2100,9.5,9.7
+775,"Centrum, Gdańsk",3585,8.3,8.0
+776,"Centrum, Gdańsk",6353,9.1,8.2
+777,Stegna,5214,9.3,9.0
+778,Rowy,3407,9.8,8.9
+779,Ustka,4458,9.1,8.6
+780,Wdzydze Kiszewskie,4410,9.5,9.1
+781,"Przymorze, Gdańsk",3191,8.3,8.6
+782,"Dolny Sopot, Sopot",7112,7.5,9.0
+783,Gdańsk,4251,9.4,8.9
+784,Sławutowo,2240,9.0,8.8
+785,Władysławowo,1737,9.0,9.6
+786,Sopot,6023,8.0,9.1
+787,Gdynia,3878,9.6,9.0
+788,Szymbark,7464,9.6,8.6
+789,"Centrum, Gdańsk",7403,10.0,9.4
+790,Gardeja,1890,9.0,9.0
+791,Łeba,4883,8.4,8.8
+792,Karwieńskie Błoto Pierwsze,1960,9.9,9.5
+793,"Śródmieście, Gdynia",3878,8.6,9.8
+794,Gdańsk,6166,9.5,9.1
+795,Gdańsk,2510,7.9,8.5
+796,Jastrzębia Góra,3971,9.8,9.4
+797,"Centrum, Gdańsk",5175,9.1,9.4
+798,Władysławowo,9718,9.6,9.2
+799,Stara Sikorska Huta,3864,9.6,9.1
+800,"Centrum, Gdańsk",2785,9.3,9.2
+801,Jastrzębia Góra,2789,9.4,9.2
+802,Borsk,3024,9.6,8.3
+803,"Centrum, Gdańsk",6191,8.8,8.9
+804,"Centrum, Gdańsk",2950,9.6,9.3
+805,Puck,5724,8.8,10.0
+806,Sasino,3970,9.3,8.1
+807,"Centrum, Gdańsk",3723,8.7,9.3
+808,Pruszcz Gdański,2100,8.8,8.4
+809,Łeba,1910,8.8,8.6
+810,Hel,3052,7.6,9.4
+811,Strzebielino,2726,9.1,8.8
+812,Krynica Morska,6047,8.4,9.3
+813,Sztutowo,3792,9.4,8.9
+814,Władysławowo,1832,10.0,9.6
+815,Łeba,7039,7.6,8.2
+816,Ustka,2023,8.1,8.3
+817,"Centrum, Gdańsk",4201,9.0,8.9
+818,Gdańsk,6009,9.5,8.6
+819,"Centrum, Gdańsk",6154,8.4,9.1
+820,Jastarnia,5905,9.4,9.1
+821,Krynica Morska,4711,8.3,8.0
+822,"Dolny Sopot, Sopot",6341,8.8,10.0
+823,Dębki,6843,9.1,8.9
+824,Odargowo,3790,8.9,8.4
+825,Swarzewo,3990,9.7,8.2
+826,Gdańsk,4349,8.4,9.3
+827,Jastrzębia Góra,4854,9.5,9.1
+828,Choczewo,3262,9.5,9.7
+829,"Śródmieście, Gdynia",5842,9.5,9.2
+830,"Dolny Sopot, Sopot",4638,8.1,9.1
+831,Szteklin,2374,8.5,9.7
+832,"Dolny Sopot, Sopot",5999,8.7,9.4
+833,Kwidzyn,2940,9.5,9.3
+834,Jastarnia,2212,9.4,9.5
+835,Władysławowo,3431,8.0,9.7
+836,"Centrum, Gdańsk",3922,9.0,9.0
+837,Kwidzyn,2625,9.0,9.6
+838,Stegna,3500,9.1,9.1
+839,Chmielno,2800,10.0,9.0
+840,Gdynia,2966,9.1,8.6
+841,"Centrum, Gdańsk",3309,8.1,9.4
+842,Stegna,3652,9.4,9.0
+843,Władysławowo,4340,8.4,8.8
+844,"Kamienny Potok, Sopot",11303,9.5,9.5
+845,Jastrzębia Góra,4033,8.3,9.1
+846,"Centrum, Gdańsk",3352,8.8,8.5
+847,"Centrum, Gdańsk",5943,8.9,9.4
+848,Rowy,3267,9.7,9.2
+849,Mikoszewo,1890,8.4,9.1
+850,Swarzewo,3990,9.7,9.2
+851,Mikoszewo,1890,9.5,8.9
+852,Jastrzębia Góra,4854,9.5,8.7
+853,Łeba,3890,9.5,9.3
+854,"Dolny Sopot, Sopot",6864,8.1,9.7
+855,Chmielno,2800,8.5,8.8
+856,"Dolny Sopot, Sopot",5999,8.9,9.4
+857,Kwidzyn,2940,9.1,8.6
+858,Władysławowo,3431,8.7,9.2
+859,"Centrum, Gdańsk",3922,9.4,9.3
+860,Kwidzyn,2625,8.7,8.9
+861,Rowy,3336,8.0,9.7
+862,Stegna,3500,9.0,9.3
+863,"Kamienny Potok, Sopot",11303,9.0,9.0
+864,Gdynia,2966,7.6,8.3
+865,"Centrum, Gdańsk",3659,9.0,8.7
+866,Stegna,3652,9.6,9.6
+867,Władysławowo,3082,8.6,9.8
+868,Jastrzębia Góra,1750,9.3,8.5
+869,Władysławowo,4340,8.7,8.6
+870,Jastrzębia Góra,4033,9.5,8.6
+871,Dębki,4246,8.8,9.0
+872,"Centrum, Gdańsk",3352,8.7,8.6
+873,"Centrum, Gdańsk",5943,9.9,8.1
+874,Rowy,3267,9.7,9.2
+875,Stegna,4098,9.1,8.9
+876,"Śródmieście, Gdynia",1610,8.0,8.9
+877,Ustka,2905,9.3,9.1
+878,Łeba,7843,9.3,8.3
+879,Swarzewo,2240,9.1,9.1
+880,Rowy,1866,9.0,8.1
+881,Lipnica,1960,9.0,9.3
+882,"Centrum, Gdańsk",2506,9.2,8.3
+883,"Dolny Sopot, Sopot",5171,8.2,9.6
+884,Warcz,1530,8.8,9.3
+885,Stężyca,2883,9.2,8.7
+886,"Śródmieście, Gdynia",5374,9.9,8.7
+887,Jastrzębia Góra,3971,8.5,9.4
+888,Gdynia,2737,9.1,9.6
+889,"Centrum, Gdańsk",6622,8.3,9.5
+890,"Przymorze, Gdańsk",4193,8.7,9.5
+891,Jastrzębia Góra,5447,9.3,9.5
+892,Mieroszyno,3579,3.0,9.1
+893,"Centrum, Gdańsk",9818,9.0,9.8
+894,"Centrum, Gdańsk",6714,9.0,8.9
+895,Gdańsk,1820,8.6,9.2
+896,"Centrum, Gdańsk",7765,9.2,8.2
+897,Mechelinki,3021,7.5,9.9

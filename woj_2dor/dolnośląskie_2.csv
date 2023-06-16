@@ -1,0 +1,742 @@
+,City,Cost,Rating,Comfort
+0,"Fabryczna, Wrocław",12825,7.3,8.9
+1,"Fabryczna, Wrocław",2116,8.5,10.0
+2,"Fabryczna, Wrocław",1975,10.0,8.8
+3,"Fabryczna, Wrocław",2550,8.9,9.0
+4,"Fabryczna, Wrocław",2025,9.1,9.2
+5,"Fabryczna, Wrocław",2547,9.3,9.8
+6,"Fabryczna, Wrocław",1808,9.6,9.4
+7,"Fabryczna, Wrocław",2051,9.0,8.2
+8,"Fabryczna, Wrocław",2139,8.1,8.8
+9,"Fabryczna, Wrocław",1533,8.6,8.8
+10,"Fabryczna, Wrocław",2276,8.6,9.8
+11,"Fabryczna, Wrocław",2276,9.6,8.6
+12,"Fabryczna, Wrocław",1540,8.6,8.0
+13,"Fabryczna, Wrocław",2117,7.4,9.2
+14,"Fabryczna, Wrocław",2117,8.7,8.1
+15,"Fabryczna, Wrocław",2299,7.5,8.1
+16,"Fabryczna, Wrocław",2546,8.3,8.3
+17,"Fabryczna, Wrocław",2447,8.4,10.0
+18,"Fabryczna, Wrocław",2519,7.8,8.6
+19,"Fabryczna, Wrocław",2669,10.0,9.6
+20,"Fabryczna, Wrocław",1960,9.0,9.0
+21,"Fabryczna, Wrocław",2505,7.7,9.5
+22,"Fabryczna, Wrocław",2111,9.8,9.0
+23,"Fabryczna, Wrocław",3286,8.7,9.1
+24,"Fabryczna, Wrocław",3543,9.5,9.7
+25,"Fabryczna, Wrocław",1006,6.8,8.7
+26,"Fabryczna, Wrocław",3188,9.2,8.6
+27,"Fabryczna, Wrocław",1960,9.0,10.0
+28,"Fabryczna, Wrocław",2434,9.8,9.1
+29,"Fabryczna, Wrocław",1555,8.6,8.4
+30,"Fabryczna, Wrocław",2029,8.5,8.8
+31,"Fabryczna, Wrocław",2220,7.7,10.0
+32,"Fabryczna, Wrocław",2597,9.0,9.0
+33,"Fabryczna, Wrocław",1250,7.5,9.4
+34,"Fabryczna, Wrocław",1760,9.2,9.0
+35,Smolec,2093,8.1,8.0
+36,"Fabryczna, Wrocław",2972,10.0,9.8
+37,"Fabryczna, Wrocław",1343,8.0,9.2
+38,"Fabryczna, Wrocław",1921,9.0,9.7
+39,"Fabryczna, Wrocław",2021,9.4,8.3
+40,"Fabryczna, Wrocław",1043,9.2,9.4
+41,"Fabryczna, Wrocław",2324,7.9,9.2
+42,"Fabryczna, Wrocław",14800,9.7,9.8
+43,"Fabryczna, Wrocław",2765,9.2,9.9
+44,"Fabryczna, Wrocław",1694,9.7,9.5
+45,"Fabryczna, Wrocław",1402,8.5,10.0
+46,"Fabryczna, Wrocław",4143,9.5,8.9
+47,"Fabryczna, Wrocław",2238,9.3,9.8
+48,"Fabryczna, Wrocław",3835,7.4,10.0
+49,"Fabryczna, Wrocław",1950,9.8,8.8
+50,"Fabryczna, Wrocław",2298,9.9,10.0
+51,"Fabryczna, Wrocław",4695,9.0,8.1
+52,"Fabryczna, Wrocław",1560,9.0,9.4
+53,"Fabryczna, Wrocław",2208,9.4,8.6
+54,"Fabryczna, Wrocław",2392,8.8,8.7
+55,"Fabryczna, Wrocław",2099,6.8,9.8
+56,"Fabryczna, Wrocław",2255,9.5,10.0
+57,"Fabryczna, Wrocław",2339,6.3,10.0
+58,"Fabryczna, Wrocław",2314,5.9,9.6
+59,"Fabryczna, Wrocław",1144,10.0,10.0
+60,"Fabryczna, Wrocław",2289,9.5,9.0
+61,"Fabryczna, Wrocław",1144,7.0,9.2
+62,"Fabryczna, Wrocław",1144,6.1,8.4
+63,"Fabryczna, Wrocław",2193,10.0,9.2
+64,"Fabryczna, Wrocław",1965,6.8,8.3
+65,"Fabryczna, Wrocław",1412,9.2,8.5
+66,"Fabryczna, Wrocław",1599,8.7,9.7
+67,"Fabryczna, Wrocław",2043,8.6,8.6
+68,"Fabryczna, Wrocław",2166,9.7,9.6
+69,"Fabryczna, Wrocław",1943,7.5,9.5
+70,"Fabryczna, Wrocław",2036,8.0,9.1
+71,"Fabryczna, Wrocław",2886,9.6,9.6
+72,"Fabryczna, Wrocław",2166,9.9,9.5
+73,"Psie Pole, Wrocław",5429,8.9,9.4
+74,"Fabryczna, Wrocław",3765,9.2,9.4
+75,"Fabryczna, Wrocław",3602,8.0,9.1
+76,"Psie Pole, Wrocław",5394,9.1,8.8
+77,"Fabryczna, Wrocław",3191,8.0,8.2
+78,"Fabryczna, Wrocław",2835,6.8,8.0
+79,"Fabryczna, Wrocław",1593,6.5,9.4
+80,"Fabryczna, Wrocław",28560,8.1,8.6
+81,"Fabryczna, Wrocław",1953,8.2,9.2
+82,"Fabryczna, Wrocław",2250,9.7,9.1
+83,"Fabryczna, Wrocław",1852,8.3,9.6
+84,"Fabryczna, Wrocław",1144,7.8,8.5
+85,"Stare Miasto, Wrocław",1144,9.6,8.6
+86,"Stare Miasto, Wrocław",2409,9.2,9.7
+87,"Stare Miasto, Wrocław",2034,9.2,8.3
+88,"Fabryczna, Wrocław",2631,9.9,9.4
+89,"Fabryczna, Wrocław",1275,9.5,8.8
+90,"Fabryczna, Wrocław",2299,8.3,10.0
+91,Bielany Wrocławskie,2246,7.2,8.8
+92,"Stare Miasto, Wrocław",2776,8.8,8.9
+93,"Stare Miasto, Wrocław",2652,9.2,9.2
+94,"Stare Miasto, Wrocław",2352,9.0,10.0
+95,"Stare Miasto, Wrocław",2452,8.0,9.4
+96,"Fabryczna, Wrocław",1449,8.8,9.1
+97,"Fabryczna, Wrocław",1144,6.9,10.0
+98,"Fabryczna, Wrocław",2586,7.0,9.0
+99,"Fabryczna, Wrocław",2702,9.7,8.2
+100,"Stare Miasto, Wrocław",2964,8.2,9.2
+101,"Fabryczna, Wrocław",2058,10.0,8.0
+102,"Fabryczna, Wrocław",2256,8.8,9.4
+103,"Stare Miasto, Wrocław",2074,9.5,9.0
+104,"Stare Miasto, Wrocław",1890,7.2,8.4
+105,"Fabryczna, Wrocław",2432,8.5,9.0
+106,"Fabryczna, Wrocław",2808,9.6,9.1
+107,"Fabryczna, Wrocław",3102,7.3,9.8
+108,"Fabryczna, Wrocław",2337,8.4,9.4
+109,"Stare Miasto, Wrocław",2515,9.5,9.0
+110,"Fabryczna, Wrocław",2318,8.5,10.0
+111,"Fabryczna, Wrocław",3018,9.3,9.6
+112,"Stare Miasto, Wrocław",2404,8.7,9.4
+113,"Stare Miasto, Wrocław",3600,8.9,9.2
+114,"Stare Miasto, Wrocław",2419,9.6,8.4
+115,"Stare Miasto, Wrocław",2254,9.0,9.9
+116,"Stare Miasto, Wrocław",2237,9.3,10.0
+117,"Stare Miasto, Wrocław",2005,7.3,9.0
+118,"Stare Miasto, Wrocław",2559,9.1,9.2
+119,"Psie Pole, Wrocław",1456,9.5,10.0
+120,"Stare Miasto, Wrocław",2814,6.5,9.8
+121,"Stare Miasto, Wrocław",2664,5.0,8.2
+122,"Fabryczna, Wrocław",3073,8.9,10.0
+123,"Stare Miasto, Wrocław",2782,8.4,8.8
+124,"Stare Miasto, Wrocław",3500,9.0,9.2
+125,"Stare Miasto, Wrocław",3260,7.8,8.3
+126,"Stare Miasto, Wrocław",3499,9.4,8.8
+127,"Stare Miasto, Wrocław",2308,9.4,8.7
+128,"Stare Miasto, Wrocław",2623,6.8,8.3
+129,"Stare Miasto, Wrocław",3477,8.0,9.4
+130,Wojnowice,1862,8.4,8.9
+131,"Stare Miasto, Wrocław",7040,8.5,9.1
+132,"Stare Miasto, Wrocław",1788,9.5,9.5
+133,"Stare Miasto, Wrocław",2171,9.1,9.2
+134,"Stare Miasto, Wrocław",1950,8.9,9.2
+135,"Stare Miasto, Wrocław",3229,9.8,10.0
+136,"Śródmieście, Wrocław",3094,9.4,9.8
+137,"Śródmieście, Wrocław",3029,9.4,9.0
+138,"Śródmieście, Wrocław",2405,8.7,8.8
+139,"Stare Miasto, Wrocław",36515,7.7,8.9
+140,"Stare Miasto, Wrocław",3420,7.9,9.2
+141,"Stare Miasto, Wrocław",2466,9.9,9.0
+142,"Fabryczna, Wrocław",2768,9.9,8.8
+143,"Stare Miasto, Wrocław",2650,7.9,9.5
+144,"Stare Miasto, Wrocław",2987,3.6,9.3
+145,"Fabryczna, Wrocław",2944,9.0,8.9
+146,"Śródmieście, Wrocław",2423,9.1,8.4
+147,"Śródmieście, Wrocław",2124,9.5,9.2
+148,"Śródmieście, Wrocław",2962,9.6,10.0
+149,"Stare Miasto, Wrocław",2407,7.9,9.1
+150,"Stare Miasto, Wrocław",2340,7.7,9.3
+151,"Śródmieście, Wrocław",3060,9.5,9.5
+152,"Śródmieście, Wrocław",927,9.1,9.6
+153,"Stare Miasto, Wrocław",1640,9.2,8.8
+154,"Krzyki, Wrocław",1622,8.2,8.2
+155,"Śródmieście, Wrocław",2949,9.5,8.3
+156,"Fabryczna, Wrocław",2190,8.7,10.0
+157,"Stare Miasto, Wrocław",1783,7.3,8.4
+158,"Stare Miasto, Wrocław",3063,7.7,9.0
+159,"Fabryczna, Wrocław",2061,7.4,9.1
+160,"Stare Miasto, Wrocław",2542,9.5,9.5
+161,"Stare Miasto, Wrocław",5512,8.8,8.5
+162,"Fabryczna, Wrocław",2453,9.2,8.7
+163,"Krzyki, Wrocław",2462,9.3,9.5
+164,"Śródmieście, Wrocław",4035,9.2,9.8
+165,"Śródmieście, Wrocław",2422,9.2,9.6
+166,"Śródmieście, Wrocław",1726,10.0,9.0
+167,"Psie Pole, Wrocław",1606,9.6,9.6
+168,"Psie Pole, Wrocław",1873,9.0,8.8
+169,"Śródmieście, Wrocław",3805,8.5,9.7
+170,"Fabryczna, Wrocław",2545,8.5,8.8
+171,"Stare Miasto, Wrocław",2136,6.9,10.0
+172,"Śródmieście, Wrocław",3100,9.0,9.5
+173,"Śródmieście, Wrocław",1861,8.9,9.2
+174,"Śródmieście, Wrocław",4464,8.8,10.0
+175,"Śródmieście, Wrocław",2428,9.7,8.8
+176,"Śródmieście, Wrocław",2428,9.2,8.5
+177,Wrocław,1658,8.7,8.8
+178,"Śródmieście, Wrocław",2190,8.7,8.6
+179,"Stare Miasto, Wrocław",2291,9.2,8.6
+180,"Śródmieście, Wrocław",3550,9.0,9.0
+181,"Śródmieście, Wrocław",3400,8.9,8.6
+182,"Stare Miasto, Wrocław",3260,9.3,8.3
+183,"Stare Miasto, Wrocław",7232,9.7,8.0
+184,"Krzyki, Wrocław",1317,9.4,9.2
+185,"Krzyki, Wrocław",16995,8.7,9.1
+186,"Stare Miasto, Wrocław",1825,7.7,8.6
+187,"Śródmieście, Wrocław",2939,8.4,9.3
+188,"Stare Miasto, Wrocław",2530,10.0,9.2
+189,"Stare Miasto, Wrocław",3140,8.3,9.9
+190,"Stare Miasto, Wrocław",4588,8.9,9.1
+191,"Stare Miasto, Wrocław",7085,9.1,9.0
+192,"Stare Miasto, Wrocław",2848,9.5,9.4
+193,"Śródmieście, Wrocław",3468,8.4,9.2
+194,"Stare Miasto, Wrocław",2995,8.6,9.3
+195,"Śródmieście, Wrocław",1847,9.4,9.4
+196,"Stare Miasto, Wrocław",4107,9.7,8.7
+197,"Psie Pole, Wrocław",3130,9.4,9.4
+198,"Stare Miasto, Wrocław",2130,8.5,8.9
+199,"Stare Miasto, Wrocław",2657,9.5,8.5
+200,"Stare Miasto, Wrocław",5693,8.6,9.1
+201,"Stare Miasto, Wrocław",7085,9.5,9.4
+202,"Stare Miasto, Wrocław",2984,7.1,9.2
+203,"Stare Miasto, Wrocław",2747,10.0,9.2
+204,"Krzyki, Wrocław",2673,10.0,8.9
+205,"Stare Miasto, Wrocław",2038,7.7,10.0
+206,"Stare Miasto, Wrocław",3634,8.2,9.4
+207,"Śródmieście, Wrocław",3542,9.3,8.8
+208,"Śródmieście, Wrocław",6527,8.3,10.0
+209,"Śródmieście, Wrocław",1948,10.0,9.2
+210,"Śródmieście, Wrocław",4569,8.6,8.3
+211,"Śródmieście, Wrocław",4891,8.3,8.9
+212,"Stare Miasto, Wrocław",9727,7.4,9.7
+213,"Śródmieście, Wrocław",2120,8.6,8.4
+214,"Stare Miasto, Wrocław",5962,8.6,9.3
+215,"Śródmieście, Wrocław",2476,8.6,8.8
+216,"Śródmieście, Wrocław",2819,8.7,9.3
+217,"Śródmieście, Wrocław",5152,8.4,8.1
+218,"Stare Miasto, Wrocław",3344,8.7,9.8
+219,"Śródmieście, Wrocław",1943,7.9,9.9
+220,"Śródmieście, Wrocław",1614,9.0,9.1
+221,"Śródmieście, Wrocław",2123,9.1,8.3
+222,"Stare Miasto, Wrocław",3400,8.6,8.8
+223,"Stare Miasto, Wrocław",1761,9.1,9.6
+224,"Stare Miasto, Wrocław",2708,9.2,9.0
+225,"Stare Miasto, Wrocław",2608,9.8,9.4
+226,"Stare Miasto, Wrocław",2338,9.2,8.5
+227,"Śródmieście, Wrocław",1527,8.9,8.6
+228,"Stare Miasto, Wrocław",4322,9.5,10.0
+229,"Stare Miasto, Wrocław",2030,8.8,9.1
+230,"Stare Miasto, Wrocław",2531,9.0,8.9
+231,"Stare Miasto, Wrocław",2447,9.1,10.0
+232,"Stare Miasto, Wrocław",2138,8.5,8.0
+233,"Stare Miasto, Wrocław",1699,9.3,9.4
+234,"Stare Miasto, Wrocław",2153,8.8,8.8
+235,"Stare Miasto, Wrocław",2498,8.8,8.6
+236,"Stare Miasto, Wrocław",2358,8.6,8.4
+237,"Psie Pole, Wrocław",1939,9.1,8.9
+238,"Stare Miasto, Wrocław",2827,9.6,9.3
+239,"Krzyki, Wrocław",3692,8.7,9.4
+240,"Śródmieście, Wrocław",3065,8.7,8.4
+241,"Stare Miasto, Wrocław",2291,9.7,8.0
+242,"Stare Miasto, Wrocław",1968,9.4,9.8
+243,"Stare Miasto, Wrocław",3366,8.5,9.1
+244,"Stare Miasto, Wrocław",3040,9.5,10.0
+245,"Śródmieście, Wrocław",2530,9.9,8.1
+246,"Śródmieście, Wrocław",2485,9.3,8.4
+247,"Stare Miasto, Wrocław",2309,8.6,9.3
+248,"Stare Miasto, Wrocław",3232,9.4,10.0
+249,"Śródmieście, Wrocław",1781,9.7,8.8
+250,"Krzyki, Wrocław",4341,8.9,9.9
+251,"Stare Miasto, Wrocław",4805,9.0,9.2
+252,"Śródmieście, Wrocław",2511,8.6,8.9
+253,"Stare Miasto, Wrocław",3226,9.2,9.2
+254,"Stare Miasto, Wrocław",14093,8.4,9.2
+255,"Krzyki, Wrocław",2023,6.3,10.0
+256,"Śródmieście, Wrocław",2834,9.7,9.3
+257,"Stare Miasto, Wrocław",3864,8.0,9.0
+258,"Śródmieście, Wrocław",2346,9.9,9.6
+259,"Stare Miasto, Wrocław",3116,7.7,9.0
+260,"Stare Miasto, Wrocław",2291,9.2,8.8
+261,"Śródmieście, Wrocław",3266,7.1,8.4
+262,"Śródmieście, Wrocław",2488,10.0,9.6
+263,"Śródmieście, Wrocław",2665,8.0,9.3
+264,"Śródmieście, Wrocław",2720,7.5,9.9
+265,"Śródmieście, Wrocław",4723,8.5,8.1
+266,"Śródmieście, Wrocław",2129,9.7,8.9
+267,"Śródmieście, Wrocław",1811,8.8,9.0
+268,"Śródmieście, Wrocław",2380,6.8,9.3
+269,"Śródmieście, Wrocław",4563,9.1,9.0
+270,"Śródmieście, Wrocław",2093,6.6,8.9
+271,"Stare Miasto, Wrocław",874,8.6,8.8
+272,"Stare Miasto, Wrocław",2801,8.6,9.0
+273,"Śródmieście, Wrocław",2006,9.7,9.9
+274,"Stare Miasto, Wrocław",2057,9.1,9.9
+275,"Śródmieście, Wrocław",3630,8.1,9.2
+276,"Śródmieście, Wrocław",2665,9.5,8.6
+277,"Stare Miasto, Wrocław",3519,7.8,8.9
+278,"Stare Miasto, Wrocław",1347,7.6,10.0
+279,"Śródmieście, Wrocław",2287,8.9,8.3
+280,"Śródmieście, Wrocław",2190,8.6,9.1
+281,"Stare Miasto, Wrocław",1144,8.6,8.6
+282,"Stare Miasto, Wrocław",3602,8.4,9.8
+283,"Śródmieście, Wrocław",2252,8.6,8.1
+284,"Stare Miasto, Wrocław",2695,9.7,9.0
+285,"Stare Miasto, Wrocław",2073,9.3,9.8
+286,"Stare Miasto, Wrocław",3054,7.9,9.6
+287,"Stare Miasto, Wrocław",1259,8.3,8.9
+288,"Stare Miasto, Wrocław",918,7.6,8.8
+289,"Śródmieście, Wrocław",1280,9.8,8.8
+290,"Stare Miasto, Wrocław",1242,7.5,10.0
+291,"Śródmieście, Wrocław",3618,9.2,9.6
+292,"Krzyki, Wrocław",1408,8.0,9.0
+293,"Śródmieście, Wrocław",2243,9.0,9.0
+294,"Śródmieście, Wrocław",5851,8.3,8.5
+295,"Stare Miasto, Wrocław",1879,9.2,9.5
+296,"Śródmieście, Wrocław",5200,8.2,9.1
+297,"Śródmieście, Wrocław",2727,9.8,9.2
+298,"Stare Miasto, Wrocław",2518,8.7,9.5
+299,"Stare Miasto, Wrocław",2898,9.9,8.9
+300,"Śródmieście, Wrocław",1845,9.3,9.2
+301,"Psie Pole, Wrocław",2248,9.2,8.2
+302,"Stare Miasto, Wrocław",3036,9.3,8.2
+303,"Stare Miasto, Wrocław",6424,8.9,9.2
+304,"Stare Miasto, Wrocław",3696,9.9,9.6
+305,"Stare Miasto, Wrocław",2320,9.0,9.4
+306,"Stare Miasto, Wrocław",1724,8.6,8.8
+307,"Śródmieście, Wrocław",2745,9.1,9.2
+308,"Stare Miasto, Wrocław",6185,8.6,9.5
+309,"Stare Miasto, Wrocław",1919,8.4,9.0
+310,"Fabryczna, Wrocław",1577,8.2,9.4
+311,"Stare Miasto, Wrocław",5796,9.6,9.1
+312,Karczyce,1610,8.9,8.2
+313,"Stare Miasto, Wrocław",2121,9.9,8.7
+314,"Stare Miasto, Wrocław",2743,8.4,8.6
+315,"Śródmieście, Wrocław",4399,8.9,8.4
+316,"Krzyki, Wrocław",2364,9.2,9.5
+317,"Krzyki, Wrocław",8375,7.6,8.0
+318,"Stare Miasto, Wrocław",2769,8.7,9.8
+319,"Krzyki, Wrocław",1717,7.0,8.1
+320,"Stare Miasto, Wrocław",13668,8.7,9.2
+321,"Krzyki, Wrocław",5843,8.7,10.0
+322,"Krzyki, Wrocław",6448,8.8,10.0
+323,"Krzyki, Wrocław",7998,8.8,9.0
+324,"Stare Miasto, Wrocław",2732,9.8,10.0
+325,"Stare Miasto, Wrocław",2503,9.9,9.8
+326,"Stare Miasto, Wrocław",3183,8.8,8.9
+327,"Stare Miasto, Wrocław",2039,8.2,9.8
+328,"Śródmieście, Wrocław",2156,8.7,9.5
+329,"Śródmieście, Wrocław",3647,9.5,9.6
+330,"Stare Miasto, Wrocław",4959,7.8,8.9
+331,"Śródmieście, Wrocław",3099,8.9,8.9
+332,"Śródmieście, Wrocław",1810,8.8,9.4
+333,"Śródmieście, Wrocław",2461,9.4,8.9
+334,"Śródmieście, Wrocław",2046,7.3,9.1
+335,"Stare Miasto, Wrocław",2279,9.0,8.0
+336,"Stare Miasto, Wrocław",1307,9.7,8.9
+337,"Stare Miasto, Wrocław",4034,9.4,9.0
+338,"Stare Miasto, Wrocław",1287,8.4,8.4
+339,"Śródmieście, Wrocław",2872,8.8,9.2
+340,"Stare Miasto, Wrocław",3865,10.0,9.5
+341,"Krzyki, Wrocław",1950,10.0,10.0
+342,"Śródmieście, Wrocław",2475,9.3,9.2
+343,"Śródmieście, Wrocław",4655,6.2,10.0
+344,"Krzyki, Wrocław",3597,6.9,8.5
+345,"Krzyki, Wrocław",1468,9.0,8.1
+346,"Krzyki, Wrocław",4832,8.7,9.4
+347,"Śródmieście, Wrocław",3980,8.3,9.2
+348,"Krzyki, Wrocław",2255,9.3,9.4
+349,"Krzyki, Wrocław",2489,9.1,9.0
+350,"Stare Miasto, Wrocław",2675,9.2,9.1
+351,"Krzyki, Wrocław",2355,9.3,9.0
+352,"Krzyki, Wrocław",4262,9.1,9.6
+353,"Śródmieście, Wrocław",2817,9.0,9.5
+354,"Stare Miasto, Wrocław",2604,8.2,8.5
+355,"Krzyki, Wrocław",4874,7.8,10.0
+356,"Stare Miasto, Wrocław",3220,6.9,8.3
+357,"Śródmieście, Wrocław",3433,8.9,9.8
+358,"Krzyki, Wrocław",2354,8.3,9.9
+359,"Stare Miasto, Wrocław",1833,9.3,9.4
+360,"Stare Miasto, Wrocław",3626,9.3,10.0
+361,"Krzyki, Wrocław",3020,7.2,9.2
+362,"Krzyki, Wrocław",2580,8.9,10.0
+363,"Krzyki, Wrocław",2580,9.1,8.7
+364,"Krzyki, Wrocław",1813,9.4,8.3
+365,"Krzyki, Wrocław",1900,8.9,9.7
+366,"Stare Miasto, Wrocław",1901,9.4,8.4
+367,"Stare Miasto, Wrocław",2805,8.8,9.1
+368,"Stare Miasto, Wrocław",1956,8.1,9.1
+369,"Krzyki, Wrocław",2926,8.5,8.8
+370,"Krzyki, Wrocław",2500,8.3,8.3
+371,"Krzyki, Wrocław",2596,8.3,9.0
+372,"Krzyki, Wrocław",2459,9.6,8.8
+373,"Krzyki, Wrocław",2512,8.6,8.2
+374,"Krzyki, Wrocław",5947,9.8,8.4
+375,"Stare Miasto, Wrocław",3186,7.4,8.6
+376,"Śródmieście, Wrocław",3864,8.0,8.5
+377,"Stare Miasto, Wrocław",4615,9.8,8.2
+378,"Krzyki, Wrocław",2745,10.0,9.0
+379,"Krzyki, Wrocław",2370,1.5,8.8
+380,"Stare Miasto, Wrocław",2569,8.9,8.7
+381,"Stare Miasto, Wrocław",2755,9.9,9.5
+382,"Stare Miasto, Wrocław",2241,9.7,8.8
+383,"Stare Miasto, Wrocław",3206,7.9,9.4
+384,"Stare Miasto, Wrocław",2241,7.5,9.2
+385,"Stare Miasto, Wrocław",1923,8.9,8.6
+386,"Krzyki, Wrocław",3173,9.9,8.4
+387,"Krzyki, Wrocław",2076,9.4,9.6
+388,"Stare Miasto, Wrocław",2245,9.5,8.2
+389,"Stare Miasto, Wrocław",2246,8.7,9.0
+390,"Krzyki, Wrocław",3663,8.8,10.0
+391,"Krzyki, Wrocław",3400,9.4,8.5
+392,"Stare Miasto, Wrocław",3255,8.0,8.0
+393,Wrocław,2713,8.9,9.7
+394,"Stare Miasto, Wrocław",2142,10.0,8.6
+395,"Stare Miasto, Wrocław",3474,8.1,9.6
+396,"Stare Miasto, Wrocław",4290,8.7,8.8
+397,"Stare Miasto, Wrocław",2520,9.0,9.2
+398,"Stare Miasto, Wrocław",2709,8.6,9.3
+399,"Stare Miasto, Wrocław",2881,9.1,9.6
+400,"Stare Miasto, Wrocław",2393,9.3,9.3
+401,"Stare Miasto, Wrocław",2907,10.0,9.1
+402,"Stare Miasto, Wrocław",2490,9.3,8.5
+403,"Stare Miasto, Wrocław",5474,9.8,8.0
+404,"Śródmieście, Wrocław",3565,7.0,8.2
+405,"Śródmieście, Wrocław",2628,7.2,9.1
+406,"Śródmieście, Wrocław",3853,8.4,9.1
+407,"Śródmieście, Wrocław",3653,8.2,10.0
+408,"Stare Miasto, Wrocław",6300,9.4,8.3
+409,"Śródmieście, Wrocław",2562,8.3,10.0
+410,"Śródmieście, Wrocław",1400,9.6,9.1
+411,"Stare Miasto, Wrocław",3304,8.9,9.0
+412,"Stare Miasto, Wrocław",3743,9.2,9.5
+413,"Stare Miasto, Wrocław",2334,7.5,9.2
+414,"Śródmieście, Wrocław",5761,7.8,8.8
+415,"Krzyki, Wrocław",1622,9.4,8.5
+416,"Krzyki, Wrocław",2027,9.5,8.9
+417,"Stare Miasto, Wrocław",3340,8.7,8.5
+418,"Stare Miasto, Wrocław",2368,9.7,8.8
+419,"Stare Miasto, Wrocław",3139,7.8,8.2
+420,"Stare Miasto, Wrocław",2447,9.8,8.8
+421,"Stare Miasto, Wrocław",1283,9.8,10.0
+422,"Śródmieście, Wrocław",2660,9.5,8.6
+423,"Śródmieście, Wrocław",1939,7.1,9.2
+424,"Śródmieście, Wrocław",2156,10.0,8.1
+425,"Stare Miasto, Wrocław",1689,9.0,8.5
+426,"Śródmieście, Wrocław",5525,9.0,8.6
+427,"Śródmieście, Wrocław",2834,8.9,9.7
+428,"Stare Miasto, Wrocław",3158,8.8,9.2
+429,"Śródmieście, Wrocław",1634,8.2,9.6
+430,"Śródmieście, Wrocław",2395,9.1,9.0
+431,"Stare Miasto, Wrocław",18025,8.3,9.5
+432,"Stare Miasto, Wrocław",3843,9.3,10.0
+433,"Śródmieście, Wrocław",2069,8.8,9.2
+434,"Stare Miasto, Wrocław",3605,6.6,9.4
+435,"Krzyki, Wrocław",2865,9.1,8.8
+436,"Stare Miasto, Wrocław",2835,8.3,8.9
+437,"Stare Miasto, Wrocław",4173,8.0,9.1
+438,"Śródmieście, Wrocław",3638,8.7,9.8
+439,"Stare Miasto, Wrocław",2975,8.5,8.9
+440,"Stare Miasto, Wrocław",14100,8.5,8.6
+441,"Stare Miasto, Wrocław",2504,8.3,8.8
+442,Wrocław,9893,6.8,9.0
+443,"Śródmieście, Wrocław",1951,8.6,8.6
+444,"Stare Miasto, Wrocław",4431,8.6,9.6
+445,"Krzyki, Wrocław",2869,8.3,10.0
+446,"Stare Miasto, Wrocław",3224,8.1,10.0
+447,"Stare Miasto, Wrocław",3130,8.9,8.8
+448,"Stare Miasto, Wrocław",3766,8.6,9.5
+449,"Stare Miasto, Wrocław",3532,9.1,9.7
+450,"Stare Miasto, Wrocław",3942,8.0,8.0
+451,"Stare Miasto, Wrocław",2669,9.5,9.0
+452,"Śródmieście, Wrocław",2795,8.8,9.5
+453,"Stare Miasto, Wrocław",3167,7.8,9.4
+454,"Stare Miasto, Wrocław",4324,9.1,9.2
+455,"Stare Miasto, Wrocław",2434,8.7,9.2
+456,"Stare Miasto, Wrocław",2177,8.6,10.0
+457,"Stare Miasto, Wrocław",2083,8.4,9.4
+458,"Stare Miasto, Wrocław",2565,9.8,8.6
+459,"Stare Miasto, Wrocław",3083,6.8,9.5
+460,"Stare Miasto, Wrocław",2247,8.3,9.1
+461,"Śródmieście, Wrocław",3920,7.9,10.0
+462,"Stare Miasto, Wrocław",2671,7.0,9.8
+463,"Krzyki, Wrocław",3130,9.4,9.2
+464,"Krzyki, Wrocław",1275,10.0,9.0
+465,"Stare Miasto, Wrocław",4319,8.4,8.4
+466,"Krzyki, Wrocław",2276,8.0,10.0
+467,"Stare Miasto, Wrocław",2599,6.6,8.6
+468,"Stare Miasto, Wrocław",5985,9.7,9.7
+469,"Stare Miasto, Wrocław",3626,8.0,8.1
+470,"Psie Pole, Wrocław",1424,9.1,10.0
+471,"Krzyki, Wrocław",3168,9.1,9.9
+472,"Krzyki, Wrocław",2898,8.6,10.0
+473,"Stare Miasto, Wrocław",10258,9.3,8.9
+474,"Stare Miasto, Wrocław",3315,1.0,9.7
+475,"Stare Miasto, Wrocław",1576,8.2,9.9
+476,"Stare Miasto, Wrocław",3526,7.2,9.4
+477,"Stare Miasto, Wrocław",2544,9.2,8.0
+478,"Stare Miasto, Wrocław",2970,6.2,10.0
+479,"Stare Miasto, Wrocław",2142,9.2,8.4
+480,"Stare Miasto, Wrocław",3279,9.0,9.0
+481,"Stare Miasto, Wrocław",1676,8.5,9.5
+482,"Stare Miasto, Wrocław",2235,8.0,8.3
+483,"Stare Miasto, Wrocław",2145,8.4,8.0
+484,"Stare Miasto, Wrocław",2884,2.0,8.8
+485,"Stare Miasto, Wrocław",6168,9.0,9.0
+486,"Stare Miasto, Wrocław",2706,8.3,9.0
+487,"Stare Miasto, Wrocław",3279,9.0,9.9
+488,"Stare Miasto, Wrocław",1842,10.0,9.9
+489,"Stare Miasto, Wrocław",3620,7.0,10.0
+490,"Stare Miasto, Wrocław",3766,8.0,9.4
+491,"Psie Pole, Wrocław",3306,6.9,9.7
+492,"Stare Miasto, Wrocław",6040,10.0,9.6
+493,"Stare Miasto, Wrocław",1259,7.3,9.1
+494,"Stare Miasto, Wrocław",6555,8.9,8.4
+495,"Śródmieście, Wrocław",1913,9.1,9.2
+496,"Stare Miasto, Wrocław",3685,8.4,8.8
+497,"Krzyki, Wrocław",2766,9.0,9.3
+498,"Stare Miasto, Wrocław",6060,8.5,9.6
+499,"Stare Miasto, Wrocław",2207,6.7,9.4
+500,"Śródmieście, Wrocław",2663,8.3,8.7
+501,"Stare Miasto, Wrocław",2077,6.0,10.0
+502,"Stare Miasto, Wrocław",3749,8.9,8.9
+503,"Stare Miasto, Wrocław",3007,9.0,9.1
+504,"Krzyki, Wrocław",1546,8.9,8.7
+505,"Stare Miasto, Wrocław",3349,7.1,9.5
+506,"Śródmieście, Wrocław",2919,8.2,9.4
+507,"Stare Miasto, Wrocław",2190,8.8,9.3
+508,"Stare Miasto, Wrocław",2144,9.3,8.1
+509,"Stare Miasto, Wrocław",5550,8.6,8.9
+510,"Stare Miasto, Wrocław",2510,9.3,8.6
+511,"Stare Miasto, Wrocław",2739,8.7,9.0
+512,"Stare Miasto, Wrocław",4341,8.5,10.0
+513,"Stare Miasto, Wrocław",599,7.0,9.0
+514,"Stare Miasto, Wrocław",2783,4.0,8.5
+515,"Stare Miasto, Wrocław",2850,8.5,10.0
+516,"Śródmieście, Wrocław",1783,9.5,9.2
+517,"Stare Miasto, Wrocław",1340,9.3,8.6
+518,"Stare Miasto, Wrocław",1933,9.6,9.1
+519,"Stare Miasto, Wrocław",2592,9.3,9.5
+520,"Stare Miasto, Wrocław",2703,7.0,8.7
+521,"Stare Miasto, Wrocław",3279,7.8,8.4
+522,"Stare Miasto, Wrocław",2401,9.2,8.9
+523,"Stare Miasto, Wrocław",1850,10.0,9.1
+524,"Stare Miasto, Wrocław",1850,9.2,8.2
+525,"Stare Miasto, Wrocław",12670,7.5,8.7
+526,"Stare Miasto, Wrocław",2300,6.9,8.8
+527,"Stare Miasto, Wrocław",2176,8.2,8.2
+528,"Stare Miasto, Wrocław",1870,9.1,8.7
+529,"Stare Miasto, Wrocław",2208,7.4,8.7
+530,"Stare Miasto, Wrocław",2263,8.3,9.3
+531,"Stare Miasto, Wrocław",4385,7.0,9.0
+532,"Stare Miasto, Wrocław",3995,5.3,8.8
+533,"Stare Miasto, Wrocław",4712,7.3,9.6
+534,"Stare Miasto, Wrocław",2352,8.8,9.3
+535,"Stare Miasto, Wrocław",6654,9.3,8.6
+536,"Stare Miasto, Wrocław",3224,9.7,8.8
+537,"Stare Miasto, Wrocław",2300,9.0,9.1
+538,"Śródmieście, Wrocław",2299,7.0,9.2
+539,"Stare Miasto, Wrocław",4344,8.0,8.1
+540,"Stare Miasto, Wrocław",2518,6.2,9.3
+541,"Stare Miasto, Wrocław",1681,8.2,9.9
+542,"Stare Miasto, Wrocław",1743,7.0,9.1
+543,"Stare Miasto, Wrocław",2398,7.7,8.5
+544,"Stare Miasto, Wrocław",5032,8.0,8.7
+545,"Stare Miasto, Wrocław",3034,9.5,9.1
+546,"Stare Miasto, Wrocław",1710,8.6,9.3
+547,"Śródmieście, Wrocław",2290,8.5,8.4
+548,"Stare Miasto, Wrocław",3551,9.3,8.5
+549,"Stare Miasto, Wrocław",3466,9.8,8.2
+550,"Stare Miasto, Wrocław",1979,10.0,9.0
+551,"Stare Miasto, Wrocław",4653,10.0,8.3
+552,"Stare Miasto, Wrocław",3225,7.8,8.7
+553,"Psie Pole, Wrocław",2150,9.3,8.8
+554,"Stare Miasto, Wrocław",2898,9.6,9.0
+555,"Stare Miasto, Wrocław",3754,8.0,9.9
+556,"Stare Miasto, Wrocław",2568,9.0,9.4
+557,"Stare Miasto, Wrocław",2098,9.4,8.1
+558,"Stare Miasto, Wrocław",2211,9.4,10.0
+559,"Stare Miasto, Wrocław",3927,7.8,9.7
+560,"Stare Miasto, Wrocław",4789,9.3,9.5
+561,"Krzyki, Wrocław",2122,9.2,8.6
+562,"Stare Miasto, Wrocław",4747,9.0,8.7
+563,"Stare Miasto, Wrocław",1464,8.0,9.0
+564,"Stare Miasto, Wrocław",1632,8.7,8.5
+565,"Krzyki, Wrocław",2490,9.5,9.6
+566,"Stare Miasto, Wrocław",3610,9.0,9.0
+567,"Śródmieście, Wrocław",2731,10.0,9.3
+568,"Stare Miasto, Wrocław",7576,6.4,9.2
+569,"Stare Miasto, Wrocław",3100,9.6,8.9
+570,"Stare Miasto, Wrocław",3605,8.7,8.3
+571,"Krzyki, Wrocław",1144,9.0,9.7
+572,"Stare Miasto, Wrocław",2059,8.5,9.0
+573,"Stare Miasto, Wrocław",3131,10.0,8.4
+574,"Stare Miasto, Wrocław",3566,8.5,10.0
+575,"Stare Miasto, Wrocław",3114,7.9,9.6
+576,"Śródmieście, Wrocław",2650,9.8,8.9
+577,"Śródmieście, Wrocław",2041,7.9,9.0
+578,"Stare Miasto, Wrocław",3580,10.0,8.0
+579,"Stare Miasto, Wrocław",2635,9.7,9.4
+580,"Stare Miasto, Wrocław",1788,9.6,10.0
+581,"Stare Miasto, Wrocław",3880,8.9,8.4
+582,Wrocław,1481,9.4,8.4
+583,"Stare Miasto, Wrocław",1887,9.8,8.2
+584,"Stare Miasto, Wrocław",2602,9.5,8.4
+585,"Stare Miasto, Wrocław",2418,8.2,8.4
+586,"Krzyki, Wrocław",2637,10.0,9.5
+587,"Stare Miasto, Wrocław",2518,8.2,8.8
+588,"Stare Miasto, Wrocław",2207,8.9,10.0
+589,"Stare Miasto, Wrocław",4418,9.5,10.0
+590,"Krzyki, Wrocław",2383,8.3,9.7
+591,"Krzyki, Wrocław",2352,7.8,10.0
+592,"Śródmieście, Wrocław",1783,7.8,10.0
+593,"Stare Miasto, Wrocław",3215,6.8,10.0
+594,"Śródmieście, Wrocław",3864,7.8,10.0
+595,"Krzyki, Wrocław",1530,9.1,8.2
+596,"Śródmieście, Wrocław",12402,7.9,8.5
+597,"Krzyki, Wrocław",1707,9.1,8.4
+598,"Stare Miasto, Wrocław",1907,8.0,10.0
+599,"Śródmieście, Wrocław",2135,5.8,10.0
+600,"Stare Miasto, Wrocław",2403,9.9,10.0
+601,"Śródmieście, Wrocław",2426,9.5,10.0
+602,"Śródmieście, Wrocław",3468,9.4,9.2
+603,"Śródmieście, Wrocław",3324,9.3,10.0
+604,"Śródmieście, Wrocław",9193,9.5,9.6
+605,"Stare Miasto, Wrocław",1817,9.5,9.0
+606,"Stare Miasto, Wrocław",2042,7.6,8.9
+607,"Psie Pole, Wrocław",6411,9.2,9.1
+608,"Stare Miasto, Wrocław",3727,8.6,9.6
+609,"Śródmieście, Wrocław",2432,10.0,8.7
+610,"Stare Miasto, Wrocław",1144,9.0,9.1
+611,"Śródmieście, Wrocław",2912,9.2,9.6
+612,"Stare Miasto, Wrocław",2398,9.4,9.2
+613,"Stare Miasto, Wrocław",2502,9.2,9.2
+614,"Stare Miasto, Wrocław",2254,7.0,9.4
+615,"Stare Miasto, Wrocław",2221,8.5,8.2
+616,"Stare Miasto, Wrocław",2018,8.9,8.6
+617,"Stare Miasto, Wrocław",2499,10.0,10.0
+618,"Stare Miasto, Wrocław",2972,8.8,8.8
+619,"Śródmieście, Wrocław",2956,9.0,8.3
+620,"Stare Miasto, Wrocław",2671,8.7,8.6
+621,"Śródmieście, Wrocław",3790,9.5,10.0
+622,"Śródmieście, Wrocław",3717,9.4,9.3
+623,"Śródmieście, Wrocław",2628,9.2,8.8
+624,"Śródmieście, Wrocław",2656,7.9,8.9
+625,"Śródmieście, Wrocław",2017,8.8,10.0
+626,"Śródmieście, Wrocław",2061,8.5,8.9
+627,"Śródmieście, Wrocław",3790,9.0,8.4
+628,"Śródmieście, Wrocław",1681,9.7,9.6
+629,"Psie Pole, Wrocław",1990,7.7,8.5
+630,"Śródmieście, Wrocław",3011,9.0,9.7
+631,"Stare Miasto, Wrocław",2513,8.4,9.8
+632,"Stare Miasto, Wrocław",4968,8.0,10.0
+633,"Psie Pole, Wrocław",2563,8.2,9.6
+634,"Stare Miasto, Wrocław",2520,9.2,8.4
+635,"Stare Miasto, Wrocław",2671,7.2,9.4
+636,"Śródmieście, Wrocław",1843,8.7,9.8
+637,"Śródmieście, Wrocław",9193,9.0,9.0
+638,"Śródmieście, Wrocław",3022,9.6,9.6
+639,"Śródmieście, Wrocław",1551,7.7,8.8
+640,"Stare Miasto, Wrocław",2599,8.5,8.2
+641,"Śródmieście, Wrocław",2395,7.4,10.0
+642,"Śródmieście, Wrocław",2378,8.2,8.6
+643,"Śródmieście, Wrocław",2573,8.9,10.0
+644,"Śródmieście, Wrocław",2729,9.0,9.8
+645,"Śródmieście, Wrocław",5621,8.2,9.2
+646,"Śródmieście, Wrocław",4592,8.3,9.2
+647,"Śródmieście, Wrocław",4053,8.6,8.3
+648,"Śródmieście, Wrocław",4235,8.1,8.4
+649,"Śródmieście, Wrocław",3049,8.1,9.0
+650,"Śródmieście, Wrocław",2315,8.4,8.7
+651,"Stare Miasto, Wrocław",3430,9.4,8.8
+652,"Stare Miasto, Wrocław",3770,8.9,8.0
+653,"Stare Miasto, Wrocław",2055,7.9,9.0
+654,"Stare Miasto, Wrocław",3592,9.2,9.9
+655,"Stare Miasto, Wrocław",2503,9.6,10.0
+656,"Stare Miasto, Wrocław",3070,7.8,9.5
+657,"Stare Miasto, Wrocław",3125,7.6,9.7
+658,"Stare Miasto, Wrocław",3065,8.4,9.7
+659,"Śródmieście, Wrocław",4353,8.6,9.7
+660,"Śródmieście, Wrocław",2994,9.1,9.6
+661,"Krzyki, Wrocław",1712,8.9,9.4
+662,"Stare Miasto, Wrocław",1310,7.4,9.4
+663,"Stare Miasto, Wrocław",1933,9.0,9.2
+664,"Śródmieście, Wrocław",1418,9.9,8.4
+665,"Śródmieście, Wrocław",4109,9.1,9.5
+666,"Śródmieście, Wrocław",2445,8.5,9.2
+667,"Psie Pole, Wrocław",2548,7.5,10.0
+668,"Psie Pole, Wrocław",2529,8.5,9.1
+669,"Psie Pole, Wrocław",2922,7.3,9.7
+670,"Stare Miasto, Wrocław",2079,8.9,8.8
+671,"Stare Miasto, Wrocław",5525,8.7,8.9
+672,"Stare Miasto, Wrocław",2111,8.2,8.9
+673,"Stare Miasto, Wrocław",1613,8.3,9.7
+674,"Stare Miasto, Wrocław",1929,8.0,8.5
+675,"Stare Miasto, Wrocław",2058,8.6,9.4
+676,"Śródmieście, Wrocław",2186,8.3,9.2
+677,"Śródmieście, Wrocław",2334,8.8,8.0
+678,"Śródmieście, Wrocław",2208,8.8,10.0
+679,"Śródmieście, Wrocław",2362,6.8,8.6
+680,"Stare Miasto, Wrocław",1850,9.0,9.0
+681,"Stare Miasto, Wrocław",1444,9.8,9.8
+682,"Stare Miasto, Wrocław",2067,9.2,8.8
+683,"Psie Pole, Wrocław",2027,8.5,8.4
+684,"Stare Miasto, Wrocław",2207,9.0,8.5
+685,"Krzyki, Wrocław",2997,7.0,9.5
+686,"Psie Pole, Wrocław",1771,9.5,10.0
+687,"Krzyki, Wrocław",1624,9.3,8.0
+688,"Stare Miasto, Wrocław",2224,8.6,8.8
+689,"Krzyki, Wrocław",1380,8.8,8.2
+690,"Stare Miasto, Wrocław",3007,6.4,10.0
+691,"Śródmieście, Wrocław",1821,8.8,8.4
+692,"Śródmieście, Wrocław",2930,7.1,9.7
+693,"Stare Miasto, Wrocław",1758,8.2,9.4
+694,"Stare Miasto, Wrocław",2162,9.6,9.2
+695,"Stare Miasto, Wrocław",4051,8.8,9.4
+696,"Stare Miasto, Wrocław",3720,9.3,9.1
+697,"Stare Miasto, Wrocław",2169,9.2,8.3
+698,"Śródmieście, Wrocław",2281,8.8,10.0
+699,"Śródmieście, Wrocław",2764,3.0,9.2
+700,"Stare Miasto, Wrocław",2162,8.3,9.1
+701,"Śródmieście, Wrocław",1818,9.6,9.5
+702,"Śródmieście, Wrocław",2525,8.9,10.0
+703,"Śródmieście, Wrocław",2241,8.4,9.0
+704,"Psie Pole, Wrocław",2703,9.0,9.3
+705,"Psie Pole, Wrocław",1888,9.1,8.5
+706,"Krzyki, Wrocław",1936,8.8,9.1
+707,Wrocław,2159,9.0,8.8
+708,"Krzyki, Wrocław",1869,8.6,8.1
+709,"Krzyki, Wrocław",1006,6.7,8.8
+710,"Psie Pole, Wrocław",11495,9.1,9.2
+711,"Psie Pole, Wrocław",2140,10.0,10.0
+712,"Stare Miasto, Wrocław",3131,8.3,8.8
+713,"Krzyki, Wrocław",1669,8.7,9.5
+714,"Śródmieście, Wrocław",2360,7.2,10.0
+715,"Stare Miasto, Wrocław",2021,8.2,10.0
+716,"Stare Miasto, Wrocław",1634,4.7,9.9
+717,"Psie Pole, Wrocław",1670,8.6,8.7
+718,"Krzyki, Wrocław",2072,9.0,10.0
+719,"Krzyki, Wrocław",1665,9.2,9.3
+720,"Krzyki, Wrocław",2190,7.0,8.4
+721,"Krzyki, Wrocław",2152,8.8,8.6
+722,"Śródmieście, Wrocław",2434,9.5,9.2
+723,"Stare Miasto, Wrocław",4360,9.5,9.3
+724,"Śródmieście, Wrocław",1859,9.8,8.4
+725,"Stare Miasto, Wrocław",3074,3.0,8.9
+726,"Stare Miasto, Wrocław",3079,6.2,9.4
+727,"Stare Miasto, Wrocław",3626,10.0,8.2
+728,"Stare Miasto, Wrocław",2156,10.0,8.7
+729,"Stare Miasto, Wrocław",3079,10.0,9.5
+730,"Stare Miasto, Wrocław",2700,9.5,8.2
+731,Bielany Wrocławskie,2030,7.9,8.9
+732,"Krzyki, Wrocław",4586,10.0,8.8
+733,"Psie Pole, Wrocław",4122,8.4,8.8
+734,"Krzyki, Wrocław",3592,5.9,8.6
+735,"Krzyki, Wrocław",1144,9.0,8.2
+736,"Krzyki, Wrocław",3357,9.0,8.4
+737,"Krzyki, Wrocław",4881,10.0,9.2
+738,"Psie Pole, Wrocław",2361,9.6,10.0
+739,"Krzyki, Wrocław",3605,9.2,8.0
+740,"Krzyki, Wrocław",4488,9.5,10.0
