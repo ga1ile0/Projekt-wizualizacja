@@ -1,0 +1,779 @@
+,City,Cost,Rating,Comfort
+0,Kołobrzeg,5006,9.7,8.8
+1,Kołobrzeg,2492,9.6,9.7
+2,Kołobrzeg,3354,9.7,10.0
+3,"Dzielnica Uzdrowiskowa, Kołobrzeg",3090,9.0,9.2
+4,Kołobrzeg,2530,9.4,9.5
+5,Kołobrzeg,3770,8.1,8.3
+6,Kołobrzeg,3247,8.5,10.0
+7,Kołobrzeg,4010,10.0,10.0
+8,Kołobrzeg,3757,10.0,10.0
+9,"Dzielnica Uzdrowiskowa, Kołobrzeg",3502,8.2,8.5
+10,Kołobrzeg,2958,9.7,10.0
+11,Kołobrzeg,4390,8.9,9.3
+12,"Dzielnica Uzdrowiskowa, Kołobrzeg",7343,7.5,9.8
+13,Kołobrzeg,2912,9.7,8.2
+14,"Dzielnica Uzdrowiskowa, Kołobrzeg",8850,8.2,8.8
+15,"Dzielnica Uzdrowiskowa, Kołobrzeg",3741,9.7,10.0
+16,"Dzielnica Uzdrowiskowa, Kołobrzeg",3362,6.0,9.7
+17,Kołobrzeg,2195,9.4,10.0
+18,Kołobrzeg,4649,9.4,9.9
+19,Kołobrzeg,5170,10.0,9.2
+20,Kołobrzeg,3563,9.6,9.3
+21,Kołobrzeg,4493,8.8,9.7
+22,Kołobrzeg,5821,9.2,8.9
+23,Kołobrzeg,5897,9.4,9.4
+24,Kołobrzeg,2836,9.4,8.8
+25,Kołobrzeg,4387,9.1,8.2
+26,Kołobrzeg,6410,10.0,9.8
+27,"Dzielnica Uzdrowiskowa, Kołobrzeg",3725,8.7,9.2
+28,"Śródmieście, Kołobrzeg",4781,8.1,9.0
+29,Kołobrzeg,3354,9.6,10.0
+30,Kołobrzeg,5435,9.0,10.0
+31,Kołobrzeg,3161,8.7,10.0
+32,Kołobrzeg,4102,10.0,9.5
+33,"Dzielnica Uzdrowiskowa, Kołobrzeg",3878,10.0,8.5
+34,"Dzielnica Uzdrowiskowa, Kołobrzeg",4001,10.0,9.7
+35,"Dzielnica Uzdrowiskowa, Kołobrzeg",3090,8.8,8.3
+36,Kołobrzeg,1780,7.0,8.5
+37,Kołobrzeg,3707,8.3,8.4
+38,Kołobrzeg,6405,9.3,9.4
+39,Kołobrzeg,3612,8.2,9.2
+40,Kołobrzeg,4540,8.6,9.0
+41,Kołobrzeg,6961,8.3,8.4
+42,"Dzielnica Uzdrowiskowa, Kołobrzeg",11617,9.2,8.2
+43,"Dzielnica Uzdrowiskowa, Kołobrzeg",7112,10.0,8.8
+44,Kołobrzeg,5351,8.3,9.7
+45,"Śródmieście, Kołobrzeg",4282,8.3,10.0
+46,"Dzielnica Uzdrowiskowa, Kołobrzeg",4351,8.1,8.7
+47,"Dzielnica Uzdrowiskowa, Kołobrzeg",3492,8.3,10.0
+48,"Dzielnica Uzdrowiskowa, Kołobrzeg",4925,9.4,8.6
+49,Kołobrzeg,3772,9.9,9.2
+50,"Dzielnica Uzdrowiskowa, Kołobrzeg",4086,8.4,9.0
+51,Kołobrzeg,3122,10.0,9.7
+52,"Dzielnica Uzdrowiskowa, Kołobrzeg",6873,9.1,10.0
+53,"Dzielnica Uzdrowiskowa, Kołobrzeg",4097,8.0,9.7
+54,Kołobrzeg,2530,8.7,9.7
+55,Kołobrzeg,6735,8.8,8.9
+56,Kołobrzeg,4939,9.6,9.7
+57,"Śródmieście, Kołobrzeg",3129,10.0,10.0
+58,"Dzielnica Uzdrowiskowa, Kołobrzeg",5008,9.5,9.1
+59,Kołobrzeg,2802,8.0,8.4
+60,Kołobrzeg,3770,9.5,8.8
+61,"Dzielnica Uzdrowiskowa, Kołobrzeg",3122,8.6,9.5
+62,"Dzielnica Uzdrowiskowa, Kołobrzeg",4154,9.3,9.4
+63,"Dzielnica Uzdrowiskowa, Kołobrzeg",5330,10.0,9.3
+64,"Dzielnica Uzdrowiskowa, Kołobrzeg",3524,9.0,9.5
+65,"Dzielnica Uzdrowiskowa, Kołobrzeg",3493,8.2,8.7
+66,Kołobrzeg,3799,8.8,9.7
+67,Kołobrzeg,2492,9.3,10.0
+68,Kołobrzeg,8812,9.2,9.5
+69,Kołobrzeg,3905,9.3,8.7
+70,"Dzielnica Uzdrowiskowa, Kołobrzeg",4701,9.1,9.6
+71,Kołobrzeg,3106,8.5,9.9
+72,"Dzielnica Uzdrowiskowa, Kołobrzeg",4513,9.5,10.0
+73,"Dzielnica Uzdrowiskowa, Kołobrzeg",4522,9.7,9.6
+74,Kołobrzeg,3585,9.6,9.8
+75,"Dzielnica Uzdrowiskowa, Kołobrzeg",6701,8.6,8.2
+76,Kołobrzeg,3151,9.5,8.8
+77,"Dzielnica Uzdrowiskowa, Kołobrzeg",10367,9.5,10.0
+78,"Śródmieście, Kołobrzeg",4476,9.7,9.5
+79,Kołobrzeg,3247,9.6,9.4
+80,Kołobrzeg,2422,9.7,9.6
+81,"Śródmieście, Kołobrzeg",3500,8.2,9.4
+82,"Śródmieście, Kołobrzeg",2772,8.2,9.8
+83,Kołobrzeg,3400,10.0,8.3
+84,"Dzielnica Uzdrowiskowa, Kołobrzeg",4354,9.5,10.0
+85,Kołobrzeg,4010,10.0,9.5
+86,"Śródmieście, Kołobrzeg",4019,9.2,9.2
+87,Kołobrzeg,4189,9.4,9.4
+88,"Dzielnica Uzdrowiskowa, Kołobrzeg",4032,9.7,10.0
+89,Kołobrzeg,3037,8.2,10.0
+90,Kołobrzeg,3860,10.0,9.4
+91,"Dzielnica Uzdrowiskowa, Kołobrzeg",4214,9.2,8.1
+92,"Dzielnica Uzdrowiskowa, Kołobrzeg",5012,7.9,9.1
+93,Kołobrzeg,3122,8.9,9.9
+94,Kołobrzeg,3192,9.2,9.4
+95,"Dzielnica Uzdrowiskowa, Kołobrzeg",3598,10.0,10.0
+96,Kołobrzeg,5409,10.0,8.8
+97,Kołobrzeg,5714,9.1,8.0
+98,"Śródmieście, Kołobrzeg",4904,8.2,8.1
+99,Kołobrzeg,7674,8.9,8.5
+100,Kołobrzeg,3500,9.0,8.9
+101,Kołobrzeg,7636,8.9,10.0
+102,Kołobrzeg,3112,9.0,9.5
+103,Kołobrzeg,7487,9.0,8.9
+104,Kołobrzeg,3757,7.5,10.0
+105,Kołobrzeg,2842,8.6,9.8
+106,Kołobrzeg,4572,8.6,9.6
+107,"Dzielnica Uzdrowiskowa, Kołobrzeg",6664,8.4,9.2
+108,Kołobrzeg,3180,8.5,10.0
+109,"Dzielnica Uzdrowiskowa, Kołobrzeg",7056,10.0,10.0
+110,"Dzielnica Uzdrowiskowa, Kołobrzeg",3502,9.8,10.0
+111,Kołobrzeg,3292,8.7,9.8
+112,Kołobrzeg,2912,9.7,10.0
+113,"Śródmieście, Kołobrzeg",8012,9.2,9.3
+114,Kołobrzeg,2575,9.2,8.4
+115,Kołobrzeg,3896,9.0,9.8
+116,Kołobrzeg,10112,9.0,10.0
+117,"Dzielnica Uzdrowiskowa, Kołobrzeg",5148,10.0,8.8
+118,Kołobrzeg,4580,10.0,9.9
+119,Kołobrzeg,6780,9.5,9.1
+120,Kołobrzeg,9535,9.0,8.8
+121,"Dzielnica Uzdrowiskowa, Kołobrzeg",4559,9.4,8.6
+122,"Dzielnica Uzdrowiskowa, Kołobrzeg",4312,8.1,8.4
+123,Kołobrzeg,2912,9.7,9.2
+124,Kołobrzeg,3199,9.8,9.0
+125,"Śródmieście, Kołobrzeg",2728,8.8,8.5
+126,Kołobrzeg,3273,9.7,10.0
+127,"Dzielnica Uzdrowiskowa, Kołobrzeg",4231,8.3,9.3
+128,Kołobrzeg,3564,8.3,9.5
+129,Kołobrzeg,2958,8.0,9.4
+130,"Dzielnica Uzdrowiskowa, Kołobrzeg",4100,7.6,10.0
+131,"Śródmieście, Kołobrzeg",5471,8.3,9.0
+132,"Dzielnica Uzdrowiskowa, Kołobrzeg",3791,7.5,9.5
+133,Kołobrzeg,3273,9.2,9.9
+134,Kołobrzeg,6648,8.2,8.3
+135,Kołobrzeg,4390,8.1,10.0
+136,Kołobrzeg,3501,10.0,10.0
+137,Kołobrzeg,6108,9.2,9.4
+138,"Dzielnica Uzdrowiskowa, Kołobrzeg",3512,9.4,8.8
+139,Kołobrzeg,3313,9.1,8.3
+140,Kołobrzeg,4647,8.5,10.0
+141,"Dzielnica Uzdrowiskowa, Kołobrzeg",4370,8.1,9.9
+142,Kołobrzeg,3104,9.3,10.0
+143,"Śródmieście, Kołobrzeg",2362,9.9,9.6
+144,"Dzielnica Uzdrowiskowa, Kołobrzeg",8457,8.1,8.9
+145,Kołobrzeg,7112,9.6,10.0
+146,Kołobrzeg,3064,8.7,9.8
+147,Kołobrzeg,2660,9.2,9.8
+148,Kołobrzeg,3262,8.5,8.8
+149,Kołobrzeg,3080,7.2,10.0
+150,Kołobrzeg,4059,10.0,10.0
+151,Kołobrzeg,2976,9.6,9.5
+152,Kołobrzeg,4268,10.0,10.0
+153,Kołobrzeg,3465,9.4,9.5
+154,"Dzielnica Uzdrowiskowa, Kołobrzeg",7343,8.9,9.7
+155,Kołobrzeg,2541,9.8,8.8
+156,Kołobrzeg,4086,9.3,8.6
+157,Kołobrzeg,3410,9.6,9.5
+158,Kołobrzeg,7546,8.6,9.6
+159,Kołobrzeg,6284,9.8,9.0
+160,Kołobrzeg,2912,9.7,9.1
+161,"Śródmieście, Kołobrzeg",7294,9.2,8.5
+162,Kołobrzeg,3905,7.0,8.3
+163,"Dzielnica Uzdrowiskowa, Kołobrzeg",5180,8.5,9.1
+164,"Dzielnica Uzdrowiskowa, Kołobrzeg",7420,9.6,9.5
+165,"Dzielnica Uzdrowiskowa, Kołobrzeg",4086,7.6,9.7
+166,Kołobrzeg,7501,9.8,9.3
+167,Kołobrzeg,3781,8.5,9.6
+168,"Dzielnica Uzdrowiskowa, Kołobrzeg",4152,8.5,9.5
+169,"Dzielnica Uzdrowiskowa, Kołobrzeg",4086,8.3,9.8
+170,"Dzielnica Uzdrowiskowa, Kołobrzeg",3905,9.3,9.5
+171,Kołobrzeg,3839,9.1,8.7
+172,"Dzielnica Uzdrowiskowa, Kołobrzeg",4523,9.1,8.7
+173,Kołobrzeg,4821,9.0,9.4
+174,"Dzielnica Uzdrowiskowa, Kołobrzeg",3072,7.7,10.0
+175,Kołobrzeg,5401,8.8,9.5
+176,"Dzielnica Uzdrowiskowa, Kołobrzeg",6920,9.3,9.1
+177,Kołobrzeg,5100,9.8,9.4
+178,Kołobrzeg,3605,7.1,9.1
+179,"Dzielnica Uzdrowiskowa, Kołobrzeg",8850,9.6,10.0
+180,Kołobrzeg,8321,9.3,9.6
+181,Kołobrzeg,3575,9.3,8.8
+182,Kołobrzeg,3070,9.4,9.6
+183,"Dzielnica Uzdrowiskowa, Kołobrzeg",4167,9.2,9.6
+184,Kołobrzeg,9731,8.6,8.8
+185,"Dzielnica Uzdrowiskowa, Kołobrzeg",3741,8.7,9.1
+186,Kołobrzeg,2212,9.5,10.0
+187,Kołobrzeg,6371,10.0,9.9
+188,Kołobrzeg,6777,9.3,8.8
+189,Kołobrzeg,4651,8.9,8.8
+190,Kołobrzeg,7055,9.1,8.4
+191,Kołobrzeg,4644,7.2,8.1
+192,Kołobrzeg,4155,9.1,9.6
+193,Kołobrzeg,7544,10.0,9.5
+194,Kołobrzeg,3886,9.4,8.1
+195,Kołobrzeg,4599,8.2,8.5
+196,Kołobrzeg,3664,9.4,8.9
+197,Kołobrzeg,4358,9.4,8.5
+198,Kołobrzeg,4073,8.7,8.8
+199,"Śródmieście, Kołobrzeg",4222,8.5,9.2
+200,"Śródmieście, Kołobrzeg",17590,9.9,9.1
+201,Kołobrzeg,6352,9.9,8.8
+202,"Dzielnica Uzdrowiskowa, Kołobrzeg",4648,8.7,8.5
+203,Kołobrzeg,5052,8.5,8.4
+204,"Dzielnica Uzdrowiskowa, Kołobrzeg",3362,8.0,8.7
+205,"Dzielnica Uzdrowiskowa, Kołobrzeg",14151,7.9,8.4
+206,"Dzielnica Uzdrowiskowa, Kołobrzeg",5209,9.4,8.1
+207,Kołobrzeg,3942,9.6,8.3
+208,Kołobrzeg,3531,8.0,9.3
+209,"Dzielnica Uzdrowiskowa, Kołobrzeg",5844,8.5,8.0
+210,Kołobrzeg,2195,9.0,8.9
+211,Kołobrzeg,3556,8.8,8.6
+212,"Dzielnica Uzdrowiskowa, Kołobrzeg",4472,9.2,8.7
+213,"Dzielnica Uzdrowiskowa, Kołobrzeg",3702,7.5,8.3
+214,Kołobrzeg,4883,8.6,10.0
+215,"Dzielnica Uzdrowiskowa, Kołobrzeg",4190,8.4,9.3
+216,Kołobrzeg,3554,8.4,10.0
+217,Kołobrzeg,3776,8.2,9.9
+218,"Dzielnica Uzdrowiskowa, Kołobrzeg",4901,8.4,9.6
+219,Kołobrzeg,6352,8.6,9.4
+220,Kołobrzeg,3760,8.2,9.8
+221,Kołobrzeg,4797,8.2,9.9
+222,Kołobrzeg,3340,7.9,9.4
+223,Kołobrzeg,8073,7.3,9.6
+224,"Dzielnica Uzdrowiskowa, Kołobrzeg",4266,7.8,9.2
+225,Kołobrzeg,5663,8.4,9.2
+226,"Dzielnica Uzdrowiskowa, Kołobrzeg",5772,9.2,9.2
+227,Kołobrzeg,7549,7.3,9.5
+228,"Dzielnica Uzdrowiskowa, Kołobrzeg",8060,7.6,9.2
+229,Kołobrzeg,4649,8.7,10.0
+230,"Dzielnica Uzdrowiskowa, Kołobrzeg",5760,7.5,9.8
+231,"Dzielnica Uzdrowiskowa, Kołobrzeg",10772,8.7,10.0
+232,Kołobrzeg,5990,8.3,8.0
+233,"Dzielnica Uzdrowiskowa, Kołobrzeg",5307,8.6,9.9
+234,Kołobrzeg,3920,8.4,8.8
+235,Kołobrzeg,5170,7.1,9.3
+236,Kołobrzeg,8023,9.7,9.3
+237,"Dzielnica Uzdrowiskowa, Kołobrzeg",9001,7.6,8.9
+238,Kołobrzeg,3962,7.7,8.2
+239,Kołobrzeg,5562,9.0,10.0
+240,Kołobrzeg,3293,7.4,9.1
+241,"Dzielnica Uzdrowiskowa, Kołobrzeg",12036,10.0,10.0
+242,"Dzielnica Uzdrowiskowa, Kołobrzeg",5123,9.6,10.0
+243,"Dzielnica Uzdrowiskowa, Kołobrzeg",5123,9.6,9.3
+244,Kołobrzeg,3710,9.4,9.6
+245,"Dzielnica Uzdrowiskowa, Kołobrzeg",4499,9.5,10.0
+246,"Dzielnica Uzdrowiskowa, Kołobrzeg",4698,9.6,9.5
+247,Kołobrzeg,4754,9.4,9.4
+248,"Śródmieście, Kołobrzeg",4900,9.2,9.7
+249,Kołobrzeg,5663,9.2,9.4
+250,"Dzielnica Uzdrowiskowa, Kołobrzeg",7740,9.6,9.3
+251,"Dzielnica Uzdrowiskowa, Kołobrzeg",6051,8.9,9.5
+252,Kołobrzeg,4684,9.8,10.0
+253,Kołobrzeg,4120,8.9,9.3
+254,Kołobrzeg,3563,9.6,8.3
+255,"Dzielnica Uzdrowiskowa, Kołobrzeg",6056,9.0,8.9
+256,"Dzielnica Uzdrowiskowa, Kołobrzeg",4250,9.7,8.9
+257,Kołobrzeg,3251,6.7,10.0
+258,Kołobrzeg,7551,8.4,9.0
+259,Kołobrzeg,3751,9.6,9.1
+260,Kołobrzeg,4493,9.5,8.7
+261,"Dzielnica Uzdrowiskowa, Kołobrzeg",6101,8.7,9.3
+262,Kołobrzeg,9015,8.9,9.5
+263,"Dzielnica Uzdrowiskowa, Kołobrzeg",7051,7.3,9.5
+264,"Dzielnica Uzdrowiskowa, Kołobrzeg",7451,9.2,9.8
+265,"Dzielnica Uzdrowiskowa, Kołobrzeg",7348,8.1,8.8
+266,"Dzielnica Uzdrowiskowa, Kołobrzeg",7651,9.0,9.7
+267,"Dzielnica Uzdrowiskowa, Kołobrzeg",8118,9.1,9.9
+268,"Dzielnica Uzdrowiskowa, Kołobrzeg",8602,10.0,9.4
+269,"Dzielnica Uzdrowiskowa, Kołobrzeg",4421,10.0,9.7
+270,"Dzielnica Uzdrowiskowa, Kołobrzeg",5986,8.9,10.0
+271,"Dzielnica Uzdrowiskowa, Kołobrzeg",8833,9.1,9.2
+272,Kołobrzeg,4351,8.0,9.3
+273,Kołobrzeg,3651,9.4,9.8
+274,Kołobrzeg,6211,9.3,9.6
+275,"Dzielnica Uzdrowiskowa, Kołobrzeg",9214,8.9,9.5
+276,"Dzielnica Uzdrowiskowa, Kołobrzeg",7690,9.4,9.9
+277,"Dzielnica Uzdrowiskowa, Kołobrzeg",10078,9.5,9.3
+278,Kołobrzeg,10937,9.0,9.3
+279,Kołobrzeg,5821,9.4,8.3
+280,Kołobrzeg,5138,10.0,9.2
+281,"Dzielnica Uzdrowiskowa, Kołobrzeg",9601,9.0,8.9
+282,"Dzielnica Uzdrowiskowa, Kołobrzeg",13591,7.5,9.6
+283,"Dzielnica Uzdrowiskowa, Kołobrzeg",9391,8.7,10.0
+284,Kołobrzeg,4815,8.8,9.9
+285,Kołobrzeg,5897,9.1,9.5
+286,"Dzielnica Uzdrowiskowa, Kołobrzeg",3850,9.5,9.9
+287,"Dzielnica Uzdrowiskowa, Kołobrzeg",5476,7.2,10.0
+288,"Śródmieście, Kołobrzeg",3225,9.2,9.9
+289,Kołobrzeg,2701,9.0,9.2
+290,Kołobrzeg,4312,8.7,9.8
+291,Kołobrzeg,3262,9.2,9.6
+292,Kołobrzeg,5501,9.4,9.4
+293,Kołobrzeg,4400,8.8,9.4
+294,"Dzielnica Uzdrowiskowa, Kołobrzeg",3812,9.8,10.0
+295,Kołobrzeg,3855,8.1,8.6
+296,Kołobrzeg,3052,9.7,10.0
+297,Kołobrzeg,3151,9.6,9.3
+298,Kołobrzeg,3801,9.3,9.3
+299,"Dzielnica Uzdrowiskowa, Kołobrzeg",3962,9.2,9.4
+300,Kołobrzeg,4095,9.7,10.0
+301,Kołobrzeg,3769,9.0,9.7
+302,Kołobrzeg,2851,9.3,9.8
+303,Kołobrzeg,4541,10.0,9.1
+304,Kołobrzeg,2836,9.2,10.0
+305,"Dzielnica Uzdrowiskowa, Kołobrzeg",3493,9.6,8.9
+306,"Śródmieście, Kołobrzeg",2758,9.1,10.0
+307,Kołobrzeg,6187,7.3,9.8
+308,Kołobrzeg,3458,9.7,9.2
+309,"Dzielnica Uzdrowiskowa, Kołobrzeg",3524,9.1,8.5
+310,Kołobrzeg,4387,9.8,9.7
+311,Kołobrzeg,3878,7.7,8.2
+312,Kołobrzeg,2126,9.3,9.7
+313,"Dzielnica Uzdrowiskowa, Kołobrzeg",3385,9.0,9.7
+314,"Dzielnica Uzdrowiskowa, Kołobrzeg",3319,9.3,9.2
+315,"Dzielnica Uzdrowiskowa, Kołobrzeg",4298,10.0,8.3
+316,Kołobrzeg,3013,9.5,10.0
+317,"Dzielnica Uzdrowiskowa, Kołobrzeg",3080,9.6,8.6
+318,Kołobrzeg,6030,9.7,9.6
+319,Kołobrzeg,6246,10.0,8.6
+320,Kołobrzeg,5576,9.7,8.7
+321,Kołobrzeg,3673,9.3,8.3
+322,Kołobrzeg,5921,9.7,9.3
+323,Kołobrzeg,5371,9.3,8.8
+324,Kołobrzeg,3192,9.4,10.0
+325,"Dzielnica Uzdrowiskowa, Kołobrzeg",10171,9.4,8.8
+326,Kołobrzeg,3228,10.0,9.7
+327,"Śródmieście, Kołobrzeg",2790,8.7,10.0
+328,"Dzielnica Uzdrowiskowa, Kołobrzeg",3684,8.6,9.6
+329,Kołobrzeg,6410,8.2,9.2
+330,Kołobrzeg,3665,9.3,9.6
+331,Kołobrzeg,8090,9.1,9.9
+332,Kołobrzeg,2951,9.7,9.4
+333,Kołobrzeg,3609,10.0,9.7
+334,Kołobrzeg,3062,9.5,9.6
+335,"Dzielnica Uzdrowiskowa, Kołobrzeg",3725,9.7,10.0
+336,Kołobrzeg,3500,8.5,9.3
+337,Kołobrzeg,3306,9.0,9.0
+338,"Śródmieście, Kołobrzeg",2950,9.3,9.9
+339,Kołobrzeg,6611,9.0,9.2
+340,"Dzielnica Uzdrowiskowa, Kołobrzeg",8677,8.3,9.3
+341,Kołobrzeg,3831,9.6,10.0
+342,Kołobrzeg,3769,9.6,10.0
+343,Kołobrzeg,2492,7.3,8.4
+344,Kołobrzeg,3213,9.1,8.1
+345,Kołobrzeg,3714,8.0,10.0
+346,Kołobrzeg,5209,9.6,10.0
+347,"Dzielnica Uzdrowiskowa, Kołobrzeg",5731,8.2,9.7
+348,"Śródmieście, Kołobrzeg",3745,9.8,8.3
+349,Kołobrzeg,6972,9.7,8.6
+350,"Dzielnica Uzdrowiskowa, Kołobrzeg",3900,9.3,9.3
+351,Kołobrzeg,3052,8.2,8.8
+352,Kołobrzeg,3612,9.8,8.6
+353,Kołobrzeg,4400,9.0,9.8
+354,"Śródmieście, Kołobrzeg",4781,9.3,9.0
+355,Kołobrzeg,6130,8.5,10.0
+356,"Dzielnica Uzdrowiskowa, Kołobrzeg",2846,8.7,9.3
+357,"Dzielnica Uzdrowiskowa, Kołobrzeg",5300,8.3,9.5
+358,"Dzielnica Uzdrowiskowa, Kołobrzeg",3878,9.3,9.3
+359,Kołobrzeg,2386,9.2,9.5
+360,Kołobrzeg,5435,9.7,8.4
+361,Kołobrzeg,5170,8.6,10.0
+362,Kołobrzeg,3403,9.5,9.7
+363,"Dzielnica Uzdrowiskowa, Kołobrzeg",5951,9.4,8.7
+364,"Dzielnica Uzdrowiskowa, Kołobrzeg",3501,9.2,8.9
+365,"Dzielnica Uzdrowiskowa, Kołobrzeg",5232,9.3,10.0
+366,Kołobrzeg,3199,9.6,9.5
+367,"Dzielnica Uzdrowiskowa, Kołobrzeg",4300,9.8,9.0
+368,Kołobrzeg,3391,9.6,10.0
+369,Kołobrzeg,2002,9.4,10.0
+370,Kołobrzeg,7156,9.7,10.0
+371,"Dzielnica Uzdrowiskowa, Kołobrzeg",4097,10.0,9.5
+372,Kołobrzeg,5228,9.1,9.4
+373,Kołobrzeg,3514,9.2,10.0
+374,"Śródmieście, Kołobrzeg",3962,9.6,9.9
+375,Kołobrzeg,3612,9.2,8.7
+376,Kołobrzeg,4082,9.3,9.2
+377,Kołobrzeg,3291,9.7,9.4
+378,Kołobrzeg,3614,8.0,9.5
+379,Kołobrzeg,3161,8.3,9.3
+380,"Dzielnica Uzdrowiskowa, Kołobrzeg",4100,8.4,9.3
+381,Kołobrzeg,3385,8.5,9.1
+382,Kołobrzeg,6196,9.9,9.5
+383,Kołobrzeg,8782,9.4,9.9
+384,Kołobrzeg,4775,10.0,9.6
+385,Kołobrzeg,4102,8.7,9.3
+386,"Dzielnica Uzdrowiskowa, Kołobrzeg",3499,8.8,9.7
+387,Kołobrzeg,3413,8.0,8.6
+388,"Śródmieście, Kołobrzeg",3067,9.3,8.3
+389,Kołobrzeg,4338,7.6,8.5
+390,Kołobrzeg,5800,8.7,9.8
+391,"Dzielnica Uzdrowiskowa, Kołobrzeg",3951,9.6,9.5
+392,Kołobrzeg,4617,8.7,9.1
+393,Kołobrzeg,3682,10.0,8.6
+394,Kołobrzeg,3262,9.0,9.2
+395,"Dzielnica Uzdrowiskowa, Kołobrzeg",4262,9.4,9.0
+396,"Dzielnica Uzdrowiskowa, Kołobrzeg",5005,9.4,9.3
+397,Kołobrzeg,3302,9.6,9.0
+398,Kołobrzeg,6912,8.9,9.7
+399,"Dzielnica Uzdrowiskowa, Kołobrzeg",4399,10.0,9.7
+400,Kołobrzeg,2887,9.6,8.5
+401,"Dzielnica Uzdrowiskowa, Kołobrzeg",3668,9.0,9.8
+402,Kołobrzeg,3404,9.2,8.3
+403,"Dzielnica Uzdrowiskowa, Kołobrzeg",6960,9.9,8.8
+404,"Dzielnica Uzdrowiskowa, Kołobrzeg",3878,9.0,8.9
+405,"Dzielnica Uzdrowiskowa, Kołobrzeg",2749,8.8,9.0
+406,Kołobrzeg,5352,10.0,9.3
+407,"Dzielnica Uzdrowiskowa, Kołobrzeg",3792,9.2,9.0
+408,"Dzielnica Uzdrowiskowa, Kołobrzeg",10231,10.0,9.6
+409,Kołobrzeg,4091,9.3,9.6
+410,"Dzielnica Uzdrowiskowa, Kołobrzeg",4001,9.5,9.8
+411,"Dzielnica Uzdrowiskowa, Kołobrzeg",3271,9.9,9.3
+412,"Śródmieście, Kołobrzeg",3500,9.6,9.8
+413,"Śródmieście, Kołobrzeg",3950,8.9,9.6
+414,"Dzielnica Uzdrowiskowa, Kołobrzeg",3634,8.8,8.3
+415,Kołobrzeg,4020,9.4,8.3
+416,Kołobrzeg,2664,9.2,9.4
+417,Kołobrzeg,3668,8.9,9.2
+418,Kołobrzeg,4276,9.2,9.4
+419,"Dzielnica Uzdrowiskowa, Kołobrzeg",6591,9.2,9.2
+420,"Dzielnica Uzdrowiskowa, Kołobrzeg",4122,9.3,8.5
+421,"Śródmieście, Kołobrzeg",3651,9.8,9.4
+422,Kołobrzeg,4180,9.5,9.4
+423,"Dzielnica Uzdrowiskowa, Kołobrzeg",2893,9.1,8.7
+424,Kołobrzeg,5956,9.6,9.8
+425,"Dzielnica Uzdrowiskowa, Kołobrzeg",3616,8.5,9.3
+426,Kołobrzeg,3812,8.6,9.3
+427,"Dzielnica Uzdrowiskowa, Kołobrzeg",5342,8.6,9.6
+428,Kołobrzeg,5741,9.6,9.3
+429,Kołobrzeg,3707,9.1,9.8
+430,Kołobrzeg,3926,8.6,10.0
+431,"Dzielnica Uzdrowiskowa, Kołobrzeg",4840,8.5,8.8
+432,"Dzielnica Uzdrowiskowa, Kołobrzeg",3651,8.8,8.3
+433,"Dzielnica Uzdrowiskowa, Kołobrzeg",4312,8.8,8.3
+434,Kołobrzeg,3829,9.1,9.1
+435,Kołobrzeg,6405,9.0,9.6
+436,Kołobrzeg,5362,9.6,8.8
+437,Kołobrzeg,2434,9.4,10.0
+438,Kołobrzeg,4561,8.2,9.7
+439,"Śródmieście, Kołobrzeg",3541,7.1,8.1
+440,Kołobrzeg,3246,9.7,9.9
+441,"Dzielnica Uzdrowiskowa, Kołobrzeg",4808,7.9,8.0
+442,Kołobrzeg,2654,8.6,8.9
+443,Kołobrzeg,3990,9.4,8.8
+444,"Dzielnica Uzdrowiskowa, Kołobrzeg",4382,9.2,9.7
+445,"Dzielnica Uzdrowiskowa, Kołobrzeg",3944,9.2,9.8
+446,Kołobrzeg,5000,9.2,8.4
+447,Kołobrzeg,3943,9.4,9.8
+448,"Dzielnica Uzdrowiskowa, Kołobrzeg",7672,9.4,9.0
+449,"Dzielnica Uzdrowiskowa, Kołobrzeg",6689,9.7,8.0
+450,"Dzielnica Uzdrowiskowa, Kołobrzeg",4134,9.1,10.0
+451,Kołobrzeg,4789,9.5,9.4
+452,Kołobrzeg,5649,9.5,9.4
+453,"Dzielnica Uzdrowiskowa, Kołobrzeg",3862,7.9,9.1
+454,Kołobrzeg,3612,7.9,9.7
+455,Kołobrzeg,4500,8.5,8.9
+456,Kołobrzeg,2853,8.4,9.6
+457,"Śródmieście, Kołobrzeg",3062,9.5,9.2
+458,"Śródmieście, Kołobrzeg",3878,9.3,9.8
+459,Kołobrzeg,3647,8.7,9.6
+460,Kołobrzeg,4540,8.3,9.5
+461,"Śródmieście, Kołobrzeg",2919,9.4,10.0
+462,Kołobrzeg,3312,9.1,9.7
+463,"Dzielnica Uzdrowiskowa, Kołobrzeg",8053,9.2,8.7
+464,Kołobrzeg,4217,9.8,8.8
+465,Kołobrzeg,2768,9.2,10.0
+466,Kołobrzeg,3962,9.1,8.7
+467,Kołobrzeg,5801,9.4,9.5
+468,Kołobrzeg,4970,10.0,8.8
+469,"Dzielnica Uzdrowiskowa, Kołobrzeg",3501,9.4,9.9
+470,Kołobrzeg,3612,9.6,9.6
+471,"Dzielnica Uzdrowiskowa, Kołobrzeg",4521,9.9,8.5
+472,"Dzielnica Uzdrowiskowa, Kołobrzeg",3792,8.8,9.7
+473,Kołobrzeg,6251,8.3,9.0
+474,Kołobrzeg,5152,9.3,9.7
+475,Kołobrzeg,3742,9.1,10.0
+476,Kołobrzeg,4251,9.0,9.3
+477,Kołobrzeg,4725,8.6,8.8
+478,"Dzielnica Uzdrowiskowa, Kołobrzeg",6736,9.7,9.4
+479,Kołobrzeg,6961,9.0,9.4
+480,"Dzielnica Uzdrowiskowa, Kołobrzeg",8757,9.5,10.0
+481,Kołobrzeg,5322,8.3,9.0
+482,"Dzielnica Uzdrowiskowa, Kołobrzeg",8412,9.8,10.0
+483,"Dzielnica Uzdrowiskowa, Kołobrzeg",6634,7.0,8.1
+484,Kołobrzeg,3001,8.4,8.2
+485,"Dzielnica Uzdrowiskowa, Kołobrzeg",7112,8.7,9.8
+486,Kołobrzeg,4573,9.5,9.3
+487,"Śródmieście, Kołobrzeg",4015,9.6,9.5
+488,Kołobrzeg,4666,8.3,9.8
+489,"Dzielnica Uzdrowiskowa, Kołobrzeg",4120,9.7,10.0
+490,"Dzielnica Uzdrowiskowa, Kołobrzeg",4939,9.2,9.4
+491,"Dzielnica Uzdrowiskowa, Kołobrzeg",7812,8.4,9.3
+492,"Dzielnica Uzdrowiskowa, Kołobrzeg",3091,10.0,9.5
+493,"Dzielnica Uzdrowiskowa, Kołobrzeg",4201,8.6,9.6
+494,Kołobrzeg,6067,9.6,9.5
+495,Kołobrzeg,4837,8.7,9.7
+496,"Dzielnica Uzdrowiskowa, Kołobrzeg",6205,9.8,9.8
+497,Kołobrzeg,5266,9.0,10.0
+498,Kołobrzeg,3742,9.7,9.4
+499,"Śródmieście, Kołobrzeg",3287,8.0,9.5
+500,Kołobrzeg,4801,9.4,9.6
+501,"Dzielnica Uzdrowiskowa, Kołobrzeg",5876,9.0,9.6
+502,Kołobrzeg,3360,9.3,9.8
+503,Kołobrzeg,4112,10.0,9.7
+504,Kołobrzeg,5351,9.7,9.2
+505,"Dzielnica Uzdrowiskowa, Kołobrzeg",6412,8.7,9.2
+506,Kołobrzeg,4772,8.7,10.0
+507,Kołobrzeg,6454,9.8,8.9
+508,Kołobrzeg,4667,8.8,9.9
+509,Kołobrzeg,5353,9.2,9.0
+510,"Śródmieście, Kołobrzeg",4282,8.5,8.5
+511,Kołobrzeg,5080,9.9,8.8
+512,Kołobrzeg,6400,9.7,10.0
+513,Kołobrzeg,4896,8.0,9.5
+514,"Dzielnica Uzdrowiskowa, Kołobrzeg",4562,8.5,10.0
+515,Kołobrzeg,3006,9.4,9.6
+516,"Śródmieście, Kołobrzeg",4340,8.7,9.6
+517,"Dzielnica Uzdrowiskowa, Kołobrzeg",7831,9.0,9.5
+518,Kołobrzeg,3404,8.3,9.1
+519,"Dzielnica Uzdrowiskowa, Kołobrzeg",14520,9.7,9.5
+520,"Dzielnica Uzdrowiskowa, Kołobrzeg",4594,9.0,8.7
+521,Kołobrzeg,4275,8.7,10.0
+522,Kołobrzeg,3605,9.5,9.5
+523,Kołobrzeg,3424,9.2,8.1
+524,Kołobrzeg,3080,9.8,10.0
+525,Kołobrzeg,4122,9.1,8.8
+526,"Dzielnica Uzdrowiskowa, Kołobrzeg",2904,10.0,10.0
+527,Kołobrzeg,3128,8.0,9.3
+528,Kołobrzeg,3800,8.1,9.2
+529,"Dzielnica Uzdrowiskowa, Kołobrzeg",4351,9.5,8.3
+530,Kołobrzeg,2920,9.5,10.0
+531,Kołobrzeg,6972,9.5,9.5
+532,"Dzielnica Uzdrowiskowa, Kołobrzeg",5012,9.6,10.0
+533,Kołobrzeg,4194,10.0,9.2
+534,Kołobrzeg,3612,9.6,8.6
+535,"Dzielnica Uzdrowiskowa, Kołobrzeg",3492,9.4,8.3
+536,Kołobrzeg,2450,9.4,9.6
+537,"Dzielnica Uzdrowiskowa, Kołobrzeg",8335,9.6,8.9
+538,Kołobrzeg,3560,8.3,8.8
+539,"Dzielnica Uzdrowiskowa, Kołobrzeg",3637,9.5,9.7
+540,"Dzielnica Uzdrowiskowa, Kołobrzeg",4840,7.2,10.0
+541,Kołobrzeg,4212,9.6,8.7
+542,Kołobrzeg,6801,9.2,9.3
+543,"Dzielnica Uzdrowiskowa, Kołobrzeg",3963,9.2,9.2
+544,"Śródmieście, Kołobrzeg",3832,9.4,10.0
+545,"Dzielnica Uzdrowiskowa, Kołobrzeg",6412,9.3,10.0
+546,"Dzielnica Uzdrowiskowa, Kołobrzeg",3834,8.9,8.8
+547,Kołobrzeg,4805,9.2,9.3
+548,Kołobrzeg,2352,9.4,9.7
+549,Kołobrzeg,3593,8.9,10.0
+550,Kołobrzeg,2951,9.0,9.6
+551,"Dzielnica Uzdrowiskowa, Kołobrzeg",5933,10.0,10.0
+552,Kołobrzeg,3131,9.2,8.7
+553,"Dzielnica Uzdrowiskowa, Kołobrzeg",4014,7.7,10.0
+554,"Dzielnica Uzdrowiskowa, Kołobrzeg",4925,7.2,9.4
+555,"Dzielnica Uzdrowiskowa, Kołobrzeg",3612,9.8,8.5
+556,"Dzielnica Uzdrowiskowa, Kołobrzeg",6399,8.7,9.0
+557,Kołobrzeg,4582,8.5,9.2
+558,"Dzielnica Uzdrowiskowa, Kołobrzeg",10463,8.8,9.5
+559,Kołobrzeg,5512,10.0,8.4
+560,Kołobrzeg,3772,9.6,9.1
+561,"Śródmieście, Kołobrzeg",3052,9.5,9.5
+562,"Dzielnica Uzdrowiskowa, Kołobrzeg",4851,9.6,9.2
+563,"Dzielnica Uzdrowiskowa, Kołobrzeg",4912,9.3,10.0
+564,"Dzielnica Uzdrowiskowa, Kołobrzeg",5885,9.3,9.5
+565,"Śródmieście, Kołobrzeg",3272,9.2,9.2
+566,"Dzielnica Uzdrowiskowa, Kołobrzeg",3946,9.2,9.6
+567,Kołobrzeg,4766,8.6,9.2
+568,"Dzielnica Uzdrowiskowa, Kołobrzeg",4943,7.8,8.7
+569,Kołobrzeg,3464,9.4,10.0
+570,Kołobrzeg,4086,9.5,10.0
+571,Kołobrzeg,4312,8.8,8.8
+572,"Dzielnica Uzdrowiskowa, Kołobrzeg",3792,9.5,10.0
+573,"Dzielnica Uzdrowiskowa, Kołobrzeg",8201,8.3,10.0
+574,Kołobrzeg,3612,10.0,10.0
+575,Kołobrzeg,4871,8.7,10.0
+576,"Dzielnica Uzdrowiskowa, Kołobrzeg",11932,9.2,8.5
+577,Kołobrzeg,4906,8.6,9.5
+578,"Dzielnica Uzdrowiskowa, Kołobrzeg",5043,9.4,10.0
+579,"Dzielnica Uzdrowiskowa, Kołobrzeg",4102,10.0,9.7
+580,"Dzielnica Uzdrowiskowa, Kołobrzeg",5531,10.0,10.0
+581,Kołobrzeg,6060,8.7,10.0
+582,"Dzielnica Uzdrowiskowa, Kołobrzeg",3855,8.3,10.0
+583,"Dzielnica Uzdrowiskowa, Kołobrzeg",3262,8.7,10.0
+584,"Śródmieście, Kołobrzeg",2589,8.5,10.0
+585,Kołobrzeg,2947,9.2,8.3
+586,Kołobrzeg,3585,8.8,10.0
+587,"Dzielnica Uzdrowiskowa, Kołobrzeg",6854,8.4,9.2
+588,Kołobrzeg,3460,9.5,10.0
+589,"Dzielnica Uzdrowiskowa, Kołobrzeg",3977,10.0,9.4
+590,Kołobrzeg,5012,8.7,10.0
+591,Kołobrzeg,3919,9.1,8.3
+592,Kołobrzeg,4601,9.3,8.3
+593,Kołobrzeg,4932,9.8,10.0
+594,Kołobrzeg,4412,9.7,10.0
+595,Kołobrzeg,3500,9.5,8.5
+596,"Dzielnica Uzdrowiskowa, Kołobrzeg",3800,9.2,9.2
+597,Kołobrzeg,4232,5.1,9.4
+598,"Dzielnica Uzdrowiskowa, Kołobrzeg",5667,6.7,10.0
+599,"Dzielnica Uzdrowiskowa, Kołobrzeg",5012,6.9,8.6
+600,Kołobrzeg,3100,9.3,9.2
+601,"Dzielnica Uzdrowiskowa, Kołobrzeg",3431,10.0,8.6
+602,Kołobrzeg,9990,9.5,9.4
+603,Kołobrzeg,2422,9.9,10.0
+604,"Dzielnica Uzdrowiskowa, Kołobrzeg",4086,8.7,9.8
+605,"Dzielnica Uzdrowiskowa, Kołobrzeg",7859,8.0,9.3
+606,"Dzielnica Uzdrowiskowa, Kołobrzeg",3139,7.2,8.8
+607,Kołobrzeg,7400,10.0,9.7
+608,Kołobrzeg,3942,7.7,9.0
+609,"Dzielnica Uzdrowiskowa, Kołobrzeg",10004,8.3,9.1
+610,Kołobrzeg,3122,7.5,8.4
+611,"Dzielnica Uzdrowiskowa, Kołobrzeg",3411,8.3,9.5
+612,Kołobrzeg,5080,9.2,9.4
+613,Kołobrzeg,3300,9.2,10.0
+614,Kołobrzeg,3144,8.6,10.0
+615,"Dzielnica Uzdrowiskowa, Kołobrzeg",4100,9.1,9.4
+616,Kołobrzeg,5659,8.8,9.2
+617,"Dzielnica Uzdrowiskowa, Kołobrzeg",4100,9.3,8.6
+618,"Dzielnica Uzdrowiskowa, Kołobrzeg",5737,9.8,10.0
+619,Kołobrzeg,4316,8.8,10.0
+620,Kołobrzeg,4584,8.8,9.4
+621,Kołobrzeg,4114,9.8,10.0
+622,"Dzielnica Uzdrowiskowa, Kołobrzeg",15177,9.1,9.6
+623,"Dzielnica Uzdrowiskowa, Kołobrzeg",3775,8.5,10.0
+624,"Dzielnica Uzdrowiskowa, Kołobrzeg",4608,7.0,8.8
+625,Kołobrzeg,3612,9.0,10.0
+626,Kołobrzeg,3404,10.0,9.3
+627,"Dzielnica Uzdrowiskowa, Kołobrzeg",4540,9.7,9.8
+628,Kołobrzeg,4242,7.0,10.0
+629,"Dzielnica Uzdrowiskowa, Kołobrzeg",6873,9.0,10.0
+630,"Śródmieście, Kołobrzeg",11151,10.0,8.8
+631,"Dzielnica Uzdrowiskowa, Kołobrzeg",4960,9.0,9.2
+632,"Dzielnica Uzdrowiskowa, Kołobrzeg",5811,10.0,9.8
+633,Kołobrzeg,6974,9.3,9.0
+634,"Dzielnica Uzdrowiskowa, Kołobrzeg",3500,8.3,10.0
+635,"Dzielnica Uzdrowiskowa, Kołobrzeg",4097,7.0,8.3
+636,Kołobrzeg,3490,9.4,8.4
+637,"Dzielnica Uzdrowiskowa, Kołobrzeg",3912,10.0,9.1
+638,Kołobrzeg,3721,9.3,9.2
+639,"Dzielnica Uzdrowiskowa, Kołobrzeg",4895,10.0,9.0
+640,Kołobrzeg,5012,10.0,10.0
+641,"Śródmieście, Kołobrzeg",4833,10.0,9.4
+642,Kołobrzeg,5948,8.0,9.9
+643,Kołobrzeg,5344,10.0,9.4
+644,Kołobrzeg,3291,8.0,9.7
+645,Kołobrzeg,5901,8.0,8.2
+646,"Dzielnica Uzdrowiskowa, Kołobrzeg",8811,7.0,9.3
+647,"Dzielnica Uzdrowiskowa, Kołobrzeg",5026,10.0,9.0
+648,Kołobrzeg,3271,8.3,8.4
+649,Kołobrzeg,3270,9.5,8.5
+650,Kołobrzeg,5140,9.5,10.0
+651,Kołobrzeg,3416,7.5,9.5
+652,Kołobrzeg,4843,9.5,9.3
+653,Kołobrzeg,5941,8.2,9.5
+654,Kołobrzeg,6735,8.3,9.7
+655,Kołobrzeg,5689,9.7,9.5
+656,"Śródmieście, Kołobrzeg",5184,10.0,9.5
+657,Kołobrzeg,2531,8.6,9.6
+658,Kołobrzeg,9812,9.3,9.4
+659,Kołobrzeg,3262,9.8,8.2
+660,Kołobrzeg,4939,6.5,8.8
+661,"Dzielnica Uzdrowiskowa, Kołobrzeg",4056,9.6,8.9
+662,Kołobrzeg,4183,7.0,8.5
+663,Kołobrzeg,2212,5.5,8.2
+664,"Dzielnica Uzdrowiskowa, Kołobrzeg",3691,6.7,8.0
+665,"Dzielnica Uzdrowiskowa, Kołobrzeg",6659,8.5,9.0
+666,"Dzielnica Uzdrowiskowa, Kołobrzeg",4350,9.0,10.0
+667,"Dzielnica Uzdrowiskowa, Kołobrzeg",11151,8.8,8.2
+668,Kołobrzeg,2422,8.8,8.2
+669,"Dzielnica Uzdrowiskowa, Kołobrzeg",6297,9.0,9.3
+670,Kołobrzeg,2671,9.5,9.1
+671,"Dzielnica Uzdrowiskowa, Kołobrzeg",4162,9.6,8.6
+672,"Dzielnica Uzdrowiskowa, Kołobrzeg",3857,8.0,8.5
+673,Kołobrzeg,5542,9.5,9.7
+674,"Śródmieście, Kołobrzeg",4030,9.0,8.8
+675,"Dzielnica Uzdrowiskowa, Kołobrzeg",4672,9.5,9.5
+676,Kołobrzeg,3640,8.3,8.5
+677,Kołobrzeg,3562,9.0,9.8
+678,Kołobrzeg,3839,8.4,8.6
+679,"Śródmieście, Kołobrzeg",3129,9.5,10.0
+680,Kołobrzeg,3410,10.0,9.5
+681,"Dzielnica Uzdrowiskowa, Kołobrzeg",3370,9.2,8.1
+682,"Dzielnica Uzdrowiskowa, Kołobrzeg",3839,9.3,10.0
+683,Kołobrzeg,2700,8.0,9.6
+684,Kołobrzeg,6292,7.9,8.3
+685,"Dzielnica Uzdrowiskowa, Kołobrzeg",5008,10.0,8.1
+686,Kołobrzeg,3385,7.5,9.4
+687,Kołobrzeg,6811,9.0,8.8
+688,"Dzielnica Uzdrowiskowa, Kołobrzeg",8110,8.8,9.0
+689,"Dzielnica Uzdrowiskowa, Kołobrzeg",3839,7.7,8.4
+690,"Dzielnica Uzdrowiskowa, Kołobrzeg",5694,9.3,8.2
+691,"Dzielnica Uzdrowiskowa, Kołobrzeg",3962,9.5,8.8
+692,Kołobrzeg,6092,9.2,8.1
+693,Kołobrzeg,4212,8.0,10.0
+694,"Dzielnica Uzdrowiskowa, Kołobrzeg",3132,8.8,9.0
+695,Kołobrzeg,3201,9.7,9.0
+696,Kołobrzeg,4305,9.5,8.2
+697,Kołobrzeg,3551,7.3,10.0
+698,"Śródmieście, Kołobrzeg",2701,10.0,8.1
+699,"Dzielnica Uzdrowiskowa, Kołobrzeg",3143,8.5,8.3
+700,"Dzielnica Uzdrowiskowa, Kołobrzeg",4212,10.0,9.5
+701,"Śródmieście, Kołobrzeg",6124,6.3,9.2
+702,"Dzielnica Uzdrowiskowa, Kołobrzeg",3792,10.0,8.8
+703,Kołobrzeg,3527,4.0,8.4
+704,Kołobrzeg,2802,9.8,9.3
+705,Kołobrzeg,3612,8.3,9.2
+706,Kołobrzeg,3371,10.0,9.4
+707,"Dzielnica Uzdrowiskowa, Kołobrzeg",6447,5.7,9.3
+708,"Dzielnica Uzdrowiskowa, Kołobrzeg",9057,7.0,9.5
+709,Kołobrzeg,3950,6.7,9.7
+710,"Dzielnica Uzdrowiskowa, Kołobrzeg",3122,8.5,10.0
+711,Kołobrzeg,3894,8.7,9.5
+712,Kołobrzeg,2943,7.5,8.4
+713,"Dzielnica Uzdrowiskowa, Kołobrzeg",5333,9.3,9.6
+714,Kołobrzeg,21532,9.0,10.0
+715,"Dzielnica Uzdrowiskowa, Kołobrzeg",6460,7.4,8.8
+716,Kołobrzeg,3693,10.0,9.3
+717,Kołobrzeg,2778,9.1,8.2
+718,Kołobrzeg,5289,9.7,10.0
+719,Kołobrzeg,5316,9.3,8.3
+720,"Dzielnica Uzdrowiskowa, Kołobrzeg",4451,9.7,8.5
+721,Kołobrzeg,3462,7.9,8.3
+722,"Dzielnica Uzdrowiskowa, Kołobrzeg",7294,8.9,8.4
+723,Kołobrzeg,4262,8.2,10.0
+724,Kołobrzeg,3428,8.3,8.3
+725,Kołobrzeg,5039,7.7,8.9
+726,Kołobrzeg,5097,8.3,9.4
+727,"Dzielnica Uzdrowiskowa, Kołobrzeg",4976,9.9,8.9
+728,"Dzielnica Uzdrowiskowa, Kołobrzeg",9606,5.8,8.7
+729,"Dzielnica Uzdrowiskowa, Kołobrzeg",4154,9.6,8.2
+730,Kołobrzeg,8796,9.2,8.3
+731,Kołobrzeg,5262,8.4,9.4
+732,Kołobrzeg,4262,8.5,8.2
+733,"Dzielnica Uzdrowiskowa, Kołobrzeg",4157,9.5,8.1
+734,Kołobrzeg,3577,9.7,9.6
+735,"Dzielnica Uzdrowiskowa, Kołobrzeg",5330,9.5,9.6
+736,Kołobrzeg,4296,7.3,8.9
+737,"Dzielnica Uzdrowiskowa, Kołobrzeg",5621,9.8,9.6
+738,"Dzielnica Uzdrowiskowa, Kołobrzeg",10212,9.6,8.6
+739,Kołobrzeg,5100,8.4,8.6
+740,Kołobrzeg,3406,9.1,8.5
+741,Kołobrzeg,7056,8.7,8.3
+742,Kołobrzeg,5462,7.6,8.4
+743,"Dzielnica Uzdrowiskowa, Kołobrzeg",6014,7.9,10.0
+744,"Dzielnica Uzdrowiskowa, Kołobrzeg",4212,8.2,9.8
+745,Kołobrzeg,4731,8.7,10.0
+746,"Dzielnica Uzdrowiskowa, Kołobrzeg",4851,9.8,8.9
+747,"Dzielnica Uzdrowiskowa, Kołobrzeg",4571,8.5,9.7
+748,Kołobrzeg,11082,8.1,9.5
+749,Kołobrzeg,3252,8.9,9.8
+750,"Dzielnica Uzdrowiskowa, Kołobrzeg",13954,9.0,10.0
+751,Kołobrzeg,4848,8.2,8.5
+752,Kołobrzeg,2912,8.5,9.8
+753,Kołobrzeg,3570,8.8,8.9
+754,"Dzielnica Uzdrowiskowa, Kołobrzeg",3524,8.8,8.2
+755,Kołobrzeg,4033,9.2,9.7
+756,Kołobrzeg,4078,6.3,8.7
+757,"Śródmieście, Kołobrzeg",5751,7.8,8.9
+758,Kołobrzeg,5782,9.8,9.8
+759,Kołobrzeg,4522,8.6,9.2
+760,"Dzielnica Uzdrowiskowa, Kołobrzeg",3493,9.5,10.0
+761,Kołobrzeg,3612,9.6,9.8
+762,Kołobrzeg,3388,8.1,9.5
+763,"Śródmieście, Kołobrzeg",5730,9.8,9.6
+764,"Dzielnica Uzdrowiskowa, Kołobrzeg",2947,9.6,10.0
+765,Kołobrzeg,3661,7.3,9.0
+766,Kołobrzeg,4632,8.2,9.2
+767,Kołobrzeg,3882,9.5,10.0
+768,Kołobrzeg,3260,8.6,8.8
+769,Kołobrzeg,4366,9.1,9.8
+770,Kołobrzeg,4810,9.4,8.5
+771,"Dzielnica Uzdrowiskowa, Kołobrzeg",4810,7.8,8.3
+772,Kołobrzeg,5601,8.3,10.0
+773,Kołobrzeg,3352,8.4,9.3
+774,Kołobrzeg,3385,4.3,9.7
+775,"Śródmieście, Kołobrzeg",5531,9.8,9.6
+776,Kołobrzeg,4135,8.8,10.0
+777,"Dzielnica Uzdrowiskowa, Kołobrzeg",8985,9.4,9.1
