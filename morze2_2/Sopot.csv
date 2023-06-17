@@ -1,0 +1,578 @@
+,City,Cost,Rating,Comfort
+0,"Dolny Sopot, Sopot",16873,9.1,9.5
+1,"Kamienny Potok, Sopot",2861,9.5,9.6
+2,"Kamienny Potok, Sopot",11340,9.8,10.0
+3,"Kamienny Potok, Sopot",3939,10.0,10.0
+4,Sopot,3029,10.0,10.0
+5,"Górny Sopot, Sopot",4215,9.3,9.2
+6,"Dolny Sopot, Sopot",6427,10.0,10.0
+7,"Karlikowo, Sopot",2450,10.0,10.0
+8,"Górny Sopot, Sopot",3210,10.0,8.8
+9,"Karlikowo, Sopot",3471,10.0,10.0
+10,"Dolny Sopot, Sopot",4851,9.2,9.5
+11,"Kamienny Potok, Sopot",3820,4.9,9.6
+12,Sopot,2577,9.6,10.0
+13,"Karlikowo, Sopot",4085,10.0,9.4
+14,"Dolny Sopot, Sopot",3456,9.3,8.9
+15,Sopot,4562,9.2,10.0
+16,"Karlikowo, Sopot",2976,10.0,10.0
+17,"Dolny Sopot, Sopot",4798,7.4,10.0
+18,"Dolny Sopot, Sopot",6886,9.8,8.1
+19,"Górny Sopot, Sopot",4494,10.0,10.0
+20,"Karlikowo, Sopot",3558,7.4,9.5
+21,Sopot,3978,8.8,10.0
+22,"Górny Sopot, Sopot",3765,10.0,8.8
+23,"Kamienny Potok, Sopot",3061,9.6,9.8
+24,"Dolny Sopot, Sopot",4817,10.0,8.7
+25,Sopot,2570,8.8,10.0
+26,"Dolny Sopot, Sopot",3044,9.5,9.4
+27,"Górny Sopot, Sopot",3460,8.7,10.0
+28,"Górny Sopot, Sopot",2220,10.0,9.3
+29,"Kamienny Potok, Sopot",3939,9.7,8.9
+30,"Dolny Sopot, Sopot",6046,10.0,9.2
+31,"Dolny Sopot, Sopot",3930,8.0,8.5
+32,"Górny Sopot, Sopot",3836,8.9,8.8
+33,"Dolny Sopot, Sopot",7076,8.8,9.6
+34,"Karlikowo, Sopot",7592,8.3,9.5
+35,Sopot,3029,8.8,8.7
+36,"Dolny Sopot, Sopot",3870,9.5,10.0
+37,"Dolny Sopot, Sopot",9917,9.5,9.2
+38,"Dolny Sopot, Sopot",4712,9.4,10.0
+39,Sopot,4514,8.7,8.1
+40,"Dolny Sopot, Sopot",4729,10.0,8.2
+41,"Dolny Sopot, Sopot",4497,9.1,9.4
+42,"Kamienny Potok, Sopot",2570,9.3,9.7
+43,"Górny Sopot, Sopot",6130,7.9,8.6
+44,"Karlikowo, Sopot",6530,8.4,8.4
+45,Sopot,4610,9.2,8.8
+46,"Dolny Sopot, Sopot",14988,9.8,8.8
+47,"Dolny Sopot, Sopot",13204,7.0,8.1
+48,"Karlikowo, Sopot",7175,8.8,10.0
+49,"Dolny Sopot, Sopot",3746,8.8,8.7
+50,"Dolny Sopot, Sopot",3820,7.4,9.3
+51,"Karlikowo, Sopot",3500,8.6,9.1
+52,"Karlikowo, Sopot",4547,8.8,9.1
+53,"Dolny Sopot, Sopot",5870,8.5,9.6
+54,"Górny Sopot, Sopot",4215,7.5,9.3
+55,"Kamienny Potok, Sopot",5271,9.5,8.5
+56,"Karlikowo, Sopot",3120,9.3,8.4
+57,"Dolny Sopot, Sopot",4502,8.8,9.1
+58,"Dolny Sopot, Sopot",4707,9.2,10.0
+59,"Dolny Sopot, Sopot",3791,8.7,8.9
+60,"Dolny Sopot, Sopot",6427,9.4,9.3
+61,"Kamienny Potok, Sopot",2946,9.6,9.5
+62,"Górny Sopot, Sopot",4870,9.3,9.7
+63,"Kamienny Potok, Sopot",3850,7.9,8.9
+64,"Dolny Sopot, Sopot",4670,8.8,10.0
+65,"Górny Sopot, Sopot",5670,8.2,10.0
+66,"Górny Sopot, Sopot",5443,8.8,9.2
+67,"Karlikowo, Sopot",4014,7.5,9.2
+68,Sopot,3254,8.8,9.1
+69,"Dolny Sopot, Sopot",5196,9.1,8.3
+70,"Dolny Sopot, Sopot",3792,9.3,10.0
+71,Sopot,4753,9.6,8.9
+72,"Dolny Sopot, Sopot",7460,5.0,9.5
+73,"Dolny Sopot, Sopot",4693,9.1,8.8
+74,"Kamienny Potok, Sopot",3423,8.0,9.1
+75,Sopot,3463,9.7,9.0
+76,Sopot,3520,8.3,9.4
+77,"Dolny Sopot, Sopot",3812,10.0,8.2
+78,"Dolny Sopot, Sopot",6313,9.3,8.7
+79,"Karlikowo, Sopot",2450,7.7,8.8
+80,"Dolny Sopot, Sopot",12029,9.5,8.5
+81,Sopot,3412,9.0,9.1
+82,"Dolny Sopot, Sopot",7700,8.1,8.3
+83,"Karlikowo, Sopot",4640,8.3,10.0
+84,"Górny Sopot, Sopot",3770,10.0,8.2
+85,"Górny Sopot, Sopot",3210,9.0,8.5
+86,Sopot,3778,9.6,8.8
+87,"Dolny Sopot, Sopot",2920,8.8,9.5
+88,"Górny Sopot, Sopot",3445,9.3,8.8
+89,"Górny Sopot, Sopot",2580,9.4,8.7
+90,Sopot,3970,8.2,9.2
+91,"Karlikowo, Sopot",3650,9.4,9.5
+92,"Karlikowo, Sopot",4676,8.7,8.2
+93,"Dolny Sopot, Sopot",4900,9.0,9.1
+94,"Dolny Sopot, Sopot",5088,8.8,10.0
+95,"Karlikowo, Sopot",6670,9.0,9.2
+96,"Dolny Sopot, Sopot",4130,8.5,8.1
+97,"Dolny Sopot, Sopot",8159,9.3,8.1
+98,"Dolny Sopot, Sopot",11478,9.0,9.4
+99,"Dolny Sopot, Sopot",5608,8.1,8.2
+100,"Karlikowo, Sopot",3585,10.0,9.0
+101,"Dolny Sopot, Sopot",7231,8.6,8.2
+102,"Dolny Sopot, Sopot",2720,8.5,10.0
+103,"Dolny Sopot, Sopot",5012,8.5,9.6
+104,"Karlikowo, Sopot",3471,9.5,9.0
+105,"Dolny Sopot, Sopot",4920,10.0,8.9
+106,"Karlikowo, Sopot",5277,8.6,9.4
+107,"Dolny Sopot, Sopot",6241,8.8,9.0
+108,"Dolny Sopot, Sopot",3744,9.4,8.6
+109,"Dolny Sopot, Sopot",5629,8.2,8.8
+110,"Dolny Sopot, Sopot",4851,8.9,9.7
+111,"Dolny Sopot, Sopot",4514,7.0,8.3
+112,"Górny Sopot, Sopot",4108,10.0,9.2
+113,Sopot,2570,9.1,8.9
+114,"Karlikowo, Sopot",4609,8.1,9.3
+115,"Karlikowo, Sopot",3518,7.7,10.0
+116,"Dolny Sopot, Sopot",5540,8.2,8.0
+117,"Karlikowo, Sopot",3493,9.3,9.2
+118,"Dolny Sopot, Sopot",5800,8.2,9.1
+119,"Dolny Sopot, Sopot",12916,9.1,9.2
+120,"Kamienny Potok, Sopot",2784,7.4,9.2
+121,"Dolny Sopot, Sopot",3842,8.3,9.4
+122,"Dolny Sopot, Sopot",4570,10.0,8.9
+123,"Dolny Sopot, Sopot",6154,9.3,9.2
+124,"Dolny Sopot, Sopot",5324,8.6,8.4
+125,"Kamienny Potok, Sopot",4980,9.2,8.9
+126,"Dolny Sopot, Sopot",4230,9.5,8.8
+127,"Dolny Sopot, Sopot",5711,8.6,9.5
+128,"Górny Sopot, Sopot",3080,8.7,8.9
+129,"Kamienny Potok, Sopot",3820,8.7,8.8
+130,"Dolny Sopot, Sopot",4009,9.6,9.5
+131,"Dolny Sopot, Sopot",4824,8.4,9.1
+132,"Górny Sopot, Sopot",7831,9.0,10.0
+133,"Karlikowo, Sopot",4200,8.9,9.6
+134,"Dolny Sopot, Sopot",4500,9.1,8.7
+135,Sopot,2577,10.0,8.8
+136,"Dolny Sopot, Sopot",5186,8.0,8.6
+137,"Dolny Sopot, Sopot",5340,8.3,9.5
+138,"Karlikowo, Sopot",4678,8.7,10.0
+139,"Górny Sopot, Sopot",4345,7.1,9.2
+140,"Dolny Sopot, Sopot",3924,8.4,9.6
+141,"Górny Sopot, Sopot",4262,9.2,9.3
+142,"Dolny Sopot, Sopot",4605,9.3,8.9
+143,"Karlikowo, Sopot",5770,9.0,9.1
+144,"Dolny Sopot, Sopot",3729,8.8,8.5
+145,"Karlikowo, Sopot",4778,8.7,8.3
+146,"Karlikowo, Sopot",4053,9.1,9.8
+147,"Dolny Sopot, Sopot",4050,8.3,8.9
+148,"Górny Sopot, Sopot",3645,8.8,8.5
+149,"Kamienny Potok, Sopot",7920,9.0,8.3
+150,"Karlikowo, Sopot",4290,9.2,8.8
+151,"Górny Sopot, Sopot",3735,8.6,8.9
+152,"Karlikowo, Sopot",9346,7.7,8.7
+153,Sopot,5430,6.9,8.8
+154,"Karlikowo, Sopot",4085,8.9,8.1
+155,"Dolny Sopot, Sopot",9272,9.3,9.7
+156,Sopot,5652,8.1,9.2
+157,"Dolny Sopot, Sopot",4971,9.1,9.6
+158,"Karlikowo, Sopot",5790,9.8,8.2
+159,"Dolny Sopot, Sopot",4620,9.2,8.0
+160,Sopot,4562,8.9,8.5
+161,"Karlikowo, Sopot",3017,6.0,8.5
+162,"Kamienny Potok, Sopot",9344,9.0,9.4
+163,"Karlikowo, Sopot",3694,8.1,8.1
+164,"Dolny Sopot, Sopot",5170,9.0,9.2
+165,"Karlikowo, Sopot",4215,9.0,8.5
+166,"Górny Sopot, Sopot",4230,9.0,9.3
+167,"Karlikowo, Sopot",4163,9.1,8.6
+168,"Karlikowo, Sopot",7820,9.6,9.6
+169,"Górny Sopot, Sopot",4551,8.5,8.8
+170,"Karlikowo, Sopot",4996,9.6,8.8
+171,"Karlikowo, Sopot",4459,9.1,9.2
+172,"Górny Sopot, Sopot",4050,9.0,8.7
+173,"Karlikowo, Sopot",4206,8.4,8.2
+174,"Dolny Sopot, Sopot",6724,8.2,9.8
+175,"Górny Sopot, Sopot",4984,9.7,9.6
+176,"Dolny Sopot, Sopot",7830,9.0,8.9
+177,Sopot,3760,8.3,10.0
+178,"Dolny Sopot, Sopot",4850,7.6,9.2
+179,"Karlikowo, Sopot",2976,8.4,8.5
+180,"Dolny Sopot, Sopot",4292,9.0,9.8
+181,"Dolny Sopot, Sopot",5938,9.0,8.6
+182,"Dolny Sopot, Sopot",3936,8.3,9.4
+183,"Dolny Sopot, Sopot",5000,7.2,8.8
+184,"Górny Sopot, Sopot",5017,8.1,8.9
+185,"Dolny Sopot, Sopot",4798,8.5,8.5
+186,"Dolny Sopot, Sopot",4058,8.4,8.1
+187,"Górny Sopot, Sopot",4500,9.6,8.9
+188,"Karlikowo, Sopot",3072,9.3,9.2
+189,"Dolny Sopot, Sopot",4826,9.6,9.1
+190,"Dolny Sopot, Sopot",5077,8.8,9.2
+191,"Dolny Sopot, Sopot",4876,7.8,9.6
+192,"Karlikowo, Sopot",4443,8.0,9.0
+193,"Górny Sopot, Sopot",4250,9.0,8.7
+194,"Karlikowo, Sopot",4684,6.5,8.9
+195,"Karlikowo, Sopot",3446,6.9,8.0
+196,"Dolny Sopot, Sopot",5172,9.4,8.4
+197,"Karlikowo, Sopot",3045,7.8,9.1
+198,"Dolny Sopot, Sopot",4810,9.2,9.1
+199,"Karlikowo, Sopot",4200,8.6,8.9
+200,"Kamienny Potok, Sopot",3286,9.0,9.3
+201,"Dolny Sopot, Sopot",3664,8.7,9.7
+202,"Dolny Sopot, Sopot",4550,9.5,8.8
+203,"Dolny Sopot, Sopot",4810,8.9,8.7
+204,"Dolny Sopot, Sopot",6886,9.0,8.3
+205,"Dolny Sopot, Sopot",6373,8.7,8.9
+206,"Karlikowo, Sopot",4550,8.6,9.7
+207,"Dolny Sopot, Sopot",4340,7.2,8.2
+208,"Dolny Sopot, Sopot",4783,8.4,9.0
+209,"Dolny Sopot, Sopot",5660,9.5,10.0
+210,"Górny Sopot, Sopot",4494,9.4,10.0
+211,"Dolny Sopot, Sopot",9396,8.0,8.4
+212,"Karlikowo, Sopot",3826,8.4,8.4
+213,"Karlikowo, Sopot",3526,10.0,9.5
+214,"Kamienny Potok, Sopot",3618,8.8,9.5
+215,"Górny Sopot, Sopot",4823,8.2,8.3
+216,"Dolny Sopot, Sopot",6036,8.4,9.0
+217,"Dolny Sopot, Sopot",5194,9.0,9.1
+218,"Górny Sopot, Sopot",4212,7.9,8.7
+219,"Dolny Sopot, Sopot",5870,9.3,9.0
+220,"Dolny Sopot, Sopot",3689,8.0,8.3
+221,"Dolny Sopot, Sopot",4732,8.5,9.3
+222,Sopot,3401,9.2,8.0
+223,"Dolny Sopot, Sopot",2952,8.0,9.2
+224,"Karlikowo, Sopot",5030,7.5,9.5
+225,"Kamienny Potok, Sopot",2610,7.6,10.0
+226,"Dolny Sopot, Sopot",4645,8.6,8.5
+227,Sopot,9858,8.6,9.2
+228,"Kamienny Potok, Sopot",5035,8.2,8.9
+229,Sopot,3978,9.0,10.0
+230,"Dolny Sopot, Sopot",7317,7.8,8.9
+231,"Dolny Sopot, Sopot",5631,9.1,8.8
+232,"Karlikowo, Sopot",3676,7.3,9.6
+233,"Dolny Sopot, Sopot",3885,9.0,9.2
+234,"Dolny Sopot, Sopot",4732,9.0,8.8
+235,"Górny Sopot, Sopot",3765,6.9,9.0
+236,Sopot,4314,9.5,8.8
+237,"Karlikowo, Sopot",6408,8.8,9.6
+238,"Dolny Sopot, Sopot",5000,7.1,8.6
+239,"Karlikowo, Sopot",3270,8.8,10.0
+240,"Dolny Sopot, Sopot",4763,7.0,8.9
+241,"Dolny Sopot, Sopot",10366,7.8,10.0
+242,Sopot,3063,7.7,8.5
+243,"Górny Sopot, Sopot",5250,9.2,8.8
+244,"Dolny Sopot, Sopot",11486,8.2,8.1
+245,"Dolny Sopot, Sopot",9118,8.1,9.2
+246,"Karlikowo, Sopot",9647,9.1,9.4
+247,"Dolny Sopot, Sopot",6082,9.1,9.2
+248,"Dolny Sopot, Sopot",4960,8.9,8.1
+249,"Dolny Sopot, Sopot",9581,9.1,9.2
+250,Sopot,9424,9.6,8.3
+251,"Dolny Sopot, Sopot",6668,8.7,10.0
+252,"Dolny Sopot, Sopot",5347,8.5,8.8
+253,"Karlikowo, Sopot",4153,8.1,9.5
+254,"Kamienny Potok, Sopot",3061,8.7,8.9
+255,"Górny Sopot, Sopot",5401,9.7,9.6
+256,"Dolny Sopot, Sopot",11045,8.1,8.7
+257,"Dolny Sopot, Sopot",9457,8.9,8.6
+258,"Karlikowo, Sopot",4696,9.7,9.0
+259,"Dolny Sopot, Sopot",5301,8.4,9.2
+260,"Dolny Sopot, Sopot",4817,7.6,9.4
+261,"Karlikowo, Sopot",4308,7.4,9.3
+262,Sopot,5704,10.0,9.2
+263,"Dolny Sopot, Sopot",8410,8.3,9.5
+264,"Karlikowo, Sopot",5492,7.6,8.1
+265,"Dolny Sopot, Sopot",4657,7.8,9.6
+266,"Karlikowo, Sopot",4657,7.6,8.8
+267,"Dolny Sopot, Sopot",13453,8.3,8.1
+268,"Karlikowo, Sopot",6361,7.4,8.8
+269,"Karlikowo, Sopot",6597,9.4,9.3
+270,"Karlikowo, Sopot",7947,9.3,8.2
+271,"Karlikowo, Sopot",5085,7.7,9.1
+272,"Dolny Sopot, Sopot",7022,7.4,8.7
+273,"Dolny Sopot, Sopot",5770,7.5,8.3
+274,"Karlikowo, Sopot",5941,8.4,8.8
+275,"Dolny Sopot, Sopot",5920,8.7,9.4
+276,"Dolny Sopot, Sopot",6816,8.9,8.2
+277,"Dolny Sopot, Sopot",8300,8.8,8.6
+278,"Górny Sopot, Sopot",9150,8.9,8.0
+279,Sopot,2570,8.3,10.0
+280,"Dolny Sopot, Sopot",5633,9.0,10.0
+281,"Dolny Sopot, Sopot",15600,7.6,8.4
+282,"Dolny Sopot, Sopot",5501,8.9,8.8
+283,"Dolny Sopot, Sopot",6876,9.2,8.8
+284,"Dolny Sopot, Sopot",5194,10.0,9.0
+285,"Dolny Sopot, Sopot",3044,8.5,9.8
+286,"Górny Sopot, Sopot",6305,9.1,9.4
+287,"Karlikowo, Sopot",9007,8.4,9.4
+288,"Dolny Sopot, Sopot",6600,9.0,8.2
+289,Sopot,12046,8.8,8.3
+290,"Dolny Sopot, Sopot",9521,7.4,9.4
+291,"Dolny Sopot, Sopot",9316,5.4,8.4
+292,"Dolny Sopot, Sopot",12928,8.5,8.1
+293,"Dolny Sopot, Sopot",5328,9.5,9.1
+294,"Dolny Sopot, Sopot",7845,9.3,9.4
+295,"Górny Sopot, Sopot",3677,8.5,8.8
+296,"Górny Sopot, Sopot",8794,9.1,9.6
+297,"Dolny Sopot, Sopot",6025,8.9,9.3
+298,"Kamienny Potok, Sopot",4730,9.4,8.7
+299,"Dolny Sopot, Sopot",13262,6.7,9.4
+300,"Dolny Sopot, Sopot",7213,7.0,8.2
+301,"Dolny Sopot, Sopot",5000,8.6,9.8
+302,"Górny Sopot, Sopot",5037,10.0,9.1
+303,"Dolny Sopot, Sopot",7375,8.8,8.9
+304,"Górny Sopot, Sopot",3460,9.7,9.2
+305,"Górny Sopot, Sopot",6960,8.1,9.2
+306,"Karlikowo, Sopot",5424,8.2,8.1
+307,"Górny Sopot, Sopot",4577,8.8,9.4
+308,"Dolny Sopot, Sopot",5282,8.3,9.4
+309,"Karlikowo, Sopot",8886,7.4,10.0
+310,"Górny Sopot, Sopot",2220,8.6,9.8
+311,"Dolny Sopot, Sopot",8230,9.5,9.4
+312,"Dolny Sopot, Sopot",12620,9.3,8.9
+313,"Karlikowo, Sopot",5401,7.9,8.2
+314,"Dolny Sopot, Sopot",5247,9.0,8.5
+315,"Karlikowo, Sopot",8860,8.2,10.0
+316,Sopot,4689,10.0,8.7
+317,"Karlikowo, Sopot",12600,9.2,9.8
+318,"Dolny Sopot, Sopot",8690,9.5,9.4
+319,"Dolny Sopot, Sopot",10374,8.6,8.5
+320,"Górny Sopot, Sopot",8152,7.2,8.7
+321,"Dolny Sopot, Sopot",7240,9.3,9.4
+322,"Dolny Sopot, Sopot",5846,9.2,9.1
+323,"Górny Sopot, Sopot",3099,5.7,8.5
+324,"Karlikowo, Sopot",12576,9.2,8.6
+325,"Kamienny Potok, Sopot",2734,9.1,9.3
+326,"Karlikowo, Sopot",4458,7.4,8.1
+327,"Górny Sopot, Sopot",5370,8.0,8.1
+328,"Dolny Sopot, Sopot",4292,9.1,8.1
+329,"Dolny Sopot, Sopot",6046,9.4,9.3
+330,"Dolny Sopot, Sopot",3931,9.1,9.7
+331,"Dolny Sopot, Sopot",4200,6.7,8.3
+332,"Górny Sopot, Sopot",4443,9.6,10.0
+333,"Dolny Sopot, Sopot",4340,8.4,8.8
+334,"Karlikowo, Sopot",6024,9.8,10.0
+335,"Dolny Sopot, Sopot",3930,8.3,8.6
+336,"Dolny Sopot, Sopot",4282,8.0,8.9
+337,"Górny Sopot, Sopot",3480,8.5,9.4
+338,"Kamienny Potok, Sopot",3150,8.6,9.7
+339,"Dolny Sopot, Sopot",5523,7.3,9.8
+340,"Górny Sopot, Sopot",6368,8.2,9.0
+341,"Dolny Sopot, Sopot",6614,7.2,9.2
+342,"Górny Sopot, Sopot",4823,9.1,8.5
+343,"Dolny Sopot, Sopot",5730,8.4,9.3
+344,"Kamienny Potok, Sopot",5070,7.2,8.8
+345,"Górny Sopot, Sopot",4528,8.8,8.9
+346,"Górny Sopot, Sopot",3404,9.7,9.5
+347,"Karlikowo, Sopot",9156,7.5,8.9
+348,"Dolny Sopot, Sopot",6008,8.4,9.1
+349,"Karlikowo, Sopot",5012,8.7,8.1
+350,"Karlikowo, Sopot",5764,8.4,8.1
+351,Sopot,2310,10.0,8.9
+352,"Dolny Sopot, Sopot",6420,10.0,9.8
+353,"Karlikowo, Sopot",5237,9.0,8.3
+354,"Górny Sopot, Sopot",3836,9.1,9.4
+355,"Górny Sopot, Sopot",5050,8.5,9.2
+356,"Dolny Sopot, Sopot",4127,9.2,9.5
+357,"Kamienny Potok, Sopot",4235,9.5,9.2
+358,"Karlikowo, Sopot",6024,8.8,9.4
+359,Sopot,5045,9.3,8.5
+360,"Dolny Sopot, Sopot",7076,8.4,9.1
+361,"Górny Sopot, Sopot",3570,8.0,9.3
+362,"Górny Sopot, Sopot",4145,9.3,8.3
+363,"Górny Sopot, Sopot",4566,7.6,9.5
+364,"Dolny Sopot, Sopot",4043,7.0,8.2
+365,"Karlikowo, Sopot",5020,8.1,10.0
+366,"Dolny Sopot, Sopot",6752,8.5,9.5
+367,"Karlikowo, Sopot",4609,8.8,8.8
+368,"Karlikowo, Sopot",4110,9.3,8.8
+369,Sopot,6328,8.8,8.1
+370,Sopot,3694,9.7,8.5
+371,"Górny Sopot, Sopot",2980,7.7,9.3
+372,"Dolny Sopot, Sopot",3774,7.0,9.2
+373,"Dolny Sopot, Sopot",6293,9.2,9.7
+374,"Górny Sopot, Sopot",4204,8.7,8.3
+375,"Karlikowo, Sopot",8159,9.3,9.4
+376,"Karlikowo, Sopot",5520,8.7,8.9
+377,"Dolny Sopot, Sopot",3729,9.8,9.2
+378,"Karlikowo, Sopot",4434,9.3,9.5
+379,"Karlikowo, Sopot",7592,7.9,9.4
+380,Sopot,4029,8.9,9.4
+381,Sopot,6070,8.9,9.1
+382,"Dolny Sopot, Sopot",5347,6.5,8.2
+383,"Dolny Sopot, Sopot",4568,6.5,8.3
+384,"Dolny Sopot, Sopot",2877,8.9,8.8
+385,"Dolny Sopot, Sopot",3870,7.9,8.7
+386,"Karlikowo, Sopot",3420,7.9,9.1
+387,Sopot,3550,9.5,8.6
+388,"Karlikowo, Sopot",3817,8.0,8.8
+389,"Karlikowo, Sopot",2666,9.0,8.1
+390,"Dolny Sopot, Sopot",4392,7.5,8.5
+391,"Dolny Sopot, Sopot",6228,9.0,9.1
+392,"Górny Sopot, Sopot",3134,9.6,8.4
+393,"Dolny Sopot, Sopot",4282,8.8,9.3
+394,"Górny Sopot, Sopot",3831,8.6,8.6
+395,Sopot,3537,8.5,8.8
+396,"Karlikowo, Sopot",4900,8.8,8.1
+397,"Karlikowo, Sopot",7391,8.0,9.4
+398,"Karlikowo, Sopot",4605,10.0,9.6
+399,"Górny Sopot, Sopot",7405,6.9,10.0
+400,"Dolny Sopot, Sopot",4570,6.3,8.9
+401,"Dolny Sopot, Sopot",4989,8.6,9.1
+402,"Dolny Sopot, Sopot",3639,7.5,9.0
+403,"Dolny Sopot, Sopot",6894,9.1,10.0
+404,"Dolny Sopot, Sopot",9917,9.7,9.2
+405,"Karlikowo, Sopot",4405,8.4,9.1
+406,"Dolny Sopot, Sopot",4687,8.7,9.2
+407,"Dolny Sopot, Sopot",3326,9.1,9.0
+408,"Dolny Sopot, Sopot",4252,9.2,8.8
+409,"Górny Sopot, Sopot",5070,8.3,9.6
+410,Sopot,4514,8.7,9.0
+411,Sopot,4470,9.2,9.3
+412,"Dolny Sopot, Sopot",4260,8.0,8.9
+413,"Dolny Sopot, Sopot",5846,7.4,9.5
+414,"Karlikowo, Sopot",3143,8.2,9.9
+415,"Dolny Sopot, Sopot",9986,8.8,9.4
+416,"Dolny Sopot, Sopot",6624,7.3,8.5
+417,"Dolny Sopot, Sopot",4348,9.0,9.7
+418,Sopot,3566,8.1,8.2
+419,"Dolny Sopot, Sopot",3762,9.4,8.4
+420,"Dolny Sopot, Sopot",6902,9.6,9.5
+421,"Dolny Sopot, Sopot",6234,9.3,9.3
+422,"Karlikowo, Sopot",15646,10.0,8.9
+423,"Dolny Sopot, Sopot",11609,8.7,9.6
+424,"Karlikowo, Sopot",3596,10.0,9.4
+425,"Dolny Sopot, Sopot",7618,8.5,9.7
+426,"Dolny Sopot, Sopot",4422,8.2,8.7
+427,"Karlikowo, Sopot",4350,7.6,10.0
+428,"Karlikowo, Sopot",3858,8.0,9.0
+429,"Dolny Sopot, Sopot",4729,8.8,9.0
+430,"Dolny Sopot, Sopot",6723,9.4,9.2
+431,"Dolny Sopot, Sopot",4441,5.4,8.4
+432,Sopot,3585,9.5,8.0
+433,"Dolny Sopot, Sopot",4753,9.7,8.9
+434,"Górny Sopot, Sopot",3284,8.8,8.1
+435,"Dolny Sopot, Sopot",4497,8.5,9.0
+436,"Dolny Sopot, Sopot",3599,8.4,8.6
+437,"Dolny Sopot, Sopot",21546,9.2,8.1
+438,Sopot,2500,8.2,8.2
+439,Sopot,2691,8.8,8.8
+440,"Dolny Sopot, Sopot",4239,9.4,9.4
+441,"Dolny Sopot, Sopot",4428,8.1,9.2
+442,"Karlikowo, Sopot",3392,9.4,8.3
+443,Sopot,3622,8.2,10.0
+444,"Karlikowo, Sopot",3900,7.7,9.2
+445,"Karlikowo, Sopot",13546,5.7,8.9
+446,Sopot,4100,8.8,8.8
+447,"Dolny Sopot, Sopot",5406,9.7,10.0
+448,"Karlikowo, Sopot",11280,8.3,9.8
+449,"Górny Sopot, Sopot",4007,6.9,10.0
+450,"Dolny Sopot, Sopot",4300,8.6,10.0
+451,"Karlikowo, Sopot",3710,8.0,9.0
+452,"Karlikowo, Sopot",6732,8.3,8.9
+453,Sopot,2979,9.4,8.1
+454,"Kamienny Potok, Sopot",2570,9.2,9.8
+455,Sopot,6730,9.4,8.9
+456,"Dolny Sopot, Sopot",6149,7.2,9.3
+457,"Dolny Sopot, Sopot",4440,8.6,9.2
+458,"Dolny Sopot, Sopot",4980,8.9,10.0
+459,"Dolny Sopot, Sopot",5720,7.1,8.3
+460,"Górny Sopot, Sopot",6130,9.5,8.8
+461,Sopot,2940,8.5,8.1
+462,"Karlikowo, Sopot",4700,9.4,9.6
+463,"Górny Sopot, Sopot",4999,8.3,10.0
+464,"Dolny Sopot, Sopot",6119,8.2,9.3
+465,"Górny Sopot, Sopot",4700,10.0,10.0
+466,"Dolny Sopot, Sopot",6398,8.0,10.0
+467,"Karlikowo, Sopot",11606,9.2,9.5
+468,"Dolny Sopot, Sopot",4923,8.6,8.8
+469,"Dolny Sopot, Sopot",5666,8.8,9.3
+470,"Górny Sopot, Sopot",3225,8.1,10.0
+471,"Dolny Sopot, Sopot",7584,8.8,9.7
+472,"Karlikowo, Sopot",3425,9.1,8.5
+473,"Dolny Sopot, Sopot",5739,9.2,9.6
+474,"Karlikowo, Sopot",5076,9.6,9.6
+475,"Dolny Sopot, Sopot",5490,8.0,8.2
+476,"Dolny Sopot, Sopot",7502,6.3,9.5
+477,"Dolny Sopot, Sopot",6008,9.7,8.1
+478,"Dolny Sopot, Sopot",4806,8.4,8.8
+479,"Karlikowo, Sopot",6530,9.1,8.3
+480,"Dolny Sopot, Sopot",4960,9.4,9.2
+481,"Dolny Sopot, Sopot",6000,8.6,9.5
+482,"Karlikowo, Sopot",4050,9.1,9.4
+483,Sopot,4055,9.2,8.8
+484,"Górny Sopot, Sopot",4063,8.2,8.2
+485,Sopot,4610,8.2,9.9
+486,"Dolny Sopot, Sopot",6804,8.7,9.2
+487,"Dolny Sopot, Sopot",4410,8.9,8.8
+488,"Karlikowo, Sopot",4609,9.2,9.3
+489,"Dolny Sopot, Sopot",5885,7.3,8.9
+490,"Górny Sopot, Sopot",6070,7.4,8.7
+491,Sopot,3316,8.3,9.8
+492,Sopot,7743,8.9,8.7
+493,"Dolny Sopot, Sopot",5979,7.9,9.4
+494,"Górny Sopot, Sopot",6492,8.8,9.0
+495,"Dolny Sopot, Sopot",6087,8.8,8.4
+496,Sopot,2220,8.8,9.8
+497,"Górny Sopot, Sopot",9864,9.4,9.2
+498,"Karlikowo, Sopot",7559,8.6,8.0
+499,"Kamienny Potok, Sopot",4641,9.5,9.7
+500,"Dolny Sopot, Sopot",6692,8.1,8.4
+501,"Karlikowo, Sopot",3697,7.0,9.3
+502,"Karlikowo, Sopot",4234,8.0,9.2
+503,"Karlikowo, Sopot",3727,8.6,9.2
+504,"Dolny Sopot, Sopot",13204,9.5,9.2
+505,"Dolny Sopot, Sopot",8050,10.0,9.2
+506,"Dolny Sopot, Sopot",5379,7.1,8.1
+507,"Dolny Sopot, Sopot",6391,8.8,9.7
+508,"Karlikowo, Sopot",7943,9.0,8.6
+509,"Dolny Sopot, Sopot",4456,9.0,9.4
+510,"Karlikowo, Sopot",7175,9.5,8.7
+511,Sopot,4306,9.0,8.1
+512,"Karlikowo, Sopot",6627,8.8,8.9
+513,"Dolny Sopot, Sopot",6873,8.4,9.0
+514,"Karlikowo, Sopot",5289,8.7,9.5
+515,"Karlikowo, Sopot",3676,9.1,9.2
+516,"Górny Sopot, Sopot",10420,8.7,8.4
+517,"Dolny Sopot, Sopot",4152,9.5,9.6
+518,"Dolny Sopot, Sopot",6036,8.7,10.0
+519,Sopot,4376,9.1,9.3
+520,"Karlikowo, Sopot",6127,9.0,8.9
+521,"Dolny Sopot, Sopot",4576,8.7,8.5
+522,"Dolny Sopot, Sopot",5217,9.4,9.3
+523,"Dolny Sopot, Sopot",6910,9.6,8.5
+524,"Karlikowo, Sopot",4576,9.1,9.2
+525,"Dolny Sopot, Sopot",8237,8.7,8.6
+526,"Dolny Sopot, Sopot",8996,9.9,9.6
+527,"Dolny Sopot, Sopot",4622,7.9,9.5
+528,"Dolny Sopot, Sopot",5150,8.9,9.4
+529,"Dolny Sopot, Sopot",3746,9.3,8.8
+530,"Dolny Sopot, Sopot",5676,6.8,9.3
+531,"Dolny Sopot, Sopot",5620,7.7,9.4
+532,"Dolny Sopot, Sopot",4790,8.9,8.0
+533,"Karlikowo, Sopot",7065,9.0,9.1
+534,"Dolny Sopot, Sopot",5383,9.2,9.2
+535,"Karlikowo, Sopot",4105,7.7,9.5
+536,"Dolny Sopot, Sopot",3312,7.6,9.3
+537,"Dolny Sopot, Sopot",8809,7.4,8.6
+538,"Dolny Sopot, Sopot",6606,9.4,9.5
+539,Sopot,8649,8.7,8.8
+540,"Dolny Sopot, Sopot",11280,9.6,8.3
+541,"Dolny Sopot, Sopot",6290,8.9,9.6
+542,"Dolny Sopot, Sopot",13380,9.2,9.2
+543,Sopot,5373,7.0,8.2
+544,"Dolny Sopot, Sopot",4440,7.5,8.9
+545,"Górny Sopot, Sopot",5050,9.1,9.2
+546,"Dolny Sopot, Sopot",4370,8.0,8.8
+547,"Górny Sopot, Sopot",7344,8.5,8.8
+548,"Dolny Sopot, Sopot",4753,8.0,9.5
+549,"Górny Sopot, Sopot",4055,8.8,10.0
+550,"Karlikowo, Sopot",5196,8.8,10.0
+551,"Dolny Sopot, Sopot",5094,8.8,10.0
+552,"Kamienny Potok, Sopot",5213,8.2,8.8
+553,"Górny Sopot, Sopot",5677,8.7,9.3
+554,Sopot,8120,8.0,9.1
+555,"Kamienny Potok, Sopot",3146,6.0,9.4
+556,"Karlikowo, Sopot",4265,8.5,10.0
+557,"Dolny Sopot, Sopot",8518,6.4,8.8
+558,"Dolny Sopot, Sopot",4561,8.0,8.5
+559,"Dolny Sopot, Sopot",3564,9.5,8.2
+560,"Dolny Sopot, Sopot",3820,9.1,8.8
+561,"Górny Sopot, Sopot",3223,8.3,8.8
+562,"Karlikowo, Sopot",4917,9.8,9.0
+563,"Dolny Sopot, Sopot",7132,9.3,9.1
+564,"Dolny Sopot, Sopot",5555,8.8,8.6
+565,"Karlikowo, Sopot",7358,6.4,8.0
+566,"Dolny Sopot, Sopot",18390,8.5,8.3
+567,"Dolny Sopot, Sopot",4713,7.7,9.8
+568,"Górny Sopot, Sopot",3401,8.0,9.8
+569,"Dolny Sopot, Sopot",6506,9.5,10.0
+570,"Dolny Sopot, Sopot",6335,6.3,9.3
+571,"Górny Sopot, Sopot",5818,6.3,9.5
+572,"Karlikowo, Sopot",4107,10.0,9.5
+573,"Dolny Sopot, Sopot",7454,10.0,8.6
+574,"Dolny Sopot, Sopot",5325,7.5,9.2
+575,"Dolny Sopot, Sopot",5072,8.4,9.9
+576,"Dolny Sopot, Sopot",9769,8.9,8.3

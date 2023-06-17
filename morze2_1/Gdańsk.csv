@@ -1,0 +1,732 @@
+,City,Cost,Rating,Comfort
+0,Gdańsk,1926,8.4,8.2
+1,Gdańsk,2534,9.0,8.5
+2,Gdańsk,2374,9.7,9.7
+3,"Centrum, Gdańsk",2471,9.8,9.8
+4,"Brzeźno, Gdańsk",3162,9.7,10.0
+5,Gdańsk,2737,10.0,10.0
+6,"Centrum, Gdańsk",3024,10.0,10.0
+7,"Przymorze, Gdańsk",2600,10.0,10.0
+8,"Centrum, Gdańsk",3521,10.0,10.0
+9,"Centrum, Gdańsk",4499,10.0,8.5
+10,"Przymorze, Gdańsk",4519,8.3,8.6
+11,"Wrzeszcz, Gdańsk",2902,8.7,10.0
+12,"Wrzeszcz, Gdańsk",2678,9.0,10.0
+13,"Przymorze, Gdańsk",3191,10.0,10.0
+14,"Brzeźno, Gdańsk",5440,10.0,10.0
+15,"Wrzeszcz, Gdańsk",2397,10.0,10.0
+16,"Wrzeszcz, Gdańsk",2176,10.0,10.0
+17,"Centrum, Gdańsk",3125,8.5,10.0
+18,Gdańsk,2917,10.0,10.0
+19,"Centrum, Gdańsk",2919,9.0,10.0
+20,"Wrzeszcz, Gdańsk",2083,10.0,10.0
+21,"Centrum, Gdańsk",2858,10.0,10.0
+22,"Centrum, Gdańsk",3780,10.0,10.0
+23,"Centrum, Gdańsk",3994,10.0,10.0
+24,"Centrum, Gdańsk",5010,10.0,10.0
+25,"Wrzeszcz, Gdańsk",3110,10.0,10.0
+26,Gdańsk,3615,8.0,10.0
+27,Gdańsk,1512,10.0,8.6
+28,Gdańsk,2249,9.0,10.0
+29,"Centrum, Gdańsk",2471,9.5,10.0
+30,Gdańsk,2810,8.0,9.5
+31,"Centrum, Gdańsk",3017,10.0,9.4
+32,"Przymorze, Gdańsk",2498,8.8,8.5
+33,"Centrum, Gdańsk",3221,10.0,8.8
+34,Gdańsk,3664,10.0,8.5
+35,"Brzeźno, Gdańsk",3162,9.3,10.0
+36,"Brzeźno, Gdańsk",3113,9.4,10.0
+37,Gdańsk,3675,8.2,8.7
+38,"Centrum, Gdańsk",3985,9.0,9.7
+39,"Centrum, Gdańsk",4833,9.0,10.0
+40,"Przymorze, Gdańsk",3096,10.0,8.4
+41,"Centrum, Gdańsk",3615,10.0,9.2
+42,"Przymorze, Gdańsk",3698,8.9,10.0
+43,"Centrum, Gdańsk",2513,8.0,10.0
+44,"Wrzeszcz, Gdańsk",1925,9.7,10.0
+45,"Centrum, Gdańsk",5834,10.0,8.8
+46,"Przymorze, Gdańsk",2430,8.3,10.0
+47,"Centrum, Gdańsk",5046,8.2,10.0
+48,Gdańsk,3698,10.0,10.0
+49,Gdańsk,3271,10.0,9.2
+50,Gdańsk,3828,9.0,10.0
+51,Gdańsk,2093,9.5,10.0
+52,Gdańsk,2716,9.0,9.8
+53,"Centrum, Gdańsk",5144,10.0,10.0
+54,Gdańsk,2737,9.7,10.0
+55,"Brzeźno, Gdańsk",4550,9.0,9.2
+56,"Brzeźno, Gdańsk",2352,7.8,8.3
+57,"Centrum, Gdańsk",3658,10.0,8.8
+58,Gdańsk,2495,9.7,8.2
+59,"Centrum, Gdańsk",2900,9.8,8.9
+60,"Centrum, Gdańsk",3024,9.9,10.0
+61,"Centrum, Gdańsk",2520,10.0,9.8
+62,Gdańsk,2464,9.3,10.0
+63,"Przymorze, Gdańsk",4480,9.2,8.8
+64,"Wrzeszcz, Gdańsk",2804,3.0,10.0
+65,"Przymorze, Gdańsk",3150,9.0,10.0
+66,"Centrum, Gdańsk",4623,7.7,10.0
+67,"Centrum, Gdańsk",3325,9.0,9.2
+68,"Przymorze, Gdańsk",2927,10.0,10.0
+69,Gdańsk,3238,9.7,10.0
+70,Gdańsk,3350,10.0,9.3
+71,"Przymorze, Gdańsk",3422,10.0,8.8
+72,"Wrzeszcz, Gdańsk",3169,9.3,10.0
+73,"Brzeźno, Gdańsk",3500,9.7,8.8
+74,Gdańsk,3639,10.0,10.0
+75,"Wrzeszcz, Gdańsk",1767,9.3,10.0
+76,"Przymorze, Gdańsk",1663,6.7,10.0
+77,Gdańsk,3268,10.0,8.8
+78,Gdańsk,2975,10.0,9.4
+79,"Przymorze, Gdańsk",2600,9.0,8.4
+80,"Brzeźno, Gdańsk",2730,8.6,10.0
+81,"Przymorze, Gdańsk",3640,10.0,10.0
+82,"Brzeźno, Gdańsk",6264,9.5,10.0
+83,"Centrum, Gdańsk",4246,9.5,8.8
+84,"Centrum, Gdańsk",3150,10.0,9.7
+85,"Centrum, Gdańsk",3521,10.0,9.4
+86,Gdańsk,4110,9.5,10.0
+87,"Jelitkowo, Gdańsk",7608,9.0,9.4
+88,"Centrum, Gdańsk",3052,10.0,9.4
+89,Gdańsk,2250,8.9,8.5
+90,"Przymorze, Gdańsk",4077,10.0,10.0
+91,"Wrzeszcz, Gdańsk",3286,9.5,8.7
+92,"Brzeźno, Gdańsk",4048,9.9,9.6
+93,"Przymorze, Gdańsk",6628,9.0,9.0
+94,"Centrum, Gdańsk",6715,7.8,9.4
+95,"Centrum, Gdańsk",4316,9.8,9.5
+96,Gdańsk,6699,9.5,9.0
+97,Gdańsk,1606,9.7,8.9
+98,"Przymorze, Gdańsk",3106,9.4,9.2
+99,Gdańsk,2517,9.2,9.6
+100,"Centrum, Gdańsk",1976,7.0,8.8
+101,Gdańsk,3445,8.2,9.2
+102,"Centrum, Gdańsk",3600,10.0,9.8
+103,Gdańsk,2374,7.9,8.3
+104,"Centrum, Gdańsk",4499,8.7,8.9
+105,"Przymorze, Gdańsk",3500,6.6,8.5
+106,"Przymorze, Gdańsk",3893,9.5,9.9
+107,"Centrum, Gdańsk",5389,9.0,9.1
+108,"Centrum, Gdańsk",3347,9.5,8.1
+109,"Centrum, Gdańsk",2782,9.6,9.5
+110,"Przymorze, Gdańsk",4519,8.8,9.4
+111,"Przymorze, Gdańsk",2873,8.8,8.9
+112,"Wrzeszcz, Gdańsk",3276,8.9,8.5
+113,"Centrum, Gdańsk",3550,9.5,8.6
+114,"Wrzeszcz, Gdańsk",3278,8.8,8.1
+115,"Centrum, Gdańsk",4150,9.1,10.0
+116,"Centrum, Gdańsk",4251,9.6,8.9
+117,"Centrum, Gdańsk",3755,8.4,9.5
+118,"Centrum, Gdańsk",3861,9.0,10.0
+119,"Przymorze, Gdańsk",3325,8.3,8.2
+120,"Przymorze, Gdańsk",3850,9.7,9.5
+121,"Centrum, Gdańsk",3675,9.0,8.8
+122,"Centrum, Gdańsk",7081,8.2,8.2
+123,"Przymorze, Gdańsk",4000,9.5,10.0
+124,"Brzeźno, Gdańsk",3139,9.3,10.0
+125,"Centrum, Gdańsk",3946,8.9,8.8
+126,Gdańsk,3715,8.4,8.8
+127,Gdańsk,3710,9.0,9.2
+128,Gdańsk,3970,8.6,10.0
+129,"Wrzeszcz, Gdańsk",2902,8.0,10.0
+130,"Oliwa, Gdańsk",3432,9.9,9.6
+131,Gdańsk,5259,8.9,8.3
+132,"Centrum, Gdańsk",3645,9.7,9.3
+133,"Centrum, Gdańsk",8039,10.0,9.8
+134,"Centrum, Gdańsk",4807,8.8,8.3
+135,"Wrzeszcz, Gdańsk",2678,9.3,8.8
+136,"Jelitkowo, Gdańsk",10718,8.8,10.0
+137,Gdańsk,3100,8.6,10.0
+138,"Centrum, Gdańsk",4665,10.0,8.8
+139,"Centrum, Gdańsk",4340,10.0,10.0
+140,"Oliwa, Gdańsk",3504,10.0,8.5
+141,"Centrum, Gdańsk",4419,9.0,9.3
+142,Gdańsk,3350,9.1,10.0
+143,"Sobieszewo, Gdańsk",3158,10.0,8.5
+144,"Przymorze, Gdańsk",3529,10.0,9.0
+145,"Wrzeszcz, Gdańsk",2333,9.3,8.8
+146,Gdańsk,3210,9.3,9.2
+147,Gdańsk,2137,9.1,10.0
+148,"Centrum, Gdańsk",2610,9.5,9.6
+149,"Centrum, Gdańsk",3118,8.0,10.0
+150,Gdańsk,3197,7.0,8.8
+151,Gdańsk,4426,8.0,9.0
+152,"Przymorze, Gdańsk",4445,8.5,10.0
+153,Gdańsk,3913,10.0,10.0
+154,"Przymorze, Gdańsk",3191,10.0,10.0
+155,Gdańsk,4122,10.0,9.4
+156,"Centrum, Gdańsk",1709,8.0,8.0
+157,"Centrum, Gdańsk",4243,9.5,8.8
+158,"Wrzeszcz, Gdańsk",2451,8.0,8.2
+159,"Centrum, Gdańsk",10565,8.5,9.0
+160,"Brzeźno, Gdańsk",5440,9.2,10.0
+161,"Centrum, Gdańsk",7529,10.0,9.2
+162,Gdańsk,5475,8.4,9.6
+163,"Centrum, Gdańsk",6031,8.5,9.1
+164,"Centrum, Gdańsk",4290,9.0,9.6
+165,Gdańsk,2095,7.2,9.4
+166,"Centrum, Gdańsk",3846,9.3,10.0
+167,"Centrum, Gdańsk",3658,7.5,10.0
+168,"Brzeźno, Gdańsk",2709,8.8,10.0
+169,"Wrzeszcz, Gdańsk",2915,9.0,8.7
+170,"Centrum, Gdańsk",7080,9.0,9.2
+171,Gdańsk,3850,9.8,10.0
+172,Gdańsk,2510,9.3,8.8
+173,"Centrum, Gdańsk",2648,8.5,8.6
+174,Gdańsk,3608,8.9,10.0
+175,"Centrum, Gdańsk",4998,10.0,8.7
+176,"Centrum, Gdańsk",3833,10.0,9.2
+177,"Wrzeszcz, Gdańsk",4820,10.0,9.9
+178,"Brzeźno, Gdańsk",4193,9.5,9.2
+179,"Wrzeszcz, Gdańsk",2397,8.0,8.9
+180,"Centrum, Gdańsk",6154,9.5,9.0
+181,"Centrum, Gdańsk",9596,8.5,10.0
+182,"Centrum, Gdańsk",5635,1.0,10.0
+183,"Centrum, Gdańsk",3528,8.9,10.0
+184,"Centrum, Gdańsk",4558,10.0,8.7
+185,"Wrzeszcz, Gdańsk",2176,9.1,10.0
+186,"Centrum, Gdańsk",5832,9.7,9.4
+187,"Centrum, Gdańsk",7646,8.9,9.3
+188,"Centrum, Gdańsk",6026,10.0,10.0
+189,"Centrum, Gdańsk",7364,7.5,10.0
+190,"Centrum, Gdańsk",3673,9.7,8.3
+191,"Centrum, Gdańsk",6899,9.4,9.1
+192,Gdańsk,3000,10.0,8.3
+193,Gdańsk,3000,10.0,10.0
+194,"Centrum, Gdańsk",4055,10.0,8.4
+195,"Centrum, Gdańsk",3093,8.6,9.5
+196,"Centrum, Gdańsk",2700,9.0,9.6
+197,Gdańsk,2595,10.0,9.3
+198,"Centrum, Gdańsk",4266,9.5,9.4
+199,"Wrzeszcz, Gdańsk",2969,8.9,9.2
+200,"Wrzeszcz, Gdańsk",2450,9.5,9.2
+201,"Centrum, Gdańsk",5700,8.6,9.3
+202,"Centrum, Gdańsk",2456,9.0,10.0
+203,"Wrzeszcz, Gdańsk",3208,9.8,8.0
+204,"Centrum, Gdańsk",3125,9.1,10.0
+205,"Przymorze, Gdańsk",1750,8.8,10.0
+206,"Przymorze, Gdańsk",2360,8.5,8.6
+207,"Przymorze, Gdańsk",2513,10.0,8.8
+208,"Wrzeszcz, Gdańsk",2714,10.0,10.0
+209,"Centrum, Gdańsk",3782,9.5,8.0
+210,Gdańsk,2917,8.6,9.5
+211,"Centrum, Gdańsk",4225,10.0,10.0
+212,"Centrum, Gdańsk",3665,8.3,10.0
+213,Gdańsk,4390,9.0,9.8
+214,Gdańsk,4296,9.7,9.1
+215,"Centrum, Gdańsk",3796,9.5,8.5
+216,"Przymorze, Gdańsk",4193,8.3,9.3
+217,"Centrum, Gdańsk",4280,9.0,8.9
+218,Gdańsk,2959,8.2,9.4
+219,"Oliwa, Gdańsk",2576,7.9,9.5
+220,Gdańsk,4883,9.5,8.6
+221,"Przymorze, Gdańsk",2725,8.0,10.0
+222,"Przymorze, Gdańsk",3410,8.5,10.0
+223,"Centrum, Gdańsk",3383,9.8,9.2
+224,"Centrum, Gdańsk",3278,9.5,10.0
+225,"Centrum, Gdańsk",3648,9.2,10.0
+226,"Przymorze, Gdańsk",2950,9.3,8.8
+227,"Przymorze, Gdańsk",3113,9.0,10.0
+228,"Centrum, Gdańsk",3981,8.9,8.2
+229,"Centrum, Gdańsk",2919,7.5,8.4
+230,Gdańsk,3850,9.1,9.2
+231,"Przymorze, Gdańsk",6627,8.0,9.7
+232,"Brzeźno, Gdańsk",3363,10.0,8.8
+233,"Przymorze, Gdańsk",4060,8.3,9.6
+234,"Wrzeszcz, Gdańsk",4486,7.0,8.3
+235,"Wrzeszcz, Gdańsk",2083,9.2,8.7
+236,"Przymorze, Gdańsk",2636,9.0,8.3
+237,"Centrum, Gdańsk",3093,8.4,10.0
+238,"Centrum, Gdańsk",4300,8.5,9.3
+239,"Centrum, Gdańsk",3717,9.0,8.8
+240,"Sobieszewo, Gdańsk",3275,8.1,8.6
+241,"Centrum, Gdańsk",3133,5.5,8.8
+242,"Centrum, Gdańsk",3456,9.2,10.0
+243,"Oliwa, Gdańsk",2835,7.7,8.2
+244,"Centrum, Gdańsk",3293,9.8,9.3
+245,Gdańsk,5484,10.0,9.0
+246,"Centrum, Gdańsk",4440,9.6,9.3
+247,"Brzeźno, Gdańsk",3045,8.7,9.6
+248,Gdańsk,4374,8.0,9.4
+249,Gdańsk,3426,8.7,10.0
+250,"Wrzeszcz, Gdańsk",2800,8.9,9.3
+251,"Centrum, Gdańsk",3064,8.7,9.3
+252,"Centrum, Gdańsk",3480,9.2,10.0
+253,"Centrum, Gdańsk",2812,9.4,9.7
+254,"Centrum, Gdańsk",2858,9.0,10.0
+255,"Centrum, Gdańsk",3400,10.0,9.7
+256,Gdańsk,2447,10.0,8.7
+257,"Brzeźno, Gdańsk",5340,9.0,9.3
+258,"Przymorze, Gdańsk",3531,10.0,9.8
+259,"Centrum, Gdańsk",2934,9.0,10.0
+260,"Centrum, Gdańsk",3780,8.6,9.3
+261,"Centrum, Gdańsk",7651,10.0,10.0
+262,"Centrum, Gdańsk",3175,8.2,9.6
+263,"Przymorze, Gdańsk",2685,8.3,9.3
+264,"Brzeźno, Gdańsk",3500,8.7,9.2
+265,Gdańsk,4297,9.5,9.0
+266,"Centrum, Gdańsk",2820,8.8,8.2
+267,Gdańsk,3791,9.5,8.6
+268,Gdańsk,3561,8.0,9.7
+269,"Centrum, Gdańsk",2770,7.3,8.8
+270,Gdańsk,2385,8.5,9.3
+271,"Centrum, Gdańsk",3250,8.3,9.0
+272,"Centrum, Gdańsk",4378,10.0,9.5
+273,"Centrum, Gdańsk",6200,9.0,8.8
+274,"Brzeźno, Gdańsk",3734,9.0,10.0
+275,"Centrum, Gdańsk",3017,8.3,8.3
+276,"Oliwa, Gdańsk",6748,8.5,9.8
+277,"Przymorze, Gdańsk",4813,10.0,8.1
+278,"Brzeźno, Gdańsk",4280,8.1,8.8
+279,"Centrum, Gdańsk",3994,9.0,8.2
+280,"Przymorze, Gdańsk",3150,9.0,9.4
+281,"Wrzeszcz, Gdańsk",2772,7.8,9.0
+282,"Centrum, Gdańsk",3410,9.3,8.7
+283,Gdańsk,8265,9.5,9.4
+284,Gdańsk,2128,7.7,10.0
+285,"Centrum, Gdańsk",5010,9.2,10.0
+286,"Centrum, Gdańsk",4290,10.0,9.2
+287,"Centrum, Gdańsk",3683,9.1,8.7
+288,Gdańsk,3730,9.3,9.7
+289,Gdańsk,2555,7.9,10.0
+290,"Wrzeszcz, Gdańsk",8645,9.7,9.0
+291,"Przymorze, Gdańsk",2678,9.6,8.7
+292,"Centrum, Gdańsk",3528,9.7,9.4
+293,"Jelitkowo, Gdańsk",10062,9.9,9.6
+294,"Centrum, Gdańsk",3400,8.5,10.0
+295,"Wrzeszcz, Gdańsk",4354,9.2,10.0
+296,Gdańsk,4529,9.6,8.8
+297,"Centrum, Gdańsk",4074,10.0,9.0
+298,"Wrzeszcz, Gdańsk",2479,9.4,9.6
+299,"Przymorze, Gdańsk",2699,9.3,8.3
+300,"Centrum, Gdańsk",8600,9.5,8.8
+301,Gdańsk,2142,9.2,8.0
+302,Gdańsk,2059,8.9,8.6
+303,"Centrum, Gdańsk",6075,8.9,8.6
+304,"Wrzeszcz, Gdańsk",3110,8.2,9.4
+305,"Centrum, Gdańsk",4024,8.7,9.5
+306,"Centrum, Gdańsk",3493,9.4,10.0
+307,"Centrum, Gdańsk",4164,8.9,9.3
+308,"Centrum, Gdańsk",6514,9.3,9.5
+309,Gdańsk,2186,8.3,8.8
+310,Gdańsk,3615,9.4,8.8
+311,"Centrum, Gdańsk",4522,8.8,10.0
+312,"Centrum, Gdańsk",3123,8.0,10.0
+313,"Przymorze, Gdańsk",2790,10.0,8.1
+314,Gdańsk,2567,8.1,9.4
+315,"Centrum, Gdańsk",6684,9.7,8.9
+316,Gdańsk,3596,7.8,8.8
+317,Gdańsk,7350,8.0,9.2
+318,"Centrum, Gdańsk",2910,8.8,9.4
+319,"Brzeźno, Gdańsk",7012,7.1,8.7
+320,"Centrum, Gdańsk",2944,8.1,9.3
+321,"Centrum, Gdańsk",4204,9.2,8.9
+322,"Centrum, Gdańsk",3200,8.0,9.2
+323,Gdańsk,4637,9.0,10.0
+324,"Przymorze, Gdańsk",2818,8.8,9.9
+325,Gdańsk,4469,9.3,10.0
+326,"Centrum, Gdańsk",3709,9.5,8.8
+327,"Przymorze, Gdańsk",2601,10.0,9.1
+328,"Przymorze, Gdańsk",4822,9.4,9.8
+329,Gdańsk,1512,8.8,10.0
+330,"Centrum, Gdańsk",5663,5.0,8.9
+331,"Centrum, Gdańsk",4250,9.7,9.7
+332,"Przymorze, Gdańsk",4030,10.0,8.5
+333,"Przymorze, Gdańsk",4552,8.8,8.9
+334,"Przymorze, Gdańsk",4300,8.5,10.0
+335,Gdańsk,2249,9.0,9.2
+336,"Wrzeszcz, Gdańsk",3342,9.1,9.7
+337,"Przymorze, Gdańsk",3868,8.5,9.2
+338,"Centrum, Gdańsk",4220,10.0,8.1
+339,"Przymorze, Gdańsk",4022,7.6,9.8
+340,"Brzeźno, Gdańsk",2800,8.9,8.8
+341,"Przymorze, Gdańsk",3300,8.7,9.0
+342,Gdańsk,2799,9.1,9.1
+343,"Centrum, Gdańsk",6212,8.4,9.1
+344,Gdańsk,2363,8.0,8.6
+345,Gdańsk,3639,8.8,9.7
+346,Gdańsk,7068,7.6,10.0
+347,"Przymorze, Gdańsk",5772,8.2,9.4
+348,"Centrum, Gdańsk",4904,8.4,9.6
+349,"Centrum, Gdańsk",3480,9.6,8.8
+350,"Centrum, Gdańsk",4629,8.4,9.4
+351,"Centrum, Gdańsk",3748,10.0,10.0
+352,"Centrum, Gdańsk",3134,9.3,9.4
+353,Gdańsk,3250,9.1,9.3
+354,Gdańsk,2810,9.0,9.2
+355,"Przymorze, Gdańsk",2427,8.5,10.0
+356,Gdańsk,3870,8.5,8.2
+357,"Centrum, Gdańsk",3174,9.0,8.6
+358,"Centrum, Gdańsk",4550,10.0,8.4
+359,"Przymorze, Gdańsk",2628,8.1,10.0
+360,"Centrum, Gdańsk",3017,9.0,10.0
+361,"Przymorze, Gdańsk",5304,8.1,8.9
+362,"Sobieszewo, Gdańsk",3345,8.9,9.5
+363,"Centrum, Gdańsk",4056,8.5,8.8
+364,Gdańsk,5350,8.8,8.2
+365,Gdańsk,4193,9.6,10.0
+366,"Centrum, Gdańsk",4034,8.6,9.0
+367,Gdańsk,3285,9.1,8.6
+368,Gdańsk,5970,8.7,8.8
+369,"Centrum, Gdańsk",2895,9.2,9.4
+370,"Centrum, Gdańsk",9634,10.0,9.1
+371,"Przymorze, Gdańsk",3055,10.0,8.1
+372,"Przymorze, Gdańsk",3104,9.7,9.0
+373,"Centrum, Gdańsk",2876,9.1,8.5
+374,"Brzeźno, Gdańsk",3939,8.9,8.9
+375,"Centrum, Gdańsk",6584,8.0,10.0
+376,"Centrum, Gdańsk",6988,9.7,9.8
+377,"Przymorze, Gdańsk",2633,10.0,9.4
+378,Gdańsk,1803,8.7,8.8
+379,"Przymorze, Gdańsk",2498,7.5,9.0
+380,"Przymorze, Gdańsk",2684,9.5,9.4
+381,"Centrum, Gdańsk",4818,7.1,10.0
+382,"Centrum, Gdańsk",4882,7.6,9.1
+383,"Centrum, Gdańsk",7000,8.1,8.8
+384,"Wrzeszcz, Gdańsk",2608,8.9,8.7
+385,"Centrum, Gdańsk",3221,4.7,9.0
+386,"Centrum, Gdańsk",5653,10.0,8.9
+387,"Wrzeszcz, Gdańsk",3830,9.4,8.1
+388,"Centrum, Gdańsk",8154,9.7,9.0
+389,"Centrum, Gdańsk",3970,9.1,8.6
+390,"Wrzeszcz, Gdańsk",2855,8.2,8.3
+391,"Przymorze, Gdańsk",2630,9.9,8.6
+392,"Centrum, Gdańsk",3100,8.8,8.6
+393,"Przymorze, Gdańsk",9625,8.9,10.0
+394,"Wrzeszcz, Gdańsk",3130,10.0,8.8
+395,Gdańsk,6163,8.6,8.1
+396,"Przymorze, Gdańsk",3725,8.9,9.4
+397,"Przymorze, Gdańsk",5250,8.3,9.3
+398,"Centrum, Gdańsk",3630,9.9,9.4
+399,"Centrum, Gdańsk",4201,5.3,8.7
+400,"Centrum, Gdańsk",2940,10.0,9.6
+401,"Przymorze, Gdańsk",5387,9.5,8.6
+402,Gdańsk,3465,9.4,9.2
+403,"Centrum, Gdańsk",5948,9.0,9.5
+404,Gdańsk,3664,9.4,9.1
+405,"Centrum, Gdańsk",3846,10.0,8.8
+406,"Przymorze, Gdańsk",4140,9.2,9.0
+407,Gdańsk,3358,9.2,10.0
+408,"Centrum, Gdańsk",3089,9.1,8.1
+409,"Przymorze, Gdańsk",2534,7.5,8.3
+410,"Brzeźno, Gdańsk",3113,7.7,9.4
+411,"Centrum, Gdańsk",3923,10.0,9.2
+412,"Centrum, Gdańsk",5173,7.9,9.0
+413,"Centrum, Gdańsk",4123,8.7,9.0
+414,"Przymorze, Gdańsk",2880,8.6,9.7
+415,"Centrum, Gdańsk",4483,10.0,9.3
+416,"Centrum, Gdańsk",4367,9.8,10.0
+417,Gdańsk,2785,8.9,9.6
+418,"Przymorze, Gdańsk",2780,9.6,8.3
+419,"Centrum, Gdańsk",3588,8.6,9.5
+420,"Brzeźno, Gdańsk",2840,7.7,9.1
+421,"Przymorze, Gdańsk",3780,10.0,10.0
+422,"Brzeźno, Gdańsk",3264,8.8,9.4
+423,"Wrzeszcz, Gdańsk",2802,8.3,8.8
+424,"Przymorze, Gdańsk",4000,9.0,10.0
+425,"Centrum, Gdańsk",3233,9.3,8.7
+426,"Centrum, Gdańsk",3673,9.3,10.0
+427,"Brzeźno, Gdańsk",8053,7.9,8.8
+428,"Centrum, Gdańsk",4516,8.9,9.2
+429,Gdańsk,3675,8.5,9.5
+430,"Centrum, Gdańsk",5135,8.9,9.8
+431,"Oliwa, Gdańsk",2835,10.0,9.6
+432,"Centrum, Gdańsk",3424,9.8,9.3
+433,"Przymorze, Gdańsk",3749,9.3,9.2
+434,"Centrum, Gdańsk",2439,8.7,9.2
+435,"Centrum, Gdańsk",3985,8.4,8.1
+436,"Centrum, Gdańsk",3762,8.8,9.7
+437,"Przymorze, Gdańsk",3430,9.7,9.7
+438,"Centrum, Gdańsk",5151,9.8,8.8
+439,Gdańsk,1418,9.0,10.0
+440,"Jelitkowo, Gdańsk",6270,8.8,9.3
+441,"Przymorze, Gdańsk",3220,8.4,9.6
+442,Gdańsk,6625,8.8,8.4
+443,"Jelitkowo, Gdańsk",3235,8.9,9.4
+444,"Centrum, Gdańsk",3512,7.7,8.9
+445,"Oliwa, Gdańsk",6510,7.7,9.6
+446,Gdańsk,3013,9.0,8.7
+447,"Centrum, Gdańsk",3673,8.4,9.2
+448,"Centrum, Gdańsk",3715,7.6,8.2
+449,Gdańsk,5935,3.0,9.9
+450,"Centrum, Gdańsk",3116,8.3,9.1
+451,"Centrum, Gdańsk",3302,8.5,10.0
+452,"Centrum, Gdańsk",3568,8.4,9.6
+453,"Centrum, Gdańsk",3860,7.8,8.8
+454,"Centrum, Gdańsk",4833,9.2,9.3
+455,"Przymorze, Gdańsk",5080,7.0,9.4
+456,"Centrum, Gdańsk",6684,7.7,9.2
+457,"Oliwa, Gdańsk",3374,8.0,8.6
+458,"Centrum, Gdańsk",2920,9.3,9.2
+459,Gdańsk,4200,8.9,9.4
+460,"Przymorze, Gdańsk",3096,9.1,9.4
+461,"Centrum, Gdańsk",5292,8.2,8.9
+462,"Przymorze, Gdańsk",2386,9.5,9.3
+463,"Centrum, Gdańsk",3144,9.2,9.2
+464,Gdańsk,6009,9.2,8.3
+465,"Brzeźno, Gdańsk",2945,9.3,9.1
+466,"Centrum, Gdańsk",6164,9.1,10.0
+467,"Brzeźno, Gdańsk",4011,8.7,9.1
+468,"Centrum, Gdańsk",2810,9.2,8.2
+469,Gdańsk,2701,9.4,9.0
+470,"Wrzeszcz, Gdańsk",5925,8.6,8.6
+471,"Centrum, Gdańsk",5014,8.3,8.6
+472,Gdańsk,2030,9.3,10.0
+473,Gdańsk,3319,9.2,10.0
+474,"Centrum, Gdańsk",4631,10.0,9.8
+475,"Wrzeszcz, Gdańsk",2952,8.8,9.6
+476,"Centrum, Gdańsk",3688,9.1,9.2
+477,"Centrum, Gdańsk",3518,9.7,9.5
+478,"Centrum, Gdańsk",4063,8.9,9.5
+479,"Centrum, Gdańsk",3615,10.0,9.2
+480,"Centrum, Gdańsk",3487,9.4,8.9
+481,"Wrzeszcz, Gdańsk",3011,8.7,9.4
+482,"Przymorze, Gdańsk",3333,9.5,9.5
+483,"Centrum, Gdańsk",3872,9.2,10.0
+484,"Centrum, Gdańsk",4102,10.0,9.2
+485,"Przymorze, Gdańsk",3698,9.2,9.3
+486,Gdańsk,4096,8.4,8.7
+487,"Centrum, Gdańsk",3586,10.0,9.0
+488,"Centrum, Gdańsk",9818,8.2,9.2
+489,"Centrum, Gdańsk",3714,9.0,8.4
+490,"Centrum, Gdańsk",3792,10.0,9.4
+491,"Centrum, Gdańsk",3132,9.3,9.1
+492,"Centrum, Gdańsk",4371,9.6,9.4
+493,"Brzeźno, Gdańsk",4840,9.3,8.6
+494,Gdańsk,3150,9.3,9.8
+495,"Przymorze, Gdańsk",3351,8.8,9.2
+496,"Centrum, Gdańsk",3424,9.3,9.5
+497,Gdańsk,4618,8.9,8.1
+498,"Wrzeszcz, Gdańsk",3013,7.7,8.2
+499,"Centrum, Gdańsk",3980,9.8,8.2
+500,"Centrum, Gdańsk",2912,9.3,8.8
+501,"Przymorze, Gdańsk",2800,8.6,8.0
+502,Gdańsk,3119,10.0,8.8
+503,"Centrum, Gdańsk",4112,9.0,9.0
+504,"Centrum, Gdańsk",2513,9.7,8.2
+505,"Centrum, Gdańsk",5092,8.7,9.1
+506,"Wrzeszcz, Gdańsk",3310,9.3,9.3
+507,"Przymorze, Gdańsk",3492,8.8,10.0
+508,Gdańsk,2313,9.2,8.9
+509,Gdańsk,3283,8.0,9.2
+510,"Centrum, Gdańsk",5834,8.9,9.3
+511,"Wrzeszcz, Gdańsk",6898,9.0,9.2
+512,"Przymorze, Gdańsk",3901,8.7,8.7
+513,"Centrum, Gdańsk",2828,9.8,9.3
+514,Gdańsk,1564,9.0,9.1
+515,"Sobieszewo, Gdańsk",5729,10.0,9.3
+516,"Centrum, Gdańsk",2892,9.0,9.8
+517,"Centrum, Gdańsk",3278,9.5,9.3
+518,"Centrum, Gdańsk",4480,9.4,8.7
+519,"Centrum, Gdańsk",2881,9.1,9.3
+520,Gdańsk,1260,9.0,8.8
+521,Gdańsk,2835,8.8,9.2
+522,"Centrum, Gdańsk",4062,8.6,9.0
+523,"Wrzeszcz, Gdańsk",3150,8.9,9.1
+524,"Wrzeszcz, Gdańsk",3591,9.5,9.1
+525,"Centrum, Gdańsk",3214,8.5,9.4
+526,"Centrum, Gdańsk",3443,9.5,8.7
+527,"Centrum, Gdańsk",3367,9.1,9.4
+528,Gdańsk,4339,7.3,9.4
+529,"Przymorze, Gdańsk",2430,7.9,8.4
+530,"Brzeźno, Gdańsk",4449,9.0,10.0
+531,Gdańsk,3515,8.0,9.7
+532,"Centrum, Gdańsk",3110,9.3,8.3
+533,Gdańsk,4042,8.4,8.3
+534,Gdańsk,2100,8.5,8.6
+535,"Centrum, Gdańsk",5046,7.7,8.5
+536,"Brzeźno, Gdańsk",3780,8.5,10.0
+537,"Centrum, Gdańsk",3886,9.3,8.9
+538,"Centrum, Gdańsk",3075,9.0,9.2
+539,"Centrum, Gdańsk",3767,8.0,8.8
+540,"Wrzeszcz, Gdańsk",3998,9.5,8.9
+541,"Przymorze, Gdańsk",4935,9.6,8.8
+542,Gdańsk,4200,9.0,8.4
+543,"Centrum, Gdańsk",3723,9.3,8.9
+544,"Centrum, Gdańsk",4975,9.4,9.5
+545,"Przymorze, Gdańsk",1890,9.1,9.0
+546,"Centrum, Gdańsk",3026,7.9,9.2
+547,"Wrzeszcz, Gdańsk",4316,8.8,9.5
+548,"Wrzeszcz, Gdańsk",4456,9.4,8.9
+549,"Centrum, Gdańsk",2969,9.7,8.9
+550,"Przymorze, Gdańsk",5376,10.0,8.7
+551,"Centrum, Gdańsk",3800,8.9,8.7
+552,"Brzeźno, Gdańsk",4373,9.1,10.0
+553,"Centrum, Gdańsk",4063,8.9,9.3
+554,Gdańsk,3698,9.4,8.6
+555,"Brzeźno, Gdańsk",3192,8.8,9.6
+556,"Centrum, Gdańsk",7444,9.0,9.3
+557,"Centrum, Gdańsk",3250,8.2,9.2
+558,"Centrum, Gdańsk",3883,9.5,9.5
+559,"Przymorze, Gdańsk",4530,8.7,8.7
+560,Gdańsk,3271,9.3,9.3
+561,Gdańsk,1960,8.9,9.3
+562,"Centrum, Gdańsk",3525,9.6,9.6
+563,"Przymorze, Gdańsk",4335,9.3,8.6
+564,"Centrum, Gdańsk",4848,9.5,9.8
+565,"Centrum, Gdańsk",3410,7.5,9.0
+566,"Centrum, Gdańsk",4790,8.5,9.1
+567,Gdańsk,6834,7.8,9.2
+568,"Centrum, Gdańsk",4878,8.6,9.2
+569,"Sobieszewo, Gdańsk",6155,7.5,8.7
+570,"Centrum, Gdańsk",2617,8.8,9.2
+571,"Brzeźno, Gdańsk",6122,8.7,8.1
+572,"Centrum, Gdańsk",2829,8.7,9.3
+573,"Wrzeszcz, Gdańsk",4180,8.9,8.8
+574,"Centrum, Gdańsk",4479,9.1,8.9
+575,"Centrum, Gdańsk",5058,9.5,8.7
+576,"Przymorze, Gdańsk",3174,8.6,9.5
+577,"Centrum, Gdańsk",3994,8.6,9.3
+578,"Centrum, Gdańsk",3538,9.0,8.8
+579,"Centrum, Gdańsk",3652,9.2,9.2
+580,"Centrum, Gdańsk",3273,8.6,9.4
+581,"Wrzeszcz, Gdańsk",3725,8.0,9.1
+582,"Brzeźno, Gdańsk",5549,9.3,9.1
+583,Gdańsk,2349,9.2,8.9
+584,"Wrzeszcz, Gdańsk",2714,9.0,8.3
+585,"Centrum, Gdańsk",2534,9.7,9.7
+586,"Centrum, Gdańsk",4830,9.3,9.5
+587,"Centrum, Gdańsk",3048,8.5,8.5
+588,Gdańsk,1943,9.5,9.0
+589,"Centrum, Gdańsk",4968,8.8,8.8
+590,"Centrum, Gdańsk",4852,9.3,9.2
+591,"Przymorze, Gdańsk",1680,9.2,9.5
+592,"Jelitkowo, Gdańsk",6520,9.1,8.8
+593,"Jelitkowo, Gdańsk",10254,9.2,8.4
+594,Gdańsk,6090,9.3,8.1
+595,"Wrzeszcz, Gdańsk",3766,8.7,8.5
+596,"Centrum, Gdańsk",3566,9.2,9.7
+597,"Centrum, Gdańsk",8128,9.1,8.6
+598,"Przymorze, Gdańsk",4546,7.7,9.3
+599,"Jelitkowo, Gdańsk",7091,8.3,9.3
+600,"Jelitkowo, Gdańsk",5269,10.0,8.3
+601,"Przymorze, Gdańsk",3303,9.8,9.1
+602,"Centrum, Gdańsk",8278,8.1,8.5
+603,"Centrum, Gdańsk",3813,7.5,9.1
+604,Gdańsk,3828,8.5,9.1
+605,"Przymorze, Gdańsk",4158,8.0,9.1
+606,"Centrum, Gdańsk",3212,10.0,8.6
+607,"Oliwa, Gdańsk",2835,8.9,8.7
+608,"Centrum, Gdańsk",2141,7.1,9.0
+609,Gdańsk,4378,7.8,9.6
+610,Gdańsk,2093,8.6,8.6
+611,"Centrum, Gdańsk",4237,8.4,8.7
+612,Gdańsk,3903,8.9,8.6
+613,Gdańsk,2930,8.7,8.5
+614,"Centrum, Gdańsk",3208,8.9,9.2
+615,"Centrum, Gdańsk",4376,7.3,9.8
+616,Gdańsk,3362,8.4,8.8
+617,Gdańsk,4851,9.3,9.7
+618,"Jelitkowo, Gdańsk",5553,8.6,9.1
+619,"Centrum, Gdańsk",3649,8.9,8.3
+620,"Wrzeszcz, Gdańsk",2450,9.4,8.8
+621,"Centrum, Gdańsk",4252,8.8,8.9
+622,"Brzeźno, Gdańsk",4052,8.8,9.1
+623,"Centrum, Gdańsk",4233,8.7,8.3
+624,"Oliwa, Gdańsk",2638,8.6,8.9
+625,"Oliwa, Gdańsk",2468,10.0,8.6
+626,"Centrum, Gdańsk",9450,9.2,8.5
+627,"Centrum, Gdańsk",4794,8.6,8.4
+628,"Przymorze, Gdańsk",4354,9.3,9.0
+629,Gdańsk,2716,9.4,9.0
+630,"Wrzeszcz, Gdańsk",3486,9.2,8.4
+631,"Centrum, Gdańsk",3153,9.3,8.7
+632,"Centrum, Gdańsk",3853,8.7,8.3
+633,"Centrum, Gdańsk",3634,9.2,8.7
+634,"Centrum, Gdańsk",6248,9.4,8.6
+635,"Centrum, Gdańsk",5144,8.0,8.5
+636,"Centrum, Gdańsk",11215,9.7,9.0
+637,"Centrum, Gdańsk",18646,8.5,10.0
+638,"Centrum, Gdańsk",9733,9.8,8.7
+639,"Centrum, Gdańsk",5110,9.0,8.4
+640,"Centrum, Gdańsk",5738,9.2,8.9
+641,"Wrzeszcz, Gdańsk",4239,7.8,8.8
+642,"Centrum, Gdańsk",2955,9.3,8.8
+643,"Centrum, Gdańsk",4025,9.1,8.9
+644,"Centrum, Gdańsk",4074,8.5,9.0
+645,"Centrum, Gdańsk",3750,9.0,9.1
+646,"Centrum, Gdańsk",4062,8.0,8.9
+647,"Centrum, Gdańsk",6469,9.3,9.2
+648,"Przymorze, Gdańsk",6127,8.8,9.4
+649,"Centrum, Gdańsk",6929,8.8,9.1
+650,"Centrum, Gdańsk",4950,8.6,9.6
+651,"Centrum, Gdańsk",4600,9.4,9.2
+652,"Centrum, Gdańsk",6298,9.2,10.0
+653,"Centrum, Gdańsk",4522,8.8,8.8
+654,"Brzeźno, Gdańsk",4550,9.3,9.2
+655,"Centrum, Gdańsk",3850,9.4,9.6
+656,"Przymorze, Gdańsk",6093,8.8,8.7
+657,Gdańsk,4269,8.9,8.1
+658,"Centrum, Gdańsk",6063,8.7,8.6
+659,Gdańsk,7785,8.1,8.0
+660,"Brzeźno, Gdańsk",2352,9.6,8.3
+661,Gdańsk,5338,9.4,8.5
+662,Gdańsk,5285,8.9,8.5
+663,"Wrzeszcz, Gdańsk",5373,8.6,9.4
+664,"Centrum, Gdańsk",9818,7.3,9.3
+665,"Centrum, Gdańsk",4770,8.8,8.7
+666,"Centrum, Gdańsk",3557,9.0,9.3
+667,"Centrum, Gdańsk",9968,9.3,8.3
+668,Gdańsk,5355,8.0,8.0
+669,"Centrum, Gdańsk",6897,8.9,8.9
+670,Gdańsk,3930,8.6,9.5
+671,"Przymorze, Gdańsk",7404,7.8,10.0
+672,"Centrum, Gdańsk",16371,7.5,9.0
+673,"Centrum, Gdańsk",4419,7.4,8.6
+674,"Centrum, Gdańsk",4485,8.2,10.0
+675,"Centrum, Gdańsk",5234,9.7,8.7
+676,"Centrum, Gdańsk",5694,8.6,9.4
+677,"Jelitkowo, Gdańsk",10292,9.0,8.6
+678,"Centrum, Gdańsk",7167,9.3,8.9
+679,"Centrum, Gdańsk",3658,8.1,9.4
+680,"Centrum, Gdańsk",4165,9.1,9.9
+681,"Centrum, Gdańsk",3913,8.2,10.0
+682,"Przymorze, Gdańsk",4856,8.8,9.2
+683,Gdańsk,5049,8.9,8.5
+684,"Centrum, Gdańsk",4631,9.0,8.1
+685,Gdańsk,2495,8.3,9.5
+686,"Centrum, Gdańsk",11555,8.6,9.4
+687,"Centrum, Gdańsk",6168,8.9,10.0
+688,Gdańsk,4685,9.5,8.4
+689,"Jelitkowo, Gdańsk",4936,8.6,10.0
+690,"Przymorze, Gdańsk",6508,8.5,9.7
+691,"Jelitkowo, Gdańsk",5226,7.9,9.3
+692,"Centrum, Gdańsk",11571,8.6,9.4
+693,"Centrum, Gdańsk",3339,7.9,10.0
+694,"Centrum, Gdańsk",6078,9.0,8.9
+695,"Centrum, Gdańsk",4590,7.9,9.4
+696,"Centrum, Gdańsk",4862,8.1,9.1
+697,"Centrum, Gdańsk",11324,9.6,9.0
+698,"Centrum, Gdańsk",12170,9.0,10.0
+699,"Brzeźno, Gdańsk",5046,9.5,10.0
+700,"Przymorze, Gdańsk",4078,8.8,10.0
+701,"Brzeźno, Gdańsk",6340,8.2,9.1
+702,"Centrum, Gdańsk",3570,8.4,8.0
+703,"Brzeźno, Gdańsk",5943,8.8,9.4
+704,"Centrum, Gdańsk",2900,9.0,8.8
+705,"Centrum, Gdańsk",5183,8.1,9.1
+706,"Centrum, Gdańsk",5025,9.0,8.2
+707,"Centrum, Gdańsk",3235,8.3,9.8
+708,"Przymorze, Gdańsk",4200,7.8,8.8
+709,"Centrum, Gdańsk",4282,8.4,10.0
+710,"Centrum, Gdańsk",2520,8.2,8.8
+711,"Centrum, Gdańsk",3460,8.8,9.4
+712,"Centrum, Gdańsk",9783,7.5,9.3
+713,"Przymorze, Gdańsk",5144,8.7,9.1
+714,"Centrum, Gdańsk",10417,8.4,8.9
+715,"Centrum, Gdańsk",4387,8.5,8.9
+716,Gdańsk,5320,7.9,9.7
+717,"Brzeźno, Gdańsk",5216,8.5,10.0
+718,"Centrum, Gdańsk",4280,8.7,8.8
+719,"Centrum, Gdańsk",4775,8.6,8.6
+720,"Centrum, Gdańsk",4288,8.5,9.8
+721,Gdańsk,4016,9.0,10.0
+722,"Jelitkowo, Gdańsk",6993,8.0,9.6
+723,"Centrum, Gdańsk",4368,8.6,8.8
+724,"Centrum, Gdańsk",3207,8.5,9.8
+725,"Przymorze, Gdańsk",8292,8.8,9.3
+726,"Przymorze, Gdańsk",3220,8.6,9.2
+727,"Centrum, Gdańsk",4412,8.6,8.6
+728,"Centrum, Gdańsk",6539,8.8,9.4
+729,Gdańsk,2464,8.9,8.3
+730,"Centrum, Gdańsk",5740,8.8,9.7

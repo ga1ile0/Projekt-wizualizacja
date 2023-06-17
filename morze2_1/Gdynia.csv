@@ -1,0 +1,596 @@
+,City,Cost,Rating,Comfort
+0,Gdynia,2774,10.0,10.0
+1,Gdynia,1475,8.0,9.1
+2,"Śródmieście, Gdynia",5193,9.3,10.0
+3,Gdynia,2831,10.0,10.0
+4,Gdynia,2566,10.0,10.0
+5,"Wzgórze Świętego Maksymiliana, Gdynia",3442,10.0,9.3
+6,Gdynia,1659,9.2,10.0
+7,"Śródmieście, Gdynia",6346,10.0,10.0
+8,"Śródmieście, Gdynia",2214,10.0,10.0
+9,Gdynia,1485,9.7,10.0
+10,Gdynia,1621,8.0,10.0
+11,"Wzgórze Świętego Maksymiliana, Gdynia",4246,9.0,10.0
+12,Gdynia,2546,10.0,9.5
+13,"Redłowo, Gdynia",2719,10.0,9.5
+14,Gdynia,1306,10.0,9.2
+15,"Redłowo, Gdynia",5026,9.4,10.0
+16,Gdynia,3070,9.3,9.1
+17,Gdynia,2120,9.1,10.0
+18,"Śródmieście, Gdynia",3142,8.0,10.0
+19,"Wzgórze Świętego Maksymiliana, Gdynia",2846,10.0,10.0
+20,Gdynia,4570,9.3,8.3
+21,"Śródmieście, Gdynia",3546,10.0,8.3
+22,Gdynia,2491,10.0,9.5
+23,"Śródmieście, Gdynia",3946,10.0,9.5
+24,"Śródmieście, Gdynia",3842,8.3,8.4
+25,"Orłowo, Gdynia",4767,8.1,10.0
+26,"Śródmieście, Gdynia",2846,8.7,10.0
+27,Gdynia,2476,9.4,9.1
+28,"Redłowo, Gdynia",6421,9.5,8.8
+29,"Śródmieście, Gdynia",5193,8.4,10.0
+30,Gdynia,3021,10.0,8.5
+31,"Kamienna Góra, Gdynia",5926,9.0,8.9
+32,"Śródmieście, Gdynia",2992,10.0,9.2
+33,"Wzgórze Świętego Maksymiliana, Gdynia",4916,10.0,8.2
+34,"Śródmieście, Gdynia",3188,7.6,10.0
+35,Gdynia,2831,9.7,8.8
+36,Gdynia,3447,7.5,9.4
+37,Gdynia,2996,10.0,9.2
+38,"Kamienna Góra, Gdynia",3341,8.6,8.5
+39,"Śródmieście, Gdynia",2939,8.8,8.8
+40,"Śródmieście, Gdynia",3246,9.0,8.3
+41,"Śródmieście, Gdynia",3192,8.2,8.8
+42,"Śródmieście, Gdynia",2846,10.0,10.0
+43,Gdynia,2062,8.0,9.4
+44,Gdynia,2393,9.5,9.5
+45,"Orłowo, Gdynia",2356,9.0,9.6
+46,"Śródmieście, Gdynia",4832,9.2,8.9
+47,Gdynia,2566,8.4,10.0
+48,Gdynia,3335,9.0,8.4
+49,Gdynia,2575,8.4,10.0
+50,"Redłowo, Gdynia",2724,9.1,8.5
+51,Gdynia,2146,8.0,9.3
+52,Gdynia,3611,9.4,9.3
+53,"Redłowo, Gdynia",2878,9.4,10.0
+54,Gdynia,2566,9.1,9.3
+55,Gdynia,1376,8.7,10.0
+56,"Wzgórze Świętego Maksymiliana, Gdynia",2679,10.0,8.6
+57,"Śródmieście, Gdynia",3488,8.3,10.0
+58,"Śródmieście, Gdynia",3419,10.0,8.8
+59,Gdynia,2101,9.4,9.1
+60,"Wzgórze Świętego Maksymiliana, Gdynia",3442,9.1,9.8
+61,Gdynia,4259,9.3,10.0
+62,Gdynia,3007,10.0,10.0
+63,Gdynia,2098,9.2,9.4
+64,Gdynia,1931,10.0,9.7
+65,Gdynia,1306,8.7,9.9
+66,"Śródmieście, Gdynia",1610,10.0,9.2
+67,Gdynia,2275,9.0,9.0
+68,"Śródmieście, Gdynia",2496,7.8,8.6
+69,"Śródmieście, Gdynia",5416,6.9,8.8
+70,Gdynia,10221,9.1,10.0
+71,"Wzgórze Świętego Maksymiliana, Gdynia",4806,9.7,10.0
+72,Gdynia,3265,10.0,10.0
+73,"Śródmieście, Gdynia",3657,8.8,9.1
+74,"Wzgórze Świętego Maksymiliana, Gdynia",4381,9.2,8.6
+75,Gdynia,6410,9.5,10.0
+76,Gdynia,2325,9.0,9.4
+77,"Śródmieście, Gdynia",3126,9.0,9.9
+78,"Śródmieście, Gdynia",7829,9.9,9.1
+79,Gdynia,1659,9.2,9.8
+80,"Śródmieście, Gdynia",4211,9.3,8.5
+81,"Śródmieście, Gdynia",8736,10.0,10.0
+82,"Śródmieście, Gdynia",3406,8.8,9.4
+83,"Śródmieście, Gdynia",3704,8.0,10.0
+84,Gdynia,3948,8.6,10.0
+85,"Śródmieście, Gdynia",6346,8.0,10.0
+86,Gdynia,7921,9.8,8.5
+87,"Śródmieście, Gdynia",5256,9.0,9.8
+88,"Kamienna Góra, Gdynia",2726,10.0,9.9
+89,"Śródmieście, Gdynia",2141,9.3,9.3
+90,Gdynia,2440,8.8,9.1
+91,"Śródmieście, Gdynia",7196,10.0,8.7
+92,"Śródmieście, Gdynia",5242,9.4,10.0
+93,Gdynia,2496,10.0,10.0
+94,"Kamienna Góra, Gdynia",2544,9.9,9.6
+95,"Wzgórze Świętego Maksymiliana, Gdynia",3389,9.0,9.2
+96,"Śródmieście, Gdynia",5825,9.6,8.3
+97,Gdynia,2456,9.1,9.1
+98,Gdynia,4161,9.7,10.0
+99,"Śródmieście, Gdynia",3512,9.2,8.6
+100,Gdynia,3222,9.5,9.1
+101,Gdynia,2966,10.0,8.6
+102,"Redłowo, Gdynia",4079,10.0,9.6
+103,"Wzgórze Świętego Maksymiliana, Gdynia",2706,8.7,10.0
+104,"Śródmieście, Gdynia",2214,10.0,9.5
+105,Gdynia,2496,9.6,9.5
+106,"Śródmieście, Gdynia",4408,9.3,9.8
+107,Gdynia,2881,9.2,10.0
+108,Gdynia,2881,9.4,9.6
+109,"Śródmieście, Gdynia",3551,10.0,10.0
+110,Gdynia,1485,6.5,9.2
+111,"Wzgórze Świętego Maksymiliana, Gdynia",3546,9.6,9.3
+112,"Wzgórze Świętego Maksymiliana, Gdynia",3664,9.0,10.0
+113,"Śródmieście, Gdynia",2700,8.3,9.6
+114,"Wzgórze Świętego Maksymiliana, Gdynia",2756,9.2,9.7
+115,Gdynia,3968,7.8,10.0
+116,"Śródmieście, Gdynia",4359,8.0,8.7
+117,Gdynia,3511,8.1,9.4
+118,Gdynia,3759,8.7,10.0
+119,Gdynia,2609,9.2,8.9
+120,"Śródmieście, Gdynia",12275,8.9,9.3
+121,Gdynia,5198,9.4,8.8
+122,"Śródmieście, Gdynia",4067,9.0,9.4
+123,Gdynia,3190,9.5,10.0
+124,Gdynia,2202,9.7,9.4
+125,"Kamienna Góra, Gdynia",4420,9.7,10.0
+126,Gdynia,4054,9.5,10.0
+127,Gdynia,1908,9.5,9.9
+128,"Śródmieście, Gdynia",2877,9.0,9.2
+129,Gdynia,1621,9.4,9.3
+130,"Śródmieście, Gdynia",5346,9.6,10.0
+131,"Śródmieście, Gdynia",3795,8.9,9.7
+132,Gdynia,2129,9.4,8.6
+133,"Redłowo, Gdynia",5164,9.5,10.0
+134,"Śródmieście, Gdynia",2255,10.0,9.6
+135,"Wzgórze Świętego Maksymiliana, Gdynia",4246,8.6,10.0
+136,"Wzgórze Świętego Maksymiliana, Gdynia",4365,9.4,9.2
+137,"Śródmieście, Gdynia",3785,9.0,9.4
+138,Gdynia,2846,9.4,8.6
+139,Gdynia,4278,8.6,9.5
+140,"Kamienna Góra, Gdynia",2240,9.1,10.0
+141,Gdynia,2350,9.1,9.5
+142,"Śródmieście, Gdynia",4099,9.4,9.2
+143,"Śródmieście, Gdynia",5646,7.2,10.0
+144,Gdynia,2411,10.0,8.2
+145,"Śródmieście, Gdynia",3546,9.7,9.4
+146,"Śródmieście, Gdynia",2512,10.0,9.4
+147,"Śródmieście, Gdynia",4024,10.0,9.4
+148,Gdynia,1866,6.7,10.0
+149,Gdynia,2303,9.6,9.6
+150,"Śródmieście, Gdynia",2999,8.9,9.0
+151,"Kamienna Góra, Gdynia",3546,9.3,8.8
+152,"Orłowo, Gdynia",3476,10.0,9.9
+153,"Śródmieście, Gdynia",2800,9.5,9.8
+154,Gdynia,2546,9.0,9.7
+155,"Śródmieście, Gdynia",1503,10.0,10.0
+156,"Śródmieście, Gdynia",4567,9.8,9.7
+157,"Orłowo, Gdynia",2660,7.2,8.9
+158,Gdynia,2939,10.0,8.1
+159,Gdynia,2286,8.8,8.0
+160,"Redłowo, Gdynia",2719,9.0,10.0
+161,"Śródmieście, Gdynia",3251,8.5,8.5
+162,"Śródmieście, Gdynia",2625,9.5,9.3
+163,"Śródmieście, Gdynia",3406,9.8,9.4
+164,"Orłowo, Gdynia",6346,9.2,9.7
+165,Gdynia,4318,8.3,8.8
+166,Gdynia,2750,10.0,9.5
+167,Gdynia,2396,7.9,10.0
+168,Gdynia,3196,9.2,9.5
+169,"Orłowo, Gdynia",5996,9.4,9.5
+170,Gdynia,4813,9.4,10.0
+171,"Śródmieście, Gdynia",4104,10.0,9.2
+172,"Śródmieście, Gdynia",5104,9.7,9.6
+173,Gdynia,3528,9.2,8.1
+174,"Śródmieście, Gdynia",5746,8.3,9.6
+175,"Śródmieście, Gdynia",3988,9.8,9.2
+176,"Orłowo, Gdynia",6959,9.6,10.0
+177,Gdynia,4008,9.4,8.4
+178,"Śródmieście, Gdynia",2670,3.0,8.7
+179,Gdynia,1306,9.0,9.0
+180,"Śródmieście, Gdynia",4189,9.6,9.1
+181,"Śródmieście, Gdynia",4840,8.9,8.6
+182,"Śródmieście, Gdynia",3961,7.3,9.1
+183,"Wzgórze Świętego Maksymiliana, Gdynia",3980,8.0,8.4
+184,Gdynia,2025,10.0,9.3
+185,"Redłowo, Gdynia",5026,8.2,9.4
+186,"Redłowo, Gdynia",4183,8.7,9.9
+187,"Wzgórze Świętego Maksymiliana, Gdynia",3684,8.6,9.6
+188,Gdynia,3598,9.2,9.2
+189,Gdynia,3821,9.7,9.1
+190,Gdynia,2025,7.0,8.7
+191,Gdynia,3594,9.6,9.7
+192,"Śródmieście, Gdynia",6706,9.0,9.7
+193,"Śródmieście, Gdynia",3805,7.4,8.9
+194,"Kamienna Góra, Gdynia",5200,9.3,8.1
+195,Gdynia,3468,9.2,9.3
+196,Gdynia,1920,9.8,8.1
+197,"Śródmieście, Gdynia",5196,8.8,8.8
+198,"Redłowo, Gdynia",2399,9.7,9.8
+199,Gdynia,1901,8.4,8.2
+200,"Śródmieście, Gdynia",3408,9.5,8.4
+201,"Śródmieście, Gdynia",4148,8.7,9.1
+202,Gdynia,2671,9.9,9.0
+203,"Wzgórze Świętego Maksymiliana, Gdynia",9116,8.4,9.5
+204,Gdynia,3070,8.6,8.9
+205,Gdynia,2426,8.9,8.1
+206,"Śródmieście, Gdynia",3580,9.0,9.2
+207,"Śródmieście, Gdynia",2467,8.1,8.5
+208,"Śródmieście, Gdynia",2944,8.9,9.1
+209,"Orłowo, Gdynia",5122,7.3,8.8
+210,Gdynia,2120,7.9,9.0
+211,"Śródmieście, Gdynia",4099,9.2,8.8
+212,"Wzgórze Świętego Maksymiliana, Gdynia",5738,9.2,10.0
+213,"Śródmieście, Gdynia",3756,9.6,8.1
+214,Gdynia,2862,9.7,9.4
+215,"Redłowo, Gdynia",4868,9.0,10.0
+216,"Śródmieście, Gdynia",4056,9.0,8.5
+217,"Śródmieście, Gdynia",3056,8.6,8.4
+218,"Śródmieście, Gdynia",3857,9.5,9.5
+219,"Śródmieście, Gdynia",3461,9.7,8.5
+220,"Śródmieście, Gdynia",3150,8.8,8.3
+221,"Kamienna Góra, Gdynia",3574,8.1,8.2
+222,"Redłowo, Gdynia",5651,9.5,9.5
+223,"Wzgórze Świętego Maksymiliana, Gdynia",2301,7.9,9.8
+224,Gdynia,4861,8.5,9.1
+225,"Śródmieście, Gdynia",4879,8.8,9.8
+226,"Śródmieście, Gdynia",4113,9.5,8.7
+227,"Kamienna Góra, Gdynia",3562,8.4,9.0
+228,"Śródmieście, Gdynia",4491,8.6,9.2
+229,"Śródmieście, Gdynia",3142,9.2,8.7
+230,Gdynia,4385,8.9,9.6
+231,Gdynia,3786,9.4,9.6
+232,"Śródmieście, Gdynia",7738,8.8,9.6
+233,"Orłowo, Gdynia",6046,8.1,9.2
+234,"Orłowo, Gdynia",8886,9.0,8.8
+235,"Wzgórze Świętego Maksymiliana, Gdynia",2846,8.5,9.2
+236,"Redłowo, Gdynia",3767,8.8,9.8
+237,"Śródmieście, Gdynia",9640,8.8,10.0
+238,Gdynia,6027,8.9,9.8
+239,"Śródmieście, Gdynia",5025,8.0,9.5
+240,Gdynia,6936,7.9,8.1
+241,"Wzgórze Świętego Maksymiliana, Gdynia",5423,8.4,9.6
+242,"Śródmieście, Gdynia",5099,10.0,10.0
+243,Gdynia,4159,8.3,9.5
+244,"Wzgórze Świętego Maksymiliana, Gdynia",5908,9.2,9.8
+245,"Śródmieście, Gdynia",5636,9.7,10.0
+246,"Śródmieście, Gdynia",6367,8.9,9.2
+247,"Wzgórze Świętego Maksymiliana, Gdynia",4584,8.0,8.4
+248,Gdynia,2729,8.7,9.2
+249,"Śródmieście, Gdynia",6640,8.6,8.8
+250,"Wzgórze Świętego Maksymiliana, Gdynia",3796,8.8,8.8
+251,"Wzgórze Świętego Maksymiliana, Gdynia",7591,8.6,9.4
+252,"Śródmieście, Gdynia",4068,8.2,9.6
+253,"Redłowo, Gdynia",5495,8.1,10.0
+254,Gdynia,4570,9.3,9.8
+255,"Wzgórze Świętego Maksymiliana, Gdynia",3973,9.8,9.2
+256,"Śródmieście, Gdynia",5284,9.5,9.2
+257,Gdynia,4655,9.8,9.0
+258,"Śródmieście, Gdynia",3546,8.5,9.2
+259,"Śródmieście, Gdynia",5390,9.2,8.9
+260,"Śródmieście, Gdynia",3546,9.1,9.9
+261,Gdynia,5145,8.8,10.0
+262,"Śródmieście, Gdynia",3844,9.3,9.7
+263,Gdynia,5012,9.6,9.1
+264,Gdynia,4188,9.2,8.6
+265,"Orłowo, Gdynia",5882,9.5,8.7
+266,"Śródmieście, Gdynia",6346,8.7,10.0
+267,"Śródmieście, Gdynia",5699,9.2,8.4
+268,"Śródmieście, Gdynia",6210,9.7,8.2
+269,Gdynia,3720,9.8,9.7
+270,"Śródmieście, Gdynia",7626,9.6,9.3
+271,"Śródmieście, Gdynia",3390,8.0,9.9
+272,"Kamienna Góra, Gdynia",5933,9.3,9.1
+273,"Śródmieście, Gdynia",2846,8.3,9.7
+274,"Orłowo, Gdynia",4550,9.5,9.7
+275,"Śródmieście, Gdynia",3556,9.7,8.8
+276,"Orłowo, Gdynia",6307,9.4,8.8
+277,"Wzgórze Świętego Maksymiliana, Gdynia",5133,8.0,10.0
+278,"Śródmieście, Gdynia",4529,9.8,10.0
+279,Gdynia,2491,9.8,9.0
+280,Gdynia,4550,9.2,8.8
+281,"Śródmieście, Gdynia",6640,9.6,8.2
+282,"Kamienna Góra, Gdynia",12213,8.7,10.0
+283,"Śródmieście, Gdynia",5586,8.8,8.1
+284,"Wzgórze Świętego Maksymiliana, Gdynia",6639,8.8,9.4
+285,"Śródmieście, Gdynia",3946,8.0,9.9
+286,"Orłowo, Gdynia",7854,9.5,8.8
+287,Gdynia,2776,9.6,9.3
+288,"Śródmieście, Gdynia",2709,9.8,9.6
+289,"Śródmieście, Gdynia",2219,9.9,9.2
+290,"Śródmieście, Gdynia",3805,9.2,8.5
+291,Gdynia,2214,9.1,8.7
+292,"Śródmieście, Gdynia",2830,8.2,9.8
+293,Gdynia,2135,10.0,9.6
+294,"Orłowo, Gdynia",3271,8.9,9.1
+295,Gdynia,2660,9.0,8.5
+296,"Redłowo, Gdynia",4235,9.8,9.0
+297,"Śródmieście, Gdynia",2602,7.5,9.2
+298,"Orłowo, Gdynia",4512,10.0,8.3
+299,"Redłowo, Gdynia",4150,9.4,10.0
+300,"Orłowo, Gdynia",3796,9.3,9.5
+301,Gdynia,2674,8.7,10.0
+302,Gdynia,2785,8.4,9.9
+303,"Śródmieście, Gdynia",4382,10.0,8.8
+304,"Śródmieście, Gdynia",3842,7.4,9.0
+305,"Śródmieście, Gdynia",4416,7.9,9.1
+306,"Wzgórze Świętego Maksymiliana, Gdynia",2374,8.4,9.8
+307,"Śródmieście, Gdynia",5216,7.6,8.1
+308,"Śródmieście, Gdynia",4503,8.5,8.8
+309,"Śródmieście, Gdynia",4045,9.8,10.0
+310,"Orłowo, Gdynia",4767,9.6,9.1
+311,"Śródmieście, Gdynia",4035,6.6,8.3
+312,"Orłowo, Gdynia",4369,9.8,9.6
+313,Gdynia,3339,7.7,8.3
+314,Gdynia,2049,8.7,8.7
+315,Gdynia,3955,9.9,9.2
+316,Gdynia,2986,9.2,9.6
+317,Gdynia,2011,8.9,8.7
+318,"Kamienna Góra, Gdynia",2776,8.9,9.5
+319,Gdynia,5846,9.0,8.3
+320,Gdynia,7046,7.6,8.6
+321,"Wzgórze Świętego Maksymiliana, Gdynia",3867,10.0,9.5
+322,Gdynia,3694,8.9,9.5
+323,"Śródmieście, Gdynia",1856,9.0,10.0
+324,"Śródmieście, Gdynia",3126,9.1,8.3
+325,Gdynia,4584,9.9,9.7
+326,Gdynia,2496,7.9,8.3
+327,"Śródmieście, Gdynia",4113,9.4,9.1
+328,"Redłowo, Gdynia",3172,7.7,9.4
+329,"Śródmieście, Gdynia",2846,9.6,8.2
+330,"Śródmieście, Gdynia",3559,9.2,9.7
+331,Gdynia,4435,9.4,9.0
+332,"Śródmieście, Gdynia",3026,9.5,9.6
+333,"Śródmieście, Gdynia",4459,8.7,8.9
+334,Gdynia,3187,8.3,9.1
+335,Gdynia,2476,8.6,10.0
+336,Gdynia,2126,9.4,9.7
+337,"Kamienna Góra, Gdynia",3798,9.7,9.6
+338,Gdynia,2129,9.3,9.4
+339,"Śródmieście, Gdynia",2938,8.4,8.7
+340,Gdynia,2129,9.2,9.8
+341,"Śródmieście, Gdynia",3686,8.0,9.5
+342,"Orłowo, Gdynia",2881,9.2,9.6
+343,Gdynia,1721,8.3,9.5
+344,"Śródmieście, Gdynia",4251,9.0,9.2
+345,"Orłowo, Gdynia",2702,9.9,10.0
+346,"Śródmieście, Gdynia",2899,5.5,8.6
+347,Gdynia,4079,8.0,9.5
+348,"Śródmieście, Gdynia",2866,8.5,8.8
+349,Gdynia,3140,9.8,9.0
+350,"Śródmieście, Gdynia",3011,9.2,9.7
+351,"Wzgórze Świętego Maksymiliana, Gdynia",2584,10.0,8.7
+352,Gdynia,3396,9.3,9.9
+353,"Śródmieście, Gdynia",2662,9.5,9.3
+354,"Redłowo, Gdynia",6421,8.9,9.2
+355,"Śródmieście, Gdynia",3336,8.7,9.5
+356,"Śródmieście, Gdynia",7186,9.9,9.5
+357,"Śródmieście, Gdynia",6002,9.2,9.2
+358,"Orłowo, Gdynia",3940,9.0,9.6
+359,"Orłowo, Gdynia",2846,9.5,8.0
+360,"Kamienna Góra, Gdynia",5926,9.1,9.3
+361,"Wzgórze Świętego Maksymiliana, Gdynia",5246,8.5,9.9
+362,"Śródmieście, Gdynia",1996,8.6,9.3
+363,"Śródmieście, Gdynia",3190,9.3,8.4
+364,"Śródmieście, Gdynia",7568,9.6,8.4
+365,"Śródmieście, Gdynia",3729,8.9,9.3
+366,Gdynia,3034,9.6,8.6
+367,Gdynia,2516,8.1,8.9
+368,Gdynia,3037,8.4,10.0
+369,Gdynia,3387,8.5,9.5
+370,Gdynia,3698,9.6,9.1
+371,Gdynia,2429,9.5,9.4
+372,"Śródmieście, Gdynia",4186,9.7,9.2
+373,"Redłowo, Gdynia",4438,8.7,10.0
+374,"Śródmieście, Gdynia",3826,9.7,9.9
+375,"Kamienna Góra, Gdynia",3666,8.8,9.4
+376,"Wzgórze Świętego Maksymiliana, Gdynia",2580,9.1,9.0
+377,Gdynia,3365,9.3,8.9
+378,"Śródmieście, Gdynia",2709,7.9,8.8
+379,"Śródmieście, Gdynia",2992,9.6,9.8
+380,Gdynia,2450,9.0,8.2
+381,"Wzgórze Świętego Maksymiliana, Gdynia",3968,7.0,8.5
+382,"Orłowo, Gdynia",5222,9.6,8.7
+383,Gdynia,2481,9.6,9.1
+384,Gdynia,2240,8.9,9.1
+385,"Wzgórze Świętego Maksymiliana, Gdynia",4916,9.7,9.3
+386,Gdynia,2791,9.8,8.8
+387,"Kamienna Góra, Gdynia",3568,9.7,8.3
+388,"Śródmieście, Gdynia",2747,9.2,9.7
+389,Gdynia,2765,8.7,9.5
+390,"Kamienna Góra, Gdynia",5129,7.4,8.3
+391,Gdynia,5773,9.7,8.0
+392,"Śródmieście, Gdynia",5794,9.4,10.0
+393,Gdynia,3448,9.5,9.5
+394,"Śródmieście, Gdynia",2541,9.5,10.0
+395,Gdynia,2010,9.3,9.7
+396,Gdynia,1201,9.5,9.3
+397,"Śródmieście, Gdynia",3486,8.6,9.4
+398,"Śródmieście, Gdynia",5129,9.5,9.1
+399,"Śródmieście, Gdynia",4996,8.8,8.9
+400,"Śródmieście, Gdynia",2138,8.7,8.1
+401,"Śródmieście, Gdynia",3589,9.3,9.0
+402,Gdynia,3539,8.8,9.4
+403,"Śródmieście, Gdynia",4370,9.9,9.7
+404,"Śródmieście, Gdynia",3188,9.3,9.1
+405,"Redłowo, Gdynia",4496,9.0,8.5
+406,"Śródmieście, Gdynia",4141,9.7,9.5
+407,Gdynia,1621,9.7,9.8
+408,"Redłowo, Gdynia",3956,8.7,10.0
+409,"Śródmieście, Gdynia",4290,9.4,9.5
+410,Gdynia,3447,7.9,9.8
+411,"Śródmieście, Gdynia",3781,9.2,10.0
+412,Gdynia,2015,9.8,8.5
+413,"Śródmieście, Gdynia",4133,9.2,9.9
+414,"Śródmieście, Gdynia",3593,8.4,8.8
+415,Gdynia,3406,8.7,9.7
+416,"Redłowo, Gdynia",3112,9.5,9.0
+417,Gdynia,3125,7.7,8.6
+418,Gdynia,3311,7.9,9.3
+419,"Śródmieście, Gdynia",3452,9.0,8.4
+420,"Śródmieście, Gdynia",5786,10.0,10.0
+421,"Śródmieście, Gdynia",4414,9.2,9.5
+422,"Wzgórze Świętego Maksymiliana, Gdynia",4099,10.0,9.6
+423,"Orłowo, Gdynia",2534,9.4,9.3
+424,"Śródmieście, Gdynia",2969,9.0,8.3
+425,Gdynia,2946,9.2,9.8
+426,"Kamienna Góra, Gdynia",3896,8.8,8.5
+427,"Wzgórze Świętego Maksymiliana, Gdynia",4699,10.0,9.7
+428,"Wzgórze Świętego Maksymiliana, Gdynia",3704,9.7,9.7
+429,Gdynia,2996,9.3,10.0
+430,"Śródmieście, Gdynia",2760,9.2,8.5
+431,"Wzgórze Świętego Maksymiliana, Gdynia",3727,9.0,8.5
+432,Gdynia,3726,8.7,8.9
+433,"Śródmieście, Gdynia",4195,9.6,8.1
+434,"Redłowo, Gdynia",4521,8.3,8.3
+435,"Kamienna Góra, Gdynia",3341,8.1,9.5
+436,"Śródmieście, Gdynia",4501,8.7,8.6
+437,Gdynia,2286,7.4,8.5
+438,"Orłowo, Gdynia",3499,8.8,8.8
+439,Gdynia,2975,9.1,9.5
+440,"Śródmieście, Gdynia",3775,7.8,8.4
+441,Gdynia,2600,9.2,9.4
+442,"Śródmieście, Gdynia",4699,10.0,9.6
+443,Gdynia,2291,9.0,9.3
+444,"Śródmieście, Gdynia",3955,8.4,9.2
+445,Gdynia,2445,9.3,9.9
+446,"Śródmieście, Gdynia",3429,9.7,10.0
+447,"Śródmieście, Gdynia",8366,8.5,10.0
+448,Gdynia,4801,8.0,10.0
+449,"Kamienna Góra, Gdynia",4246,9.3,8.8
+450,"Śródmieście, Gdynia",2700,8.2,10.0
+451,"Orłowo, Gdynia",3570,9.4,10.0
+452,"Redłowo, Gdynia",4524,9.9,9.3
+453,"Śródmieście, Gdynia",4018,10.0,10.0
+454,"Śródmieście, Gdynia",2939,9.4,8.9
+455,Gdynia,3546,9.3,9.2
+456,"Śródmieście, Gdynia",7729,9.2,10.0
+457,Gdynia,3545,9.4,10.0
+458,Gdynia,4900,9.7,10.0
+459,Gdynia,3150,7.5,8.8
+460,"Śródmieście, Gdynia",3246,9.1,9.2
+461,"Wzgórze Świętego Maksymiliana, Gdynia",2894,9.2,10.0
+462,Gdynia,3137,9.8,9.9
+463,"Kamienna Góra, Gdynia",8105,9.0,10.0
+464,Gdynia,5431,8.7,9.0
+465,"Wzgórze Świętego Maksymiliana, Gdynia",3988,9.4,9.6
+466,"Śródmieście, Gdynia",4509,9.8,10.0
+467,"Redłowo, Gdynia",2979,10.0,9.7
+468,Gdynia,3729,9.3,10.0
+469,"Śródmieście, Gdynia",8922,9.1,9.5
+470,Gdynia,2884,9.7,9.4
+471,"Śródmieście, Gdynia",4268,8.4,9.6
+472,"Śródmieście, Gdynia",4247,9.8,9.0
+473,"Śródmieście, Gdynia",4141,8.0,8.9
+474,"Wzgórze Świętego Maksymiliana, Gdynia",5866,9.2,10.0
+475,"Śródmieście, Gdynia",2426,9.8,8.0
+476,"Kamienna Góra, Gdynia",3510,8.7,9.0
+477,Gdynia,2415,8.5,9.8
+478,"Śródmieście, Gdynia",8828,9.2,8.8
+479,"Śródmieście, Gdynia",3192,8.9,9.5
+480,"Wzgórze Świętego Maksymiliana, Gdynia",3679,9.7,9.2
+481,"Śródmieście, Gdynia",3393,9.4,9.0
+482,Gdynia,3055,9.8,9.8
+483,Gdynia,4082,7.9,9.4
+484,"Śródmieście, Gdynia",3533,9.5,9.1
+485,"Śródmieście, Gdynia",2846,8.4,8.1
+486,Gdynia,5834,9.7,8.4
+487,Gdynia,2916,8.4,9.2
+488,Gdynia,3618,9.7,9.4
+489,"Orłowo, Gdynia",6879,7.9,9.0
+490,Gdynia,2509,9.5,9.4
+491,"Wzgórze Świętego Maksymiliana, Gdynia",4025,10.0,9.2
+492,"Redłowo, Gdynia",2682,8.6,9.8
+493,"Śródmieście, Gdynia",4082,8.2,9.7
+494,"Śródmieście, Gdynia",4167,7.0,8.9
+495,Gdynia,3850,7.0,9.4
+496,"Śródmieście, Gdynia",2881,9.2,8.4
+497,"Śródmieście, Gdynia",2589,7.9,9.4
+498,"Śródmieście, Gdynia",2989,7.6,9.8
+499,Gdynia,3809,8.4,9.9
+500,Gdynia,2140,10.0,8.8
+501,"Śródmieście, Gdynia",4279,8.1,9.7
+502,Gdynia,1941,9.1,9.3
+503,"Redłowo, Gdynia",2220,8.6,8.9
+504,Gdynia,2062,9.2,9.8
+505,"Śródmieście, Gdynia",4138,9.2,8.5
+506,"Śródmieście, Gdynia",3336,9.5,9.4
+507,Gdynia,2791,9.3,9.5
+508,Gdynia,3476,9.7,9.1
+509,Gdynia,4622,8.3,9.8
+510,Gdynia,2393,9.7,9.8
+511,"Wzgórze Świętego Maksymiliana, Gdynia",3037,10.0,9.4
+512,Gdynia,2979,10.0,9.0
+513,Gdynia,2851,10.0,9.5
+514,"Orłowo, Gdynia",3126,9.5,9.3
+515,"Orłowo, Gdynia",4395,10.0,8.4
+516,"Redłowo, Gdynia",2603,5.5,8.8
+517,"Śródmieście, Gdynia",3446,9.0,9.4
+518,Gdynia,3056,9.3,8.0
+519,"Śródmieście, Gdynia",3594,10.0,8.9
+520,Gdynia,4636,8.8,9.6
+521,Gdynia,2135,9.0,9.2
+522,Gdynia,3339,9.5,8.9
+523,"Śródmieście, Gdynia",4415,9.3,8.6
+524,"Wzgórze Świętego Maksymiliana, Gdynia",3490,9.8,9.5
+525,Gdynia,2764,9.2,9.5
+526,"Kamienna Góra, Gdynia",4371,9.3,8.2
+527,"Śródmieście, Gdynia",5289,9.0,10.0
+528,"Śródmieście, Gdynia",3430,9.7,8.8
+529,"Orłowo, Gdynia",2356,10.0,9.7
+530,Gdynia,4937,9.3,9.7
+531,"Śródmieście, Gdynia",7817,9.7,8.3
+532,"Śródmieście, Gdynia",5669,9.8,9.7
+533,Gdynia,3260,9.6,8.9
+534,Gdynia,3896,9.9,9.0
+535,"Śródmieście, Gdynia",4832,4.8,9.8
+536,Gdynia,2010,9.2,8.6
+537,Gdynia,4369,9.6,8.6
+538,Gdynia,3371,8.9,9.3
+539,Gdynia,3853,9.2,10.0
+540,"Śródmieście, Gdynia",4095,9.3,9.2
+541,"Śródmieście, Gdynia",6729,10.0,8.5
+542,"Orłowo, Gdynia",4358,7.6,9.1
+543,Gdynia,5286,9.3,9.6
+544,"Kamienna Góra, Gdynia",4240,9.6,9.1
+545,"Kamienna Góra, Gdynia",3823,8.0,8.2
+546,Gdynia,2146,7.6,10.0
+547,"Orłowo, Gdynia",6434,9.3,8.9
+548,"Śródmieście, Gdynia",3826,7.6,9.2
+549,"Śródmieście, Gdynia",6456,9.6,9.7
+550,Gdynia,2699,4.0,9.6
+551,"Śródmieście, Gdynia",2289,9.0,9.2
+552,"Wzgórze Świętego Maksymiliana, Gdynia",2761,9.8,8.6
+553,"Śródmieście, Gdynia",4124,9.3,9.6
+554,Gdynia,2566,9.7,9.0
+555,"Wzgórze Świętego Maksymiliana, Gdynia",2776,7.9,9.4
+556,"Kamienna Góra, Gdynia",2573,7.8,9.6
+557,"Śródmieście, Gdynia",3668,9.2,9.2
+558,"Śródmieście, Gdynia",7447,9.3,9.2
+559,"Wzgórze Świętego Maksymiliana, Gdynia",3438,9.4,9.7
+560,Gdynia,3335,9.6,9.8
+561,Gdynia,7600,8.4,9.8
+562,"Śródmieście, Gdynia",4970,9.8,10.0
+563,"Śródmieście, Gdynia",10291,9.7,9.6
+564,"Śródmieście, Gdynia",4197,9.1,9.5
+565,"Śródmieście, Gdynia",4208,9.0,9.7
+566,"Redłowo, Gdynia",3594,7.6,8.6
+567,"Redłowo, Gdynia",4235,8.3,8.8
+568,"Redłowo, Gdynia",4246,9.1,8.4
+569,Gdynia,3221,9.7,9.8
+570,Gdynia,3319,7.2,9.6
+571,"Śródmieście, Gdynia",3959,9.8,8.2
+572,"Orłowo, Gdynia",5510,7.7,8.8
+573,"Śródmieście, Gdynia",3559,7.5,8.9
+574,"Orłowo, Gdynia",4656,9.7,10.0
+575,Gdynia,2101,9.1,9.8
+576,"Kamienna Góra, Gdynia",3607,9.3,9.0
+577,"Śródmieście, Gdynia",2979,9.8,9.4
+578,"Śródmieście, Gdynia",3065,7.7,9.8
+579,Gdynia,2575,8.6,9.4
+580,Gdynia,3068,9.6,9.1
+581,"Wzgórze Świętego Maksymiliana, Gdynia",6453,9.4,9.8
+582,"Orłowo, Gdynia",4036,9.2,8.8
+583,"Orłowo, Gdynia",4702,9.2,10.0
+584,Gdynia,3252,9.6,8.8
+585,Gdynia,4150,9.1,9.0
+586,"Orłowo, Gdynia",6549,9.1,9.6
+587,"Orłowo, Gdynia",5102,6.8,9.2
+588,"Orłowo, Gdynia",6730,9.3,9.4
+589,"Śródmieście, Gdynia",4282,9.2,9.1
+590,Gdynia,7980,6.8,9.5
+591,"Śródmieście, Gdynia",9646,8.5,8.3
+592,"Śródmieście, Gdynia",5783,8.5,9.2
+593,"Śródmieście, Gdynia",4825,9.3,9.1
+594,Gdynia,4487,7.9,9.2
