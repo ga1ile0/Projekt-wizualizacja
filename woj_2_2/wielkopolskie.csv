@@ -1,0 +1,782 @@
+,City,Cost,Rating,Comfort
+0,"Stare Miasto, Poznań",1546,8.3,8.1
+1,Piła,3340,8.2,8.1
+2,Swarzędz,4166,9.1,9.5
+3,Piła,4704,8.7,9.0
+4,Nowy Tomyśl,4060,9.1,9.2
+5,Tarnowo Podgórne,4620,8.5,8.5
+6,Gniezno,3430,7.8,8.2
+7,Kalisz,3920,8.9,9.0
+8,Leszno,4192,8.6,8.9
+9,Zduny,3606,8.9,9.0
+10,Puszczykowo,7128,8.9,9.1
+11,"Stare Miasto, Poznań",2320,7.9,8.5
+12,Września,3360,8.5,8.8
+13,Swarzędz,3976,8.8,8.9
+14,Swarzędz,4620,8.9,8.8
+15,Gniezno,3080,8.7,8.9
+16,Leszno,4900,8.8,9.0
+17,Nowy Tomyśl,3933,8.7,8.8
+18,Swarzędz,3150,8.7,9.1
+19,Gostyń,2834,9.0,8.6
+20,"Stare Miasto, Poznań",3246,8.6,8.9
+21,Kamińsko,1155,9.0,8.1
+22,Pleszew,4060,8.4,8.7
+23,Jarocin,2478,8.8,8.1
+24,Ostrów Wielkopolski,2646,8.1,9.1
+25,Piła,2125,9.1,8.1
+26,Ostrzeszów,2660,7.9,9.3
+27,Września,1601,9.3,9.6
+28,Miedzichowo,4788,9.4,9.7
+29,Krotoszyn,3080,9.7,8.4
+30,Wągrowiec,2254,8.5,9.2
+31,Września,2125,7.6,8.8
+32,Ostrów Wielkopolski,2306,9.0,9.4
+33,Kępno,3780,9.3,9.2
+34,Wilczyn,2454,9.3,9.5
+35,"Wilda, Poznań",4486,9.3,9.3
+36,Brzeźno,2111,9.2,8.9
+37,Września,4520,8.8,8.9
+38,Czmoń,4451,8.8,8.2
+39,Nekla,4126,9.0,8.0
+40,Sierosław,2786,8.0,8.8
+41,"Jeżyce, Poznań",2374,7.9,9.4
+42,Kalisz,1815,8.8,8.8
+43,Zaniemyśl,3591,9.2,8.3
+44,Koło,3738,8.6,9.7
+45,Śrem,4200,8.2,8.7
+46,"Wilda, Poznań",4006,9.7,8.7
+47,Kalisz,2029,8.3,9.3
+48,Rawicz,3685,8.4,8.5
+49,"Stare Miasto, Poznań",4284,9.0,9.1
+50,"Stare Miasto, Poznań",5765,8.4,9.0
+51,"Grunwald, Poznań",2990,8.9,8.9
+52,"Stare Miasto, Poznań",3827,8.6,9.8
+53,Miedzichowo,4788,8.8,8.9
+54,"Stare Miasto, Poznań",6676,9.8,9.1
+55,Leszno,2765,8.7,8.9
+56,Piła,2502,9.3,9.2
+57,"Grunwald, Poznań",3766,9.0,8.4
+58,Chrzypsko Wielkie,2705,9.0,9.7
+59,"Stare Miasto, Poznań",3896,7.3,9.2
+60,Zaniemyśl,2100,8.5,9.3
+61,"Stare Miasto, Poznań",3938,9.7,8.9
+62,"Stare Miasto, Poznań",2318,9.1,8.9
+63,Komorowo,3940,9.3,9.5
+64,Kwiejce,3166,8.0,9.0
+65,"Stare Miasto, Poznań",3846,9.0,9.3
+66,Fałkowo,2251,8.6,8.7
+67,Kościan,3640,9.3,8.5
+68,Gniezno,1610,8.5,9.2
+69,Zbąszyń,4011,9.0,8.4
+70,Piła,2156,8.8,8.7
+71,"Jeżyce, Poznań",9701,8.4,8.3
+72,Kalisz,5294,8.8,8.9
+73,Gołuchów,2730,7.5,8.7
+74,"Stare Miasto, Poznań",2892,8.0,8.1
+75,"Jeżyce, Poznań",4816,8.4,8.8
+76,Kuźnica Zbąska,2753,8.7,8.6
+77,"Grunwald, Poznań",2922,8.4,9.3
+78,"Grunwald, Poznań",2821,8.8,8.4
+79,Kępno,3430,8.6,9.3
+80,Kalisz,3150,8.5,9.3
+81,Śrem,1790,8.8,9.1
+82,Szamotuły,4200,8.5,8.0
+83,Debrzno,2753,9.3,9.5
+84,Środa Wielkopolska,3800,8.2,9.7
+85,Chodzież,2730,9.3,8.0
+86,"Stare Miasto, Poznań",2414,9.0,9.4
+87,Śrem,4480,8.9,9.4
+88,Ostrów Wielkopolski,3766,8.1,9.1
+89,"Stare Miasto, Poznań",5376,9.5,9.4
+90,"Nowe Miasto, Poznań",4374,9.7,8.7
+91,"Stare Miasto, Poznań",4306,8.0,9.4
+92,Śrem,2065,9.3,8.5
+93,Pniewy,3349,8.1,9.8
+94,Ostrów Wielkopolski,2940,9.2,8.3
+95,Krotoszyn,2240,9.3,9.5
+96,Licheń,1540,9.2,8.6
+97,Gostyń,3276,8.7,8.3
+98,Gostyń,2660,9.2,9.1
+99,Kościan,5950,9.0,8.9
+100,"Stare Miasto, Poznań",2680,9.8,8.1
+101,Kościan,5950,8.3,9.3
+102,Józefów,4471,9.4,8.4
+103,Kórnik,3220,8.7,8.1
+104,Przeźmierowo,3500,8.4,8.0
+105,Konin,2793,9.2,10.0
+106,Suchy Las,3486,7.9,9.0
+107,Pleszew,1820,8.6,8.7
+108,Kobyla Góra,2640,8.0,8.8
+109,Konin,2800,9.3,8.2
+110,"Stare Miasto, Poznań",4710,8.3,9.1
+111,Przeźmierowo,4146,8.3,9.1
+112,Ostrów Wielkopolski,3766,8.2,9.4
+113,Kwilcz,8666,9.7,8.3
+114,Środa Wielkopolska,2940,8.7,8.9
+115,Stare Miasto,3080,8.7,9.3
+116,Lipnica,3360,8.7,8.1
+117,"Grunwald, Poznań",4422,8.0,8.7
+118,Tarnowo Podgórne,3920,9.3,9.0
+119,Turek,2138,9.2,8.0
+120,Konin,3900,9.4,8.6
+121,Gostyń,2660,8.2,9.0
+122,Sieraków,4476,9.0,9.2
+123,Czarnków,2800,9.0,8.5
+124,Poznań,3625,7.8,8.5
+125,"Grunwald, Poznań",2723,8.7,8.0
+126,"Stare Miasto, Poznań",5282,9.1,8.5
+127,Przeźmierowo,3640,8.1,10.0
+128,Cielimowo,2366,8.6,9.2
+129,Września,2240,8.8,9.1
+130,Turek,3150,9.1,8.8
+131,"Grunwald, Poznań",4088,8.4,8.6
+132,Budzyń,6160,7.6,8.5
+133,"Stare Miasto, Poznań",3850,8.3,9.7
+134,Kórnik,3500,8.1,9.5
+135,Wolsztyn,2660,8.3,9.2
+136,Police Mostowe,2786,9.8,8.3
+137,Pobiedziska,2646,9.0,8.5
+138,Stare Miasto,6783,9.2,8.3
+139,Leszno,2233,8.8,8.3
+140,Chodzież,1750,8.6,9.3
+141,Słupca,2023,8.7,9.4
+142,Chodzież,3640,9.9,9.0
+143,Ślesin,3360,9.4,8.1
+144,Leszno,3220,7.9,8.7
+145,Środa Wielkopolska,1785,9.1,10.0
+146,Włoszakowice,5320,8.5,8.4
+147,"Stare Miasto, Poznań",2606,8.6,9.7
+148,"Stare Miasto, Poznań",6600,7.9,9.7
+149,Gniezno,3189,8.5,9.8
+150,Promno,1803,7.9,8.5
+151,"Stare Miasto, Poznań",2606,9.6,8.7
+152,Gniezno,3189,9.1,8.2
+153,"Grunwald, Poznań",3766,9.1,9.4
+154,Wijewo,3252,7.6,8.8
+155,Kórnik,4106,8.1,8.1
+156,Września,2240,8.7,8.0
+157,Konin,1224,10.0,9.3
+158,Konin,3650,8.2,9.1
+159,"Grunwald, Poznań",2156,9.9,9.2
+160,Śrem,1487,9.7,8.0
+161,Konin,4620,7.3,9.1
+162,Środa Wielkopolska,1785,9.7,9.5
+163,Ostrów Wielkopolski,4200,8.3,8.7
+164,Konin,4200,8.8,9.1
+165,Łowyń,7840,8.3,9.1
+166,Ostrów Wielkopolski,2800,9.5,8.1
+167,Ostrów Wielkopolski,2730,9.2,8.3
+168,Stare Miasto,3080,7.8,8.6
+169,Wągrowiec,2660,8.0,8.1
+170,Cielimowo,1569,9.0,9.6
+171,Ostrów Wielkopolski,3570,8.8,8.4
+172,"Stare Miasto, Poznań",3304,9.0,8.1
+173,"Grunwald, Poznań",7850,8.0,8.6
+174,"Stare Miasto, Poznań",4096,8.8,8.8
+175,Kępno,2940,9.4,9.4
+176,"Stare Miasto, Poznań",3304,7.8,9.8
+177,"Stare Miasto, Poznań",4052,8.7,8.5
+178,Złotów,2240,9.2,8.9
+179,Gołuchów,1750,8.8,10.0
+180,"Grunwald, Poznań",2156,7.8,8.5
+181,Konin,2793,8.4,9.0
+182,"Grunwald, Poznań",6151,7.2,9.6
+183,Murowana Goślina,3080,8.8,9.0
+184,Bojanowo,2800,7.6,8.6
+185,Lipno,1645,6.4,9.8
+186,Wielichowo,3080,8.3,8.6
+187,Biskupice,1400,9.6,9.7
+188,Wolsztyn,2030,8.2,8.8
+189,Modliszewko,2730,8.0,8.7
+190,"Stare Miasto, Poznań",4836,8.6,9.2
+191,"Stare Miasto, Poznań",2876,8.9,8.3
+192,Antonin,2380,9.4,8.5
+193,"Stare Miasto, Poznań",4473,9.5,9.0
+194,Krzycko Małe,3671,8.6,9.6
+195,Gniezno,3290,8.8,8.6
+196,Szamotuły,2394,10.0,8.3
+197,Kostrzyn,3206,8.4,8.6
+198,"Stare Miasto, Poznań",3071,8.8,9.2
+199,Śrem,1802,9.4,8.2
+200,Trzcianka,2520,7.6,9.1
+201,"Wilda, Poznań",2072,8.9,9.2
+202,Gniezno,2318,8.8,8.2
+203,Kalisz,2660,9.9,9.2
+204,"Stare Miasto, Poznań",3643,7.5,9.1
+205,Sieraków,3360,8.7,8.5
+206,Konin,2100,9.4,9.8
+207,"Stare Miasto, Poznań",3874,8.3,9.7
+208,Sieraków,3535,8.7,8.6
+209,Gniezno,3290,9.3,9.2
+210,Oborniki,2380,8.0,8.7
+211,"Stare Miasto, Poznań",9004,8.2,9.2
+212,Piła,2800,7.7,9.4
+213,Zaniemyśl,2826,8.9,9.2
+214,"Stare Miasto, Poznań",4224,9.6,8.7
+215,Łuszczewo,2023,8.5,9.7
+216,"Jeżyce, Poznań",2277,8.3,8.4
+217,Września,1770,8.7,9.0
+218,Kościan,3640,8.9,9.4
+219,"Grunwald, Poznań",2466,7.6,8.5
+220,Owińska,4046,8.0,8.2
+221,"Stare Miasto, Poznań",4959,8.9,8.5
+222,Zaniemyśl,2520,7.7,8.1
+223,Wągrowiec,2450,8.9,9.2
+224,Śrem,1720,8.0,8.5
+225,Łuszczewo,2023,8.7,8.4
+226,"Stare Miasto, Poznań",4959,8.9,8.7
+227,Wągrowiec,2450,8.5,8.4
+228,Palędzie,2906,9.7,9.2
+229,Śrem,1720,7.5,8.3
+230,Pobiedziska,4508,9.5,9.2
+231,Tarnowo Podgórne,6440,8.7,8.6
+232,"Stare Miasto, Poznań",3874,9.0,8.7
+233,Chodzież,2520,8.7,8.2
+234,Owińska,4046,9.1,10.0
+235,"Nowe Miasto, Poznań",4328,7.6,10.0
+236,"Stare Miasto, Poznań",9004,9.4,9.0
+237,Pobiedziska,2100,7.6,9.4
+238,Zaniemyśl,2520,9.1,9.6
+239,Strzałkowo,2590,8.8,8.5
+240,Konin,2240,9.6,9.6
+241,Wronki,3670,8.2,10.0
+242,Chrzypsko Wielkie,1960,7.7,9.2
+243,Września,5440,8.7,9.0
+244,Wronki,4600,9.5,8.5
+245,Kalisz,3486,8.5,9.6
+246,"Jeżyce, Poznań",5126,8.1,8.2
+247,Trzcianka,2879,8.9,8.9
+248,"Stare Miasto, Poznań",3150,6.9,8.1
+249,Turek,2300,8.1,9.2
+250,Leszno,1779,9.4,9.5
+251,Bytyń,1803,8.5,9.3
+252,Boszkowo,3500,7.9,9.2
+253,Leszno,2015,8.5,9.0
+254,"Stare Miasto, Poznań",3150,7.0,8.7
+255,Przeźmierowo,2800,8.5,9.3
+256,Wargowo,3780,8.5,10.0
+257,Trzcianka,2100,9.1,8.9
+258,"Jeżyce, Poznań",3912,7.6,8.6
+259,Murowana Goślina,3010,8.2,9.1
+260,"Stare Miasto, Poznań",2950,8.6,9.1
+261,"Wilda, Poznań",3066,8.7,8.7
+262,"Nowe Miasto, Poznań",5210,8.7,8.3
+263,Leszno,4620,7.8,8.1
+264,Ostrzeszów,4725,8.4,9.2
+265,"Stare Miasto, Poznań",2180,8.0,8.0
+266,Turek,1995,9.0,9.7
+267,Okonek,1540,9.9,8.8
+268,Ostrowite,3483,8.9,8.6
+269,Wieleń,3990,9.4,9.3
+270,Skórzewo,4060,9.5,8.6
+271,"Stare Miasto, Poznań",5796,8.4,8.1
+272,Strzałkowo,2590,8.0,9.2
+273,Stare Miasto,3080,9.5,8.1
+274,Turek,5075,9.0,9.8
+275,Ostrowite,3483,8.6,9.2
+276,Stare Miasto,3080,6.9,9.4
+277,Wieleń,3990,8.9,9.6
+278,Leszno,4620,7.7,8.7
+279,Bytyń,1803,8.4,8.6
+280,"Stare Miasto, Poznań",5796,8.1,8.7
+281,Kalisz,3640,9.6,10.0
+282,Turek,5075,8.4,8.5
+283,Września,2800,8.8,8.3
+284,Margonin,2677,8.1,9.8
+285,Okonek,1540,9.4,8.0
+286,Kalisz,1676,7.7,9.0
+287,Boszkowo,3500,9.5,9.0
+288,Leszno,2015,7.9,9.7
+289,"Stare Miasto, Poznań",2414,9.2,9.5
+290,Powidz,2835,9.0,8.7
+291,Wągrowiec,2016,8.9,8.2
+292,Kórnik,3710,8.8,10.0
+293,Brenno,6300,9.1,8.6
+294,Perzyce,2520,10.0,8.9
+295,Stare Miasto,3290,9.0,8.9
+296,Ostrzeszów,2583,8.4,8.7
+297,Września,2625,9.7,9.5
+298,"Stare Miasto, Poznań",5603,8.9,8.2
+299,"Jeżyce, Poznań",4464,8.8,9.2
+300,Marylin,4655,8.1,8.3
+301,"Stare Miasto, Poznań",4036,8.3,8.7
+302,Kujan,4550,9.1,9.2
+303,"Stare Miasto, Poznań",5925,8.2,9.4
+304,"Stare Miasto, Poznań",1546,8.1,9.2
+305,"Nowe Miasto, Poznań",3620,9.5,8.3
+306,Opalenica,3150,8.5,8.7
+307,Golina,3080,8.2,9.2
+308,"Stare Miasto, Poznań",6580,9.3,9.2
+309,Piła,1806,8.5,8.5
+310,"Jeżyce, Poznań",6390,8.3,8.5
+311,Dzierżążno Wielkie,2520,8.0,10.0
+312,Gniezno,3795,9.1,9.0
+313,"Wilda, Poznań",1960,8.2,8.6
+314,"Jeżyce, Poznań",4637,6.7,8.8
+315,Piła,1656,9.7,9.9
+316,Górzno,3662,9.1,9.0
+317,"Stare Miasto, Poznań",1722,7.6,9.1
+318,Lusowo,2730,9.4,9.6
+319,"Stare Miasto, Poznań",2898,9.4,9.4
+320,Kalisz,2036,8.6,9.9
+321,"Jeżyce, Poznań",2260,8.4,9.6
+322,Kobyla Góra,1743,8.8,9.8
+323,Piła,2926,10.0,8.9
+324,"Jeżyce, Poznań",4642,8.4,9.6
+325,"Jeżyce, Poznań",14973,8.4,8.8
+326,Kaźmierz,3648,9.8,10.0
+327,"Nowe Miasto, Poznań",4784,8.1,8.3
+328,"Jeżyce, Poznań",2318,8.8,8.5
+329,Leszno,2897,9.0,10.0
+330,"Stare Miasto, Poznań",4048,9.7,9.2
+331,Piła,3500,9.2,10.0
+332,"Stare Miasto, Poznań",3181,8.7,8.1
+333,Wągrowiec,1680,8.4,8.7
+334,Ostrów Wielkopolski,2213,10.0,9.7
+335,"Stare Miasto, Poznań",2995,8.6,9.7
+336,Boruja,3115,9.0,8.4
+337,Potrzanowo,4766,8.6,9.6
+338,Konin,1594,8.0,9.4
+339,Konin,2448,8.6,9.3
+340,"Stare Miasto, Poznań",2904,9.3,8.5
+341,Września,2800,8.4,8.5
+342,"Grunwald, Poznań",2462,9.2,8.9
+343,Biskupice,1960,8.2,9.8
+344,Przesieki,2660,8.7,8.6
+345,Piła,2520,9.1,8.9
+346,"Stare Miasto, Poznań",2388,9.2,8.8
+347,"Stare Miasto, Poznań",3070,9.2,9.1
+348,Kalisz,2023,8.2,9.1
+349,Kalisz,4760,8.7,9.2
+350,Piła,2520,9.1,8.1
+351,"Stare Miasto, Poznań",2734,8.9,8.7
+352,"Stare Miasto, Poznań",3070,8.4,10.0
+353,Kalisz,2023,8.5,8.9
+354,"Stare Miasto, Poznań",2606,9.9,9.2
+355,"Nowe Miasto, Poznań",4563,9.0,8.6
+356,Gniezno,1540,8.7,8.8
+357,Leszno,3150,8.7,9.6
+358,Zasutowo,4466,7.4,9.1
+359,Kalisz,1428,9.8,8.8
+360,"Nowe Miasto, Poznań",4495,9.1,10.0
+361,Ostrów Wielkopolski,2786,9.0,9.3
+362,Murowana Goślina,4522,9.4,8.8
+363,"Stare Miasto, Poznań",2770,9.3,9.7
+364,Gniezno,2940,9.8,9.6
+365,"Jeżyce, Poznań",1831,9.6,9.1
+366,"Wilda, Poznań",1890,8.0,10.0
+367,"Stare Miasto, Poznań",3002,7.9,9.7
+368,"Stare Miasto, Poznań",3164,7.2,9.6
+369,"Stare Miasto, Poznań",3294,9.7,9.4
+370,Radzewice,3270,7.0,10.0
+371,"Nowe Miasto, Poznań",2800,8.8,8.9
+372,Świętne,2902,9.8,8.4
+373,Kalisz,1638,8.6,9.3
+374,Konin,1184,8.2,9.5
+375,"Stare Miasto, Poznań",2976,9.8,8.3
+376,Ostrów Wielkopolski,2860,8.4,9.7
+377,Słupca,1960,8.2,8.3
+378,Tarnowo Podgórne,2618,8.5,8.8
+379,Lipka,2218,9.5,9.3
+380,"Grunwald, Poznań",2852,9.3,9.5
+381,Konin,1894,9.8,8.8
+382,Sieraków,3895,8.3,9.9
+383,Osieczna,2100,7.9,9.6
+384,Kalisz,1796,9.6,8.8
+385,Ostrów Wielkopolski,2400,9.6,9.2
+386,"Wilda, Poznań",1890,8.3,9.4
+387,"Stare Miasto, Poznań",3295,9.5,9.0
+388,Komorniki,3107,9.5,9.2
+389,"Stare Miasto, Poznań",3242,9.2,8.4
+390,Konin,1470,8.7,9.2
+391,"Stare Miasto, Poznań",2346,8.7,8.5
+392,Boruja,3920,8.8,9.6
+393,"Nowe Miasto, Poznań",4050,9.7,9.5
+394,Mielno,3304,7.6,8.0
+395,"Grunwald, Poznań",3903,8.6,9.9
+396,"Jeżyce, Poznań",1840,8.7,9.4
+397,Ślesin,5590,8.7,9.4
+398,Boszkowo,6780,8.9,10.0
+399,"Stare Miasto, Poznań",3150,9.0,8.9
+400,Strykowo,2510,9.1,10.0
+401,"Grunwald, Poznań",3650,8.9,8.6
+402,"Stare Miasto, Poznań",4294,8.0,8.8
+403,Poznań,4399,7.6,8.1
+404,"Wilda, Poznań",4060,8.6,9.4
+405,Ostrów Wielkopolski,2179,9.9,8.1
+406,Ślesin,2448,8.2,9.2
+407,"Stare Miasto, Poznań",3766,8.2,9.4
+408,"Grunwald, Poznań",3284,9.5,8.8
+409,Leszno,3150,8.4,8.1
+410,"Grunwald, Poznań",3178,8.5,9.2
+411,Tarnowo Podgórne,2618,9.5,9.5
+412,Kamiennik,3009,9.6,9.2
+413,"Stare Miasto, Poznań",3716,8.7,8.1
+414,"Stare Miasto, Poznań",2806,10.0,9.2
+415,Zbąszyń,2419,9.0,9.7
+416,"Stare Miasto, Poznań",2346,8.6,10.0
+417,"Stare Miasto, Poznań",3398,9.6,8.7
+418,Pleszew,3710,9.2,8.6
+419,Biskupice,10713,9.1,9.5
+420,"Stare Miasto, Poznań",5488,9.8,9.6
+421,"Stare Miasto, Poznań",1527,9.6,9.0
+422,Gołuchów,2870,9.2,9.8
+423,Leszno,6580,9.2,9.6
+424,Kalwy,2590,10.0,8.1
+425,"Nowe Miasto, Poznań",2157,8.6,8.8
+426,Gołuchów,2870,8.1,8.1
+427,Tręby Stare,3442,9.6,9.0
+428,Leszno,6580,9.6,8.8
+429,Giewartów,5040,8.8,10.0
+430,Ślesin,3244,6.7,8.1
+431,"Stare Miasto, Poznań",4394,9.5,9.9
+432,Słupca,2786,8.3,9.8
+433,Kalisz,2016,8.6,9.2
+434,Sieraków,8750,9.2,9.0
+435,Sieraków,3360,9.2,8.8
+436,"Grunwald, Poznań",3091,7.9,9.7
+437,Kościelna Wieś,2169,7.9,8.6
+438,"Stare Miasto, Poznań",3480,7.9,9.7
+439,"Grunwald, Poznań",2686,8.6,9.2
+440,"Wilda, Poznań",4186,9.8,8.8
+441,"Stare Miasto, Poznań",2260,7.0,9.4
+442,Gniezno,1792,9.6,9.2
+443,Września,2520,8.8,8.7
+444,"Grunwald, Poznań",1878,9.2,8.7
+445,Lednogóra,2100,7.3,8.7
+446,"Stare Miasto, Poznań",1513,9.5,9.4
+447,Kalisz,1725,8.9,8.4
+448,Swarzędz,2660,9.0,8.6
+449,Ostrów Wielkopolski,1661,8.0,9.7
+450,"Grunwald, Poznań",2769,8.8,9.2
+451,"Stare Miasto, Poznań",2479,8.3,8.8
+452,"Stare Miasto, Poznań",2406,9.3,9.6
+453,Chodzież,1680,9.4,8.7
+454,Izabelin,2100,7.6,9.2
+455,"Stare Miasto, Poznań",2803,9.9,8.7
+456,Gniezno,2800,7.3,8.7
+457,Kępno,4620,9.4,9.4
+458,"Jeżyce, Poznań",3534,9.6,8.4
+459,Kalisz,3024,10.0,8.6
+460,"Stare Miasto, Poznań",3484,8.7,9.7
+461,Luboń,3500,10.0,9.2
+462,Boszkowo,5600,8.0,8.8
+463,"Grunwald, Poznań",4366,8.7,9.0
+464,"Stare Miasto, Poznań",2451,8.8,10.0
+465,Ostrów Wielkopolski,1254,9.2,8.9
+466,Leszno,1884,8.2,10.0
+467,Słupca,1960,9.1,8.8
+468,Kujan,2450,9.2,9.9
+469,"Stare Miasto, Poznań",2602,8.7,8.3
+470,"Stare Miasto, Poznań",2889,8.2,8.4
+471,"Stare Miasto, Poznań",2676,9.1,9.3
+472,"Stare Miasto, Poznań",2379,9.6,10.0
+473,Poznań,3089,8.8,8.8
+474,"Grunwald, Poznań",3229,8.8,8.3
+475,"Stare Miasto, Poznań",2379,9.1,9.6
+476,"Stare Miasto, Poznań",2889,6.6,9.6
+477,Poznań,3089,9.9,8.9
+478,"Grunwald, Poznań",3229,10.0,9.4
+479,Kalisz,1887,8.4,8.3
+480,Kępno,4620,8.3,9.2
+481,"Stare Miasto, Poznań",2676,9.6,9.9
+482,Sieraków,1874,9.7,9.1
+483,"Nowe Miasto, Poznań",2789,8.8,8.5
+484,"Stare Miasto, Poznań",2502,9.5,9.2
+485,"Stare Miasto, Poznań",2981,9.5,8.6
+486,Koło,2150,7.9,9.6
+487,"Stare Miasto, Poznań",4562,8.5,9.0
+488,"Stare Miasto, Poznań",3170,8.5,8.9
+489,Pobiedziska,2093,7.8,9.1
+490,"Nowe Miasto, Poznań",2254,8.8,10.0
+491,Piła,1725,9.0,8.5
+492,Leszno,2260,10.0,8.5
+493,"Stare Miasto, Poznań",3119,7.8,8.9
+494,"Stare Miasto, Poznań",5407,9.7,8.4
+495,Kalisz,1483,9.7,10.0
+496,"Stare Miasto, Poznań",2233,9.2,8.2
+497,"Grunwald, Poznań",4149,8.8,8.9
+498,"Grunwald, Poznań",6063,9.0,9.4
+499,Kalisz,1785,9.5,8.2
+500,"Stare Miasto, Poznań",2362,8.4,9.2
+501,"Grunwald, Poznań",4149,9.6,9.0
+502,"Nowe Miasto, Poznań",2737,8.7,9.4
+503,"Stare Miasto, Poznań",4691,8.8,8.3
+504,"Stare Miasto, Poznań",2479,9.1,9.5
+505,"Grunwald, Poznań",6063,7.5,9.4
+506,Kalisz,1785,9.0,9.0
+507,"Nowe Miasto, Poznań",4600,8.6,8.5
+508,"Wilda, Poznań",4046,8.7,8.8
+509,Czempiń,3024,8.5,9.5
+510,"Jeżyce, Poznań",5796,9.1,9.1
+511,"Stare Miasto, Poznań",1765,9.0,8.6
+512,"Stare Miasto, Poznań",3255,8.3,9.5
+513,"Stare Miasto, Poznań",4331,9.9,9.8
+514,"Stare Miasto, Poznań",5026,7.8,8.4
+515,Kalisz,1995,9.3,8.6
+516,Września,2380,9.0,8.9
+517,"Stare Miasto, Poznań",5701,9.5,9.4
+518,"Stare Miasto, Poznań",3130,8.5,9.2
+519,Zatom Stary,2800,9.0,9.0
+520,"Stare Miasto, Poznań",3224,8.6,9.2
+521,Niekursko,7105,8.7,8.5
+522,"Stare Miasto, Poznań",2541,9.1,9.2
+523,"Wilda, Poznań",2275,9.0,8.7
+524,"Wilda, Poznań",2263,8.3,9.2
+525,"Stare Miasto, Poznań",3119,9.9,9.3
+526,"Stare Miasto, Poznań",5701,7.8,9.1
+527,"Stare Miasto, Poznań",5026,9.3,9.3
+528,Kalisz,1995,9.0,10.0
+529,Września,2380,8.9,9.0
+530,"Stare Miasto, Poznań",3146,6.8,9.2
+531,Zatom Stary,2800,7.7,8.9
+532,"Stare Miasto, Poznań",3170,9.9,9.4
+533,Niekursko,7105,9.1,9.3
+534,"Stare Miasto, Poznań",2487,10.0,10.0
+535,"Wilda, Poznań",2166,7.5,9.4
+536,"Wilda, Poznań",2263,8.4,9.1
+537,Pestkownica,9100,9.7,8.2
+538,"Grunwald, Poznań",2506,8.4,8.8
+539,"Jeżyce, Poznań",4851,8.1,9.1
+540,"Nowe Miasto, Poznań",2157,8.7,9.5
+541,Anastazewo,2654,10.0,8.5
+542,Powidz,8400,5.0,9.1
+543,"Stare Miasto, Poznań",4205,8.8,8.7
+544,"Grunwald, Poznań",3613,8.0,8.6
+545,"Nowe Miasto, Poznań",2737,8.6,9.6
+546,"Stare Miasto, Poznań",2689,9.6,9.5
+547,"Jeżyce, Poznań",4185,9.5,8.7
+548,Wolsztyn,5544,9.3,9.0
+549,"Stare Miasto, Poznań",2202,9.1,9.2
+550,Kościan,2800,8.2,9.2
+551,"Stare Miasto, Poznań",2248,9.1,8.4
+552,"Grunwald, Poznań",2996,9.7,8.5
+553,"Grunwald, Poznań",1923,8.9,8.9
+554,Ligota,2925,8.2,10.0
+555,"Nowe Miasto, Poznań",4059,8.7,10.0
+556,"Stare Miasto, Poznań",3119,8.9,8.7
+557,Lubcz Mały,1400,9.4,8.5
+558,"Stare Miasto, Poznań",5635,7.0,10.0
+559,"Stare Miasto, Poznań",5383,8.7,9.5
+560,"Grunwald, Poznań",3336,8.6,8.5
+561,Ostrów Wielkopolski,2213,4.0,8.8
+562,"Nowe Miasto, Poznań",3027,8.9,9.2
+563,"Stare Miasto, Poznań",5192,7.5,9.3
+564,"Jeżyce, Poznań",5796,9.0,9.5
+565,Gniezno,1680,8.2,9.8
+566,"Stare Miasto, Poznań",3194,8.5,9.1
+567,Ligota,2503,8.8,9.2
+568,"Stare Miasto, Poznań",4640,8.5,9.6
+569,Kalisz,1421,10.0,9.7
+570,Wągrowiec,2730,8.0,9.2
+571,"Stare Miasto, Poznań",2958,8.2,8.3
+572,Kościelec,1680,8.8,9.1
+573,"Jeżyce, Poznań",3116,6.7,9.3
+574,"Nowe Miasto, Poznań",4147,6.5,9.5
+575,"Stare Miasto, Poznań",3955,9.2,9.8
+576,"Grunwald, Poznań",2118,8.8,8.6
+577,Borek Wielkopolski,3500,8.0,9.1
+578,"Stare Miasto, Poznań",2362,9.6,9.2
+579,"Stare Miasto, Poznań",3220,8.7,9.6
+580,"Stare Miasto, Poznań",38640,7.8,9.2
+581,"Jeżyce, Poznań",1785,9.4,9.1
+582,Mierzyn,2373,8.2,8.3
+583,Śrem,3150,9.4,9.1
+584,"Stare Miasto, Poznań",3398,9.4,9.8
+585,"Stare Miasto, Poznań",3503,9.0,9.3
+586,Sieraków,3710,8.6,9.5
+587,Zygmuntowo,5241,7.6,9.6
+588,"Stare Miasto, Poznań",4915,9.1,8.7
+589,"Grunwald, Poznań",1604,9.4,9.5
+590,"Stare Miasto, Poznań",3194,8.9,8.6
+591,"Grunwald, Poznań",2726,8.3,8.9
+592,"Stare Miasto, Poznań",2827,4.0,8.8
+593,"Stare Miasto, Poznań",3238,9.4,8.6
+594,"Nowe Miasto, Poznań",3864,9.6,9.2
+595,"Stare Miasto, Poznań",5736,8.5,8.5
+596,"Jeżyce, Poznań",1546,6.9,8.8
+597,"Stare Miasto, Poznań",2815,8.3,9.5
+598,Pobiedziska,2380,8.8,9.0
+599,Boszkowo,3920,9.2,10.0
+600,Margonin,6160,9.3,10.0
+601,Wągrowiec,2730,8.9,9.4
+602,"Stare Miasto, Poznań",2827,9.0,10.0
+603,Piła,2170,8.4,9.5
+604,"Nowe Miasto, Poznań",3199,9.2,8.3
+605,"Grunwald, Poznań",1665,8.2,9.9
+606,"Wilda, Poznań",2674,7.1,9.1
+607,"Stare Miasto, Poznań",4347,9.1,9.7
+608,"Jeżyce, Poznań",1964,8.9,8.2
+609,"Nowe Miasto, Poznań",3267,7.6,9.3
+610,"Jeżyce, Poznań",2501,8.9,9.4
+611,"Wilda, Poznań",2264,9.4,9.4
+612,"Stare Miasto, Poznań",2104,9.0,9.4
+613,Nowy Tomyśl,3220,9.2,9.0
+614,"Nowe Miasto, Poznań",3296,8.8,10.0
+615,"Jeżyce, Poznań",2856,8.8,10.0
+616,"Grunwald, Poznań",2803,8.3,9.3
+617,Leszno,2415,9.3,9.1
+618,Ruchocice,2906,10.0,9.4
+619,"Stare Miasto, Poznań",2958,9.3,8.9
+620,Wiosna,4971,6.6,9.0
+621,Piła,2374,9.0,8.1
+622,Ostrów Wielkopolski,2100,8.6,9.4
+623,"Nowe Miasto, Poznań",4737,9.5,9.2
+624,Kolonia Strachocice,6119,9.4,8.4
+625,Sapowice,2169,9.1,8.4
+626,"Stare Miasto, Poznań",2793,8.5,9.1
+627,Piła,3064,8.9,9.1
+628,Poznań,4250,8.8,9.6
+629,"Wilda, Poznań",3159,8.8,9.2
+630,"Grunwald, Poznań",2559,7.9,9.1
+631,Piła,3220,9.6,8.1
+632,"Wilda, Poznań",2207,9.6,10.0
+633,"Nowe Miasto, Poznań",3373,8.7,8.6
+634,Wilczyn,2830,9.2,8.5
+635,"Wilda, Poznań",2469,7.2,8.7
+636,"Stare Miasto, Poznań",2261,9.2,9.4
+637,Kalisz,1239,9.3,8.2
+638,"Grunwald, Poznań",2192,8.0,9.6
+639,"Stare Miasto, Poznań",1739,8.5,9.2
+640,"Jeżyce, Poznań",1803,8.6,9.1
+641,"Nowe Miasto, Poznań",4059,7.4,8.4
+642,"Stare Miasto, Poznań",1676,10.0,8.1
+643,Sobótka,2590,9.8,9.7
+644,"Stare Miasto, Poznań",1747,8.8,10.0
+645,Piła,4347,8.0,8.8
+646,"Stare Miasto, Poznań",2391,10.0,8.5
+647,Dąbrówka Kościelna,4055,9.3,9.4
+648,"Nowe Miasto, Poznań",4433,8.8,8.1
+649,"Grunwald, Poznań",2470,8.1,8.2
+650,"Stare Miasto, Poznań",3220,7.8,10.0
+651,"Stare Miasto, Poznań",4725,8.9,8.0
+652,"Grunwald, Poznań",3621,9.1,9.5
+653,"Stare Miasto, Poznań",3864,9.5,9.1
+654,"Stare Miasto, Poznań",2362,9.7,8.8
+655,"Jeżyce, Poznań",2861,8.8,10.0
+656,"Grunwald, Poznań",1642,9.3,9.0
+657,Trzcianka,5187,9.4,10.0
+658,Ujazdowo,5460,9.5,9.6
+659,Trzcianka,2660,6.8,8.3
+660,"Stare Miasto, Poznań",4848,9.2,9.4
+661,"Grunwald, Poznań",2098,8.1,8.8
+662,"Stare Miasto, Poznań",4347,8.8,8.5
+663,"Grunwald, Poznań",3117,7.8,8.7
+664,"Stare Miasto, Poznań",3002,9.1,8.8
+665,"Grunwald, Poznań",4717,9.5,8.5
+666,"Grunwald, Poznań",4341,9.7,9.2
+667,"Nowe Miasto, Poznań",2138,8.8,9.9
+668,"Stare Miasto, Poznań",3119,8.8,9.5
+669,Marylin,3824,9.3,9.2
+670,Dominice,5354,9.4,9.5
+671,Gniezno,1680,8.9,8.8
+672,Sławianowo,2294,6.8,9.2
+673,"Grunwald, Poznań",3349,9.6,9.4
+674,"Stare Miasto, Poznań",5954,8.1,9.1
+675,"Grunwald, Poznań",2098,8.8,8.5
+676,"Grunwald, Poznań",3117,9.5,9.2
+677,"Stare Miasto, Poznań",3002,9.6,9.2
+678,"Grunwald, Poznań",4717,9.5,8.4
+679,Kalisz,1750,9.5,9.9
+680,"Grunwald, Poznań",4341,6.8,10.0
+681,"Nowe Miasto, Poznań",2138,8.8,9.5
+682,"Stare Miasto, Poznań",3119,6.0,8.8
+683,"Stare Miasto, Poznań",4347,9.2,9.2
+684,Gniezno,1680,8.0,9.1
+685,Lwówek,3327,9.0,9.5
+686,"Grunwald, Poznań",3349,8.9,8.8
+687,"Stare Miasto, Poznań",5954,7.4,9.2
+688,"Stare Miasto, Poznań",3202,8.2,9.4
+689,Przykona,3466,9.0,8.5
+690,Piła,2205,8.6,9.2
+691,"Stare Miasto, Poznań",3128,8.9,10.0
+692,"Stare Miasto, Poznań",2038,9.5,9.6
+693,"Jeżyce, Poznań",2861,8.3,8.8
+694,Konin,1688,8.0,10.0
+695,"Grunwald, Poznań",3864,10.0,8.9
+696,"Stare Miasto, Poznań",3824,8.7,10.0
+697,"Stare Miasto, Poznań",2116,9.4,10.0
+698,"Grunwald, Poznań",2492,9.0,10.0
+699,"Stare Miasto, Poznań",2835,9.5,9.6
+700,"Nowe Miasto, Poznań",3213,7.8,8.8
+701,"Stare Miasto, Poznań",2052,9.7,8.8
+702,"Stare Miasto, Poznań",3085,8.8,8.9
+703,"Stare Miasto, Poznań",2898,9.6,10.0
+704,"Wilda, Poznań",2735,8.5,9.4
+705,"Stare Miasto, Poznań",3545,9.6,10.0
+706,Gniezno,1981,9.7,9.4
+707,Pobiedziska,3320,9.2,10.0
+708,Lednogóra,3500,9.2,9.6
+709,"Wilda, Poznań",3214,6.7,9.5
+710,Kalisz,1379,9.1,8.8
+711,"Stare Miasto, Poznań",3999,9.8,8.4
+712,Piła,2450,9.7,9.0
+713,"Stare Miasto, Poznań",2717,9.9,8.4
+714,"Stare Miasto, Poznań",3542,8.8,8.4
+715,Kalisz,1820,9.2,10.0
+716,Lednogóra,4400,9.5,9.9
+717,"Stare Miasto, Poznań",2304,8.6,9.0
+718,Przykona,3466,8.2,8.1
+719,Powidz,3413,9.2,8.8
+720,Gniezno,2426,8.0,10.0
+721,"Stare Miasto, Poznań",2898,9.4,9.6
+722,"Nowe Miasto, Poznań",1529,7.9,9.3
+723,"Jeżyce, Poznań",2737,8.4,8.8
+724,Kalisz,1820,9.0,10.0
+725,"Grunwald, Poznań",3431,8.9,10.0
+726,"Jeżyce, Poznań",3188,9.4,9.6
+727,"Stare Miasto, Poznań",6440,9.2,9.0
+728,"Stare Miasto, Poznań",2052,8.7,9.0
+729,"Stare Miasto, Poznań",3591,8.0,8.9
+730,"Stare Miasto, Poznań",3525,9.4,9.5
+731,Gniezno,1666,8.8,9.1
+732,Gniezno,2426,8.3,9.5
+733,Konin,1250,8.4,9.3
+734,"Nowe Miasto, Poznań",2898,9.2,8.6
+735,"Wilda, Poznań",3132,6.7,10.0
+736,"Grunwald, Poznań",3344,8.4,8.3
+737,"Stare Miasto, Poznań",3735,9.4,8.1
+738,"Stare Miasto, Poznań",2924,9.2,8.8
+739,"Stare Miasto, Poznań",2526,8.7,10.0
+740,"Grunwald, Poznań",2273,8.5,9.6
+741,"Jeżyce, Poznań",10948,8.0,9.3
+742,Poznań,4620,9.6,8.8
+743,"Stare Miasto, Poznań",2935,9.4,10.0
+744,"Nowe Miasto, Poznań",12045,9.0,10.0
+745,"Wilda, Poznań",3031,7.4,9.0
+746,"Stare Miasto, Poznań",3679,8.3,9.0
+747,"Grunwald, Poznań",4975,9.2,8.9
+748,"Nowe Miasto, Poznań",1529,8.2,9.1
+749,Kalisz,1890,7.0,9.5
+750,"Stare Miasto, Poznań",2526,6.7,10.0
+751,"Grunwald, Poznań",2273,8.4,8.7
+752,"Jeżyce, Poznań",10948,10.0,8.7
+753,"Jeżyce, Poznań",2240,8.5,9.7
+754,Poznań,4620,7.4,9.6
+755,"Nowe Miasto, Poznań",3313,9.0,9.9
+756,"Wilda, Poznań",2604,8.8,9.6
+757,"Stare Miasto, Poznań",2935,8.8,8.8
+758,"Stare Miasto, Poznań",13382,9.9,9.0
+759,"Stare Miasto, Poznań",2698,8.8,10.0
+760,"Wilda, Poznań",3005,9.9,8.8
+761,"Grunwald, Poznań",4975,8.3,9.2
+762,Gniezno,1666,8.1,8.6
+763,"Stare Miasto, Poznań",3003,9.7,8.2
+764,"Nowe Miasto, Poznań",1529,8.5,10.0
+765,Kalisz,1890,8.2,8.6
+766,Koło,2150,8.8,9.1
+767,"Jeżyce, Poznań",3026,9.2,8.8
+768,Poznań,3606,8.6,9.0
+769,"Stare Miasto, Poznań",3119,9.0,10.0
+770,"Stare Miasto, Poznań",3377,7.7,8.6
+771,Modła Królewska,1542,9.7,9.2
+772,"Grunwald, Poznań",4188,9.4,8.8
+773,"Stare Miasto, Poznań",2261,8.5,8.2
+774,"Stare Miasto, Poznań",2607,7.2,8.6
+775,"Grunwald, Poznań",2893,9.5,10.0
+776,"Stare Miasto, Poznań",2438,7.9,9.8
+777,"Grunwald, Poznań",3015,8.8,9.3
+778,Siedlisko,2100,8.5,8.9
+779,"Stare Miasto, Poznań",4197,8.8,8.7
+780,Kalisz,1700,9.5,8.5
