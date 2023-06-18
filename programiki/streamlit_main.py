@@ -1,10 +1,10 @@
 import streamlit as st
 import pandas as pd
 
+##Todo: zmienić te funkcje woj_page, city_page, dodać kolejne, dodać funkcje rysujące wykresiki itp
 
 def woj_page(name_of_csv):
-
-    st.subheader("Noclegi według województw (7 nocy): ")
+    st.subheader("Noclegi według województw: ")
     st.write("")
 
     df = pd.read_csv(f'{name_of_csv}')
@@ -24,7 +24,7 @@ def woj_page(name_of_csv):
 
 
 def city_page(name_of_csv):
-    st.subheader("Noclegi według 20 najpopularniejszych miast (7 nocy): ")
+    st.subheader("Noclegi według 20 najpopularniejszych miast: ")
     st.write("")
 
     df = pd.read_csv(f'{name_of_csv}')
@@ -43,33 +43,14 @@ def city_page(name_of_csv):
     st.bar_chart(woj_df)
 
 
-st.title("Wakacje w Polsce")
-st.write("")
+def ch_option(csv_names, display_function):
+    pages_names = ['1 dorosły', '2 dorosłych', '2 dorosłych, 1 dziecko', '2 dorosłych, 2 dzieci']
+    page = st.sidebar.radio('Wybierz opcję:', pages_names)
 
-page_names = ['1 dorosły', '2 dorosłych', '2 dorosłych, 1 dziecko', '2 dorosłych, 2 dzieci']
-
-page = st.sidebar.radio('Wybierz opcję:', page_names)
-st.write("")
-
-csv_files = ['average.csv']
-city_files = ['av_cities1.csv', 'av_cities2.csv', 'av_cities2_1.csv', 'av_cities2_2.csv']
-
-
-if page == page_names[0]:
-    woj_page(csv_files[0])
-    city_page(city_files[0])
-
-elif page == page_names[1]:
-    woj_page(csv_files[0])##1
-    city_page(city_files[1])
-
-elif page == page_names[2]:
-    woj_page(csv_files[0])##2
-    city_page(city_files[2])
-
-elif page == page_names[3]:
-    woj_page(csv_files[0])##3
-    city_page(city_files[3])
+    for i in range(4):
+        if page == pages_names[i]:
+            display_function(csv_names[i])
+            break
 
 
 
