@@ -17,12 +17,21 @@ def woj_page(name_of_csv):
 
     woj_df = pd.DataFrame(df.loc['koszt'])
     woj_df = woj_df.round(1).astype(int)
-    st.dataframe(woj_df.style.highlight_min(axis=0, color='green').highlight_max(axis=0, color='red'))
-    st.write("")
+    
 
-    st.line_chart(woj_df)
-    st.write("")
-    st.bar_chart(woj_df)
+    st.subheader("Średni koszt noclegu")
+    genre = st.radio(
+        "Wybierz rodzaj wykresu",
+        ('Słupkowy', 'Liniowy')
+    )
+    if genre == 'Liniowy':
+        st.line_chart(woj_df)
+        st.write("")
+    else:
+        st.bar_chart(woj_df)
+        st.write("")
+
+    st.subheader("Porównanie cen i ocen ogłoszeń")
     wojewodztwa = ('dolnośląskie', 'kujawsko-pomorskie', 'lubelskie', 'lubuskie', 'łódzkie', 'małopolskie', 'mazowieckie', 'opolskie', 'podkarpackie', 'podlaskie', 'pomorskie', 'śląskie', 'świętokrzyskie', 'warmińsko-Mazurskie', 'wielkopolskie', 'zachodniopomorskie')
     option1 = st.selectbox('Województwo', wojewodztwa)
     scatter_woj(option1, name_of_csv)
@@ -39,13 +48,21 @@ def city_page(name_of_csv):
 
     woj_df = pd.DataFrame(df.loc['koszt'])
     woj_df = woj_df.round(1).astype(int)
-    st.dataframe(woj_df.style.highlight_min(axis=0, color='green').highlight_max(axis=0, color='red'))
-    st.write("")
 
-    st.line_chart(woj_df)
-    st.write("")
-    st.bar_chart(woj_df)
 
+    st.subheader("Średni koszt noclegu")
+    genre = st.radio(
+        "Wybierz rodzaj wykresu",
+        ('Słupkowy', 'Liniowy')
+    )
+    if genre == 'Liniowy':
+        st.line_chart(woj_df)
+        st.write("")
+    else:
+        st.bar_chart(woj_df)
+        st.write("")
+
+    st.subheader("Porównanie cen i ocen ogłoszeń")
     miasta = ('Bydgoszcz', 'Gdańsk', 'Gliwice', 'Jelenia Góra', 'Kraków', 'Lublin', 'Nowy Targ', 'Olsztyn', 'Opole', 'Przemyśl', 'Sandomierz', 'Sanok', 'Szczecin', 'Toruń', 'Wadowice', 'Warszawa', 'Wrocław', 'Zamość', 'Zielona Góra', 'Łódź' )
     option1 = st.selectbox('Miasto', miasta)
     scatter_city(option1, name_of_csv)

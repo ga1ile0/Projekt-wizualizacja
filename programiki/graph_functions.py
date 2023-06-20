@@ -50,6 +50,8 @@ def scatter_city(city_name, name_of_csv):
             filtered_y_values.append(y)
     dot_size = 10
     ax.scatter(filtered_x_values, filtered_y_values, s=dot_size)
+    ax.set_xlabel('Cena')
+    ax.set_ylabel('Ocena')
     st.pyplot(fig)
 
 def scatter_woj(woj_name, name_of_csv):
@@ -71,5 +73,7 @@ def scatter_woj(woj_name, name_of_csv):
             filtered_y_values.append(y)
     dot_size = 10
     ax.scatter(filtered_x_values, filtered_y_values, s=dot_size)
+    ax.set_xlabel('Cena')
+    ax.set_ylabel('Ocena')
     st.pyplot(fig)
 
