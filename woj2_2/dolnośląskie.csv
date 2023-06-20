@@ -1,0 +1,898 @@
+,City,Cost,Rating,Comfort
+0,Sienna,5588,8.6,8.8
+1,"Śródmieście, Wrocław",2961,8.4,8.5
+2,Szklarska Poręba,2813,7.5,8.4
+3,Mysłakowice,5040,8.5,8.7
+4,Szklarska Poręba,2711,8.9,8.2
+5,Szklarska Poręba,3088,8.3,9.1
+6,Mysłakowice,3455,9.0,8.7
+7,Stronie Śląskie,12846,8.3,9.5
+8,"Zieleniec, Duszniki-Zdrój",4963,9.3,9.1
+9,Stare Bogaczowice,2456,9.1,9.2
+10,Świeradów-Zdrój,8321,8.7,8.9
+11,Szklarska Poręba,5846,8.8,8.8
+12,Polanica-Zdrój,5959,8.8,9.5
+13,Szklarska Poręba,4710,9.0,8.4
+14,Kudowa-Zdrój,5278,8.4,9.8
+15,Głuszyca Górna,2826,9.7,8.5
+16,Bielany Wrocławskie,4020,8.5,8.2
+17,"Fabryczna, Wrocław",4116,8.0,9.0
+18,Świeradów-Zdrój,6646,8.7,9.3
+19,Bolesławiec,2870,9.1,9.1
+20,Karpacz,9726,8.8,8.8
+21,Polanica-Zdrój,8386,8.7,8.3
+22,Świeradów-Zdrój,5604,8.0,8.4
+23,Legnica,6160,8.1,8.1
+24,"Śródmieście, Wrocław",3750,8.4,8.0
+25,Jelenia Góra,4060,8.0,9.5
+26,Wojanów,7132,8.2,8.0
+27,Sienna,3426,9.4,9.0
+28,Szklarska Poręba,1407,8.3,9.2
+29,Podgórzyn,5540,8.9,8.1
+30,Karpacz,9293,8.8,9.3
+31,Stronie Śląskie,10874,7.8,9.5
+32,"Stare Miasto, Wrocław",2831,7.3,8.2
+33,"Krzyki, Wrocław",10114,9.0,8.9
+34,Szczytna,2484,9.5,9.0
+35,"Krzyki, Wrocław",2760,7.4,8.7
+36,"Stare Miasto, Wrocław",3818,8.2,8.7
+37,Srebrna Góra,5094,8.8,8.0
+38,Dzierżoniów,2363,8.9,9.2
+39,Szklarska Poręba,3540,8.6,8.1
+40,Karpacz,6496,8.6,8.7
+41,Marcinowice,3780,8.3,8.4
+42,Dzierżoniów,3640,7.8,8.9
+43,Siechnice,2190,6.5,8.2
+44,Kłodzko,7980,9.3,8.7
+45,"Stare Miasto, Wrocław",4521,7.9,8.9
+46,Legnica,5735,8.6,8.4
+47,"Stare Miasto, Wrocław",6882,8.2,8.2
+48,"Krzyki, Wrocław",4332,8.7,8.9
+49,Złoty Potok,4277,8.6,9.3
+50,Legnica,5735,8.6,8.5
+51,"Krzyki, Wrocław",4332,8.7,8.4
+52,"Stare Miasto, Wrocław",6882,8.2,9.2
+53,Złoty Potok,4234,8.6,9.5
+54,Dzierżoniów,1990,8.8,8.9
+55,Gądkowice,2520,7.3,9.2
+56,Legnica,2385,9.1,8.6
+57,Oława,3664,8.4,9.0
+58,Karpacz,7076,8.5,9.8
+59,"Krzyki, Wrocław",7723,8.9,9.0
+60,Polanica-Zdrój,3050,9.5,9.1
+61,Karpacz,5653,8.8,9.3
+62,Szczawno-Zdrój,5681,9.2,9.0
+63,Wałbrzych,1835,8.4,9.2
+64,Szklarska Poręba,5973,8.3,8.9
+65,Jelenia Góra,4508,9.9,9.7
+66,Sienna,2703,8.9,8.3
+67,Duszniki-Zdrój,8372,9.0,8.2
+68,Szklarska Poręba,8918,8.8,9.0
+69,Sosnówka,10240,8.6,9.2
+70,"Krzyki, Wrocław",8100,9.0,8.6
+71,"Krzyki, Wrocław",5496,8.8,8.5
+72,"Stare Miasto, Wrocław",7662,9.5,9.2
+73,Jugów,2834,8.2,9.4
+74,Kłodzko,5012,8.0,9.3
+75,Kłodzko,5068,8.0,8.6
+76,"Krzyki, Wrocław",3796,8.3,9.3
+77,Trzebieszowice,6744,8.1,8.8
+78,Sienna,4618,8.5,8.9
+79,"Fabryczna, Wrocław",3699,9.1,8.7
+80,"Krzyki, Wrocław",3248,7.7,9.4
+81,Karpacz,6457,8.5,8.9
+82,Stronie Śląskie,9631,8.5,9.6
+83,"Stare Miasto, Wrocław",6375,8.9,8.6
+84,Sobótka,3256,9.6,8.8
+85,Lądek-Zdrój,4535,8.1,8.4
+86,"Stare Miasto, Wrocław",7177,8.7,9.4
+87,"Stare Miasto, Wrocław",3658,8.5,8.8
+88,Wojcieszyce,9502,9.0,9.4
+89,"Stare Miasto, Wrocław",4107,7.5,9.1
+90,Karpacz,6063,7.9,8.5
+91,"Stare Miasto, Wrocław",5586,8.6,9.2
+92,Legnica,3640,8.8,8.6
+93,Długopole-Zdrój,7891,8.5,8.9
+94,Duszniki-Zdrój,2960,9.4,9.3
+95,Sędziszowa,2640,9.2,9.0
+96,"Śródmieście, Wrocław",7266,9.1,9.0
+97,Karpacz,6600,8.5,9.7
+98,Jędrzychowice,2338,7.6,8.5
+99,Szklarska Poręba,12880,9.3,8.6
+100,Szklarska Poręba,3282,8.5,9.5
+101,Świeradów-Zdrój,3426,9.2,8.9
+102,Bolesławów,3824,9.1,8.9
+103,Szklarska Poręba,11604,9.0,8.4
+104,"Śródmieście, Wrocław",3472,7.4,8.8
+105,"Śródmieście, Wrocław",9186,8.8,8.6
+106,Doboszowice,3304,8.6,8.8
+107,Szklarska Poręba,8708,9.1,8.8
+108,"Stare Miasto, Wrocław",2379,8.4,9.0
+109,"Stare Miasto, Wrocław",7730,8.7,9.6
+110,Glinno,5294,9.5,9.1
+111,"Krzyki, Wrocław",5670,8.8,8.8
+112,"Stare Miasto, Wrocław",6210,8.6,9.4
+113,Sosnówka,16810,9.4,9.0
+114,Karpacz,6882,8.2,8.8
+115,"Stare Miasto, Wrocław",6262,8.4,8.0
+116,Milicz,4620,9.4,8.1
+117,Pierwoszów,3407,8.9,8.7
+118,Sędziszowa,2640,9.2,9.8
+119,"Stare Miasto, Wrocław",4018,8.3,9.1
+120,"Stare Miasto, Wrocław",6193,8.7,9.4
+121,Jugów,2666,8.5,8.0
+122,Bukowiec,3168,8.7,9.5
+123,Kudowa-Zdrój,4965,8.8,9.2
+124,Szklarska Poręba,3454,8.4,9.2
+125,Jelenia Góra,7226,8.9,9.0
+126,Szklarska Poręba,9687,9.4,8.9
+127,Wałbrzych,4060,9.3,8.4
+128,Golejów,2479,8.9,8.7
+129,Oleśnica,2737,9.3,8.5
+130,"Stare Miasto, Wrocław",5842,8.6,9.4
+131,Złotoryja,3780,8.7,8.4
+132,Szklarska Poręba,6330,7.6,8.7
+133,"Fabryczna, Wrocław",2811,7.9,9.4
+134,Karpacz,6577,8.3,8.9
+135,Bolesławiec,2576,8.8,8.6
+136,"Stare Miasto, Wrocław",4361,7.0,9.3
+137,Jelenia Góra,2315,9.7,8.8
+138,Trzebnica,2940,8.9,9.3
+139,Szklarska Poręba,3318,9.4,8.3
+140,Dzierżoniów,2190,8.3,9.1
+141,Karpacz,6818,9.5,9.7
+142,Bielawa,8292,9.0,9.7
+143,Bielany Wrocławskie,3640,8.9,9.8
+144,Polanica-Zdrój,6594,9.1,8.8
+145,Kudowa-Zdrój,8666,8.7,9.4
+146,Niemcza,8232,8.2,8.9
+147,Świeradów-Zdrój,7334,8.5,9.2
+148,Srebrna Góra,3388,8.9,8.4
+149,"Stare Miasto, Wrocław",6686,9.1,9.2
+150,Niemcza,8232,8.2,8.1
+151,Świeradów-Zdrój,7334,8.5,9.3
+152,"Stare Miasto, Wrocław",7406,9.1,9.0
+153,Kudowa-Zdrój,8386,8.7,9.5
+154,Polanica-Zdrój,9902,8.6,8.8
+155,Pieszyce,2478,9.1,8.8
+156,"Stare Miasto, Wrocław",4785,8.5,8.2
+157,Szklarska Poręba,2756,9.2,9.4
+158,"Stare Miasto, Wrocław",4018,8.3,8.4
+159,"Stare Miasto, Wrocław",3700,9.0,9.7
+160,Polanica-Zdrój,8596,9.6,8.8
+161,Szklarska Poręba,4538,9.5,9.0
+162,Jaworek,4184,9.8,8.4
+163,"Stare Miasto, Wrocław",7205,8.5,8.4
+164,Stronie Śląskie,3606,9.5,9.1
+165,Karpacz,2491,8.8,9.5
+166,Sosnówka,4803,8.8,9.5
+167,Łozina,2660,8.4,8.8
+168,Karpacz,7866,9.1,8.4
+169,Polkowice,3170,8.1,8.2
+170,"Śródmieście, Wrocław",6160,9.2,8.5
+171,"Śródmieście, Wrocław",2920,8.8,9.1
+172,"Stare Miasto, Wrocław",6114,9.2,9.6
+173,"Krzyki, Wrocław",5106,8.6,8.7
+174,Bolesławiec,3643,7.6,8.0
+175,Polanica-Zdrój,4116,8.9,9.0
+176,Głogów,2800,8.2,9.6
+177,Karpacz,2668,9.4,8.0
+178,"Krzyki, Wrocław",4011,8.4,8.4
+179,Szklarska Poręba,4218,9.4,9.5
+180,"Śródmieście, Wrocław",5686,8.6,9.1
+181,Karpacz,3497,8.9,8.8
+182,Bielawa,4550,8.6,9.1
+183,Karpacz,8578,8.8,8.8
+184,Jaworzyna Śląska,2215,7.7,8.8
+185,"Krzyki, Wrocław",4553,8.8,9.9
+186,"Stare Miasto, Wrocław",2907,7.6,8.7
+187,Głuszyca,3704,9.6,8.8
+188,Złoty Stok,2761,9.4,9.0
+189,Oława,3920,8.6,9.0
+190,Lądek-Zdrój,4200,8.5,8.5
+191,Wójtowice,5992,8.7,9.0
+192,Szklarska Poręba,7570,8.5,8.0
+193,Szklarska Poręba,6003,8.9,10.0
+194,"Śródmieście, Wrocław",6401,9.5,8.8
+195,"Cieplice, Jelenia Góra",4707,8.8,8.0
+196,Szczawno-Zdrój,2940,8.3,9.4
+197,Głogów,1610,9.1,9.7
+198,Zgorzelec,4379,9.3,8.8
+199,"Stare Miasto, Wrocław",2790,8.0,8.4
+200,Zgorzelec,5296,8.3,8.5
+201,Szklarska Poręba,5829,9.4,8.8
+202,Wojcieszyce,3250,9.4,9.1
+203,Oleśnica,3290,7.8,9.1
+204,Karpacz,4547,8.8,9.1
+205,Kudowa-Zdrój,5306,9.2,9.2
+206,Oława,3920,8.6,8.8
+207,"Śródmieście, Wrocław",4309,8.5,8.0
+208,Sokolec,2856,9.9,9.3
+209,Mirsk,1674,9.0,8.4
+210,Karpacz,4432,8.7,8.8
+211,"Stare Miasto, Wrocław",7066,8.6,8.8
+212,"Śródmieście, Wrocław",3743,8.9,9.4
+213,Karpacz,3046,8.9,8.2
+214,Głogów,1610,9.1,8.6
+215,Szklarska Poręba,6916,7.7,9.5
+216,Karłowice,2753,8.4,9.0
+217,Jelenia Góra,2189,9.3,8.0
+218,Karpacz,3240,9.0,8.5
+219,Nowa Ruda,2240,8.1,9.4
+220,Sosnówka,3641,9.4,9.1
+221,Lądek-Zdrój,5942,9.7,9.6
+222,Oborniki Śląskie,3626,8.7,8.4
+223,"Śródmieście, Wrocław",4572,8.7,9.2
+224,Bolesławiec,5166,8.3,9.0
+225,Wałbrzych,4410,8.7,8.6
+226,"Stare Miasto, Wrocław",5833,8.9,9.4
+227,Kudowa-Zdrój,3300,9.0,8.8
+228,Bolesławiec,4270,8.9,8.4
+229,Kostrzyca,2202,9.3,8.6
+230,Oborniki Śląskie,3913,8.7,8.6
+231,Świeradów-Zdrój,6578,8.2,9.0
+232,Lubin,3080,7.9,8.9
+233,Stronie Śląskie,3709,9.3,9.5
+234,"Fabryczna, Wrocław",4756,8.1,9.3
+235,"Fabryczna, Wrocław",3166,8.6,9.6
+236,Bogatynia,2380,9.1,8.7
+237,Karpacz,3795,9.5,10.0
+238,Świeradów-Zdrój,5656,8.3,8.9
+239,"Stare Miasto, Wrocław",6224,8.5,8.7
+240,Polanica-Zdrój,2693,9.4,9.4
+241,"Śródmieście, Wrocław",3625,8.9,8.4
+242,Wałbrzych,2730,8.2,8.9
+243,Oleśnica,3290,7.8,8.3
+244,"Stare Miasto, Wrocław",3585,8.4,9.0
+245,Szklarska Poręba,4869,9.2,8.5
+246,Szklarska Poręba,3018,9.3,8.5
+247,Mysłakowice,2982,9.8,8.9
+248,Kliczków,6446,8.4,8.9
+249,"Krzyki, Wrocław",2935,8.9,8.7
+250,Karpacz,3555,8.9,8.2
+251,Dzierżoniów,3570,8.7,8.0
+252,Oleśnica,2895,9.1,9.2
+253,Karpacz,3240,9.0,9.0
+254,"Stare Miasto, Wrocław",4263,7.9,9.6
+255,Bogatynia,4006,7.2,8.2
+256,Szklarska Poręba,2039,8.6,9.1
+257,Świeradów-Zdrój,5880,8.5,8.3
+258,"Stare Miasto, Wrocław",6224,8.5,8.2
+259,Kudowa-Zdrój,5236,8.7,8.9
+260,Polanica-Zdrój,5012,8.9,8.4
+261,Szczytna,2520,9.5,8.6
+262,Jelenia Góra,3808,9.2,9.0
+263,Bystrzyca Kłodzka,2677,9.7,9.6
+264,Oława,3360,8.6,8.9
+265,"Stare Miasto, Wrocław",5980,7.8,9.4
+266,Polanica-Zdrój,2206,10.0,8.8
+267,Wałbrzych,5050,8.0,8.5
+268,Wałbrzych,3640,8.9,9.7
+269,Głogów,1410,8.7,9.8
+270,Świeradów-Zdrój,5472,9.1,8.4
+271,Jedlina-Zdrój,3466,8.7,8.4
+272,"Psie Pole, Wrocław",5139,8.6,9.3
+273,Świdnica,3207,8.4,9.1
+274,Radwanice,3500,9.0,9.2
+275,"Stare Miasto, Wrocław",4348,8.3,8.1
+276,Duszniki-Zdrój,4809,8.7,9.9
+277,Wałbrzych,3640,8.9,8.7
+278,Stronie Śląskie,2310,9.2,9.0
+279,Szklarska Poręba,5021,8.9,9.2
+280,Świerzawa,2434,8.8,9.4
+281,Karpacz,2516,8.4,8.6
+282,Bolesławiec,5460,9.3,9.6
+283,"Stare Miasto, Wrocław",4646,8.7,8.8
+284,Kamienna Góra,2077,9.5,8.9
+285,"Stare Miasto, Wrocław",8640,8.2,8.2
+286,Bolków,4900,7.4,8.4
+287,"Śródmieście, Wrocław",7926,8.6,8.9
+288,Lubin,4830,7.7,9.2
+289,"Stare Miasto, Wrocław",4821,8.1,8.7
+290,Szklarska Poręba,3618,9.1,8.8
+291,Osiecznica,2240,8.9,8.1
+292,Szklarska Poręba,4550,8.8,9.2
+293,Oława,2083,8.8,8.8
+294,Karpacz,9805,9.5,9.4
+295,Boguszów-Gorce,4536,7.5,8.6
+296,Wałbrzych,1995,8.8,9.1
+297,Karpacz,3733,9.1,9.6
+298,Miłków,4950,8.6,10.0
+299,"Fabryczna, Wrocław",3166,8.7,8.8
+300,Karpacz,1960,9.6,8.9
+301,"Cieplice, Jelenia Góra",2512,9.7,8.9
+302,"Cieplice, Jelenia Góra",3370,8.2,8.0
+303,Zgorzelec,5366,8.5,8.4
+304,Karłowice,3059,9.2,8.9
+305,Bolesławiec,3843,8.9,9.2
+306,"Stare Miasto, Wrocław",3631,8.7,8.6
+307,Wałbrzych,2801,7.9,8.8
+308,Szklarska Poręba,2848,9.9,9.1
+309,Proszowa,4820,8.8,9.3
+310,Gorzuchów,2450,8.9,9.7
+311,Głogów,1820,9.2,8.3
+312,Karpacz,5230,9.0,9.1
+313,Karpacz,4220,8.7,8.8
+314,Sokolec,3913,9.4,8.8
+315,Bolków,2583,8.7,8.4
+316,Karpacz,8694,8.8,8.5
+317,"Stare Miasto, Wrocław",6263,7.6,8.8
+318,Strzegom,2443,8.6,9.2
+319,Oława,3360,8.8,9.5
+320,Szklarska Poręba,4698,9.1,9.7
+321,Świdnica,2628,8.9,8.8
+322,Polanica-Zdrój,6726,8.3,9.0
+323,Karłów,3059,9.0,9.2
+324,Leśna,3080,7.9,9.2
+325,Szklarska Poręba,2624,9.1,8.6
+326,Szklarska Poręba,3229,8.9,8.3
+327,Karpacz,3543,9.0,9.2
+328,Karpacz,3683,8.7,8.9
+329,Sokolec,3913,9.0,8.7
+330,Boleścin,3528,9.4,8.9
+331,Bolków,3024,10.0,8.7
+332,Głogów,1714,8.7,8.0
+333,Karpacz,8694,8.7,8.2
+334,Polanica-Zdrój,2356,8.8,9.9
+335,"Stare Miasto, Wrocław",6263,8.1,9.1
+336,Jawor,1660,8.6,9.0
+337,Oława,3360,8.8,9.1
+338,Szklarska Poręba,4338,9.1,8.7
+339,Świdnica,2628,8.3,8.9
+340,Karłów,3059,8.4,9.4
+341,Szarocin,4767,9.0,9.0
+342,Leśna,3080,9.0,9.4
+343,"Stare Miasto, Wrocław",5610,9.4,9.2
+344,Jelenia Góra,2915,9.7,9.8
+345,Międzygórze,4550,8.5,8.9
+346,Janowice Wielkie,3850,9.1,9.0
+347,Głogów,1550,8.8,9.0
+348,Szklarska Poręba,6056,8.8,8.8
+349,Kłodzko,2915,8.6,9.5
+350,Oława,3360,8.5,8.2
+351,Karpacz,3421,8.8,9.4
+352,Kłodzko,2975,9.1,8.9
+353,"Krzyki, Wrocław",4071,9.5,8.1
+354,Głogów,1599,9.6,8.2
+355,Bolesławiec,2990,8.8,9.6
+356,Długopole-Zdrój,2834,9.2,9.4
+357,Polanica-Zdrój,3647,9.3,8.0
+358,Sienna,2452,9.2,8.4
+359,Karpacz,2071,8.4,9.3
+360,Szklarska Poręba,3150,8.5,9.3
+361,Szarocin,4767,9.1,9.0
+362,Bolesławiec,1190,8.7,8.0
+363,Świeradów-Zdrój,2844,8.8,9.3
+364,Trzebnica,4466,9.1,9.3
+365,Kudowa-Zdrój,4646,8.7,9.6
+366,Bystrzyca Górna,3556,7.6,9.0
+367,Karpacz,2471,7.8,9.7
+368,Lubin,4620,8.5,9.2
+369,"Stare Miasto, Wrocław",4689,9.9,8.4
+370,Karpacz,2940,8.9,9.8
+371,Lubin,2030,8.8,9.8
+372,"Stare Miasto, Wrocław",3631,8.9,9.2
+373,Oława,2940,7.3,8.5
+374,Jelenia Góra,1630,8.5,9.2
+375,Karpacz,3625,8.9,8.2
+376,"Śródmieście, Wrocław",5880,9.6,9.7
+377,Duszniki-Zdrój,5006,8.8,9.6
+378,Kłodzko,2640,9.3,8.5
+379,Kłodzko,2583,9.1,8.0
+380,Szklarska Poręba,5870,9.5,9.1
+381,Karpacz,6893,8.8,8.0
+382,Jeżów Sudecki,3478,9.0,8.8
+383,Głogów,5194,8.6,9.5
+384,"Śródmieście, Wrocław",4140,9.0,9.4
+385,"Krzyki, Wrocław",6850,9.4,9.5
+386,Międzygórze,2716,8.3,8.8
+387,Polanica-Zdrój,5012,9.2,9.4
+388,Stronie Śląskie,2331,8.6,8.7
+389,Polanica-Zdrój,2254,8.4,8.7
+390,Legnica,3220,7.9,8.6
+391,Milicz,2100,9.6,8.1
+392,"Krzyki, Wrocław",4366,9.4,9.3
+393,Głogów,2420,8.2,9.1
+394,Głogów,2320,8.3,8.3
+395,Jedlina-Zdrój,3053,7.9,9.6
+396,Karczyce,3220,8.8,9.7
+397,Lądek-Zdrój,4820,9.4,9.1
+398,Szklarska Poręba,10614,9.0,8.9
+399,Szklarska Poręba,4896,8.2,8.8
+400,"Śródmieście, Wrocław",4140,8.8,9.1
+401,Jedlina-Zdrój,3053,9.4,9.7
+402,Szklarska Poręba,9934,9.5,8.4
+403,Szklarska Poręba,4173,8.8,8.6
+404,Lądek-Zdrój,3752,9.7,9.3
+405,Karpacz,2984,8.7,8.8
+406,Zagrodno,3920,7.3,9.7
+407,"Stare Miasto, Wrocław",9020,8.1,10.0
+408,Polanica-Zdrój,2645,9.8,8.4
+409,Międzylesie,3094,9.8,9.5
+410,Międzylesie,3717,9.3,9.6
+411,Lubawka,2834,8.2,8.7
+412,Jelenia Góra,3027,9.1,8.1
+413,Legnica,5180,8.1,8.4
+414,Karpacz,6893,9.5,8.3
+415,"Stare Miasto, Wrocław",3841,9.6,8.8
+416,"Stare Miasto, Wrocław",6740,8.5,9.4
+417,Srebrna Góra,3274,7.9,8.9
+418,Szklarska Poręba,6816,9.0,9.3
+419,Bielany Wrocławskie,3010,7.9,9.9
+420,"Śródmieście, Wrocław",5011,8.5,9.5
+421,"Stare Miasto, Wrocław",3525,9.4,9.4
+422,Jelenia Góra,4240,9.4,9.5
+423,Lubin,2100,9.4,9.5
+424,Duszniki-Zdrój,4060,9.0,9.9
+425,Sosnówka,7264,9.5,8.8
+426,Międzygórze,2716,9.0,9.1
+427,Karpacz,3688,8.8,9.1
+428,Srebrna Góra,1750,8.9,8.3
+429,Polanica-Zdrój,2725,9.0,9.9
+430,Lądek-Zdrój,2030,8.9,9.5
+431,Lądek-Zdrój,5572,8.9,9.4
+432,"Stare Miasto, Wrocław",8800,8.6,8.9
+433,Szklarska Poręba,3514,9.6,9.9
+434,Szklarska Poręba,3548,9.5,8.3
+435,Szklarska Poręba,4892,9.1,8.8
+436,"Stare Miasto, Wrocław",6740,8.9,8.7
+437,"Krzyki, Wrocław",3300,8.6,9.1
+438,"Śródmieście, Wrocław",2219,7.8,8.2
+439,Polanica-Zdrój,7406,9.0,8.8
+440,Karpacz,5875,9.5,9.4
+441,Lądek-Zdrój,7346,8.3,8.6
+442,Jelenia Góra,2956,8.5,9.7
+443,Krotoszyce,6006,9.3,8.4
+444,"Krzyki, Wrocław",4140,9.2,8.4
+445,"Stare Miasto, Wrocław",4958,7.8,10.0
+446,Karpacz,2756,7.9,8.9
+447,"Stare Miasto, Wrocław",4715,9.7,9.7
+448,Lądek-Zdrój,4820,10.0,8.2
+449,Zagrodno,3920,8.5,8.8
+450,Broniów,3480,9.6,9.5
+451,Oława,2310,9.8,9.4
+452,Karpacz,6378,8.8,8.0
+453,Mysłakowice,4508,7.1,8.4
+454,Szczawno-Zdrój,2800,8.1,8.4
+455,Kobierzyce,2870,7.9,8.9
+456,Przesieka,2198,8.2,9.7
+457,"Stare Miasto, Wrocław",4710,8.3,9.4
+458,Gorzanów,3453,8.1,8.8
+459,Karczyce,3220,8.7,9.5
+460,Jastrowiec,3962,9.6,9.4
+461,Szklarska Poręba,3501,9.0,8.6
+462,Krzeszów,1989,9.5,8.8
+463,Kłodzko,2532,9.9,8.3
+464,Milicz,2800,9.5,9.1
+465,Komarno,2778,9.0,9.2
+466,Polanica-Zdrój,4376,9.4,9.5
+467,Jawor,1740,9.6,8.4
+468,Lubin,2100,9.8,8.5
+469,Polkowice,1890,8.9,9.2
+470,"Stare Miasto, Wrocław",5890,9.0,9.1
+471,Szklarska Poręba,3349,9.0,9.3
+472,"Stare Miasto, Wrocław",3700,8.5,9.1
+473,Boleścin,3528,9.9,9.3
+474,Karpacz,2220,9.5,9.3
+475,Komarno,2778,9.0,9.9
+476,Polanica-Zdrój,4376,8.6,9.8
+477,Jawor,1740,9.8,9.5
+478,Oława,2083,8.5,9.7
+479,Sienna,2279,8.9,9.2
+480,"Stare Miasto, Wrocław",5890,8.8,9.4
+481,Karpacz,1982,8.9,9.3
+482,Szklarska Poręba,3349,8.1,8.9
+483,Podgórzyn,4616,8.7,9.7
+484,Głogów,1459,9.6,8.9
+485,Sienna,2670,8.9,8.6
+486,Szklarska Poręba,2833,9.5,8.2
+487,Krzeszów,1989,6.0,9.4
+488,Szklarska Poręba,2692,8.0,9.4
+489,Lubin,2100,8.5,8.7
+490,Legnica,2030,9.9,10.0
+491,"Fabryczna, Wrocław",4624,8.8,9.3
+492,Szklarska Poręba,4270,9.6,9.3
+493,Piechowice,2608,8.3,8.6
+494,Szklarska Poręba,3726,8.8,8.7
+495,Piechowice,3850,9.8,8.0
+496,Stronie Śląskie,2331,9.4,9.9
+497,Karpacz,3803,8.1,8.8
+498,Głogów,2420,8.0,9.2
+499,Lubin,2100,8.5,8.0
+500,Karpacz,2052,8.8,9.9
+501,"Fabryczna, Wrocław",4624,7.8,8.8
+502,Szklarska Poręba,4270,9.6,8.8
+503,Szklarska Poręba,3726,9.5,8.5
+504,Karpacz,4747,6.0,8.4
+505,Piechowice,3850,8.8,9.4
+506,Świdnica,4200,9.8,9.1
+507,Legnica,2030,9.4,8.8
+508,Karpacz,3803,8.8,8.8
+509,Głogów,2420,8.5,10.0
+510,Lubin,2100,8.3,10.0
+511,Duszniki-Zdrój,4567,9.0,9.7
+512,Karpacz,15700,9.7,10.0
+513,"Krzyki, Wrocław",3343,9.4,8.1
+514,Lądek-Zdrój,6014,8.5,9.0
+515,Sierpnica,4302,7.7,8.5
+516,Bogatynia,5376,8.8,8.7
+517,Szklarska Poręba,7790,9.1,9.8
+518,Karpacz,2640,8.9,9.9
+519,Radków,2730,9.1,8.9
+520,Polanica-Zdrój,3169,9.2,9.8
+521,Głogów,1459,9.2,9.9
+522,Polanica-Zdrój,2968,9.2,9.2
+523,Karpacz,2801,9.9,8.9
+524,Długopole-Zdrój,4529,9.5,9.8
+525,Świeradów-Zdrój,7526,9.4,8.6
+526,Kudowa-Zdrój,4116,9.6,8.6
+527,Kłodzko,2956,9.2,9.8
+528,Gryfów Śląski,6421,9.3,8.6
+529,Duszniki-Zdrój,4186,9.3,9.0
+530,Piechowice,2100,8.7,8.5
+531,Szczytna,2660,9.5,8.6
+532,Szklarska Poręba,4838,9.0,9.5
+533,"Śródmieście, Wrocław",7103,8.5,9.1
+534,Jelenia Góra,2956,8.5,9.3
+535,Sokolec,3141,9.2,9.0
+536,Karpacz,3581,9.6,9.0
+537,Szklarska Poręba,4227,8.7,8.3
+538,Staniszów,2800,10.0,8.5
+539,Bukowiec,2870,9.2,9.6
+540,Karpacz,2975,7.7,9.6
+541,Stronie Śląskie,3284,9.3,8.6
+542,Duszniki-Zdrój,2226,8.4,9.5
+543,Jedlina-Zdrój,3660,9.7,8.7
+544,Karpacz,5594,8.1,8.8
+545,Szklarska Poręba,3573,9.8,8.7
+546,Gniewoszów,3985,9.0,8.6
+547,Świdnica,4340,9.2,9.6
+548,Szklarska Poręba,6983,8.1,8.5
+549,Lądek-Zdrój,3195,9.8,9.6
+550,Karpacz,4620,9.0,9.9
+551,Świdnica,4340,8.7,9.5
+552,Szklarska Poręba,6983,8.4,9.0
+553,Lądek-Zdrój,3195,8.5,9.8
+554,"Psie Pole, Wrocław",3060,9.3,9.2
+555,Kudowa-Zdrój,2710,9.0,9.3
+556,Lądek-Zdrój,2625,8.8,8.7
+557,Karpacz,2704,9.0,8.5
+558,Jelenia Góra,4788,6.9,9.7
+559,Zgorzelec,3500,9.8,9.2
+560,Miedzianka,3360,10.0,9.3
+561,"Krzyki, Wrocław",2692,9.7,9.4
+562,Kobierzyce,2660,8.2,8.5
+563,Staniszów,4306,9.9,8.8
+564,Kowary,3100,8.6,9.5
+565,Szklarska Poręba,3942,8.9,9.5
+566,Janowice Wielkie,3150,8.3,8.4
+567,Jedlina-Zdrój,2218,7.8,8.2
+568,"Fabryczna, Wrocław",4861,8.6,9.5
+569,"Stare Miasto, Wrocław",4444,9.8,10.0
+570,Szklarska Poręba,2815,9.8,9.6
+571,Kudowa-Zdrój,7826,8.8,9.6
+572,"Stare Miasto, Wrocław",5326,9.8,9.2
+573,Świdnica,2885,9.8,9.4
+574,Świdnica,7100,9.1,8.6
+575,"Stare Miasto, Wrocław",5326,8.8,8.5
+576,Świdnica,2885,9.8,9.3
+577,Legnica,2987,8.5,9.1
+578,Świdnica,7100,8.5,9.1
+579,Kłodzko,2666,9.7,9.1
+580,Karpacz,3581,8.9,9.4
+581,Szklarska Poręba,5479,9.0,9.6
+582,Stronie Śląskie,3685,8.5,8.7
+583,Karpacz,2408,8.7,9.4
+584,"Stare Miasto, Wrocław",3150,7.8,9.0
+585,Jedlina-Zdrój,5658,9.5,9.5
+586,Karpacz,4838,9.1,9.5
+587,"Krzyki, Wrocław",2366,9.3,9.8
+588,Karpacz,3393,9.0,9.3
+589,Dzierżoniów,2502,8.9,9.9
+590,Miłków,2722,8.6,9.8
+591,"Stare Miasto, Wrocław",2968,8.3,9.3
+592,Dzierżoniów,5180,9.5,9.9
+593,Sierpnica,2195,9.1,9.0
+594,"Stare Miasto, Wrocław",4444,8.8,9.5
+595,Długołęka,3080,9.4,9.5
+596,Polanica-Zdrój,3947,8.6,9.3
+597,Karpacz,2424,8.8,9.0
+598,Mirkow,3150,8.5,8.4
+599,"Śródmieście, Wrocław",4100,8.5,9.7
+600,Karpacz,3501,9.6,8.6
+601,"Stare Miasto, Wrocław",4304,8.6,9.6
+602,"Stare Miasto, Wrocław",4158,9.6,9.2
+603,Stronie Śląskie,4134,9.9,8.4
+604,Jelenia Góra,5103,9.3,9.7
+605,Lwówek Śląski,2870,9.2,8.5
+606,Kudowa-Zdrój,4116,9.8,9.4
+607,Stronie Śląskie,2753,7.6,9.5
+608,Stronie Śląskie,3317,9.3,9.9
+609,Zachełmie,2576,9.0,8.8
+610,Karpacz,6037,8.3,9.0
+611,Szklarska Poręba,5827,8.5,9.1
+612,Domasław,3646,9.7,9.5
+613,Szklarska Poręba,4274,9.0,8.3
+614,Jedlina-Zdrój,4818,9.4,9.6
+615,Podgórzyn,2666,9.1,8.7
+616,Lubin,2030,8.8,8.6
+617,Świerzawa,3913,8.8,8.4
+618,"Stare Miasto, Wrocław",5898,9.4,9.4
+619,Karpacz,2794,9.5,8.5
+620,Szczawno-Zdrój,4200,8.5,8.1
+621,Zgorzelec,3133,7.8,9.6
+622,Stronie Śląskie,3487,8.2,9.5
+623,Legnica,3920,9.1,9.5
+624,Kłodzko,3850,9.5,9.3
+625,"Krzyki, Wrocław",3340,9.5,9.8
+626,Kłodzko,2874,9.9,9.3
+627,Szklarska Poręba,5565,9.2,8.4
+628,Kłodzko,2800,9.3,9.9
+629,Komarno,2793,8.6,9.0
+630,Duszniki-Zdrój,2600,8.3,9.7
+631,"Krzyki, Wrocław",2990,9.3,9.1
+632,Zgorzelec,2695,9.1,8.6
+633,Karpacz,3106,9.4,8.1
+634,Polanica-Zdrój,3754,9.2,9.3
+635,"Krzyki, Wrocław",5000,8.9,9.2
+636,Międzygórze,4830,9.5,9.9
+637,Szklarska Poręba,4827,8.9,9.5
+638,Oława,2787,9.3,9.8
+639,Świeradów-Zdrój,3038,10.0,9.3
+640,Stronie Śląskie,3456,8.8,9.9
+641,Szklarska Poręba,2442,9.4,9.0
+642,Stronie Śląskie,3500,9.4,8.4
+643,"Stare Miasto, Wrocław",5659,9.8,9.7
+644,Świeradów-Zdrój,4620,9.2,8.6
+645,Ząbkowice Śląskie,5460,9.7,9.0
+646,Marczyce,2682,9.8,9.0
+647,Duszniki-Zdrój,3138,9.2,10.0
+648,Komarno,3250,7.6,9.2
+649,Polanica-Zdrój,4816,7.8,9.5
+650,Duszniki-Zdrój,3138,9.7,8.4
+651,Walim,3365,8.9,8.7
+652,"Śródmieście, Wrocław",6045,9.4,9.8
+653,Piechowice,6433,9.5,9.4
+654,Podgórzyn,4406,9.3,9.6
+655,Przesieka,3710,8.9,9.5
+656,Trzcińsko,2400,8.5,9.2
+657,Duszniki-Zdrój,2865,9.6,9.9
+658,Karpacz,4544,8.6,8.8
+659,Legnica,3920,9.5,9.6
+660,Międzylesie,4550,9.0,8.5
+661,Zgorzelec,2695,8.1,9.1
+662,Stara Kamienica,2995,9.8,9.1
+663,Jelenia Góra,8960,8.2,9.1
+664,Świdnica,2380,9.3,8.4
+665,Łomnica,3185,9.4,9.7
+666,Szklarska Poręba,2719,9.6,8.5
+667,"Krzyki, Wrocław",2990,8.7,8.0
+668,Jelenia Góra,2869,9.1,9.7
+669,Świdnica,3213,9.1,8.5
+670,Kostrzyca,1803,9.5,9.2
+671,Radków,2029,8.7,8.5
+672,Szklarska Poręba,2722,9.5,9.0
+673,Duszniki-Zdrój,2226,8.9,9.8
+674,Karpacz,2010,8.5,9.5
+675,Świeradów-Zdrój,2478,8.5,9.9
+676,Stronie Śląskie,3456,9.3,9.7
+677,"Fabryczna, Wrocław",3350,10.0,8.8
+678,Przesieka,4256,8.8,8.9
+679,Szklarska Poręba,2442,8.2,10.0
+680,Stronie Śląskie,2800,9.6,9.5
+681,Karpacz,2801,9.4,9.8
+682,Kłodzko,3080,9.4,9.3
+683,Kudowa-Zdrój,3276,9.5,8.8
+684,Ząbkowice Śląskie,5460,9.8,8.9
+685,Świeradów-Zdrój,4620,9.3,8.9
+686,Kudowa-Zdrój,2863,8.2,10.0
+687,Marczyce,2923,7.8,9.5
+688,Polanica-Zdrój,3754,9.7,9.8
+689,"Śródmieście, Wrocław",4675,9.0,9.3
+690,"Śródmieście, Wrocław",6045,9.7,9.0
+691,Komarno,3430,9.1,8.9
+692,Szklarska Poręba,3694,8.2,9.6
+693,Duszniki-Zdrój,2522,8.6,8.9
+694,Świeradów-Zdrój,3426,9.2,8.2
+695,"Stare Miasto, Wrocław",8660,8.9,8.3
+696,Siechnice,2735,9.7,9.0
+697,Duszniki-Zdrój,2853,9.5,9.5
+698,Świeradów-Zdrój,8310,9.7,9.6
+699,Piechowice,4471,9.3,9.0
+700,Trzcińsko,2110,9.7,8.9
+701,Kudowa-Zdrój,5166,8.9,9.5
+702,Duszniki-Zdrój,2865,8.5,9.0
+703,Komarno,3250,9.6,9.8
+704,Kudowa-Zdrój,3923,8.6,9.0
+705,Legnica,3920,8.9,10.0
+706,Międzylesie,4550,8.8,9.7
+707,Zgorzelec,2695,10.0,9.3
+708,Karpacz,4824,9.0,9.1
+709,"Stare Miasto, Wrocław",5591,9.4,9.1
+710,Jelenia Góra,3091,8.1,8.9
+711,Jelenia Góra,8960,8.9,8.8
+712,Kaczorów,4050,9.7,8.9
+713,Świdnica,2380,9.3,10.0
+714,Świeradów-Zdrój,3920,9.4,8.3
+715,Konradów,3360,9.4,8.9
+716,"Krzyki, Wrocław",2990,9.2,9.4
+717,Budzów,1995,9.6,8.3
+718,Jelenia Góra,2869,8.7,9.6
+719,Karpacz,5137,9.6,9.3
+720,Świdnica,3213,8.2,9.1
+721,Kostrzyca,1803,9.1,9.5
+722,Kudowa-Zdrój,3276,9.1,8.3
+723,Szklarska Poręba,2317,8.9,9.3
+724,Szklarska Poręba,2722,8.5,9.3
+725,Kłodzko,1996,9.6,8.9
+726,Świeradów-Zdrój,7307,9.2,9.4
+727,Polanica-Zdrój,2267,8.1,8.0
+728,Szklarska Poręba,4148,9.7,8.4
+729,Rokitki,3442,8.2,8.9
+730,Wleń,2142,9.4,9.3
+731,Karpacz,2868,9.3,9.2
+732,Sienna,2600,9.8,8.6
+733,Mirsk,2824,9.5,9.4
+734,Szklarska Poręba,4005,9.6,8.9
+735,"Cieplice, Jelenia Góra",2953,9.7,9.1
+736,Bystrzyca Kłodzka,3850,9.5,8.6
+737,Jelenia Góra-Jagniątków,8672,8.8,8.8
+738,Piechowice,4471,8.7,9.5
+739,Wałbrzych,3055,9.8,9.7
+740,Szklarska Poręba,7138,9.5,9.5
+741,Jelcz-Laskowice,4900,9.8,8.3
+742,Szalejów Górny,10965,9.0,8.5
+743,Piechowice,3250,7.0,9.7
+744,Kudowa-Zdrój,2772,8.9,8.8
+745,Karpacz,4375,8.9,8.7
+746,Stronie Śląskie,5450,8.7,9.8
+747,"Stare Miasto, Wrocław",2137,9.8,9.0
+748,Stronie Śląskie,3640,9.5,9.1
+749,Duszniki-Zdrój,3906,9.8,8.5
+750,Jelcz-Laskowice,4900,9.0,10.0
+751,Szalejów Górny,10965,7.0,8.1
+752,Piechowice,3250,8.9,9.2
+753,Kudowa-Zdrój,2772,8.9,9.6
+754,Karpacz,4375,9.4,9.5
+755,Stronie Śląskie,5450,8.8,10.0
+756,"Stare Miasto, Wrocław",2137,7.7,8.9
+757,"Śródmieście, Wrocław",4281,8.5,9.8
+758,Duszniki-Zdrój,3906,8.6,9.0
+759,Głogów,1680,9.1,8.2
+760,Szklarska Poręba,6862,9.4,9.0
+761,Legnica,3920,9.2,9.0
+762,Wleń,2940,9.1,8.5
+763,Głogów,3000,9.6,9.4
+764,Walim,4536,8.5,8.4
+765,Szklarska Poręba,4477,9.7,9.3
+766,Kliczków,2380,8.9,9.1
+767,Długopole-Zdrój,1890,10.0,8.4
+768,Ścinawka Górna,2856,8.6,9.7
+769,Sulistrowice,3780,8.6,9.2
+770,Duszniki-Zdrój,2284,7.3,9.0
+771,Piechowice,9044,9.4,8.7
+772,Oborniki Śląskie,3780,9.0,8.9
+773,Kowary,2590,9.1,9.8
+774,Srebrna Góra,2100,9.1,9.0
+775,Srebrna Góra,2100,8.9,8.2
+776,Wałbrzych,3290,8.8,9.0
+777,Legnica,3039,8.8,9.4
+778,"Psie Pole, Wrocław",4160,9.9,9.9
+779,Świeradów-Zdrój,3440,8.1,9.3
+780,Radków,3130,8.8,9.4
+781,Kudowa-Zdrój,4746,9.2,9.1
+782,"Stare Miasto, Wrocław",3645,8.4,9.2
+783,"Stare Miasto, Wrocław",3616,9.6,9.0
+784,Szklarska Poręba,8512,9.0,8.0
+785,Jelenia Góra,3990,9.0,9.8
+786,Szklarska Poręba,5315,9.2,8.6
+787,Karpacz,6798,8.7,8.5
+788,Karpacz,3904,7.6,9.4
+789,"Stare Miasto, Wrocław",5512,9.2,8.9
+790,Stronie Śląskie,5450,8.8,9.1
+791,Lądek-Zdrój,6852,8.7,9.0
+792,Karpacz,3933,9.4,9.0
+793,Bystrzyca Kłodzka,3270,8.0,8.5
+794,Szklarska Poręba,1890,8.7,9.4
+795,Lubin,2367,8.9,8.4
+796,Szklarska Poręba,3454,9.4,9.3
+797,Karpacz,12057,9.4,8.4
+798,Szklarska Poręba,3481,8.8,8.0
+799,"Śródmieście, Wrocław",5726,9.1,9.8
+800,Jelenia Góra-Jagniątków,3430,8.8,9.1
+801,Kudowa-Zdrój,4746,8.6,8.6
+802,Szczytna,5173,8.9,9.4
+803,Szklarska Poręba,2598,8.7,9.5
+804,Przesieka,3830,9.2,9.3
+805,Duszniki-Zdrój,3374,9.7,9.0
+806,"Stare Miasto, Wrocław",3616,9.3,8.8
+807,Świdnica,7040,8.4,8.3
+808,Szklarska Poręba,6308,8.7,9.6
+809,"Śródmieście, Wrocław",4598,9.7,9.1
+810,Karpacz,3933,8.7,9.1
+811,Karpacz,3000,7.8,9.0
+812,"Stare Miasto, Wrocław",5577,8.8,8.2
+813,Karpacz,3904,8.1,8.9
+814,Stronie Śląskie,2830,9.8,8.8
+815,Szklarska Poręba,6506,9.1,10.0
+816,Karpacz,6700,7.6,9.1
+817,Szklarska Poręba,2654,8.9,9.8
+818,Karpacz,3984,8.5,8.2
+819,Świeradów-Zdrój,3260,7.0,9.2
+820,Kudowa-Zdrój,3276,10.0,8.4
+821,Szklarska Poręba,2526,8.2,8.6
+822,Polanica-Zdrój,4277,9.2,8.6
+823,Jelenia Góra-Jagniątków,2313,9.6,9.1
+824,"Krzyki, Wrocław",3650,9.8,9.0
+825,Szklarska Poręba,3161,9.8,9.4
+826,Bogatynia,2345,8.9,8.2
+827,Milicz,3890,9.7,9.2
+828,"Krzyki, Wrocław",3261,8.9,9.7
+829,Biała Woda,2800,8.5,9.0
+830,Stara Kamienica,2466,7.4,10.0
+831,Wojcieszyce,2657,9.0,9.5
+832,Jelenia Góra,2835,9.1,10.0
+833,Lądek-Zdrój,4368,8.8,9.1
+834,Kamienna Góra,2800,9.5,8.6
+835,"Śródmieście, Wrocław",4140,8.7,9.3
+836,Karpacz,4378,9.0,9.5
+837,"Fabryczna, Wrocław",3240,9.2,10.0
+838,Bolesławiec,3843,8.8,9.1
+839,Szklarska Poręba,2526,9.4,8.6
+840,Sienna,2734,9.1,8.9
+841,Srebrna Góra,3430,7.5,9.4
+842,Milicz,3520,9.0,9.7
+843,"Psie Pole, Wrocław",4160,8.6,10.0
+844,Szklarska Poręba,2450,8.9,10.0
+845,Bukowice,3059,7.5,9.2
+846,Legnica,3039,9.7,9.0
+847,Legnica,1428,8.9,9.0
+848,Wałbrzych,4130,8.5,8.9
+849,"Krzyki, Wrocław",3740,7.4,10.0
+850,Wałbrzych,2800,9.1,9.0
+851,Lądek-Zdrój,4368,9.5,8.9
+852,Wałbrzych,4130,9.9,8.5
+853,Kamienna Góra,2800,9.0,9.8
+854,"Śródmieście, Wrocław",4140,9.2,9.6
+855,Karpacz,4378,9.2,9.5
+856,"Fabryczna, Wrocław",3240,9.1,9.6
+857,Szklarska Poręba,2526,9.0,10.0
+858,Srebrna Góra,3430,8.4,10.0
+859,Karpacz,3564,9.6,8.5
+860,"Psie Pole, Wrocław",4160,8.6,9.0
+861,Podgórzyn,3255,8.8,9.8
+862,Szklarska Poręba,2450,9.4,8.9
+863,Legnica,1428,7.4,8.6
+864,"Krzyki, Wrocław",3740,9.1,10.0
+865,Kudowa-Zdrój,1876,9.1,9.0
+866,Duszniki-Zdrój,3307,7.3,8.5
+867,Karpacz,3560,9.0,9.6
+868,Sienna,2734,9.1,9.1
+869,Kudowa-Zdrój,4302,8.8,9.6
+870,Milicz,2975,9.5,9.5
+871,Kletno,1870,8.7,8.0
+872,Karpacz,4869,9.0,8.4
+873,Kamienna Góra,2240,8.8,9.4
+874,Bolesławiec,3843,8.4,8.8
+875,Szklarska Poręba,2526,9.6,8.9
+876,Sienna,2734,9.1,9.4
+877,Srebrna Góra,3430,8.6,9.7
+878,Milicz,3520,9.4,9.6
+879,"Psie Pole, Wrocław",4160,9.4,9.3
+880,Bukowice,3059,7.4,8.1
+881,Kudowa-Zdrój,1876,9.5,8.7
+882,Duszniki-Zdrój,3157,9.0,8.8
+883,Karpacz,4869,8.1,9.0
+884,Karpacz,3560,8.7,8.4
+885,Kudowa-Zdrój,3486,8.1,8.6
+886,Szczytna,3884,9.5,9.2
+887,Milicz,2975,7.9,8.5
+888,Karpacz,3360,9.1,8.8
+889,Bolesławiec,3843,8.9,8.7
+890,Goszów,4116,8.9,8.6
+891,Polanica-Zdrój,3177,8.5,8.5
+892,Jelenia Góra,3990,7.9,10.0
+893,Zachełmie,4830,9.0,8.8
+894,Nowa Ruda,2940,8.5,9.2
+895,"Cieplice, Jelenia Góra",2520,9.7,9.3
+896,"Krzyki, Wrocław",3650,9.3,9.9

@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from graph_functions import scatter
+from graph_functions import scatter_city, scatter_woj
 
 
 ##Todo: zmienić te funkcje woj_page, city_page, dodać kolejne, dodać funkcje rysujące wykresiki itp
@@ -23,9 +23,11 @@ def woj_page(name_of_csv):
     st.line_chart(woj_df)
     st.write("")
     st.bar_chart(woj_df)
+    wojewodztwa = ('dolnośląskie', 'kujawsko-pomorskie', 'lubelskie', 'lubuskie', 'łódzkie', 'małopolskie', 'mazowieckie', 'opolskie', 'podkarpackie', 'podlaskie', 'pomorskie', 'śląskie', 'świętokrzyskie', 'warmińsko-Mazurskie', 'wielkopolskie', 'zachodniopomorskie')
+    option1 = st.selectbox('Województwo', wojewodztwa)
+    scatter_woj(option1, name_of_csv)
 
-
-def city_page(name_of_csv, type):
+def city_page(name_of_csv):
     st.subheader("Noclegi według 20 najpopularniejszych miast: ")
     st.write("")
 
@@ -44,9 +46,9 @@ def city_page(name_of_csv, type):
     st.write("")
     st.bar_chart(woj_df)
 
-    miasta = ('Bydgoszcz', 'Gdańsk', 'Gliwice', 'Jelenia', 'Kraków', 'Lublin', 'Nowy', 'Olsztyn', 'Opole', 'Przemyśl', 'Sandomierz', 'Sanok', 'Szczecin', 'Toruń', 'Wadowice', 'Warszawa', 'Wrocław', 'Zamość', 'Zielona', 'Łódź' )
+    miasta = ('Bydgoszcz', 'Gdańsk', 'Gliwice', 'Jelenia Góra', 'Kraków', 'Lublin', 'Nowy Targ', 'Olsztyn', 'Opole', 'Przemyśl', 'Sandomierz', 'Sanok', 'Szczecin', 'Toruń', 'Wadowice', 'Warszawa', 'Wrocław', 'Zamość', 'Zielona Góra', 'Łódź' )
     option1 = st.selectbox('Miasto', miasta)
-    scatter(option1, name_of_csv)
+    scatter_city(option1, name_of_csv)
 
 
 def ch_option(csv_names, display_function):
@@ -55,7 +57,7 @@ def ch_option(csv_names, display_function):
 
     for i in range(4):
         if page == pages_names[i]:
-            display_function(csv_names[i], i)
+            display_function(csv_names[i])
             break
 
 
