@@ -17,7 +17,8 @@ def woj_page(name_of_csv):
 
     woj_df = pd.DataFrame(df.loc['koszt'])
     woj_df = woj_df.round(1).astype(int)
-    
+    st.dataframe(woj_df.style.highlight_min(axis=0, color='green').highlight_max(axis=0, color='red'))
+    st.write("")
 
     st.subheader("Średni koszt noclegu")
     genre = st.radio(
@@ -48,7 +49,8 @@ def city_page(name_of_csv):
 
     woj_df = pd.DataFrame(df.loc['koszt'])
     woj_df = woj_df.round(1).astype(int)
-
+    st.dataframe(woj_df.style.highlight_min(axis=0, color='green').highlight_max(axis=0, color='red'))
+    st.write("")
 
     st.subheader("Średni koszt noclegu")
     genre = st.radio(
