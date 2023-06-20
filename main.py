@@ -5,7 +5,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 
 
-driver = webdriver.Chrome('chromedriver.exe')
+driver = webdriver.Chrome()
 driver.get('https://www.booking.com/searchresults.pl.html?ss=Polska&ssne=Polska&ssne_untouched=Polska&efdco=1&label=Booking-PL-GokG1qZQBGAqiSCE_k2kpgS411092421248%3Apl%3Ata%3Ap1%3Ap22.563.000%3Aac%3Aap%3Aneg%3Afi%3Atikwd-65526620%3Alp9067410%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9Yf5EcukO1MOGv2VrE6ywbUM&sid=aa1380238aafa1ecda0d47d7b198ad2a&aid=376384&lang=pl&sb=1&src_elem=sb&src=searchresults&dest_id=170&dest_type=country&checkin=2023-07-01&checkout=2023-07-09&ltfd=1%3A7%3A7-2023%3A1&group_adults=2&no_rooms=2&group_children=2&age=10&sb_travel_purpose=leisure&fbclid=IwAR0iG1OgBR7-uR07H0f2WZ1hf7Isf5JhkWzh41B0WWr4Xo6jx7yR3flGb0s')
 sleep(2)
 
