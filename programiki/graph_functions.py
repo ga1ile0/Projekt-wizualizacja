@@ -5,6 +5,7 @@ import seaborn as sns
 import streamlit as st
 import numpy as np
 import squarify as sq
+import plotly.express as px
 
 miasta = {
     "Jelenia Góra": "Jelenia",
@@ -165,18 +166,25 @@ def scatter_woj(woj_name, name_of_csv):
     ax.set_ylabel('Ocena')
     st.pyplot(fig)
 
-def polska_treemap():
-    volume = [42, 22, 19, 17]
-    labels = ['Morze\n 42%', 'Góry\n 22%',
-              'Jeziora\n 19%', 'Inne\n 17%']
-    color_list = ['#0f7216', '#b2790c', '#ffe9a3',
-                  '#f9d4d4']
+def piechart_zaczynamy():
+    data = {
+        'destination': ['Morze', 'Góry', 'Jeziora', 'Inne'],
+        'volume': [42, 22, 19, 17]
+    }
 
-    plt.rc('font', size=14)
-    sq.plot(sizes=volume, label=labels,
-                  color=color_list, alpha=0.7)
-    plt.axis('off')
-    st.set_option('deprecation.showPyplotGlobalUse', False)
-    st.pyplot()
+    df = pd.DataFrame(data)
+
+    # Hide the table by creating an empty placeholder
+    table_placeholder = st.empty()
+
+    fig = px.pie(df, names='destination', values='volume', title='Gdzie wyjeżdżają Polacy?',
+                 height=300, width=200)
+
+    fig.update_layout(margin=dict(l=20, r=20, t=30, b=0))
+
+    # Replace the placeholder with the pie chart
+    table_placeholder.plotly_chart(fig, use_container_width=True)
+
+    st.markdown("Żródło: pot.gov.pl")
 
 
