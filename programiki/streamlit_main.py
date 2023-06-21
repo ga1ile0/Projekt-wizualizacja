@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from graph_functions import scatter_city, scatter_woj, scatter_morze, scatter_gory
+from graph_functions import scatter_city, scatter_woj, scatter_morze, scatter_gory, scatter_mazury
 
 
 def common_plots(name_of_csv):
@@ -56,6 +56,16 @@ def gory_page(name_of_csv):
     scatter_gory(option, name_of_csv)
 
 
+def mazury_page(name_of_csv):
+    st.subheader("Porównanie kosztów i ocen ogłoszeń")
+    st.write("")
+
+    st.subheader("Średni koszt noclegu")
+    common_plots(name_of_csv)
+    st.subheader("Porównanie kosztów i ocen ogłoszeń")
+    miasta = ('Ełk', 'Giżycko', 'Iława', 'Mikołajki', 'Mrągowo', 'Olsztyn', 'Ostróda', 'Ruciane-Nida')
+    option = st.selectbox('Miasto', miasta)
+    scatter_mazury(option, name_of_csv)
 
 def woj_page(name_of_csv):
     st.subheader("Noclegi według województw: ")
