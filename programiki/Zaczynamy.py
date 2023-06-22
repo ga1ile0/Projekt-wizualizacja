@@ -6,7 +6,7 @@ st.title("Wakacje w Polsce")
 st.divider()
 
 col1, col2, col3 = st.columns([1, 15, 1])
-image = Image.open("../tytułowa.jpeg")
+image = Image.open("/Projekt-wizualizacja/tytułowa.jpeg")
 
 with col1:
     st.write(' ')
