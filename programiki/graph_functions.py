@@ -1,11 +1,32 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-import os
-import seaborn as sns
+import geopandas as gpd
 import streamlit as st
 import numpy as np
-import squarify as sq
 import plotly.express as px
+from PIL import Image
+
+#
+# def pl_map(csv_name):
+#     woj = gpd.read_file("mapy/wojewodztwa-medium.geojson", index=False)
+#     #woj = woj.set_index('nazwa')
+#     print(woj)
+#
+#     df = pd.read_csv(csv_name)
+#     df.index = ['koszt', 'ocena', 'komfort']
+#     df = pd.DataFrame(df.loc['koszt'])
+#
+#     cost = df.reset_index(drop=True)
+#     print(cost)
+#     names = df.index
+#
+#     print(names)
+#
+#
+#     #my_map = pd.merge(woj, df)
+#     #print(my_map)
+#
+# pl_map("av_woj1.csv")
 
 miasta = {
     "Jelenia Góra": "Jelenia",
@@ -15,6 +36,7 @@ miasta = {
     "Bukowina Tatrzańska": "Bukowina",
     "Szklarska Poręba": "Szklarska"
 }
+
 
 def data_type(name_of_csv):
     folder_name = {
@@ -42,6 +64,42 @@ def data_type(name_of_csv):
     }
     return folder_name[name_of_csv]
 
+
+def display_image(city_name, name_of_csv):
+
+    dt = data_type(name_of_csv)[:5]
+    if dt == "../mo":
+        dt = "../morze_zdj"
+    elif dt == "../ma":
+        dt = "../mazury_zdj"
+    elif dt == "../go":
+        dt = "../gory_zdj"
+    elif dt == "../po":
+        dt = "../popularne_miasta_zdj"
+    elif dt == "../wo":
+        dt = "../wojewodztwa_zdj"
+
+    c_name = ""
+    if city_name in miasta:
+        c_name = miasta[city_name]
+    else:
+        c_name = city_name
+
+    file_path = dt + "/" + c_name + '.jpg'
+
+    col1, col2, col3 = st.columns([1, 15, 1])
+    image = Image.open(file_path)
+
+    with col1:
+        st.write(' ')
+    with col2:
+        st.image(image, width=600)
+    with col3:
+        st.write(' ')
+
+    st.divider()
+
+
 def scatter_morze(city_name, name_of_csv):
     threshold = 5
     file_path = data_type(name_of_csv) + city_name + '.csv'
@@ -64,6 +122,7 @@ def scatter_morze(city_name, name_of_csv):
     ax.set_xlabel('Cena')
     ax.set_ylabel('Ocena')
     st.pyplot(fig)
+
 
 def scatter_gory(city_name, name_of_csv):
     threshold = 5
@@ -91,6 +150,7 @@ def scatter_gory(city_name, name_of_csv):
     ax.set_xlabel('Cena')
     ax.set_ylabel('Ocena')
     st.pyplot(fig)
+
 
 def scatter_mazury(city_name, name_of_csv):
     threshold = 5
@@ -143,6 +203,7 @@ def scatter_city(city_name, name_of_csv):
     ax.set_ylabel('Ocena')
     st.pyplot(fig)
 
+
 def scatter_woj(woj_name, name_of_csv):
     threshold = 3
     file_path = data_type(name_of_csv) + woj_name + '.csv'
@@ -166,6 +227,7 @@ def scatter_woj(woj_name, name_of_csv):
     ax.set_ylabel('Ocena')
     st.pyplot(fig)
 
+
 def piechart_zaczynamy():
     data = {
         'destination': ['Morze', 'Góry', 'Jeziora', 'Inne'],
@@ -177,7 +239,7 @@ def piechart_zaczynamy():
     # Hide the table by creating an empty placeholder
     table_placeholder = st.empty()
 
-    fig = px.pie(df, names='destination', values='volume', title='Gdzie wyjeżdżają Polacy?',
+    fig = px.pie(df, names='destination', values='volume', title='Plany Polaków na wakacje',
                  height=300, width=200)
 
     fig.update_layout(margin=dict(l=20, r=20, t=30, b=0))

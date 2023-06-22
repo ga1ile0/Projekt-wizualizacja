@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from graph_functions import scatter_city, scatter_woj, scatter_morze, scatter_gory, scatter_mazury
+from graph_functions import scatter_city, scatter_woj, scatter_morze, scatter_gory, scatter_mazury, display_image
 
 
 def common_plots(name_of_csv):
@@ -9,6 +9,8 @@ def common_plots(name_of_csv):
 
     woj_df = pd.DataFrame(df.loc['koszt'])
     col1, col2 = st.columns([2, 1])
+
+    st.subheader("Średni koszt noclegu")
 
     with col1:
         genre1, genre2 = st.tabs(["Wykres Słupkowy", "Wykres Liniowy"])
@@ -32,65 +34,92 @@ def common_plots(name_of_csv):
     st.write("")
     st.write("")
 
+
 def morze_page(name_of_csv):
     st.subheader("Porównanie kosztów i ocen ogłoszeń")
+    st.divider()
     st.write("")
 
-    st.subheader("Średni koszt noclegu")
-    common_plots(name_of_csv)
-    st.subheader("Porównanie kosztów i ocen ogłoszeń")
     miasta = ('Darłowo', 'Dębki', 'Gdańsk', 'Gdynia', 'Hel', 'Jarosławiec', 'Jastrzębia', 'Karwia', 'Kopalino', 'Kołobrzeg', 'Mielno', 'Międzyzdroje', 'Pobierowo', 'Rewal', 'Rowy', 'Sopot', 'Stegna', 'Trzęsacz', 'Ustka', 'Ustronie', 'Władysławowo', 'Łeba', 'Świnoujście')
     option = st.selectbox('Miasto', miasta)
+    st.write("")
+
+    display_image(option, name_of_csv)
+
+    st.subheader("Stosunek oceny użytkownika do ceny noclegu")
     scatter_morze(option, name_of_csv)
+
+    #st.subheader("Średni koszt noclegu")
+    common_plots(name_of_csv)
 
 def gory_page(name_of_csv):
     st.subheader("Porównanie kosztów i ocen ogłoszeń")
+    st.divider()
     st.write("")
 
-    st.subheader("Średni koszt noclegu")
-    common_plots(name_of_csv)
-    st.subheader("Porównanie kosztów i ocen ogłoszeń")
     miasta1 = ('Białka Tatrzańska', 'Bielsko-Biała', 'Brenna', 'Bukowina Tatrzańska', 'Jelenia Góra', 'Karpacz', 'Krynica-Zdrój', 'Kudowa-Zdrój', 'Nowy Targ', 'Nowy Sącz', 'Solina', 'Szczawnica',
               'Szczyrk', 'Szklarska Poręba', 'Ustroń', 'Wałbrzych', 'Wisła', 'Zakopane', 'Żywiec')
     option = st.selectbox('Miasto', miasta1)
+    st.write("")
+
+    display_image(option, name_of_csv)
+
+    common_plots(name_of_csv)
+
+    st.subheader("Stosunek oceny użytkownika do ceny noclegu")
     scatter_gory(option, name_of_csv)
 
 
 def mazury_page(name_of_csv):
     st.subheader("Porównanie kosztów i ocen ogłoszeń")
+    st.divider()
     st.write("")
 
-    st.subheader("Średni koszt noclegu")
-    common_plots(name_of_csv)
-    st.subheader("Porównanie kosztów i ocen ogłoszeń")
     miasta = ('Ełk', 'Giżycko', 'Iława', 'Mikołajki', 'Mrągowo', 'Olsztyn', 'Ostróda', 'Ruciane-Nida')
     option = st.selectbox('Miasto', miasta)
-    scatter_mazury(option, name_of_csv)
-
-def woj_page(name_of_csv):
-    st.subheader("Noclegi według województw: ")
-    st.write("")
     st.write("")
 
-    st.subheader("Średni koszt noclegu")
+    display_image(option, name_of_csv)
 
     common_plots(name_of_csv)
 
-    st.subheader("Porównanie kosztów i ocen ogłoszeń")
+    st.subheader("Stosunek oceny użytkownika do ceny noclegu")
+    scatter_mazury(option, name_of_csv)
+
+
+def woj_page(name_of_csv):
+    st.subheader("Noclegi według województw")
+    st.divider()
+    st.write("")
+
     wojewodztwa = ('dolnośląskie', 'kujawsko-pomorskie', 'lubelskie', 'lubuskie', 'łódzkie', 'małopolskie', 'mazowieckie', 'opolskie', 'podkarpackie', 'podlaskie', 'pomorskie', 'śląskie', 'świętokrzyskie', 'warmińsko-mazurskie', 'wielkopolskie', 'zachodniopomorskie')
     option1 = st.selectbox('Województwo', wojewodztwa)
+    st.write("")
+
+    display_image(option1, name_of_csv)
+
+    # st.subheader("Średni koszt noclegu")
+
+    common_plots(name_of_csv)
+
+    st.subheader("Stosunek oceny użytkownika do ceny noclegu")
     scatter_woj(option1, name_of_csv)
 
 
 def city_page(name_of_csv):
-    st.subheader("Noclegi według 20 najpopularniejszych miast: ")
+    st.subheader("Noclegi według 20 popularnych miast")
+    st.divider()
     st.write("")
+
+    miasta = ('Bydgoszcz', 'Gdańsk', 'Gliwice', 'Jelenia Góra', 'Kraków', 'Lublin', 'Nowy Targ', 'Olsztyn', 'Opole', 'Przemyśl', 'Sandomierz', 'Sanok', 'Szczecin', 'Toruń', 'Wadowice', 'Warszawa', 'Wrocław', 'Zamość', 'Zielona Góra', 'Łódź' )
+    option1 = st.selectbox('Miasto', miasta)
+    st.write("")
+
+    display_image(option1, name_of_csv)
 
     common_plots(name_of_csv)
 
-    st.subheader("Porównanie cen i ocen ogłoszeń")
-    miasta = ('Bydgoszcz', 'Gdańsk', 'Gliwice', 'Jelenia Góra', 'Kraków', 'Lublin', 'Nowy Targ', 'Olsztyn', 'Opole', 'Przemyśl', 'Sandomierz', 'Sanok', 'Szczecin', 'Toruń', 'Wadowice', 'Warszawa', 'Wrocław', 'Zamość', 'Zielona Góra', 'Łódź' )
-    option1 = st.selectbox('Miasto', miasta)
+    st.subheader("Stosunek oceny użytkownika do ceny noclegu")
     scatter_city(option1, name_of_csv)
 
 
