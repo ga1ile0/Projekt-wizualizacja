@@ -46,11 +46,13 @@ def morze_page(name_of_csv):
 
     display_image(option, name_of_csv)
 
-    st.subheader("Stosunek oceny użytkownika do ceny noclegu")
-    scatter_morze(option, name_of_csv)
+
 
     #st.subheader("Średni koszt noclegu")
     common_plots(name_of_csv)
+
+    st.subheader("Stosunek oceny użytkownika do ceny noclegu")
+    scatter_morze(option, name_of_csv)
 
 def gory_page(name_of_csv):
     st.subheader("Porównanie kosztów i ocen ogłoszeń")
