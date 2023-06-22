@@ -1,32 +1,11 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-import geopandas as gpd
 import streamlit as st
 import numpy as np
+import seaborn as sns
 import plotly.express as px
 from PIL import Image
 
-#
-# def pl_map(csv_name):
-#     woj = gpd.read_file("mapy/wojewodztwa-medium.geojson", index=False)
-#     #woj = woj.set_index('nazwa')
-#     print(woj)
-#
-#     df = pd.read_csv(csv_name)
-#     df.index = ['koszt', 'ocena', 'komfort']
-#     df = pd.DataFrame(df.loc['koszt'])
-#
-#     cost = df.reset_index(drop=True)
-#     print(cost)
-#     names = df.index
-#
-#     print(names)
-#
-#
-#     #my_map = pd.merge(woj, df)
-#     #print(my_map)
-#
-# pl_map("av_woj1.csv")
 
 miasta = {
     "Jelenia Góra": "Jelenia",
@@ -96,8 +75,6 @@ def display_image(city_name, name_of_csv):
         st.image(image, width=600)
     with col3:
         st.write(' ')
-
-    st.divider()
 
 
 def scatter_morze(city_name, name_of_csv):

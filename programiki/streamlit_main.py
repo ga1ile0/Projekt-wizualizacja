@@ -7,31 +7,37 @@ def common_plots(name_of_csv):
     df = pd.read_csv(f'{name_of_csv}')
     df.index = ['koszt', 'ocena', 'komfort']
 
-    woj_df = pd.DataFrame(df.loc['koszt'])
-    col1, col2 = st.columns([2, 1])
+    loc_df = pd.DataFrame(df.loc['koszt'])
 
     st.subheader("Średni koszt noclegu")
+
+    col1, col2 = st.columns([2, 1])
 
     with col1:
         genre1, genre2 = st.tabs(["Wykres Słupkowy", "Wykres Liniowy"])
 
         with genre1:
-            st.line_chart(woj_df)
+            st.line_chart(loc_df)
             st.write("")
         with genre2:
-            st.bar_chart(woj_df)
+            st.bar_chart(loc_df)
             st.write("")
 
     with col2:
-        woj_df = woj_df.round(1).astype(int)
-        st.dataframe(woj_df.style.highlight_min(axis=0, color='green').highlight_max(axis=0, color='red'))
+        loc_df = loc_df.round(1).astype(int)
+        st.dataframe(loc_df.style.highlight_min(axis=0, color='green').highlight_max(axis=0, color='red'))
 
+    # max = loc_df.idxmax()
+    # min = loc_df.idxmin()
+    #
+    # max = max.loc['koszt']
+    # min = min.loc['koszt']
+    st.divider()
     st.write("")
     st.subheader("Średni koszt, ocena oraz komfort noclegu")
     st.write("")
 
     st.dataframe(df, hide_index=False)
-    st.write("")
     st.write("")
 
 
@@ -45,14 +51,14 @@ def morze_page(name_of_csv):
     st.write("")
 
     display_image(option, name_of_csv)
+    st.divider()
 
-
-
-    #st.subheader("Średni koszt noclegu")
     common_plots(name_of_csv)
+    st.divider()
 
     st.subheader("Stosunek oceny użytkownika do ceny noclegu")
     scatter_morze(option, name_of_csv)
+
 
 def gory_page(name_of_csv):
     st.subheader("Porównanie kosztów i ocen ogłoszeń")
@@ -65,8 +71,10 @@ def gory_page(name_of_csv):
     st.write("")
 
     display_image(option, name_of_csv)
+    st.divider()
 
     common_plots(name_of_csv)
+    st.divider()
 
     st.subheader("Stosunek oceny użytkownika do ceny noclegu")
     scatter_gory(option, name_of_csv)
@@ -82,8 +90,10 @@ def mazury_page(name_of_csv):
     st.write("")
 
     display_image(option, name_of_csv)
+    st.divider()
 
     common_plots(name_of_csv)
+    st.divider()
 
     st.subheader("Stosunek oceny użytkownika do ceny noclegu")
     scatter_mazury(option, name_of_csv)
@@ -99,10 +109,10 @@ def woj_page(name_of_csv):
     st.write("")
 
     display_image(option1, name_of_csv)
-
-    # st.subheader("Średni koszt noclegu")
+    st.divider()
 
     common_plots(name_of_csv)
+    st.divider()
 
     st.subheader("Stosunek oceny użytkownika do ceny noclegu")
     scatter_woj(option1, name_of_csv)
@@ -118,8 +128,10 @@ def city_page(name_of_csv):
     st.write("")
 
     display_image(option1, name_of_csv)
+    st.divider()
 
     common_plots(name_of_csv)
+    st.divider()
 
     st.subheader("Stosunek oceny użytkownika do ceny noclegu")
     scatter_city(option1, name_of_csv)
