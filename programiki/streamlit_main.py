@@ -151,7 +151,9 @@ def mazury_page(name_of_csv):
     st.divider()
 
     st.write(''' 
-               
+            Jeśli wolisz aktywniej spędzić czas nad wodą, dobrą alternatywą 
+            do wyjazdu nad morze jest wyjazd na Mazury. Czeka tam na ciebie
+            łowienie ryb, pływanie, pływanie łódką oraz wiele innych atrakcji.
            ''')
 
     st.divider()
@@ -185,7 +187,8 @@ def woj_page(name_of_csv):
     st.divider()
 
     st.write(''' 
-              
+            W którym województwie najtaniej spędzimy wakacje?
+            Poniżej znajduje się porównanie cen w 16 województwach.
            ''')
 
     st.divider()
