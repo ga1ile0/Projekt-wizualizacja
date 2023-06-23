@@ -7,7 +7,7 @@ st.title("Podsumowanie")
 st.divider()
 
 col1, col2, col3 = st.columns([1, 15, 1])
-image = Image.open("../podsum.jpg")#do zmiany zdjęcie
+image = Image.open("../podsum.jpg")
 
 with col1:
     st.write(' ')
