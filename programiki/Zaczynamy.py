@@ -36,7 +36,7 @@ st.write('''
     Nasza strona prezentuje analizę wielu popularnych miejsc w Polsce, 
     w oparciu o oferty z portalu Booking.com.
     
-    Okres trwania noclegu został, przez nas wybrany na **7 nocy**, jako że jest to
+    Okres trwania noclegu został przez nas wybrany na **7 nocy**, jako że jest to
     najczęstszy wybór Polaków - **65%** (rownież POT). Użytkownik będzie mógł sprawdzić
     dane dla różnej ilość osób.
     ''')
