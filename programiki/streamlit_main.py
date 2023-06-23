@@ -11,7 +11,7 @@ def common_plots(name_of_csv):
 
     st.subheader("Średni koszt noclegu")
 
-    col1, col2, col3 = st.columns([5, 0.5, 2])
+    col1, col2 = st.columns([5, 2])
 
     with col1:
         genre1, genre2 = st.tabs(["Wykres Słupkowy", "Wykres Liniowy"])
@@ -23,8 +23,6 @@ def common_plots(name_of_csv):
             st.bar_chart(loc_df)
             st.write("")
     with col2:
-        st.write(' ')
-    with col3:
         loc_df = loc_df.round(1).astype(int)
         st.dataframe(loc_df.style.highlight_min(axis=0, color='green').highlight_max(axis=0, color='red'))
 
@@ -39,6 +37,7 @@ def common_plots(name_of_csv):
     st.write(f'''
         Powyżej znajduje się wykres pokazujący, jak rozkładają się średnie ceny
         w poszczególnych miejscach.
+        
         
         **{max_name}** - miejsce, w którym zapłacimy najwięcej
         
@@ -61,7 +60,8 @@ def common_plots(name_of_csv):
 
 
 def morze_page(name_of_csv):
-    st.subheader("Porównanie kosztów i ocen ogłoszeń")
+
+    st.subheader("Pobyt nad Morzem")
     st.divider()
     st.write("")
 
@@ -72,6 +72,16 @@ def morze_page(name_of_csv):
     display_image(option, name_of_csv)
     st.divider()
 
+    st.write('''
+        Słońce, plaża, gorący piasek, szum fal. Pobyt nad morzem może być doskonałym sposobem
+        na oderwanie się od codzienności. Nie bez przyczyny wybiera go aż **42%** Polaków. 
+
+        Poniżej przedstawiamy listę popularnych nadmorskich miejsc, z której warto
+        skorzystać szukając noclegu nad polskim morzem, mając na uwadze określony budżet.  
+
+    ''')
+
+    st.divider()
     common_plots(name_of_csv)
     st.divider()
 
@@ -79,8 +89,8 @@ def morze_page(name_of_csv):
     st.write("")
     scatter_morze(option, name_of_csv)
     st.write('''
-        Czasem myślimy, że jeśli wydamy na coś, więcej pieniędzy, to na pewno
-        to coś będzie lepsze. Nie zawsze jest to prawdą. Chociaż często.
+        Czasem myślimy, że jeśli wydamy na coś więcej pieniędzy, to na pewno
+        to coś będzie lepsze. Nie zawsze to prawda. Chociaż często.
         
         Powyżej znajduje się porównanie ocen użytkowników, do cen za pobyt 
         w danym obiekcie.
@@ -89,7 +99,8 @@ def morze_page(name_of_csv):
 
 
 def gory_page(name_of_csv):
-    st.subheader("Porównanie kosztów i ocen ogłoszeń")
+
+    st.subheader("Wyjazd w góry")
     st.divider()
     st.write("")
 
@@ -101,6 +112,16 @@ def gory_page(name_of_csv):
     display_image(option, name_of_csv)
     st.divider()
 
+    st.write(''' 
+            Dla osób kochających kontakt z naturą oraz aktywny sposób na odpoczynek,
+            najlepszym sposobem na połączenie tych dwóch rzeczy jest wyjazd w piękne, 
+            polskie góry.
+
+            Poniżej znajduje się analiza kosztów związanych z takim wyjazdem.
+        ''')
+
+    st.divider()
+
     common_plots(name_of_csv)
     st.divider()
 
@@ -108,8 +129,8 @@ def gory_page(name_of_csv):
     st.write("")
     scatter_gory(option, name_of_csv)
     st.write('''
-            Czasem myślimy, że jeśli wydamy na coś, więcej pieniędzy, to na pewno
-            to coś będzie lepsze. Nie zawsze jest to prawdą. Chociaż często.
+            Czasem myślimy, że jeśli wydamy na coś więcej pieniędzy, to na pewno
+            to coś będzie lepsze. Nie zawsze to prawda. Chociaż często.
 
             Powyżej znajduje się porównanie ocen użytkowników, do cen za pobyt 
             w danym obiekcie.
@@ -118,7 +139,7 @@ def gory_page(name_of_csv):
 
 
 def mazury_page(name_of_csv):
-    st.subheader("Porównanie kosztów i ocen ogłoszeń")
+    st.subheader("Wakacje na mazurach")
     st.divider()
     st.write("")
 
@@ -129,6 +150,12 @@ def mazury_page(name_of_csv):
     display_image(option, name_of_csv)
     st.divider()
 
+    st.write(''' 
+               
+           ''')
+
+    st.divider()
+
     common_plots(name_of_csv)
     st.divider()
 
@@ -136,8 +163,8 @@ def mazury_page(name_of_csv):
     st.write("")
     scatter_mazury(option, name_of_csv)
     st.write('''
-            Czasem myślimy, że jeśli wydamy na coś, więcej pieniędzy, to na pewno
-            to coś będzie lepsze. Nie zawsze jest to prawdą. Chociaż często.
+            Czasem myślimy, że jeśli wydamy na coś więcej pieniędzy, to na pewno
+            to coś będzie lepsze. Nie zawsze to prawda. Chociaż często.
 
             Powyżej znajduje się porównanie ocen użytkowników, do cen za pobyt 
             w danym obiekcie.
@@ -157,6 +184,12 @@ def woj_page(name_of_csv):
     display_image(option1, name_of_csv)
     st.divider()
 
+    st.write(''' 
+              
+           ''')
+
+    st.divider()
+
     common_plots(name_of_csv)
     st.divider()
 
@@ -164,8 +197,8 @@ def woj_page(name_of_csv):
     st.write("")
     scatter_woj(option1, name_of_csv)
     st.write('''
-            Czasem myślimy, że jeśli wydamy na coś, więcej pieniędzy, to na pewno
-            to coś będzie lepsze. Nie zawsze jest to prawdą. Chociaż często.
+            Czasem myślimy, że jeśli wydamy na coś więcej pieniędzy, to na pewno
+            to coś będzie lepsze. Nie zawsze to prawda. Chociaż często.
 
             Powyżej znajduje się porównanie ocen użytkowników, do cen za pobyt 
             w danym obiekcie.
@@ -174,7 +207,7 @@ def woj_page(name_of_csv):
 
 
 def city_page(name_of_csv):
-    st.subheader("Noclegi według 20 popularnych miast")
+    st.subheader("Noclegi w ciekawych polskich miastach")
     st.divider()
     st.write("")
 
@@ -185,6 +218,15 @@ def city_page(name_of_csv):
     display_image(option1, name_of_csv)
     st.divider()
 
+    st.write(''' 
+        Dla miłośników zwiedzania zabytków oraz architektury ciekawą opcją
+        może być spędzenie wakacji w jednym z miast, które oferuje takie atrakcje.
+        
+        Poniżej znajdują się odznaczające na tle innych, polskie warte zwiedzenia miasta.
+            ''')
+
+    st.divider()
+
     common_plots(name_of_csv)
     st.divider()
 
@@ -192,11 +234,8 @@ def city_page(name_of_csv):
     st.write("")
     scatter_city(option1, name_of_csv)
     st.write('''
-            Czasem myślimy, że jeśli wydamy na coś, więcej pieniędzy, to na pewno
-            to coś będzie lepsze. Nie zawsze jest to prawdą. Chociaż często.
-
-            Powyżej znajduje się porównanie ocen użytkowników, do cen za pobyt 
-            w danym obiekcie.
+            Nie zawsze więcej znaczy lepiej - Powyżej znajduje się porównanie 
+            ocen użytkowników, do cen za pobyt w danym obiekcie. 
         ''')
     st.divider()
 
