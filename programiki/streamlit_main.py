@@ -11,7 +11,7 @@ def common_plots(name_of_csv):
 
     st.subheader("Średni koszt noclegu")
 
-    col1, col2 = st.columns([2, 1])
+    col1, col2, col3 = st.columns([5, 0.5, 2])
 
     with col1:
         genre1, genre2 = st.tabs(["Wykres Słupkowy", "Wykres Liniowy"])
@@ -22,22 +22,41 @@ def common_plots(name_of_csv):
         with genre2:
             st.bar_chart(loc_df)
             st.write("")
-
     with col2:
+        st.write(' ')
+    with col3:
         loc_df = loc_df.round(1).astype(int)
         st.dataframe(loc_df.style.highlight_min(axis=0, color='green').highlight_max(axis=0, color='red'))
 
-    # max = loc_df.idxmax()
-    # min = loc_df.idxmin()
-    #
-    # max = max.loc['koszt']
-    # min = min.loc['koszt']
+    max = loc_df.idxmax()
+    min = loc_df.idxmin()
+
+    max_name = max.loc['koszt']
+    min_name = min.loc['koszt']
+
+    #print(loc_df.iloc[max]['koszt'])
+
+    st.write(f'''
+        Powyżej znajduje się wykres pokazujący, jak rozkładają się średnie ceny
+        w poszczególnych miejscach.
+        
+        **{max_name}** - miejsce, w którym zapłacimy najwięcej
+        
+        **{min_name}** - miejsce, w którym zapłacimy najmniej
+    ''')
+
     st.divider()
     st.write("")
     st.subheader("Średni koszt, ocena oraz komfort noclegu")
     st.write("")
 
     st.dataframe(df, hide_index=False)
+    st.write("")
+    st.write('''
+        Użytkownicy portalu Booking.com oprócz zwykłej oceny obiektu, mogą również
+        ocenić poziom komfortu w obiekcie. Pomimo tego, że te dane dotyczą w istocie tego samego,
+        to czasami występują dosyć spore rozbieżności.          
+    ''')
     st.write("")
 
 
@@ -56,8 +75,17 @@ def morze_page(name_of_csv):
     common_plots(name_of_csv)
     st.divider()
 
-    st.subheader("Stosunek oceny użytkownika do ceny noclegu")
+    st.subheader("Stosunek oceny użytkowników do ceny noclegu")
+    st.write("")
     scatter_morze(option, name_of_csv)
+    st.write('''
+        Czasem myślimy, że jeśli wydamy na coś, więcej pieniędzy, to na pewno
+        to coś będzie lepsze. Nie zawsze jest to prawdą. Chociaż często.
+        
+        Powyżej znajduje się porównanie ocen użytkowników, do cen za pobyt 
+        w danym obiekcie.
+    ''')
+    st.divider()
 
 
 def gory_page(name_of_csv):
@@ -76,8 +104,17 @@ def gory_page(name_of_csv):
     common_plots(name_of_csv)
     st.divider()
 
-    st.subheader("Stosunek oceny użytkownika do ceny noclegu")
+    st.subheader("Stosunek oceny użytkowników do ceny noclegu")
+    st.write("")
     scatter_gory(option, name_of_csv)
+    st.write('''
+            Czasem myślimy, że jeśli wydamy na coś, więcej pieniędzy, to na pewno
+            to coś będzie lepsze. Nie zawsze jest to prawdą. Chociaż często.
+
+            Powyżej znajduje się porównanie ocen użytkowników, do cen za pobyt 
+            w danym obiekcie.
+        ''')
+    st.divider()
 
 
 def mazury_page(name_of_csv):
@@ -95,8 +132,17 @@ def mazury_page(name_of_csv):
     common_plots(name_of_csv)
     st.divider()
 
-    st.subheader("Stosunek oceny użytkownika do ceny noclegu")
+    st.subheader("Stosunek oceny użytkowników do ceny noclegu")
+    st.write("")
     scatter_mazury(option, name_of_csv)
+    st.write('''
+            Czasem myślimy, że jeśli wydamy na coś, więcej pieniędzy, to na pewno
+            to coś będzie lepsze. Nie zawsze jest to prawdą. Chociaż często.
+
+            Powyżej znajduje się porównanie ocen użytkowników, do cen za pobyt 
+            w danym obiekcie.
+        ''')
+    st.divider()
 
 
 def woj_page(name_of_csv):
@@ -114,8 +160,17 @@ def woj_page(name_of_csv):
     common_plots(name_of_csv)
     st.divider()
 
-    st.subheader("Stosunek oceny użytkownika do ceny noclegu")
+    st.subheader("Stosunek oceny użytkowników do ceny noclegu")
+    st.write("")
     scatter_woj(option1, name_of_csv)
+    st.write('''
+            Czasem myślimy, że jeśli wydamy na coś, więcej pieniędzy, to na pewno
+            to coś będzie lepsze. Nie zawsze jest to prawdą. Chociaż często.
+
+            Powyżej znajduje się porównanie ocen użytkowników, do cen za pobyt 
+            w danym obiekcie.
+        ''')
+    st.divider()
 
 
 def city_page(name_of_csv):
@@ -133,8 +188,17 @@ def city_page(name_of_csv):
     common_plots(name_of_csv)
     st.divider()
 
-    st.subheader("Stosunek oceny użytkownika do ceny noclegu")
+    st.subheader("Stosunek oceny użytkowników do ceny noclegu")
+    st.write("")
     scatter_city(option1, name_of_csv)
+    st.write('''
+            Czasem myślimy, że jeśli wydamy na coś, więcej pieniędzy, to na pewno
+            to coś będzie lepsze. Nie zawsze jest to prawdą. Chociaż często.
+
+            Powyżej znajduje się porównanie ocen użytkowników, do cen za pobyt 
+            w danym obiekcie.
+        ''')
+    st.divider()
 
 
 def ch_option(csv_names, display_function):
