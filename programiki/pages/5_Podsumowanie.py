@@ -1,5 +1,6 @@
 import streamlit as st
 from PIL import Image
+from graph_functions import piechart_average
 
 st.title("Podsumowanie")
 st.divider()
@@ -13,5 +14,7 @@ with col2:
     st.image(image, width=600)
 with col3:
     st.write(' ')
+
+piechart_average()
 
 st.divider()

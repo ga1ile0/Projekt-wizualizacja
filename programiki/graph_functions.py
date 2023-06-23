@@ -226,4 +226,31 @@ def piechart_zaczynamy():
 
     st.markdown("Żródło: pot.gov.pl")
 
+def piechart_average():
+    data = {
+        'destination': ['Morze', 'Góry', 'Mazury'],
+        'volume': [4892, 3858, 3943]
+    }
+
+    data = {
+        'destination': ['Morze', 'Góry', 'Mazury'],
+        'volume': [4892, 3858, 3943]
+    }
+
+    df = pd.DataFrame(data)
+
+    # Hide the table by creating an empty placeholder
+    table_placeholder = st.empty()
+
+    labels = [f"{d} <br>{v} zł" for d, v in
+              zip(df['destination'], df['volume'])]  # Combine destination and volume values for labels
+
+    fig = px.pie(df, names='destination', values='volume', title='Średni koszt wynajmu')
+    fig.update_traces(textposition='inside', text=labels, textinfo='text')
+
+    # Replace the placeholder with the pie chart
+    table_placeholder.plotly_chart(fig, use_container_width=True)
+
+
+
 
